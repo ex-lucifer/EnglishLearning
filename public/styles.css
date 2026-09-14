@@ -1,0 +1,35 @@
+:root {
+  color: #1a1a1a;
+  background: #f6f4ef;
+  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+body { margin: 0; }
+.top, main { max-width: 720px; margin: 0 auto; padding: 16px; }
+.brand { margin: 0; font-size: 14px; letter-spacing: 0.04em; }
+.clock { margin: 4px 0 0; color: #555; }
+h1 { font-size: 22px; margin: 16px 0 8px; }
+.note { color: #555; margin: 0 0 16px; }
+.card {
+  border: 1px solid #cfc8ba;
+  background: #fff;
+  padding: 14px 16px;
+  margin: 0 0 10px;
+  cursor: default;
+}
+.card.recite { cursor: pointer; }
+.word { font-size: 20px; font-weight: 650; }
+.phonetic { color: #666; margin-left: 8px; }
+.example { margin: 8px 0 0; }
+.zh { margin-top: 6px; }
+.card.recite:not(.open) .zh { display: none; }
+.card.recite.open .closed-only { display: none; }
+.hint { color: #888; font-size: 13px; }
+button {
+  border: 1px solid #444;
+  background: #fff;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.history-block { margin-top: 24px; }
+.history-list { list-style: none; padding: 0; }
+.history-list button { margin: 6px 6px 0 0; }

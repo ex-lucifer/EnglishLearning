@@ -1,5 +1,23 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-<head><meta charset="utf-8"><title>每日英语</title></head>
-<body>ok</body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>信息中心 · 每日英语</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="top">
+    <p class="brand">信息中心 · 每日英语</p>
+    <p id="clock" class="clock"></p>
+  </header>
+  <main>
+    <section id="today"></section>
+    <section class="history-block">
+      <button type="button" id="history-toggle">查看历史</button>
+      <div id="history" hidden></div>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
 </html>
