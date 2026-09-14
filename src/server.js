@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createWordStore } from './lib/wordStore.js';
-import { buildToday } from './lib/today.js';
+import { buildLearn, buildRecite, buildToday } from './lib/today.js';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const MIME = {
@@ -25,6 +25,14 @@ export function createServer(options) {
 
     if (req.method === 'GET' && url.pathname === '/api/today') {
       return json(res, 200, buildToday(now(), store));
+    }
+
+    if (req.method === 'GET' && url.pathname === '/api/learn') {
+      return json(res, 200, buildLearn(now(), store));
+    }
+
+    if (req.method === 'GET' && url.pathname === '/api/recite') {
+      return json(res, 200, buildRecite(now(), store));
     }
 
     if (req.method === 'GET' && url.pathname === '/api/history') {

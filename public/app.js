@@ -18,14 +18,15 @@ function escapeHtml(text) {
     .replaceAll('"', '&quot;');
 }
 
-function renderToday(payload, clockText) {
-  document.getElementById('clock').textContent = clockText;
+function renderPane(payload, recite) {
   const root = document.getElementById('today');
-  const recite = payload.mode === 'recite';
   const cards = payload.words.map((w) => wordCard(w, recite)).join('');
+  const fallback = recite
+    ? '来自上一学习日 · 现场口头，系统不记分'
+    : '';
   root.innerHTML = `
     <h1>${escapeHtml(payload.heading)}</h1>
-    <p class="note">${escapeHtml(payload.message || (recite ? '来自上一学习日 · 现场口头，系统不记分' : ''))}</p>
+    <p class="note">${escapeHtml(payload.message || fallback)}</p>
     ${cards}
   `;
   root.querySelectorAll('.card.recite').forEach((card) => {
@@ -33,17 +34,41 @@ function renderToday(payload, clockText) {
   });
 }
 
+function setActiveNav(pane) {
+  document.getElementById('nav-recite').classList.toggle('active', pane === 'recite');
+  document.getElementById('nav-learn').classList.toggle('active', pane === 'learn');
+}
+
+function paneFromHash(defaultPane) {
+  const hash = window.location.hash.replace('#', '');
+  if (hash === 'recite' || hash === 'learn') return hash;
+  return defaultPane;
+}
+
+let snapshot = null;
+
+function showPane(pane) {
+  if (!snapshot) return;
+  setActiveNav(pane);
+  if (pane === 'recite') renderPane(snapshot.recite, true);
+  else renderPane(snapshot.learn, false);
+}
+
 async function loadToday() {
-  const payload = await fetch('/api/today').then((r) => r.json());
-  const now = new Date();
+  snapshot = await fetch('/api/today').then((r) => r.json());
   const stamp = new Intl.DateTimeFormat('zh-CN', {
     timeZone: 'Asia/Shanghai',
     year: 'numeric',
     month: '2-digit',
     day: '2-digit',
     weekday: 'short'
-  }).format(now);
-  renderToday(payload, stamp);
+  }).format(new Date());
+  document.getElementById('clock').textContent = stamp;
+  const pane = paneFromHash(snapshot.defaultPane);
+  if (!window.location.hash) {
+    history.replaceState(null, '', `#${pane}`);
+  }
+  showPane(pane);
 }
 
 async function loadHistory() {
@@ -68,6 +93,11 @@ document.getElementById('history-toggle').addEventListener('click', async () => 
     await loadHistory();
     box.dataset.loaded = '1';
   }
+});
+
+window.addEventListener('hashchange', () => {
+  if (!snapshot) return;
+  showPane(paneFromHash(snapshot.defaultPane));
 });
 
 loadToday();
