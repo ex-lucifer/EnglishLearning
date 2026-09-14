@@ -160,24 +160,31 @@ function loadCategory(prefix, category) {
 const office = loadCategory('office-', 'office');
 const it = loadCategory('it-', 'it');
 console.log(`loaded office=${office.length} it=${it.length}`);
+// Chunks are the source of truth and must parse to exactly 1040+1040
+// (the same first 1040 of each category already shipped in data/words).
 
-if (office.length < 1040) throw new Error(`need 1040 office words, got ${office.length}`);
-if (it.length < 1040) throw new Error(`need 1040 it words, got ${it.length}`);
+if (office.length !== 1040 || it.length !== 1040) {
+  console.error(
+    `assemble needs exactly 1040 office and 1040 it entries after parsing, got office=${office.length} it=${it.length}`
+  );
+  process.exit(1);
+}
 
-const officeUse = office.slice(0, 1040);
-const itUse = it.slice(0, 1040);
 const seen = new Set();
 const dups = [];
-for (const w of [...officeUse, ...itUse]) {
+for (const w of [...office, ...it]) {
   const key = w.word.trim().toLowerCase();
   if (seen.has(key)) dups.push(w.word);
   seen.add(key);
 }
-if (dups.length) throw new Error(`duplicates: ${dups.join(', ')}`);
+if (dups.length) {
+  console.error(`duplicates: ${dups.join(', ')}`);
+  process.exit(1);
+}
 
 const bank = [];
 for (let i = 0; i < 1040; i += 5) {
-  bank.push(...officeUse.slice(i, i + 5), ...itUse.slice(i, i + 5));
+  bank.push(...office.slice(i, i + 5), ...it.slice(i, i + 5));
 }
 
 fs.writeFileSync(path.join(root, 'word-bank-data.json'), `${JSON.stringify(bank)}\n`);
