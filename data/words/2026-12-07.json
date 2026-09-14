@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-07",
+  "words": [
+    {
+      "word": "core hours",
+      "phonetic": "/kɔː kˈaʊəz/",
+      "meaning": "核心工时",
+      "example": "Please review the core hours.",
+      "exampleZh": "请审阅一下这个核心工时。",
+      "category": "office"
+    },
+    {
+      "word": "clock in",
+      "phonetic": "/klɒk ɪn/",
+      "meaning": "上班打卡",
+      "example": "Please clock in at the side door.",
+      "exampleZh": "请在侧门打卡上班。",
+      "category": "office"
+    },
+    {
+      "word": "clock out",
+      "phonetic": "/klɒk aʊt/",
+      "meaning": "下班打卡",
+      "example": "Don't forget to clock out.",
+      "exampleZh": "下班别忘了打卡。",
+      "category": "office"
+    },
+    {
+      "word": "overtime pay",
+      "phonetic": "/ˈəʊvətaɪm peɪ/",
+      "meaning": "加班费",
+      "example": "The overtime pay is ready for review.",
+      "exampleZh": "这个加班费已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "meal break",
+      "phonetic": "/miːl breɪk/",
+      "meaning": "用餐休息",
+      "example": "Please review the meal break.",
+      "exampleZh": "请审阅一下这个用餐休息。",
+      "category": "office"
+    },
+    {
+      "word": "REST API",
+      "phonetic": "/rest ˌeɪ piː ˈaɪ/",
+      "meaning": "REST接口",
+      "example": "Who supports this REST API?",
+      "exampleZh": "谁支持这个REST接口？",
+      "category": "it"
+    },
+    {
+      "word": "webhook",
+      "phonetic": "/ˈwebhʊk/",
+      "meaning": "回调接口",
+      "example": "We need the webhook before go-live.",
+      "exampleZh": "上线前我们需要这个回调接口。",
+      "category": "it"
+    },
+    {
+      "word": "endpoint",
+      "phonetic": "/ˈendpɔɪnt/",
+      "meaning": "接口地址",
+      "example": "Please check the endpoint.",
+      "exampleZh": "请检查一下这个接口地址。",
+      "category": "it"
+    },
+    {
+      "word": "HTTP status",
+      "phonetic": "/ˌeɪtʃ tiː tiː ˈpiː ˈsteɪtəs/",
+      "meaning": "网页状态码",
+      "example": "Who supports this HTTP status?",
+      "exampleZh": "谁支持这个网页状态码？",
+      "category": "it"
+    },
+    {
+      "word": "timeout error",
+      "phonetic": "/ˈtaɪmaʊt ˈerə/",
+      "meaning": "超时错误",
+      "example": "The timeout error is in production.",
+      "exampleZh": "这个超时错误已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

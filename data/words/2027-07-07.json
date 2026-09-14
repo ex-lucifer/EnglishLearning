@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-07",
+  "words": [
+    {
+      "word": "fit note",
+      "phonetic": "/fɪt nəʊt/",
+      "meaning": "康复证明",
+      "example": "Who is handling the fit note?",
+      "exampleZh": "谁在处理这个康复证明？",
+      "category": "office"
+    },
+    {
+      "word": "sick note",
+      "phonetic": "/sɪk nəʊt/",
+      "meaning": "病假条",
+      "example": "I updated the sick note this morning.",
+      "exampleZh": "我今天早上更新了这个病假条。",
+      "category": "office"
+    },
+    {
+      "word": "occupational health",
+      "phonetic": "/ˌɒkjuˈpeɪʃənl helθ/",
+      "meaning": "职业健康",
+      "example": "Please review the occupational health.",
+      "exampleZh": "请审阅一下这个职业健康。",
+      "category": "office"
+    },
+    {
+      "word": "pre-employment check",
+      "phonetic": "/pri ɪmˈplɔɪmənt tʃek/",
+      "meaning": "入职体检",
+      "example": "Please share the pre-employment check after the meeting.",
+      "exampleZh": "会后请分享这个入职体检。",
+      "category": "office"
+    },
+    {
+      "word": "background check",
+      "phonetic": "/ˈbækɡraʊnd tʃek/",
+      "meaning": "背景审查",
+      "example": "Please review the background check.",
+      "exampleZh": "请审阅一下这个背景审查。",
+      "category": "office"
+    },
+    {
+      "word": "CMK",
+      "phonetic": "/ˌsiː em ˈkeɪ/",
+      "meaning": "客户主密钥",
+      "example": "The CMK is slow this morning.",
+      "exampleZh": "今天早上 CMK 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "envelope encryption",
+      "phonetic": "/ˈenvələʊp ɪnˈkrɪpʃn/",
+      "meaning": "信封加密",
+      "example": "We need the envelope encryption before go-live.",
+      "exampleZh": "上线前我们需要这个信封加密。",
+      "category": "it"
+    },
+    {
+      "word": "data key",
+      "phonetic": "/ˈdeɪtə kiː/",
+      "meaning": "数据密钥",
+      "example": "Please check the data key.",
+      "exampleZh": "请检查一下这个数据密钥。",
+      "category": "it"
+    },
+    {
+      "word": "key alias",
+      "phonetic": "/kiː ˈeɪliəs/",
+      "meaning": "密钥别名",
+      "example": "Who supports this key alias?",
+      "exampleZh": "谁支持这个密钥别名？",
+      "category": "it"
+    },
+    {
+      "word": "key policy",
+      "phonetic": "/kiː ˈpɒləsi/",
+      "meaning": "密钥策略",
+      "example": "We need the key policy before go-live.",
+      "exampleZh": "上线前我们需要这个密钥策略。",
+      "category": "it"
+    }
+  ]
+}

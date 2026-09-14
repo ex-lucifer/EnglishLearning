@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-22",
+  "words": [
+    {
+      "word": "time sheet",
+      "phonetic": "/taɪm ʃiːt/",
+      "meaning": "工时表",
+      "example": "Please review the time sheet.",
+      "exampleZh": "请审阅一下这个工时表。",
+      "category": "office"
+    },
+    {
+      "word": "hours worked",
+      "phonetic": "/ˈaʊəz wɜːkt/",
+      "meaning": "实际工时",
+      "example": "The hours worked is ready for review.",
+      "exampleZh": "这个实际工时已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "core team",
+      "phonetic": "/kɔː tiːm/",
+      "meaning": "核心团队",
+      "example": "I updated the core team this morning.",
+      "exampleZh": "我今天早上更新了这个核心团队。",
+      "category": "office"
+    },
+    {
+      "word": "extended team",
+      "phonetic": "/ɪkˈstendɪd tiːm/",
+      "meaning": "扩展团队",
+      "example": "I updated the extended team this morning.",
+      "exampleZh": "我今天早上更新了这个扩展团队。",
+      "category": "office"
+    },
+    {
+      "word": "project team",
+      "phonetic": "/ˈprɒdʒekt tiːm/",
+      "meaning": "项目组",
+      "example": "I updated the project team this morning.",
+      "exampleZh": "我今天早上更新了这个项目组。",
+      "category": "office"
+    },
+    {
+      "word": "stripe",
+      "phonetic": "/straɪp/",
+      "meaning": "条带",
+      "example": "Who supports this stripe?",
+      "exampleZh": "谁支持这个条带？",
+      "category": "it"
+    },
+    {
+      "word": "mirror",
+      "phonetic": "/ˈmɪrə/",
+      "meaning": "镜像盘",
+      "example": "The mirror is in production.",
+      "exampleZh": "这个镜像盘已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "parity",
+      "phonetic": "/ˈpærəti/",
+      "meaning": "校验",
+      "example": "Please check the parity.",
+      "exampleZh": "请检查一下这个校验。",
+      "category": "it"
+    },
+    {
+      "word": "RAID 1",
+      "phonetic": "/reɪd wʌn/",
+      "meaning": "镜像阵列",
+      "example": "Please review the RAID 1 after the patch.",
+      "exampleZh": "打补丁后请审阅这个镜像阵列。",
+      "category": "it"
+    },
+    {
+      "word": "RAID 5",
+      "phonetic": "/reɪd faɪv/",
+      "meaning": "校验阵列",
+      "example": "Who supports this RAID 5?",
+      "exampleZh": "谁支持这个校验阵列？",
+      "category": "it"
+    }
+  ]
+}

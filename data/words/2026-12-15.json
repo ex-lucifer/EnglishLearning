@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-15",
+  "words": [
+    {
+      "word": "huddle room",
+      "phonetic": "/ˈhʌdl ruːm/",
+      "meaning": "小讨论室",
+      "example": "Who is handling the huddle room?",
+      "exampleZh": "谁在处理这个小讨论室？",
+      "category": "office"
+    },
+    {
+      "word": "training room",
+      "phonetic": "/ˈtreɪnɪŋ ruːm/",
+      "meaning": "培训室",
+      "example": "The training room is ready for review.",
+      "exampleZh": "这个培训室已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "front desk",
+      "phonetic": "/frʌnt desk/",
+      "meaning": "前台",
+      "example": "Please share the front desk after the meeting.",
+      "exampleZh": "会后请分享这个前台。",
+      "category": "office"
+    },
+    {
+      "word": "mailroom",
+      "phonetic": "/ˈmeɪlruːm/",
+      "meaning": "收发室",
+      "example": "I updated the mailroom this morning.",
+      "exampleZh": "我今天早上更新了这个收发室。",
+      "category": "office"
+    },
+    {
+      "word": "stationery",
+      "phonetic": "/ˈsteɪʃənri/",
+      "meaning": "文具",
+      "example": "I updated the stationery this morning.",
+      "exampleZh": "我今天早上更新了这个文具。",
+      "category": "office"
+    },
+    {
+      "word": "P2 incident",
+      "phonetic": "/piː tuː ˈɪnsɪdənt/",
+      "meaning": "二级故障",
+      "example": "Please review the P2 incident after the patch.",
+      "exampleZh": "打补丁后请审阅这个二级故障。",
+      "category": "it"
+    },
+    {
+      "word": "P3 incident",
+      "phonetic": "/piː θriː ˈɪnsɪdənt/",
+      "meaning": "三级故障",
+      "example": "Please review the P3 incident after the patch.",
+      "exampleZh": "打补丁后请审阅这个三级故障。",
+      "category": "it"
+    },
+    {
+      "word": "major incident",
+      "phonetic": "/ˈmeɪdʒə ˈɪnsɪdənt/",
+      "meaning": "重大故障",
+      "example": "The major incident is in production.",
+      "exampleZh": "这个重大故障已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "service degradation",
+      "phonetic": "/ˈsɜːvɪs ˌdeɡrəˈdeɪʃn/",
+      "meaning": "服务降级",
+      "example": "Please check the service degradation.",
+      "exampleZh": "请检查一下这个服务降级。",
+      "category": "it"
+    },
+    {
+      "word": "workaround",
+      "phonetic": "/ˈwɜːkəraʊnd/",
+      "meaning": "临时规避",
+      "example": "The workaround is in production.",
+      "exampleZh": "这个临时规避已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

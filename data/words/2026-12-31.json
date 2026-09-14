@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-31",
+  "words": [
+    {
+      "word": "elective",
+      "phonetic": "/ɪˈlektɪv/",
+      "meaning": "择期的",
+      "example": "Please keep this elective.",
+      "exampleZh": "请保持择期的。",
+      "category": "office"
+    },
+    {
+      "word": "consent form",
+      "phonetic": "/kənˈsent fɔːm/",
+      "meaning": "知情同意书",
+      "example": "Please share the consent form after the meeting.",
+      "exampleZh": "会后请分享这个知情同意书。",
+      "category": "office"
+    },
+    {
+      "word": "insurance",
+      "phonetic": "/ɪnˈʃʊərəns/",
+      "meaning": "医保保险",
+      "example": "Who is handling the insurance?",
+      "exampleZh": "谁在处理这个医保保险？",
+      "category": "office"
+    },
+    {
+      "word": "copay",
+      "phonetic": "/ˈkəʊpeɪ/",
+      "meaning": "自付费用",
+      "example": "Please review the copay.",
+      "exampleZh": "请审阅一下这个自付费用。",
+      "category": "office"
+    },
+    {
+      "word": "billing",
+      "phonetic": "/ˈbɪlɪŋ/",
+      "meaning": "计费收费",
+      "example": "The billing is ready for review.",
+      "exampleZh": "这个计费收费已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "snapshot replica",
+      "phonetic": "/ˈsnæpʃɒt ˈreplɪkə/",
+      "meaning": "快照副本",
+      "example": "Please review the snapshot replica after the patch.",
+      "exampleZh": "打补丁后请审阅这个快照副本。",
+      "category": "it"
+    },
+    {
+      "word": "replication",
+      "phonetic": "/ˌreplɪˈkeɪʃn/",
+      "meaning": "数据复制",
+      "example": "Please check the replication.",
+      "exampleZh": "请检查一下这个数据复制。",
+      "category": "it"
+    },
+    {
+      "word": "sync job",
+      "phonetic": "/sɪŋk dʒɒb/",
+      "meaning": "同步任务",
+      "example": "Please check the sync job.",
+      "exampleZh": "请检查一下这个同步任务。",
+      "category": "it"
+    },
+    {
+      "word": "bandwidth usage",
+      "phonetic": "/ˈbændwɪdθ ˈjuːsɪdʒ/",
+      "meaning": "带宽占用",
+      "example": "Please check the bandwidth usage.",
+      "exampleZh": "请检查一下这个带宽占用。",
+      "category": "it"
+    },
+    {
+      "word": "packet loss",
+      "phonetic": "/ˈpækɪt lɒs/",
+      "meaning": "丢包",
+      "example": "We need the packet loss before go-live.",
+      "exampleZh": "上线前我们需要这个丢包。",
+      "category": "it"
+    }
+  ]
+}

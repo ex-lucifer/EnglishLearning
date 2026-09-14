@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-18",
+  "words": [
+    {
+      "word": "close out",
+      "phonetic": "/kləʊz aʊt/",
+      "meaning": "收口结项",
+      "example": "Please close out this request today.",
+      "exampleZh": "请今天把这个请求收口。",
+      "category": "office"
+    },
+    {
+      "word": "walk through",
+      "phonetic": "/wɔːk θruː/",
+      "meaning": "逐步讲解",
+      "example": "Can you walk through the new form?",
+      "exampleZh": "你能把新表格逐步讲一遍吗？",
+      "category": "office"
+    },
+    {
+      "word": "touch base",
+      "phonetic": "/tʌtʃ beɪs/",
+      "meaning": "快速对接",
+      "example": "Let's touch base after lunch.",
+      "exampleZh": "午饭后我们快速对接一下。",
+      "category": "office"
+    },
+    {
+      "word": "circle back",
+      "phonetic": "/ˈsɜːkl bæk/",
+      "meaning": "回头再谈",
+      "example": "I will circle back this afternoon.",
+      "exampleZh": "我今天下午再回头找你。",
+      "category": "office"
+    },
+    {
+      "word": "pencil in",
+      "phonetic": "/ˈpensl ɪn/",
+      "meaning": "暂定写入",
+      "example": "Please pencil in Friday at ten.",
+      "exampleZh": "请先暂定周五十点。",
+      "category": "office"
+    },
+    {
+      "word": "virtual machine",
+      "phonetic": "/ˈvɜːtʃuəl məˈʃiːn/",
+      "meaning": "虚拟机",
+      "example": "Please review the virtual machine after the patch.",
+      "exampleZh": "打补丁后请审阅这个虚拟机。",
+      "category": "it"
+    },
+    {
+      "word": "hypervisor",
+      "phonetic": "/ˈhaɪpəvaɪzə/",
+      "meaning": "虚拟化平台",
+      "example": "Please review the hypervisor after the patch.",
+      "exampleZh": "打补丁后请审阅这个虚拟化平台。",
+      "category": "it"
+    },
+    {
+      "word": "container image",
+      "phonetic": "/kənˈteɪnə ˈɪmɪdʒ/",
+      "meaning": "容器镜像",
+      "example": "Who supports this container image?",
+      "exampleZh": "谁支持这个容器镜像？",
+      "category": "it"
+    },
+    {
+      "word": "Kubernetes",
+      "phonetic": "/ˌkuːbəˈnetiːz/",
+      "meaning": "容器编排",
+      "example": "Please review the Kubernetes after the patch.",
+      "exampleZh": "打补丁后请审阅这个容器编排。",
+      "category": "it"
+    },
+    {
+      "word": "Docker host",
+      "phonetic": "/ˈdɒkə həʊst/",
+      "meaning": "容器宿主机",
+      "example": "Please check the Docker host.",
+      "exampleZh": "请检查一下这个容器宿主机。",
+      "category": "it"
+    }
+  ]
+}

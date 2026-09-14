@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-22",
+  "words": [
+    {
+      "word": "webinar",
+      "phonetic": "/ˈwebɪnɑː/",
+      "meaning": "网络研讨会",
+      "example": "Please share the webinar after the meeting.",
+      "exampleZh": "会后请分享这个网络研讨会。",
+      "category": "office"
+    },
+    {
+      "word": "conference call",
+      "phonetic": "/ˈkɒnfərəns kɔːl/",
+      "meaning": "电话会议",
+      "example": "Who is handling the conference call?",
+      "exampleZh": "谁在处理这个电话会议？",
+      "category": "office"
+    },
+    {
+      "word": "dial-in",
+      "phonetic": "/ˈdaɪəl ɪn/",
+      "meaning": "拨入号",
+      "example": "Please share the dial-in after the meeting.",
+      "exampleZh": "会后请分享这个拨入号。",
+      "category": "office"
+    },
+    {
+      "word": "mute",
+      "phonetic": "/mjuːt/",
+      "meaning": "静音",
+      "example": "I will mute it after the meeting.",
+      "exampleZh": "会后我会静音它。",
+      "category": "office"
+    },
+    {
+      "word": "unmute",
+      "phonetic": "/ʌnˈmjuːt/",
+      "meaning": "取消静音",
+      "example": "Please unmute this before noon.",
+      "exampleZh": "请在中午前取消静音这个。",
+      "category": "office"
+    },
+    {
+      "word": "ICD-10",
+      "phonetic": "/ˌaɪ siː diː ˈten/",
+      "meaning": "疾病分类编码",
+      "example": "The ICD-10 is slow this morning.",
+      "exampleZh": "今天早上 ICD-10 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SNOMED",
+      "phonetic": "/ˈsnəʊmed/",
+      "meaning": "临床术语标准",
+      "example": "The SNOMED is slow this morning.",
+      "exampleZh": "今天早上 SNOMED 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "LOINC",
+      "phonetic": "/lɔɪŋk/",
+      "meaning": "检验指标编码",
+      "example": "The LOINC is slow this morning.",
+      "exampleZh": "今天早上 LOINC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "CPT",
+      "phonetic": "/ˌsiː piː ˈtiː/",
+      "meaning": "操作编码",
+      "example": "The CPT is slow this morning.",
+      "exampleZh": "今天早上 CPT 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "DRG",
+      "phonetic": "/ˌdiː ɑː ˈdʒiː/",
+      "meaning": "疾病相关分组",
+      "example": "The DRG is slow this morning.",
+      "exampleZh": "今天早上 DRG 很慢。",
+      "category": "it"
+    }
+  ]
+}

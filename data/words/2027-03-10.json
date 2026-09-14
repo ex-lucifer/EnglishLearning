@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-10",
+  "words": [
+    {
+      "word": "initiate",
+      "phonetic": "/ɪˈnɪʃieɪt/",
+      "meaning": "启动",
+      "example": "Let's initiate this first.",
+      "exampleZh": "我们先启动这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "launch",
+      "phonetic": "/lɔːntʃ/",
+      "meaning": "推出",
+      "example": "Please launch this before noon.",
+      "exampleZh": "请在中午前推出这个。",
+      "category": "office"
+    },
+    {
+      "word": "pause",
+      "phonetic": "/pɔːz/",
+      "meaning": "暂停",
+      "example": "We need to pause this by Friday.",
+      "exampleZh": "我们周五前需要暂停这个。",
+      "category": "office"
+    },
+    {
+      "word": "resume",
+      "phonetic": "/rɪˈzjuːm/",
+      "meaning": "恢复进行",
+      "example": "We need to resume this by Friday.",
+      "exampleZh": "我们周五前需要恢复进行这个。",
+      "category": "office"
+    },
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "meaning": "中止",
+      "example": "Can you suspend it today?",
+      "exampleZh": "你今天能中止一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "speed mismatch",
+      "phonetic": "/spiːd ˈmɪsmætʃ/",
+      "meaning": "速率不匹配",
+      "example": "The speed mismatch is in production.",
+      "exampleZh": "这个速率不匹配已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "CRC error",
+      "phonetic": "/ˌsiː ɑː ˈsiː ˈerə/",
+      "meaning": "校验错误",
+      "example": "Who supports this CRC error?",
+      "exampleZh": "谁支持这个校验错误？",
+      "category": "it"
+    },
+    {
+      "word": "broadcast storm",
+      "phonetic": "/ˈbrɔːdkɑːst stɔːm/",
+      "meaning": "广播风暴",
+      "example": "We need the broadcast storm before go-live.",
+      "exampleZh": "上线前我们需要这个广播风暴。",
+      "category": "it"
+    },
+    {
+      "word": "loop",
+      "phonetic": "/luːp/",
+      "meaning": "环路",
+      "example": "The loop is in production.",
+      "exampleZh": "这个环路已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "spanning tree",
+      "phonetic": "/ˈspænɪŋ triː/",
+      "meaning": "生成树",
+      "example": "Who supports this spanning tree?",
+      "exampleZh": "谁支持这个生成树？",
+      "category": "it"
+    }
+  ]
+}

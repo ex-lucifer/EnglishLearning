@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-31",
+  "words": [
+    {
+      "word": "carried",
+      "phonetic": "/ˈkærid/",
+      "meaning": "通过的",
+      "example": "The timeline looks carried.",
+      "exampleZh": "时间看起来通过的。",
+      "category": "office"
+    },
+    {
+      "word": "defeated",
+      "phonetic": "/dɪˈfiːtɪd/",
+      "meaning": "未通过的",
+      "example": "The timeline looks defeated.",
+      "exampleZh": "时间看起来未通过的。",
+      "category": "office"
+    },
+    {
+      "word": "unanimous",
+      "phonetic": "/juˈnænɪməs/",
+      "meaning": "一致通过的",
+      "example": "Stay unanimous in the meeting.",
+      "exampleZh": "会上请保持一致通过的。",
+      "category": "office"
+    },
+    {
+      "word": "majority",
+      "phonetic": "/məˈdʒɒrəti/",
+      "meaning": "多数",
+      "example": "Please review the majority.",
+      "exampleZh": "请审阅一下这个多数。",
+      "category": "office"
+    },
+    {
+      "word": "minority view",
+      "phonetic": "/maɪˈnɒrəti vjuː/",
+      "meaning": "少数意见",
+      "example": "Who is handling the minority view?",
+      "exampleZh": "谁在处理这个少数意见？",
+      "category": "office"
+    },
+    {
+      "word": "shadow IT",
+      "phonetic": "/ˈʃædəʊ aɪ ˈtiː/",
+      "meaning": "影子信息化",
+      "example": "The shadow IT is in production.",
+      "exampleZh": "这个影子信息化已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "unsanctioned app",
+      "phonetic": "/ʌnˈsæŋkʃənd æp/",
+      "meaning": "未批准软件",
+      "example": "Please check the unsanctioned app.",
+      "exampleZh": "请检查一下这个未批准软件。",
+      "category": "it"
+    },
+    {
+      "word": "software whitelist",
+      "phonetic": "/ˈsɒftweə ˈwaɪtlɪst/",
+      "meaning": "软件白名单",
+      "example": "Please review the software whitelist after the patch.",
+      "exampleZh": "打补丁后请审阅这个软件白名单。",
+      "category": "it"
+    },
+    {
+      "word": "software inventory",
+      "phonetic": "/ˈsɒftweə ˈɪnvəntri/",
+      "meaning": "软件清单",
+      "example": "Please check the software inventory.",
+      "exampleZh": "请检查一下这个软件清单。",
+      "category": "it"
+    },
+    {
+      "word": "license count",
+      "phonetic": "/ˈlaɪsns kaʊnt/",
+      "meaning": "授权数量",
+      "example": "Who supports this license count?",
+      "exampleZh": "谁支持这个授权数量？",
+      "category": "it"
+    }
+  ]
+}

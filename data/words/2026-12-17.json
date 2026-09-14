@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-17",
+  "words": [
+    {
+      "word": "filing",
+      "phonetic": "/ˈfaɪlɪŋ/",
+      "meaning": "归档装订",
+      "example": "Who is handling the filing?",
+      "exampleZh": "谁在处理这个归档装订？",
+      "category": "office"
+    },
+    {
+      "word": "folder",
+      "phonetic": "/ˈfəʊldə/",
+      "meaning": "文件夹目录",
+      "example": "I updated the folder this morning.",
+      "exampleZh": "我今天早上更新了这个文件夹目录。",
+      "category": "office"
+    },
+    {
+      "word": "version",
+      "phonetic": "/ˈvɜːʃn/",
+      "meaning": "版本",
+      "example": "Please share the version after the meeting.",
+      "exampleZh": "会后请分享这个版本。",
+      "category": "office"
+    },
+    {
+      "word": "final copy",
+      "phonetic": "/ˈfaɪnl ˈkɒpi/",
+      "meaning": "终稿",
+      "example": "Please share the final copy after the meeting.",
+      "exampleZh": "会后请分享这个终稿。",
+      "category": "office"
+    },
+    {
+      "word": "tracked changes",
+      "phonetic": "/trækt ˈtʃeɪndʒɪz/",
+      "meaning": "修订痕迹",
+      "example": "I updated the tracked changes this morning.",
+      "exampleZh": "我今天早上更新了这个修订痕迹。",
+      "category": "office"
+    },
+    {
+      "word": "changelog",
+      "phonetic": "/ˈtʃeɪndʒlɒɡ/",
+      "meaning": "变更日志",
+      "example": "Please check the changelog.",
+      "exampleZh": "请检查一下这个变更日志。",
+      "category": "it"
+    },
+    {
+      "word": "version tag",
+      "phonetic": "/ˈvɜːʃn tæɡ/",
+      "meaning": "版本标签",
+      "example": "Who supports this version tag?",
+      "exampleZh": "谁支持这个版本标签？",
+      "category": "it"
+    },
+    {
+      "word": "branch",
+      "phonetic": "/brɑːntʃ/",
+      "meaning": "代码分支",
+      "example": "The branch is in production.",
+      "exampleZh": "这个代码分支已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "commit",
+      "phonetic": "/kəˈmɪt/",
+      "meaning": "提交记录",
+      "example": "Please review the commit after the patch.",
+      "exampleZh": "打补丁后请审阅这个提交记录。",
+      "category": "it"
+    },
+    {
+      "word": "merge",
+      "phonetic": "/mɜːdʒ/",
+      "meaning": "合并代码",
+      "example": "I will merge it after the meeting.",
+      "exampleZh": "会后我会合并代码它。",
+      "category": "it"
+    }
+  ]
+}

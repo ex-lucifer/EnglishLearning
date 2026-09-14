@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-19",
+  "words": [
+    {
+      "word": "table this",
+      "phonetic": "/ˈteɪbl ðɪs/",
+      "meaning": "暂搁此议题",
+      "example": "Can we table this until Thursday?",
+      "exampleZh": "能否把这个议题先搁到周四？",
+      "category": "office"
+    },
+    {
+      "word": "move on",
+      "phonetic": "/muːv ɒn/",
+      "meaning": "进入下一项",
+      "example": "Let's move on to staffing.",
+      "exampleZh": "我们进入人手安排这项。",
+      "category": "office"
+    },
+    {
+      "word": "wrap it up",
+      "phonetic": "/ræp ɪt ʌp/",
+      "meaning": "收个尾",
+      "example": "Please wrap it up in two minutes.",
+      "exampleZh": "请在两分钟内收个尾。",
+      "category": "office"
+    },
+    {
+      "word": "any other business",
+      "phonetic": "/ˈeni ˈʌðə ˈbɪznəs/",
+      "meaning": "其他事项",
+      "example": "Who is handling the any other business?",
+      "exampleZh": "谁在处理这个其他事项？",
+      "category": "office"
+    },
+    {
+      "word": "AOB",
+      "phonetic": "/ˌeɪ əʊ ˈbiː/",
+      "meaning": "其他事项",
+      "example": "Please put AOB on the email.",
+      "exampleZh": "请在邮件里注明 AOB。",
+      "category": "office"
+    },
+    {
+      "word": "hash",
+      "phonetic": "/hæʃ/",
+      "meaning": "哈希",
+      "example": "Please check the hash.",
+      "exampleZh": "请检查一下这个哈希。",
+      "category": "it"
+    },
+    {
+      "word": "encryption key",
+      "phonetic": "/ɪnˈkrɪpʃn kiː/",
+      "meaning": "加密密钥",
+      "example": "Please review the encryption key after the patch.",
+      "exampleZh": "打补丁后请审阅这个加密密钥。",
+      "category": "it"
+    },
+    {
+      "word": "public key",
+      "phonetic": "/ˈpʌblɪk kiː/",
+      "meaning": "公钥",
+      "example": "Please review the public key after the patch.",
+      "exampleZh": "打补丁后请审阅这个公钥。",
+      "category": "it"
+    },
+    {
+      "word": "private key",
+      "phonetic": "/ˈpraɪvət kiː/",
+      "meaning": "私钥",
+      "example": "Please check the private key.",
+      "exampleZh": "请检查一下这个私钥。",
+      "category": "it"
+    },
+    {
+      "word": "certificate chain",
+      "phonetic": "/səˈtɪfɪkət tʃeɪn/",
+      "meaning": "证书链",
+      "example": "The certificate chain is in production.",
+      "exampleZh": "这个证书链已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

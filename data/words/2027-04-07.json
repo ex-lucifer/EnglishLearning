@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-07",
+  "words": [
+    {
+      "word": "stamp and sign",
+      "phonetic": "/stæmp ənd saɪn/",
+      "meaning": "盖章签字",
+      "example": "Please stamp and sign the form.",
+      "exampleZh": "请在表格上盖章签字。",
+      "category": "office"
+    },
+    {
+      "word": "wet signature",
+      "phonetic": "/wet ˈsɪɡnətʃə/",
+      "meaning": "手写签名",
+      "example": "Please share the wet signature after the meeting.",
+      "exampleZh": "会后请分享这个手写签名。",
+      "category": "office"
+    },
+    {
+      "word": "e-signature",
+      "phonetic": "/iː ˈsɪɡnətʃə/",
+      "meaning": "电子签名",
+      "example": "Who is handling the e-signature?",
+      "exampleZh": "谁在处理这个电子签名？",
+      "category": "office"
+    },
+    {
+      "word": "initials",
+      "phonetic": "/ɪˈnɪʃlz/",
+      "meaning": "姓名缩写签",
+      "example": "Please review the initials.",
+      "exampleZh": "请审阅一下这个姓名缩写签。",
+      "category": "office"
+    },
+    {
+      "word": "date stamp",
+      "phonetic": "/deɪt stæmp/",
+      "meaning": "日期章",
+      "example": "Please share the date stamp after the meeting.",
+      "exampleZh": "会后请分享这个日期章。",
+      "category": "office"
+    },
+    {
+      "word": "SFTP",
+      "phonetic": "/ˌes ef tiː ˈpiː/",
+      "meaning": "安全文件传输",
+      "example": "The SFTP is slow this morning.",
+      "exampleZh": "今天早上 SFTP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SMB",
+      "phonetic": "/ˌes em ˈbiː/",
+      "meaning": "文件共享协议",
+      "example": "The SMB is slow this morning.",
+      "exampleZh": "今天早上 SMB 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "NFS",
+      "phonetic": "/ˌen ef ˈes/",
+      "meaning": "网络文件系统",
+      "example": "The NFS is slow this morning.",
+      "exampleZh": "今天早上 NFS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "CIFS",
+      "phonetic": "/sɪfs/",
+      "meaning": "通用互联网文件系统",
+      "example": "The CIFS is slow this morning.",
+      "exampleZh": "今天早上 CIFS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "RDP",
+      "phonetic": "/ˌɑːr diː ˈpiː/",
+      "meaning": "远程桌面协议",
+      "example": "The RDP is slow this morning.",
+      "exampleZh": "今天早上 RDP 很慢。",
+      "category": "it"
+    }
+  ]
+}

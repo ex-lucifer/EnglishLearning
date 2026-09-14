@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-12",
+  "words": [
+    {
+      "word": "board round",
+      "phonetic": "/bɔːd raʊnd/",
+      "meaning": "看板交班",
+      "example": "I updated the board round this morning.",
+      "exampleZh": "我今天早上更新了这个看板交班。",
+      "category": "office"
+    },
+    {
+      "word": "bed meeting",
+      "phonetic": "/bed ˈmiːtɪŋ/",
+      "meaning": "床位会",
+      "example": "Please review the bed meeting.",
+      "exampleZh": "请审阅一下这个床位会。",
+      "category": "office"
+    },
+    {
+      "word": "ops meeting",
+      "phonetic": "/ɒps ˈmiːtɪŋ/",
+      "meaning": "运营会",
+      "example": "Please review the ops meeting.",
+      "exampleZh": "请审阅一下这个运营会。",
+      "category": "office"
+    },
+    {
+      "word": "quality meeting",
+      "phonetic": "/ˈkwɒləti ˈmiːtɪŋ/",
+      "meaning": "质量会",
+      "example": "Please share the quality meeting after the meeting.",
+      "exampleZh": "会后请分享这个质量会。",
+      "category": "office"
+    },
+    {
+      "word": "safety huddle",
+      "phonetic": "/ˈseɪfti ˈhʌdl/",
+      "meaning": "安全短会",
+      "example": "Please share the safety huddle after the meeting.",
+      "exampleZh": "会后请分享这个安全短会。",
+      "category": "office"
+    },
+    {
+      "word": "fingerprint",
+      "phonetic": "/ˈfɪŋɡəprɪnt/",
+      "meaning": "指纹",
+      "example": "Please check the fingerprint.",
+      "exampleZh": "请检查一下这个指纹。",
+      "category": "it"
+    },
+    {
+      "word": "face ID",
+      "phonetic": "/feɪs aɪ ˈdiː/",
+      "meaning": "人脸识别",
+      "example": "We need the face ID before go-live.",
+      "exampleZh": "上线前我们需要这个人脸识别。",
+      "category": "it"
+    },
+    {
+      "word": "single sign-on",
+      "phonetic": "/ˈsɪŋɡl saɪn ɒn/",
+      "meaning": "单点登录",
+      "example": "Please check the single sign-on.",
+      "exampleZh": "请检查一下这个单点登录。",
+      "category": "it"
+    },
+    {
+      "word": "password vault",
+      "phonetic": "/ˈpɑːswɜːd vɔːlt/",
+      "meaning": "密码保险箱",
+      "example": "We need the password vault before go-live.",
+      "exampleZh": "上线前我们需要这个密码保险箱。",
+      "category": "it"
+    },
+    {
+      "word": "privileged account",
+      "phonetic": "/ˈprɪvəlɪdʒd əˈkaʊnt/",
+      "meaning": "特权账号",
+      "example": "Who supports this privileged account?",
+      "exampleZh": "谁支持这个特权账号？",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-22",
+  "words": [
+    {
+      "word": "distribution list",
+      "phonetic": "/ˌdɪstrɪˈbjuːʃn lɪst/",
+      "meaning": "分发名单",
+      "example": "The distribution list is ready for review.",
+      "exampleZh": "这个分发名单已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "mailing list",
+      "phonetic": "/ˈmeɪlɪŋ lɪst/",
+      "meaning": "邮件名单",
+      "example": "Please review the mailing list.",
+      "exampleZh": "请审阅一下这个邮件名单。",
+      "category": "office"
+    },
+    {
+      "word": "contact list",
+      "phonetic": "/ˈkɒntækt lɪst/",
+      "meaning": "联系人名单",
+      "example": "The contact list is ready for review.",
+      "exampleZh": "这个联系人名单已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "org directory",
+      "phonetic": "/ɔːɡ dəˈrektəri/",
+      "meaning": "通讯录",
+      "example": "The org directory is ready for review.",
+      "exampleZh": "这个通讯录已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "extension number",
+      "phonetic": "/ɪkˈstenʃn ˈnʌmbə/",
+      "meaning": "分机号",
+      "example": "Please share the extension number after the meeting.",
+      "exampleZh": "会后请分享这个分机号。",
+      "category": "office"
+    },
+    {
+      "word": "build agent",
+      "phonetic": "/bɪld ˈeɪdʒənt/",
+      "meaning": "构建代理",
+      "example": "Who supports this build agent?",
+      "exampleZh": "谁支持这个构建代理？",
+      "category": "it"
+    },
+    {
+      "word": "test coverage",
+      "phonetic": "/test ˈkʌvərɪdʒ/",
+      "meaning": "测试覆盖",
+      "example": "Please review the test coverage after the patch.",
+      "exampleZh": "打补丁后请审阅这个测试覆盖。",
+      "category": "it"
+    },
+    {
+      "word": "unit test",
+      "phonetic": "/ˈjuːnɪt test/",
+      "meaning": "单元测试",
+      "example": "Who supports this unit test?",
+      "exampleZh": "谁支持这个单元测试？",
+      "category": "it"
+    },
+    {
+      "word": "integration test",
+      "phonetic": "/ˌɪntɪˈɡreɪʃn test/",
+      "meaning": "集成测试",
+      "example": "Who supports this integration test?",
+      "exampleZh": "谁支持这个集成测试？",
+      "category": "it"
+    },
+    {
+      "word": "smoke test",
+      "phonetic": "/sməʊk test/",
+      "meaning": "冒烟测试",
+      "example": "Please check the smoke test.",
+      "exampleZh": "请检查一下这个冒烟测试。",
+      "category": "it"
+    }
+  ]
+}

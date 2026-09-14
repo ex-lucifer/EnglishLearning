@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-30",
+  "words": [
+    {
+      "word": "bed management",
+      "phonetic": "/bed ˈmænɪdʒmənt/",
+      "meaning": "床位管理",
+      "example": "I updated the bed management this morning.",
+      "exampleZh": "我今天早上更新了这个床位管理。",
+      "category": "office"
+    },
+    {
+      "word": "ward round",
+      "phonetic": "/wɔːd raʊnd/",
+      "meaning": "查房",
+      "example": "Who is handling the ward round?",
+      "exampleZh": "谁在处理这个查房？",
+      "category": "office"
+    },
+    {
+      "word": "clinic",
+      "phonetic": "/ˈklɪnɪk/",
+      "meaning": "门诊",
+      "example": "I updated the clinic this morning.",
+      "exampleZh": "我今天早上更新了这个门诊。",
+      "category": "office"
+    },
+    {
+      "word": "outpatient",
+      "phonetic": "/ˈaʊtpeɪʃnt/",
+      "meaning": "门诊患者",
+      "example": "Please review the outpatient.",
+      "exampleZh": "请审阅一下这个门诊患者。",
+      "category": "office"
+    },
+    {
+      "word": "inpatient",
+      "phonetic": "/ˈɪnpeɪʃnt/",
+      "meaning": "住院患者",
+      "example": "Who is handling the inpatient?",
+      "exampleZh": "谁在处理这个住院患者？",
+      "category": "office"
+    },
+    {
+      "word": "RAID",
+      "phonetic": "/reɪd/",
+      "meaning": "磁盘阵列",
+      "example": "The RAID is slow this morning.",
+      "exampleZh": "今天早上 RAID 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "LUN",
+      "phonetic": "/lʌn/",
+      "meaning": "逻辑单元号",
+      "example": "The LUN is slow this morning.",
+      "exampleZh": "今天早上 LUN 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "HBA",
+      "phonetic": "/ˌeɪtʃ biː ˈeɪ/",
+      "meaning": "主机总线适配器",
+      "example": "The HBA is slow this morning.",
+      "exampleZh": "今天早上 HBA 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "fiber switch",
+      "phonetic": "/ˈfaɪbə swɪtʃ/",
+      "meaning": "光纤交换机",
+      "example": "Please check the fiber switch.",
+      "exampleZh": "请检查一下这个光纤交换机。",
+      "category": "it"
+    },
+    {
+      "word": "iSCSI",
+      "phonetic": "/aɪ ˈskʌzi/",
+      "meaning": "网络磁盘协议",
+      "example": "The iSCSI is slow this morning.",
+      "exampleZh": "今天早上 iSCSI 很慢。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-10",
+  "words": [
+    {
+      "word": "refresher",
+      "phonetic": "/rɪˈfreʃə/",
+      "meaning": "复习培训",
+      "example": "Please review the refresher.",
+      "exampleZh": "请审阅一下这个复习培训。",
+      "category": "office"
+    },
+    {
+      "word": "certificate",
+      "phonetic": "/səˈtɪfɪkət/",
+      "meaning": "证书",
+      "example": "The certificate is ready for review.",
+      "exampleZh": "这个证书已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "license",
+      "phonetic": "/ˈlaɪsns/",
+      "meaning": "执照",
+      "example": "I updated the license this morning.",
+      "exampleZh": "我今天早上更新了这个执照。",
+      "category": "office"
+    },
+    {
+      "word": "credential",
+      "phonetic": "/krəˈdenʃl/",
+      "meaning": "资质证明",
+      "example": "I updated the credential this morning.",
+      "exampleZh": "我今天早上更新了这个资质证明。",
+      "category": "office"
+    },
+    {
+      "word": "badge",
+      "phonetic": "/bædʒ/",
+      "meaning": "工牌",
+      "example": "Please share the badge after the meeting.",
+      "exampleZh": "会后请分享这个工牌。",
+      "category": "office"
+    },
+    {
+      "word": "data lake",
+      "phonetic": "/ˈdeɪtə leɪk/",
+      "meaning": "数据湖",
+      "example": "The data lake is in production.",
+      "exampleZh": "这个数据湖已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "report server",
+      "phonetic": "/rɪˈpɔːt ˈsɜːvə/",
+      "meaning": "报表服务器",
+      "example": "The report server is in production.",
+      "exampleZh": "这个报表服务器已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "SQL Server",
+      "phonetic": "/ˌes kjuː ˈel ˈsɜːvə/",
+      "meaning": "数据库服务器",
+      "example": "Please check the SQL Server.",
+      "exampleZh": "请检查一下这个数据库服务器。",
+      "category": "it"
+    },
+    {
+      "word": "cache",
+      "phonetic": "/kæʃ/",
+      "meaning": "缓存",
+      "example": "Please check the cache.",
+      "exampleZh": "请检查一下这个缓存。",
+      "category": "it"
+    },
+    {
+      "word": "message queue",
+      "phonetic": "/ˈmesɪdʒ kjuː/",
+      "meaning": "消息队列",
+      "example": "Who supports this message queue?",
+      "exampleZh": "谁支持这个消息队列？",
+      "category": "it"
+    }
+  ]
+}

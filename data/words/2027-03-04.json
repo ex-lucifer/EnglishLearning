@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-04",
+  "words": [
+    {
+      "word": "adapt",
+      "phonetic": "/əˈdæpt/",
+      "meaning": "调整适应",
+      "example": "We need to adapt this by Friday.",
+      "exampleZh": "我们周五前需要调整适应这个。",
+      "category": "office"
+    },
+    {
+      "word": "adjust",
+      "phonetic": "/əˈdʒʌst/",
+      "meaning": "微调",
+      "example": "Can you adjust it today?",
+      "exampleZh": "你今天能微调一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "document",
+      "phonetic": "/ˈdɒkjument/",
+      "meaning": "形成书面记录",
+      "example": "Let's document this first.",
+      "exampleZh": "我们先形成书面记录这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "record",
+      "phonetic": "/rɪˈkɔːd/",
+      "meaning": "记录",
+      "example": "Let's record this first.",
+      "exampleZh": "我们先记录这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "note",
+      "phonetic": "/nəʊt/",
+      "meaning": "记下",
+      "example": "I will note it after the meeting.",
+      "exampleZh": "会后我会记下它。",
+      "category": "office"
+    },
+    {
+      "word": "proxy bypass",
+      "phonetic": "/ˈprɒksi ˈbaɪpɑːs/",
+      "meaning": "绕过代理",
+      "example": "We need the proxy bypass before go-live.",
+      "exampleZh": "上线前我们需要这个绕过代理。",
+      "category": "it"
+    },
+    {
+      "word": "PAC file",
+      "phonetic": "/pæk faɪl/",
+      "meaning": "代理自动配置",
+      "example": "Please review the PAC file after the patch.",
+      "exampleZh": "打补丁后请审阅这个代理自动配置。",
+      "category": "it"
+    },
+    {
+      "word": "DNS cache",
+      "phonetic": "/ˌdiː en ˈes kæʃ/",
+      "meaning": "域名缓存",
+      "example": "We need the DNS cache before go-live.",
+      "exampleZh": "上线前我们需要这个域名缓存。",
+      "category": "it"
+    },
+    {
+      "word": "flush DNS",
+      "phonetic": "/flʌʃ ˌdiː en ˈes/",
+      "meaning": "刷新域名缓存",
+      "example": "Can you flush DNS it today?",
+      "exampleZh": "你今天能刷新域名缓存一下吗？",
+      "category": "it"
+    },
+    {
+      "word": "hosts file",
+      "phonetic": "/həʊsts faɪl/",
+      "meaning": "主机映射文件",
+      "example": "The hosts file is in production.",
+      "exampleZh": "这个主机映射文件已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

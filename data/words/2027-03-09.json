@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-09",
+  "words": [
+    {
+      "word": "itemize",
+      "phonetic": "/ˈaɪtəmaɪz/",
+      "meaning": "逐项列出",
+      "example": "We need to itemize this by Friday.",
+      "exampleZh": "我们周五前需要逐项列出这个。",
+      "category": "office"
+    },
+    {
+      "word": "compare",
+      "phonetic": "/kəmˈpeə/",
+      "meaning": "比较",
+      "example": "We need to compare this by Friday.",
+      "exampleZh": "我们周五前需要比较这个。",
+      "category": "office"
+    },
+    {
+      "word": "analyze",
+      "phonetic": "/ˈænəlaɪz/",
+      "meaning": "分析",
+      "example": "Can you analyze it today?",
+      "exampleZh": "你今天能分析一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "calculate",
+      "phonetic": "/ˈkælkjuleɪt/",
+      "meaning": "计算",
+      "example": "Let's calculate this first.",
+      "exampleZh": "我们先计算这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "plan",
+      "phonetic": "/plæn/",
+      "meaning": "规划",
+      "example": "We need to plan this by Friday.",
+      "exampleZh": "我们周五前需要规划这个。",
+      "category": "office"
+    },
+    {
+      "word": "static IP",
+      "phonetic": "/ˈstætɪk aɪ ˈpiː/",
+      "meaning": "静态地址",
+      "example": "Who supports this static IP?",
+      "exampleZh": "谁支持这个静态地址？",
+      "category": "it"
+    },
+    {
+      "word": "dynamic IP",
+      "phonetic": "/daɪˈnæmɪk aɪ ˈpiː/",
+      "meaning": "动态地址",
+      "example": "Who supports this dynamic IP?",
+      "exampleZh": "谁支持这个动态地址？",
+      "category": "it"
+    },
+    {
+      "word": "link down",
+      "phonetic": "/lɪŋk daʊn/",
+      "meaning": "链路断开",
+      "example": "Please check the link down.",
+      "exampleZh": "请检查一下这个链路断开。",
+      "category": "it"
+    },
+    {
+      "word": "link up",
+      "phonetic": "/lɪŋk ʌp/",
+      "meaning": "链路恢复",
+      "example": "Who supports this link up?",
+      "exampleZh": "谁支持这个链路恢复？",
+      "category": "it"
+    },
+    {
+      "word": "duplex mismatch",
+      "phonetic": "/ˈdjuːpleks ˈmɪsmætʃ/",
+      "meaning": "双工不匹配",
+      "example": "We need the duplex mismatch before go-live.",
+      "exampleZh": "上线前我们需要这个双工不匹配。",
+      "category": "it"
+    }
+  ]
+}

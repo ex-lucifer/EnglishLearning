@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-05",
+  "words": [
+    {
+      "word": "procurement",
+      "phonetic": "/prəˈkjʊəmənt/",
+      "meaning": "采购",
+      "example": "I updated the procurement this morning.",
+      "exampleZh": "我今天早上更新了这个采购。",
+      "category": "office"
+    },
+    {
+      "word": "invoice",
+      "phonetic": "/ˈɪnvɔɪs/",
+      "meaning": "发票",
+      "example": "The invoice is ready for review.",
+      "exampleZh": "这个发票已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "reimbursement",
+      "phonetic": "/ˌriːɪmˈbɜːsmənt/",
+      "meaning": "报销",
+      "example": "The reimbursement is ready for review.",
+      "exampleZh": "这个报销已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnərəri/",
+      "meaning": "行程",
+      "example": "The itinerary is ready for review.",
+      "exampleZh": "这个行程已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "logistics",
+      "phonetic": "/ləˈdʒɪstɪks/",
+      "meaning": "后勤安排",
+      "example": "Who is handling the logistics?",
+      "exampleZh": "谁在处理这个后勤安排？",
+      "category": "office"
+    },
+    {
+      "word": "field mapping",
+      "phonetic": "/fiːld ˈmæpɪŋ/",
+      "meaning": "字段对照",
+      "example": "The field mapping is in production.",
+      "exampleZh": "这个字段对照已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "retry queue",
+      "phonetic": "/ˈriːtraɪ kjuː/",
+      "meaning": "重试队列",
+      "example": "Who supports this retry queue?",
+      "exampleZh": "谁支持这个重试队列？",
+      "category": "it"
+    },
+    {
+      "word": "dead-letter queue",
+      "phonetic": "/ded ˈletə kjuː/",
+      "meaning": "死信队列",
+      "example": "We need the dead-letter queue before go-live.",
+      "exampleZh": "上线前我们需要这个死信队列。",
+      "category": "it"
+    },
+    {
+      "word": "poison message",
+      "phonetic": "/ˈpɔɪzn ˈmesɪdʒ/",
+      "meaning": "毒化消息",
+      "example": "Please check the poison message.",
+      "exampleZh": "请检查一下这个毒化消息。",
+      "category": "it"
+    },
+    {
+      "word": "throttle",
+      "phonetic": "/ˈθrɒtl/",
+      "meaning": "限流",
+      "example": "Can you throttle it today?",
+      "exampleZh": "你今天能限流一下吗？",
+      "category": "it"
+    }
+  ]
+}

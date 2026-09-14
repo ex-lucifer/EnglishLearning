@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-25",
+  "words": [
+    {
+      "word": "work order",
+      "phonetic": "/wɜːk ˈɔːdə/",
+      "meaning": "派工单",
+      "example": "Please review the work order.",
+      "exampleZh": "请审阅一下这个派工单。",
+      "category": "office"
+    },
+    {
+      "word": "priority",
+      "phonetic": "/praɪˈɒrəti/",
+      "meaning": "优先级",
+      "example": "The priority is ready for review.",
+      "exampleZh": "这个优先级已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "severity",
+      "phonetic": "/səˈverəti/",
+      "meaning": "严重程度",
+      "example": "Who is handling the severity?",
+      "exampleZh": "谁在处理这个严重程度？",
+      "category": "office"
+    },
+    {
+      "word": "impact",
+      "phonetic": "/ˈɪmpækt/",
+      "meaning": "影响",
+      "example": "Who is handling the impact?",
+      "exampleZh": "谁在处理这个影响？",
+      "category": "office"
+    },
+    {
+      "word": "urgency",
+      "phonetic": "/ˈɜːdʒənsi/",
+      "meaning": "紧急程度",
+      "example": "I updated the urgency this morning.",
+      "exampleZh": "我今天早上更新了这个紧急程度。",
+      "category": "office"
+    },
+    {
+      "word": "PBX",
+      "phonetic": "/ˌpiː biː ˈeks/",
+      "meaning": "程控交换机",
+      "example": "The PBX is slow this morning.",
+      "exampleZh": "今天早上 PBX 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "softphone",
+      "phonetic": "/ˈsɒftfəʊn/",
+      "meaning": "软电话",
+      "example": "Who supports this softphone?",
+      "exampleZh": "谁支持这个软电话？",
+      "category": "it"
+    },
+    {
+      "word": "call recording",
+      "phonetic": "/kɔːl rɪˈkɔːdɪŋ/",
+      "meaning": "通话录音",
+      "example": "Please review the call recording after the patch.",
+      "exampleZh": "打补丁后请审阅这个通话录音。",
+      "category": "it"
+    },
+    {
+      "word": "IVR",
+      "phonetic": "/ˌaɪ viː ˈɑː/",
+      "meaning": "语音导航",
+      "example": "The IVR is slow this morning.",
+      "exampleZh": "今天早上 IVR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "ACD",
+      "phonetic": "/ˌeɪ siː ˈdiː/",
+      "meaning": "自动呼叫分配",
+      "example": "The ACD is slow this morning.",
+      "exampleZh": "今天早上 ACD 很慢。",
+      "category": "it"
+    }
+  ]
+}

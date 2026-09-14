@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-29",
+  "words": [
+    {
+      "word": "business hours",
+      "phonetic": "/ˈbɪznəs ˈaʊəz/",
+      "meaning": "工作时间",
+      "example": "Who is handling the business hours?",
+      "exampleZh": "谁在处理这个工作时间？",
+      "category": "office"
+    },
+    {
+      "word": "after hours",
+      "phonetic": "/ˈɑːftə ˈaʊəz/",
+      "meaning": "下班后",
+      "example": "I updated the after hours this morning.",
+      "exampleZh": "我今天早上更新了这个下班后。",
+      "category": "office"
+    },
+    {
+      "word": "cut-off",
+      "phonetic": "/ˈkʌt ɒf/",
+      "meaning": "截止时点",
+      "example": "I updated the cut-off this morning.",
+      "exampleZh": "我今天早上更新了这个截止时点。",
+      "category": "office"
+    },
+    {
+      "word": "lead-in",
+      "phonetic": "/ˈliːd ɪn/",
+      "meaning": "开场铺垫",
+      "example": "Who is handling the lead-in?",
+      "exampleZh": "谁在处理这个开场铺垫？",
+      "category": "office"
+    },
+    {
+      "word": "wrap-up email",
+      "phonetic": "/ˈræp ʌp ˈiːmeɪl/",
+      "meaning": "收尾邮件",
+      "example": "Who is handling the wrap-up email?",
+      "exampleZh": "谁在处理这个收尾邮件？",
+      "category": "office"
+    },
+    {
+      "word": "queue wait",
+      "phonetic": "/kjuː weɪt/",
+      "meaning": "排队等待",
+      "example": "Please check the queue wait.",
+      "exampleZh": "请检查一下这个排队等待。",
+      "category": "it"
+    },
+    {
+      "word": "call drop",
+      "phonetic": "/kɔːl drɒp/",
+      "meaning": "通话中断",
+      "example": "Who supports this call drop?",
+      "exampleZh": "谁支持这个通话中断？",
+      "category": "it"
+    },
+    {
+      "word": "codec",
+      "phonetic": "/ˈkəʊdek/",
+      "meaning": "编解码",
+      "example": "Please check the codec.",
+      "exampleZh": "请检查一下这个编解码。",
+      "category": "it"
+    },
+    {
+      "word": "jitter buffer",
+      "phonetic": "/ˈdʒɪtə ˈbʌfə/",
+      "meaning": "抖动缓冲",
+      "example": "Please review the jitter buffer after the patch.",
+      "exampleZh": "打补丁后请审阅这个抖动缓冲。",
+      "category": "it"
+    },
+    {
+      "word": "QoS",
+      "phonetic": "/ˌkjuː əʊ ˈes/",
+      "meaning": "服务质量",
+      "example": "The QoS is slow this morning.",
+      "exampleZh": "今天早上 QoS 很慢。",
+      "category": "it"
+    }
+  ]
+}

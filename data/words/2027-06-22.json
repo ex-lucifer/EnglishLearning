@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-22",
+  "words": [
+    {
+      "word": "debrief note",
+      "phonetic": "/ˌdiːˈbriːf nəʊt/",
+      "meaning": "复盘说明",
+      "example": "Please review the debrief note.",
+      "exampleZh": "请审阅一下这个复盘说明。",
+      "category": "office"
+    },
+    {
+      "word": "thank-you note",
+      "phonetic": "/θæŋk ju nəʊt/",
+      "meaning": "感谢短笺",
+      "example": "Who is handling the thank-you note?",
+      "exampleZh": "谁在处理这个感谢短笺？",
+      "category": "office"
+    },
+    {
+      "word": "appreciation",
+      "phonetic": "/əˌpriːʃiˈeɪʃn/",
+      "meaning": "感谢认可",
+      "example": "I updated the appreciation this morning.",
+      "exampleZh": "我今天早上更新了这个感谢认可。",
+      "category": "office"
+    },
+    {
+      "word": "recognition",
+      "phonetic": "/ˌrekəɡˈnɪʃn/",
+      "meaning": "表彰",
+      "example": "Please share the recognition after the meeting.",
+      "exampleZh": "会后请分享这个表彰。",
+      "category": "office"
+    },
+    {
+      "word": "award",
+      "phonetic": "/əˈwɔːd/",
+      "meaning": "奖项",
+      "example": "The award is ready for review.",
+      "exampleZh": "这个奖项已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "hash reputation",
+      "phonetic": "/hæʃ ˌrepjuˈteɪʃn/",
+      "meaning": "哈希信誉",
+      "example": "Please review the hash reputation after the patch.",
+      "exampleZh": "打补丁后请审阅这个哈希信誉。",
+      "category": "it"
+    },
+    {
+      "word": "file hash",
+      "phonetic": "/faɪl hæʃ/",
+      "meaning": "文件哈希",
+      "example": "Who supports this file hash?",
+      "exampleZh": "谁支持这个文件哈希？",
+      "category": "it"
+    },
+    {
+      "word": "SHA-256",
+      "phonetic": "/ʃɑː tuː ˈfɪfti sɪks/",
+      "meaning": "哈希算法",
+      "example": "The SHA-256 is slow this morning.",
+      "exampleZh": "今天早上 SHA-256 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "MD5",
+      "phonetic": "/ˌem diː ˈfaɪv/",
+      "meaning": "旧哈希算法",
+      "example": "The MD5 is slow this morning.",
+      "exampleZh": "今天早上 MD5 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "quarantine",
+      "phonetic": "/ˈkwɒrəntiːn/",
+      "meaning": "隔离",
+      "example": "I will quarantine it after the meeting.",
+      "exampleZh": "会后我会隔离它。",
+      "category": "it"
+    }
+  ]
+}

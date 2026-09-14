@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-08",
+  "words": [
+    {
+      "word": "reference check",
+      "phonetic": "/ˈrefrəns tʃek/",
+      "meaning": "背景询问",
+      "example": "The reference check is ready for review.",
+      "exampleZh": "这个背景询问已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "conflict check",
+      "phonetic": "/ˈkɒnflɪkt tʃek/",
+      "meaning": "利益冲突核查",
+      "example": "The conflict check is ready for review.",
+      "exampleZh": "这个利益冲突核查已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "onboarding pack",
+      "phonetic": "/ˌɒnˈbɔːdɪŋ pæk/",
+      "meaning": "入职材料包",
+      "example": "Please share the onboarding pack after the meeting.",
+      "exampleZh": "会后请分享这个入职材料包。",
+      "category": "office"
+    },
+    {
+      "word": "welcome email",
+      "phonetic": "/ˈwelkəm ˈiːmeɪl/",
+      "meaning": "欢迎邮件",
+      "example": "I updated the welcome email this morning.",
+      "exampleZh": "我今天早上更新了这个欢迎邮件。",
+      "category": "office"
+    },
+    {
+      "word": "first-day agenda",
+      "phonetic": "/fɜːst deɪ əˈdʒendə/",
+      "meaning": "首日安排",
+      "example": "Please review the first-day agenda.",
+      "exampleZh": "请审阅一下这个首日安排。",
+      "category": "office"
+    },
+    {
+      "word": "key deletion",
+      "phonetic": "/kiː dɪˈliːʃn/",
+      "meaning": "密钥删除",
+      "example": "We need the key deletion before go-live.",
+      "exampleZh": "上线前我们需要这个密钥删除。",
+      "category": "it"
+    },
+    {
+      "word": "key disable",
+      "phonetic": "/kiː dɪsˈeɪbl/",
+      "meaning": "密钥停用",
+      "example": "Please review the key disable after the patch.",
+      "exampleZh": "打补丁后请审阅这个密钥停用。",
+      "category": "it"
+    },
+    {
+      "word": "key enable",
+      "phonetic": "/kiː ɪˈneɪbl/",
+      "meaning": "密钥启用",
+      "example": "Please check the key enable.",
+      "exampleZh": "请检查一下这个密钥启用。",
+      "category": "it"
+    },
+    {
+      "word": "cryptographic erase",
+      "phonetic": "/ˌkrɪptəˈɡræfɪk ɪˈreɪz/",
+      "meaning": "加密擦除",
+      "example": "Please review the cryptographic erase after the patch.",
+      "exampleZh": "打补丁后请审阅这个加密擦除。",
+      "category": "it"
+    },
+    {
+      "word": "secure wipe",
+      "phonetic": "/sɪˈkjʊə waɪp/",
+      "meaning": "安全擦除",
+      "example": "Please check the secure wipe.",
+      "exampleZh": "请检查一下这个安全擦除。",
+      "category": "it"
+    }
+  ]
+}

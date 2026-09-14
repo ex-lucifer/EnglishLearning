@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-02",
+  "words": [
+    {
+      "word": "cubicle",
+      "phonetic": "/ˈkjuːbɪkl/",
+      "meaning": "隔间",
+      "example": "I updated the cubicle this morning.",
+      "exampleZh": "我今天早上更新了这个隔间。",
+      "category": "office"
+    },
+    {
+      "word": "workstation area",
+      "phonetic": "/ˈwɜːksteɪʃn ˈeəriə/",
+      "meaning": "工位区",
+      "example": "Please review the workstation area.",
+      "exampleZh": "请审阅一下这个工位区。",
+      "category": "office"
+    },
+    {
+      "word": "quiet room",
+      "phonetic": "/ˈkwaɪət ruːm/",
+      "meaning": "安静室",
+      "example": "Please share the quiet room after the meeting.",
+      "exampleZh": "会后请分享这个安静室。",
+      "category": "office"
+    },
+    {
+      "word": "on-call room",
+      "phonetic": "/ɒn kɔːl ruːm/",
+      "meaning": "值班室",
+      "example": "Please review the on-call room.",
+      "exampleZh": "请审阅一下这个值班室。",
+      "category": "office"
+    },
+    {
+      "word": "duty room",
+      "phonetic": "/ˈdjuːti ruːm/",
+      "meaning": "值班房",
+      "example": "Please share the duty room after the meeting.",
+      "exampleZh": "会后请分享这个值班房。",
+      "category": "office"
+    },
+    {
+      "word": "affinity",
+      "phonetic": "/əˈfɪnəti/",
+      "meaning": "亲和性",
+      "example": "Please check the affinity.",
+      "exampleZh": "请检查一下这个亲和性。",
+      "category": "it"
+    },
+    {
+      "word": "anti-affinity",
+      "phonetic": "/ˈænti əˈfɪnəti/",
+      "meaning": "反亲和性",
+      "example": "Who supports this anti-affinity?",
+      "exampleZh": "谁支持这个反亲和性？",
+      "category": "it"
+    },
+    {
+      "word": "resource pool",
+      "phonetic": "/rɪˈsɔːs puːl/",
+      "meaning": "资源池",
+      "example": "Please review the resource pool after the patch.",
+      "exampleZh": "打补丁后请审阅这个资源池。",
+      "category": "it"
+    },
+    {
+      "word": "reservation",
+      "phonetic": "/ˌrezəˈveɪʃn/",
+      "meaning": "资源预留",
+      "example": "We need the reservation before go-live.",
+      "exampleZh": "上线前我们需要这个资源预留。",
+      "category": "it"
+    },
+    {
+      "word": "limit",
+      "phonetic": "/ˈlɪmɪt/",
+      "meaning": "资源上限",
+      "example": "Who supports this limit?",
+      "exampleZh": "谁支持这个资源上限？",
+      "category": "it"
+    }
+  ]
+}

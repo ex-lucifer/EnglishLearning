@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-04",
+  "words": [
+    {
+      "word": "apology",
+      "phonetic": "/əˈpɒlədʒi/",
+      "meaning": "道歉",
+      "example": "Who is handling the apology?",
+      "exampleZh": "谁在处理这个道歉？",
+      "category": "office"
+    },
+    {
+      "word": "courtesy",
+      "phonetic": "/ˈkɜːtəsi/",
+      "meaning": "礼貌",
+      "example": "The courtesy is ready for review.",
+      "exampleZh": "这个礼貌已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "professionalism",
+      "phonetic": "/prəˈfeʃənəlɪzəm/",
+      "meaning": "职业素养",
+      "example": "Please share the professionalism after the meeting.",
+      "exampleZh": "会后请分享这个职业素养。",
+      "category": "office"
+    },
+    {
+      "word": "punctuality",
+      "phonetic": "/ˌpʌŋktʃuˈæləti/",
+      "meaning": "准时",
+      "example": "I updated the punctuality this morning.",
+      "exampleZh": "我今天早上更新了这个准时。",
+      "category": "office"
+    },
+    {
+      "word": "courtesy copy",
+      "phonetic": "/ˈkɜːtəsi ˈkɒpi/",
+      "meaning": "礼节抄送",
+      "example": "The courtesy copy is ready for review.",
+      "exampleZh": "这个礼节抄送已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "null value",
+      "phonetic": "/nʌl ˈvæljuː/",
+      "meaning": "空值",
+      "example": "Who supports this null value?",
+      "exampleZh": "谁支持这个空值？",
+      "category": "it"
+    },
+    {
+      "word": "data type",
+      "phonetic": "/ˈdeɪtə taɪp/",
+      "meaning": "数据类型",
+      "example": "Please review the data type after the patch.",
+      "exampleZh": "打补丁后请审阅这个数据类型。",
+      "category": "it"
+    },
+    {
+      "word": "character set",
+      "phonetic": "/ˈkærəktə set/",
+      "meaning": "字符集",
+      "example": "Please check the character set.",
+      "exampleZh": "请检查一下这个字符集。",
+      "category": "it"
+    },
+    {
+      "word": "collation",
+      "phonetic": "/kəˈleɪʃn/",
+      "meaning": "排序规则",
+      "example": "The collation is in production.",
+      "exampleZh": "这个排序规则已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "transaction",
+      "phonetic": "/trænˈzækʃn/",
+      "meaning": "事务",
+      "example": "Please review the transaction after the patch.",
+      "exampleZh": "打补丁后请审阅这个事务。",
+      "category": "it"
+    }
+  ]
+}

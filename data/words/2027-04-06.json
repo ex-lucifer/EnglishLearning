@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-06",
+  "words": [
+    {
+      "word": "cover letter",
+      "phonetic": "/ˈkʌvə ˈletə/",
+      "meaning": "说明函",
+      "example": "Please review the cover letter.",
+      "exampleZh": "请审阅一下这个说明函。",
+      "category": "office"
+    },
+    {
+      "word": "transmittal",
+      "phonetic": "/trænzˈmɪtl/",
+      "meaning": "送文单",
+      "example": "The transmittal is ready for review.",
+      "exampleZh": "这个送文单已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "routing slip",
+      "phonetic": "/ˈruːtɪŋ slɪp/",
+      "meaning": "传阅单",
+      "example": "I updated the routing slip this morning.",
+      "exampleZh": "我今天早上更新了这个传阅单。",
+      "category": "office"
+    },
+    {
+      "word": "approval chain",
+      "phonetic": "/əˈpruːvl tʃeɪn/",
+      "meaning": "审批链",
+      "example": "I updated the approval chain this morning.",
+      "exampleZh": "我今天早上更新了这个审批链。",
+      "category": "office"
+    },
+    {
+      "word": "counter-sign",
+      "phonetic": "/ˈkaʊntə saɪn/",
+      "meaning": "会签",
+      "example": "We need to counter-sign this by Friday.",
+      "exampleZh": "我们周五前需要会签这个。",
+      "category": "office"
+    },
+    {
+      "word": "UDP",
+      "phonetic": "/ˌjuː diː ˈpiː/",
+      "meaning": "用户数据报协议",
+      "example": "The UDP is slow this morning.",
+      "exampleZh": "今天早上 UDP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "TLS",
+      "phonetic": "/ˌtiː el ˈes/",
+      "meaning": "传输层安全",
+      "example": "The TLS is slow this morning.",
+      "exampleZh": "今天早上 TLS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "HTTPS",
+      "phonetic": "/ˌeɪtʃ tiː tiː piː ˈes/",
+      "meaning": "加密网页协议",
+      "example": "The HTTPS is slow this morning.",
+      "exampleZh": "今天早上 HTTPS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "HTTP",
+      "phonetic": "/ˌeɪtʃ tiː tiː ˈpiː/",
+      "meaning": "网页协议",
+      "example": "The HTTP is slow this morning.",
+      "exampleZh": "今天早上 HTTP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "FTP",
+      "phonetic": "/ˌef tiː ˈpiː/",
+      "meaning": "文件传输协议",
+      "example": "The FTP is slow this morning.",
+      "exampleZh": "今天早上 FTP 很慢。",
+      "category": "it"
+    }
+  ]
+}

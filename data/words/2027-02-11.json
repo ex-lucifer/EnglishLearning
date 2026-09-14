@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-11",
+  "words": [
+    {
+      "word": "issue",
+      "phonetic": "/ˈɪʃuː/",
+      "meaning": "印发",
+      "example": "I will issue it after the meeting.",
+      "exampleZh": "会后我会印发它。",
+      "category": "office"
+    },
+    {
+      "word": "announce",
+      "phonetic": "/əˈnaʊns/",
+      "meaning": "宣布",
+      "example": "Can you announce it today?",
+      "exampleZh": "你今天能宣布一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "communicate",
+      "phonetic": "/kəˈmjuːnɪkeɪt/",
+      "meaning": "沟通",
+      "example": "Can you communicate it today?",
+      "exampleZh": "你今天能沟通一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "discuss",
+      "phonetic": "/dɪˈskʌs/",
+      "meaning": "讨论",
+      "example": "Please discuss this before noon.",
+      "exampleZh": "请在中午前讨论这个。",
+      "category": "office"
+    },
+    {
+      "word": "consult",
+      "phonetic": "/kənˈsʌlt/",
+      "meaning": "征询",
+      "example": "Please consult this before noon.",
+      "exampleZh": "请在中午前征询这个。",
+      "category": "office"
+    },
+    {
+      "word": "sudo",
+      "phonetic": "/ˈsuːduː/",
+      "meaning": "提权命令",
+      "example": "Who supports this sudo?",
+      "exampleZh": "谁支持这个提权命令？",
+      "category": "it"
+    },
+    {
+      "word": "root account",
+      "phonetic": "/ruːt əˈkaʊnt/",
+      "meaning": "超级管理员",
+      "example": "The root account is in production.",
+      "exampleZh": "这个超级管理员已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "service restart",
+      "phonetic": "/ˈsɜːvɪs ˌriːˈstɑːt/",
+      "meaning": "服务重启",
+      "example": "Please review the service restart after the patch.",
+      "exampleZh": "打补丁后请审阅这个服务重启。",
+      "category": "it"
+    },
+    {
+      "word": "graceful restart",
+      "phonetic": "/ˈɡreɪsfl ˌriːˈstɑːt/",
+      "meaning": "平滑重启",
+      "example": "We need the graceful restart before go-live.",
+      "exampleZh": "上线前我们需要这个平滑重启。",
+      "category": "it"
+    },
+    {
+      "word": "hard reboot",
+      "phonetic": "/hɑːd ˌriːˈbuːt/",
+      "meaning": "强制重启",
+      "example": "Who supports this hard reboot?",
+      "exampleZh": "谁支持这个强制重启？",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-23",
+  "words": [
+    {
+      "word": "code of conduct",
+      "phonetic": "/kəʊd əv ˈkɒndʌkt/",
+      "meaning": "行为规范",
+      "example": "Who is handling the code of conduct?",
+      "exampleZh": "谁在处理这个行为规范？",
+      "category": "office"
+    },
+    {
+      "word": "conflict of interest",
+      "phonetic": "/ˈkɒnflɪkt əv ˈɪntrəst/",
+      "meaning": "利益冲突",
+      "example": "Please share the conflict of interest after the meeting.",
+      "exampleZh": "会后请分享这个利益冲突。",
+      "category": "office"
+    },
+    {
+      "word": "declaration",
+      "phonetic": "/ˌdekləˈreɪʃn/",
+      "meaning": "申报声明",
+      "example": "The declaration is ready for review.",
+      "exampleZh": "这个申报声明已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "confidentiality",
+      "phonetic": "/ˌkɒnfɪˌdenʃiˈæləti/",
+      "meaning": "保密义务",
+      "example": "Please share the confidentiality after the meeting.",
+      "exampleZh": "会后请分享这个保密义务。",
+      "category": "office"
+    },
+    {
+      "word": "non-disclosure",
+      "phonetic": "/nɒn dɪsˈkləʊʒə/",
+      "meaning": "保密约定",
+      "example": "Please review the non-disclosure.",
+      "exampleZh": "请审阅一下这个保密约定。",
+      "category": "office"
+    },
+    {
+      "word": "SCCM",
+      "phonetic": "/ˌes siː siː ˈem/",
+      "meaning": "系统中心配置管理",
+      "example": "The SCCM is slow this morning.",
+      "exampleZh": "今天早上 SCCM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "Intune",
+      "phonetic": "/ˈɪntjuːn/",
+      "meaning": "云端设备管理",
+      "example": "The Intune is in production.",
+      "exampleZh": "这个云端设备管理已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "MDM",
+      "phonetic": "/ˌem diː ˈem/",
+      "meaning": "移动设备管理",
+      "example": "The MDM is slow this morning.",
+      "exampleZh": "今天早上 MDM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "BYOD",
+      "phonetic": "/ˌbiː waɪ əʊ ˈdiː/",
+      "meaning": "自带设备",
+      "example": "The BYOD is slow this morning.",
+      "exampleZh": "今天早上 BYOD 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "mobile device",
+      "phonetic": "/ˈməʊbaɪl dɪˈvaɪs/",
+      "meaning": "移动设备",
+      "example": "Please review the mobile device after the patch.",
+      "exampleZh": "打补丁后请审阅这个移动设备。",
+      "category": "it"
+    }
+  ]
+}

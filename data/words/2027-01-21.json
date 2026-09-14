@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-21",
+  "words": [
+    {
+      "word": "trend",
+      "phonetic": "/trend/",
+      "meaning": "趋势",
+      "example": "I updated the trend this morning.",
+      "exampleZh": "我今天早上更新了这个趋势。",
+      "category": "office"
+    },
+    {
+      "word": "variance",
+      "phonetic": "/ˈveəriəns/",
+      "meaning": "偏差",
+      "example": "Please review the variance.",
+      "exampleZh": "请审阅一下这个偏差。",
+      "category": "office"
+    },
+    {
+      "word": "actuals",
+      "phonetic": "/ˈæktʃuəlz/",
+      "meaning": "实际数",
+      "example": "Please share the actuals after the meeting.",
+      "exampleZh": "会后请分享这个实际数。",
+      "category": "office"
+    },
+    {
+      "word": "forecast",
+      "phonetic": "/ˈfɔːkɑːst/",
+      "meaning": "预测",
+      "example": "Who is handling the forecast?",
+      "exampleZh": "谁在处理这个预测？",
+      "category": "office"
+    },
+    {
+      "word": "budget",
+      "phonetic": "/ˈbʌdʒɪt/",
+      "meaning": "预算",
+      "example": "Please review the budget.",
+      "exampleZh": "请审阅一下这个预算。",
+      "category": "office"
+    },
+    {
+      "word": "syslog",
+      "phonetic": "/ˈsɪslɒɡ/",
+      "meaning": "系统日志",
+      "example": "Who supports this syslog?",
+      "exampleZh": "谁支持这个系统日志？",
+      "category": "it"
+    },
+    {
+      "word": "audit log",
+      "phonetic": "/ˈɔːdɪt lɒɡ/",
+      "meaning": "审计日志",
+      "example": "We need the audit log before go-live.",
+      "exampleZh": "上线前我们需要这个审计日志。",
+      "category": "it"
+    },
+    {
+      "word": "application log",
+      "phonetic": "/ˌæplɪˈkeɪʃn lɒɡ/",
+      "meaning": "应用日志",
+      "example": "Please review the application log after the patch.",
+      "exampleZh": "打补丁后请审阅这个应用日志。",
+      "category": "it"
+    },
+    {
+      "word": "crash dump",
+      "phonetic": "/kræʃ dʌmp/",
+      "meaning": "崩溃转储",
+      "example": "We need the crash dump before go-live.",
+      "exampleZh": "上线前我们需要这个崩溃转储。",
+      "category": "it"
+    },
+    {
+      "word": "core dump",
+      "phonetic": "/kɔː dʌmp/",
+      "meaning": "核心转储",
+      "example": "We need the core dump before go-live.",
+      "exampleZh": "上线前我们需要这个核心转储。",
+      "category": "it"
+    }
+  ]
+}

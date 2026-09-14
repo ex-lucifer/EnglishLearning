@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-14",
+  "words": [
+    {
+      "word": "training roster",
+      "phonetic": "/ˈtreɪnɪŋ ˈrɒstə/",
+      "meaning": "培训名单",
+      "example": "Who is handling the training roster?",
+      "exampleZh": "谁在处理这个培训名单？",
+      "category": "office"
+    },
+    {
+      "word": "attendance sheet",
+      "phonetic": "/əˈtendəns ʃiːt/",
+      "meaning": "签到表",
+      "example": "Who is handling the attendance sheet?",
+      "exampleZh": "谁在处理这个签到表？",
+      "category": "office"
+    },
+    {
+      "word": "feedback form",
+      "phonetic": "/ˈfiːdbæk fɔːm/",
+      "meaning": "反馈表",
+      "example": "Who is handling the feedback form?",
+      "exampleZh": "谁在处理这个反馈表？",
+      "category": "office"
+    },
+    {
+      "word": "satisfaction survey",
+      "phonetic": "/ˌsætɪsˈfækʃn ˈsɜːveɪ/",
+      "meaning": "满意度调查",
+      "example": "Please share the satisfaction survey after the meeting.",
+      "exampleZh": "会后请分享这个满意度调查。",
+      "category": "office"
+    },
+    {
+      "word": "pulse survey",
+      "phonetic": "/pʌls ˈsɜːveɪ/",
+      "meaning": "快问快答调查",
+      "example": "Please share the pulse survey after the meeting.",
+      "exampleZh": "会后请分享这个快问快答调查。",
+      "category": "office"
+    },
+    {
+      "word": "security group",
+      "phonetic": "/sɪˈkjʊərəti ɡruːp/",
+      "meaning": "安全组",
+      "example": "Please check the security group.",
+      "exampleZh": "请检查一下这个安全组。",
+      "category": "it"
+    },
+    {
+      "word": "distribution group",
+      "phonetic": "/ˌdɪstrɪˈbjuːʃn ɡruːp/",
+      "meaning": "通讯组",
+      "example": "Please review the distribution group after the patch.",
+      "exampleZh": "打补丁后请审阅这个通讯组。",
+      "category": "it"
+    },
+    {
+      "word": "nested group",
+      "phonetic": "/ˈnestɪd ɡruːp/",
+      "meaning": "嵌套组",
+      "example": "Please review the nested group after the patch.",
+      "exampleZh": "打补丁后请审阅这个嵌套组。",
+      "category": "it"
+    },
+    {
+      "word": "group membership",
+      "phonetic": "/ɡruːp ˈmembəʃɪp/",
+      "meaning": "组成员关系",
+      "example": "Who supports this group membership?",
+      "exampleZh": "谁支持这个组成员关系？",
+      "category": "it"
+    },
+    {
+      "word": "sid",
+      "phonetic": "/sɪd/",
+      "meaning": "安全标识",
+      "example": "Please check the sid.",
+      "exampleZh": "请检查一下这个安全标识。",
+      "category": "it"
+    }
+  ]
+}

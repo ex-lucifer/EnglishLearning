@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-10",
+  "words": [
+    {
+      "word": "overrun",
+      "phonetic": "/ˌəʊvəˈrʌn/",
+      "meaning": "超时占用",
+      "example": "The overrun is ready for review.",
+      "exampleZh": "这个超时占用已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "buffer time",
+      "phonetic": "/ˈbʌfə taɪm/",
+      "meaning": "缓冲时间",
+      "example": "The buffer time is ready for review.",
+      "exampleZh": "这个缓冲时间已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "travel time",
+      "phonetic": "/ˈtrævl taɪm/",
+      "meaning": "路上时间",
+      "example": "Who is handling the travel time?",
+      "exampleZh": "谁在处理这个路上时间？",
+      "category": "office"
+    },
+    {
+      "word": "setup time",
+      "phonetic": "/ˈsetʌp taɪm/",
+      "meaning": "布置时间",
+      "example": "Please review the setup time.",
+      "exampleZh": "请审阅一下这个布置时间。",
+      "category": "office"
+    },
+    {
+      "word": "cleanup",
+      "phonetic": "/ˈkliːnʌp/",
+      "meaning": "清理现场",
+      "example": "Who is handling the cleanup?",
+      "exampleZh": "谁在处理这个清理现场？",
+      "category": "office"
+    },
+    {
+      "word": "metered network",
+      "phonetic": "/ˈmiːtəd ˈnetwɜːk/",
+      "meaning": "按流量网络",
+      "example": "The metered network is in production.",
+      "exampleZh": "这个按流量网络已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "delivery optimization",
+      "phonetic": "/dɪˈlɪvəri ˌɒptɪmaɪˈzeɪʃn/",
+      "meaning": "分发优化",
+      "example": "Who supports this delivery optimization?",
+      "exampleZh": "谁支持这个分发优化？",
+      "category": "it"
+    },
+    {
+      "word": "peer cache",
+      "phonetic": "/pɪə kæʃ/",
+      "meaning": "对等缓存",
+      "example": "We need the peer cache before go-live.",
+      "exampleZh": "上线前我们需要这个对等缓存。",
+      "category": "it"
+    },
+    {
+      "word": "branch cache",
+      "phonetic": "/brɑːntʃ kæʃ/",
+      "meaning": "分支缓存",
+      "example": "We need the branch cache before go-live.",
+      "exampleZh": "上线前我们需要这个分支缓存。",
+      "category": "it"
+    },
+    {
+      "word": "content server",
+      "phonetic": "/ˈkɒntent ˈsɜːvə/",
+      "meaning": "内容服务器",
+      "example": "Please check the content server.",
+      "exampleZh": "请检查一下这个内容服务器。",
+      "category": "it"
+    }
+  ]
+}

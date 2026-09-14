@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-20",
+  "words": [
+    {
+      "word": "negotiate",
+      "phonetic": "/nɪˈɡəʊʃieɪt/",
+      "meaning": "协商",
+      "example": "I will negotiate it after the meeting.",
+      "exampleZh": "会后我会协商它。",
+      "category": "office"
+    },
+    {
+      "word": "compromise",
+      "phonetic": "/ˈkɒmprəmaɪz/",
+      "meaning": "折中",
+      "example": "Who is handling the compromise?",
+      "exampleZh": "谁在处理这个折中？",
+      "category": "office"
+    },
+    {
+      "word": "consensus",
+      "phonetic": "/kənˈsensəs/",
+      "meaning": "共识",
+      "example": "Please review the consensus.",
+      "exampleZh": "请审阅一下这个共识。",
+      "category": "office"
+    },
+    {
+      "word": "feedback",
+      "phonetic": "/ˈfiːdbæk/",
+      "meaning": "反馈",
+      "example": "I updated the feedback this morning.",
+      "exampleZh": "我今天早上更新了这个反馈。",
+      "category": "office"
+    },
+    {
+      "word": "confidential",
+      "phonetic": "/ˌkɒnfɪˈdenʃl/",
+      "meaning": "保密的",
+      "example": "This request is confidential.",
+      "exampleZh": "这个请求是保密的的。",
+      "category": "office"
+    },
+    {
+      "word": "card printer",
+      "phonetic": "/kɑːd ˈprɪntə/",
+      "meaning": "卡片打印机",
+      "example": "Who supports this card printer?",
+      "exampleZh": "谁支持这个卡片打印机？",
+      "category": "it"
+    },
+    {
+      "word": "handheld terminal",
+      "phonetic": "/ˈhændheld ˈtɜːmɪnl/",
+      "meaning": "手持终端",
+      "example": "The handheld terminal is in production.",
+      "exampleZh": "这个手持终端已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "workstation",
+      "phonetic": "/ˈwɜːksteɪʃn/",
+      "meaning": "工作站",
+      "example": "The workstation is in production.",
+      "exampleZh": "这个工作站已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "thin client",
+      "phonetic": "/θɪn ˈklaɪənt/",
+      "meaning": "瘦客户机",
+      "example": "Who supports this thin client?",
+      "exampleZh": "谁支持这个瘦客户机？",
+      "category": "it"
+    },
+    {
+      "word": "fat client",
+      "phonetic": "/fæt ˈklaɪənt/",
+      "meaning": "胖客户机",
+      "example": "The fat client is in production.",
+      "exampleZh": "这个胖客户机已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

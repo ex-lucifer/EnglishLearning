@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-25",
+  "words": [
+    {
+      "word": "steering committee",
+      "phonetic": "/ˈstɪərɪŋ kəˈmɪti/",
+      "meaning": "指导委员会",
+      "example": "Please share the steering committee after the meeting.",
+      "exampleZh": "会后请分享这个指导委员会。",
+      "category": "office"
+    },
+    {
+      "word": "working group",
+      "phonetic": "/ˈwɜːkɪŋ ɡruːp/",
+      "meaning": "工作组",
+      "example": "Who is handling the working group?",
+      "exampleZh": "谁在处理这个工作组？",
+      "category": "office"
+    },
+    {
+      "word": "task force",
+      "phonetic": "/tɑːsk fɔːs/",
+      "meaning": "专项组",
+      "example": "Who is handling the task force?",
+      "exampleZh": "谁在处理这个专项组？",
+      "category": "office"
+    },
+    {
+      "word": "committee",
+      "phonetic": "/kəˈmɪti/",
+      "meaning": "委员会",
+      "example": "Please share the committee after the meeting.",
+      "exampleZh": "会后请分享这个委员会。",
+      "category": "office"
+    },
+    {
+      "word": "subcommittee",
+      "phonetic": "/ˈsʌbkəmɪti/",
+      "meaning": "分委会",
+      "example": "I updated the subcommittee this morning.",
+      "exampleZh": "我今天早上更新了这个分委会。",
+      "category": "office"
+    },
+    {
+      "word": "password expired",
+      "phonetic": "/ˈpɑːswɜːd ɪkˈspaɪəd/",
+      "meaning": "密码已过期",
+      "example": "We need the password expired before go-live.",
+      "exampleZh": "上线前我们需要这个密码已过期。",
+      "category": "it"
+    },
+    {
+      "word": "must change password",
+      "phonetic": "/mʌst tʃeɪndʒ ˈpɑːswɜːd/",
+      "meaning": "必须改密",
+      "example": "The account must change password at next logon.",
+      "exampleZh": "下次登录必须改密。",
+      "category": "it"
+    },
+    {
+      "word": "password never expires",
+      "phonetic": "/ˈpɑːswɜːd ˈnevə ɪkˈspaɪəz/",
+      "meaning": "密码永不过期",
+      "example": "Do not set password never expires on shared PCs.",
+      "exampleZh": "共享电脑不要设密码永不过期。",
+      "category": "it"
+    },
+    {
+      "word": "complex password",
+      "phonetic": "/ˈkɒmpleks ˈpɑːswɜːd/",
+      "meaning": "复杂密码",
+      "example": "Please check the complex password.",
+      "exampleZh": "请检查一下这个复杂密码。",
+      "category": "it"
+    },
+    {
+      "word": "passphrase",
+      "phonetic": "/ˈpɑːsfreɪz/",
+      "meaning": "密码短语",
+      "example": "The passphrase is in production.",
+      "exampleZh": "这个密码短语已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

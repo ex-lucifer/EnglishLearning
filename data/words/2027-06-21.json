@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-21",
+  "words": [
+    {
+      "word": "stretch break",
+      "phonetic": "/stretʃ breɪk/",
+      "meaning": "伸展休息",
+      "example": "The stretch break is ready for review.",
+      "exampleZh": "这个伸展休息已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "coffee break",
+      "phonetic": "/ˈkɒfi breɪk/",
+      "meaning": "茶歇",
+      "example": "Please review the coffee break.",
+      "exampleZh": "请审阅一下这个茶歇。",
+      "category": "office"
+    },
+    {
+      "word": "networking",
+      "phonetic": "/ˈnetwɜːkɪŋ/",
+      "meaning": "会间交流",
+      "example": "The networking is ready for review.",
+      "exampleZh": "这个会间交流已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "photo op",
+      "phonetic": "/ˈfəʊtəʊ ɒp/",
+      "meaning": "合影环节",
+      "example": "Please review the photo op.",
+      "exampleZh": "请审阅一下这个合影环节。",
+      "category": "office"
+    },
+    {
+      "word": "group photo",
+      "phonetic": "/ɡruːp ˈfəʊtəʊ/",
+      "meaning": "集体照",
+      "example": "Who is handling the group photo?",
+      "exampleZh": "谁在处理这个集体照？",
+      "category": "office"
+    },
+    {
+      "word": "living off the land",
+      "phonetic": "/ˈlɪvɪŋ ɒf ðə lænd/",
+      "meaning": "利用系统自带工具",
+      "example": "We need the living off the land before go-live.",
+      "exampleZh": "上线前我们需要这个利用系统自带工具。",
+      "category": "it"
+    },
+    {
+      "word": "IOC",
+      "phonetic": "/ˌaɪ əʊ ˈsiː/",
+      "meaning": "失陷指标",
+      "example": "The IOC is slow this morning.",
+      "exampleZh": "今天早上 IOC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "IOA",
+      "phonetic": "/ˌaɪ əʊ ˈeɪ/",
+      "meaning": "攻击行为指标",
+      "example": "The IOA is slow this morning.",
+      "exampleZh": "今天早上 IOA 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "threat intel",
+      "phonetic": "/θret ˈɪntel/",
+      "meaning": "威胁情报",
+      "example": "Who supports this threat intel?",
+      "exampleZh": "谁支持这个威胁情报？",
+      "category": "it"
+    },
+    {
+      "word": "indicator",
+      "phonetic": "/ˈɪndɪkeɪtə/",
+      "meaning": "威胁指标",
+      "example": "We need the indicator before go-live.",
+      "exampleZh": "上线前我们需要这个威胁指标。",
+      "category": "it"
+    }
+  ]
+}

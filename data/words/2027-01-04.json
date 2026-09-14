@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-04",
+  "words": [
+    {
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "meaning": "报销申请",
+      "example": "Who is handling the claim?",
+      "exampleZh": "谁在处理这个报销申请？",
+      "category": "office"
+    },
+    {
+      "word": "encounter",
+      "phonetic": "/ɪnˈkaʊntə/",
+      "meaning": "就诊记录",
+      "example": "The encounter is ready for review.",
+      "exampleZh": "这个就诊记录已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "meaning": "就诊",
+      "example": "Please share the visit after the meeting.",
+      "exampleZh": "会后请分享这个就诊。",
+      "category": "office"
+    },
+    {
+      "word": "no-show",
+      "phonetic": "/nəʊ ʃəʊ/",
+      "meaning": "爽约未到",
+      "example": "The no-show is ready for review.",
+      "exampleZh": "这个爽约未到已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "triage desk",
+      "phonetic": "/ˈtriːɑːʒ desk/",
+      "meaning": "分诊台",
+      "example": "The triage desk is ready for review.",
+      "exampleZh": "这个分诊台已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "jitter",
+      "phonetic": "/ˈdʒɪtə/",
+      "meaning": "抖动",
+      "example": "Who supports this jitter?",
+      "exampleZh": "谁支持这个抖动？",
+      "category": "it"
+    },
+    {
+      "word": "traceroute",
+      "phonetic": "/ˈtreɪsruːt/",
+      "meaning": "路由跟踪",
+      "example": "Please check the traceroute.",
+      "exampleZh": "请检查一下这个路由跟踪。",
+      "category": "it"
+    },
+    {
+      "word": "packet capture",
+      "phonetic": "/ˈpækɪt ˈkæptʃə/",
+      "meaning": "抓包",
+      "example": "Who supports this packet capture?",
+      "exampleZh": "谁支持这个抓包？",
+      "category": "it"
+    },
+    {
+      "word": "Wireshark",
+      "phonetic": "/ˈwaɪəʃɑːk/",
+      "meaning": "抓包工具",
+      "example": "We need the Wireshark before go-live.",
+      "exampleZh": "上线前我们需要这个抓包工具。",
+      "category": "it"
+    },
+    {
+      "word": "NIC",
+      "phonetic": "/nɪk/",
+      "meaning": "网卡",
+      "example": "The NIC is slow this morning.",
+      "exampleZh": "今天早上 NIC 很慢。",
+      "category": "it"
+    }
+  ]
+}

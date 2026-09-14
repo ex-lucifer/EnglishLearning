@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-29",
+  "words": [
+    {
+      "word": "reception",
+      "phonetic": "/rɪˈsepʃn/",
+      "meaning": "接待",
+      "example": "Who is handling the reception?",
+      "exampleZh": "谁在处理这个接待？",
+      "category": "office"
+    },
+    {
+      "word": "waiting list",
+      "phonetic": "/ˈweɪtɪŋ lɪst/",
+      "meaning": "等候名单",
+      "example": "Please share the waiting list after the meeting.",
+      "exampleZh": "会后请分享这个等候名单。",
+      "category": "office"
+    },
+    {
+      "word": "queue",
+      "phonetic": "/kjuː/",
+      "meaning": "排队",
+      "example": "Please share the queue after the meeting.",
+      "exampleZh": "会后请分享这个排队。",
+      "category": "office"
+    },
+    {
+      "word": "census",
+      "phonetic": "/ˈsensəs/",
+      "meaning": "在院人数",
+      "example": "The census is ready for review.",
+      "exampleZh": "这个在院人数已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "occupancy",
+      "phonetic": "/ˈɒkjəpənsi/",
+      "meaning": "床位占用率",
+      "example": "Who is handling the occupancy?",
+      "exampleZh": "谁在处理这个床位占用率？",
+      "category": "office"
+    },
+    {
+      "word": "heartbeat",
+      "phonetic": "/ˈhɑːtbiːt/",
+      "meaning": "心跳检测",
+      "example": "Please review the heartbeat after the patch.",
+      "exampleZh": "打补丁后请审阅这个心跳检测。",
+      "category": "it"
+    },
+    {
+      "word": "quorum disk",
+      "phonetic": "/ˈkwɔːrəm dɪsk/",
+      "meaning": "仲裁磁盘",
+      "example": "Please review the quorum disk after the patch.",
+      "exampleZh": "打补丁后请审阅这个仲裁磁盘。",
+      "category": "it"
+    },
+    {
+      "word": "shared storage",
+      "phonetic": "/ʃeəd ˈstɔːrɪdʒ/",
+      "meaning": "共享存储",
+      "example": "We need the shared storage before go-live.",
+      "exampleZh": "上线前我们需要这个共享存储。",
+      "category": "it"
+    },
+    {
+      "word": "SAN",
+      "phonetic": "/sæn/",
+      "meaning": "存储区域网",
+      "example": "The SAN is slow this morning.",
+      "exampleZh": "今天早上 SAN 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "NAS",
+      "phonetic": "/næs/",
+      "meaning": "网络附加存储",
+      "example": "The NAS is slow this morning.",
+      "exampleZh": "今天早上 NAS 很慢。",
+      "category": "it"
+    }
+  ]
+}

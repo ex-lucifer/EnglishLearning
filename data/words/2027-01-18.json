@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-18",
+  "words": [
+    {
+      "word": "checklist audit",
+      "phonetic": "/ˈtʃeklɪst ˈɔːdɪt/",
+      "meaning": "清单抽查",
+      "example": "Please review the checklist audit.",
+      "exampleZh": "请审阅一下这个清单抽查。",
+      "category": "office"
+    },
+    {
+      "word": "spot check",
+      "phonetic": "/spɒt tʃek/",
+      "meaning": "突击检查",
+      "example": "I updated the spot check this morning.",
+      "exampleZh": "我今天早上更新了这个突击检查。",
+      "category": "office"
+    },
+    {
+      "word": "walkthrough",
+      "phonetic": "/ˈwɔːkθruː/",
+      "meaning": "现场走查",
+      "example": "I updated the walkthrough this morning.",
+      "exampleZh": "我今天早上更新了这个现场走查。",
+      "category": "office"
+    },
+    {
+      "word": "inspection",
+      "phonetic": "/ɪnˈspekʃn/",
+      "meaning": "检查",
+      "example": "Please review the inspection.",
+      "exampleZh": "请审阅一下这个检查。",
+      "category": "office"
+    },
+    {
+      "word": "finding",
+      "phonetic": "/ˈfaɪndɪŋ/",
+      "meaning": "检查发现",
+      "example": "Please share the finding after the meeting.",
+      "exampleZh": "会后请分享这个检查发现。",
+      "category": "office"
+    },
+    {
+      "word": "knowledge base",
+      "phonetic": "/ˈnɒlɪdʒ beɪs/",
+      "meaning": "知识库",
+      "example": "Please review the knowledge base after the patch.",
+      "exampleZh": "打补丁后请审阅这个知识库。",
+      "category": "it"
+    },
+    {
+      "word": "runbook",
+      "phonetic": "/ˈrʌnbʊk/",
+      "meaning": "操作手册",
+      "example": "Please review the runbook after the patch.",
+      "exampleZh": "打补丁后请审阅这个操作手册。",
+      "category": "it"
+    },
+    {
+      "word": "playbook",
+      "phonetic": "/ˈpleɪbʊk/",
+      "meaning": "应急剧本",
+      "example": "Please check the playbook.",
+      "exampleZh": "请检查一下这个应急剧本。",
+      "category": "it"
+    },
+    {
+      "word": "escalation path IT",
+      "phonetic": "/ˌeskəˈleɪʃn pɑːθ aɪ ˈtiː/",
+      "meaning": "技术升级路径",
+      "example": "Please check the escalation path IT.",
+      "exampleZh": "请检查一下这个技术升级路径。",
+      "category": "it"
+    },
+    {
+      "word": "ticket queue",
+      "phonetic": "/ˈtɪkɪt kjuː/",
+      "meaning": "工单队列",
+      "example": "Please check the ticket queue.",
+      "exampleZh": "请检查一下这个工单队列。",
+      "category": "it"
+    }
+  ]
+}

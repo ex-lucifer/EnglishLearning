@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-11",
+  "words": [
+    {
+      "word": "staff",
+      "phonetic": "/stɑːf/",
+      "meaning": "员工",
+      "example": "The staff is ready for review.",
+      "exampleZh": "这个员工已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "workforce",
+      "phonetic": "/ˈwɜːkfɔːs/",
+      "meaning": "人力",
+      "example": "The workforce is ready for review.",
+      "exampleZh": "这个人力已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "shift handover",
+      "phonetic": "/ʃɪft ˈhændəʊvə/",
+      "meaning": "交接班",
+      "example": "Please review the shift handover.",
+      "exampleZh": "请审阅一下这个交接班。",
+      "category": "office"
+    },
+    {
+      "word": "morning huddle",
+      "phonetic": "/ˈmɔːnɪŋ ˈhʌdl/",
+      "meaning": "晨会",
+      "example": "I updated the morning huddle this morning.",
+      "exampleZh": "我今天早上更新了这个晨会。",
+      "category": "office"
+    },
+    {
+      "word": "evening report",
+      "phonetic": "/ˈiːvnɪŋ rɪˈpɔːt/",
+      "meaning": "晚交班",
+      "example": "Who is handling the evening report?",
+      "exampleZh": "谁在处理这个晚交班？",
+      "category": "office"
+    },
+    {
+      "word": "one-time password",
+      "phonetic": "/wʌn taɪm ˈpɑːswɜːd/",
+      "meaning": "一次性密码",
+      "example": "Please review the one-time password after the patch.",
+      "exampleZh": "打补丁后请审阅这个一次性密码。",
+      "category": "it"
+    },
+    {
+      "word": "OTP",
+      "phonetic": "/ˌəʊ tiː ˈpiː/",
+      "meaning": "一次性口令",
+      "example": "The OTP is slow this morning.",
+      "exampleZh": "今天早上 OTP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "smart card",
+      "phonetic": "/smɑːt kɑːd/",
+      "meaning": "智能卡",
+      "example": "Who supports this smart card?",
+      "exampleZh": "谁支持这个智能卡？",
+      "category": "it"
+    },
+    {
+      "word": "badge reader",
+      "phonetic": "/bædʒ ˈriːdə/",
+      "meaning": "门禁读卡器",
+      "example": "The badge reader is in production.",
+      "exampleZh": "这个门禁读卡器已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "biometric",
+      "phonetic": "/ˌbaɪəʊˈmetrɪk/",
+      "meaning": "生物识别",
+      "example": "We need the biometric before go-live.",
+      "exampleZh": "上线前我们需要这个生物识别。",
+      "category": "it"
+    }
+  ]
+}

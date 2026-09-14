@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-30",
+  "words": [
+    {
+      "word": "shift allowance",
+      "phonetic": "/ʃɪft əˈlaʊəns/",
+      "meaning": "班次津贴",
+      "example": "Who is handling the shift allowance?",
+      "exampleZh": "谁在处理这个班次津贴？",
+      "category": "office"
+    },
+    {
+      "word": "night differential",
+      "phonetic": "/naɪt ˌdɪfəˈrenʃl/",
+      "meaning": "夜班补贴",
+      "example": "Please share the night differential after the meeting.",
+      "exampleZh": "会后请分享这个夜班补贴。",
+      "category": "office"
+    },
+    {
+      "word": "on-call pay",
+      "phonetic": "/ɒn kɔːl peɪ/",
+      "meaning": "值班津贴",
+      "example": "I updated the on-call pay this morning.",
+      "exampleZh": "我今天早上更新了这个值班津贴。",
+      "category": "office"
+    },
+    {
+      "word": "meal voucher",
+      "phonetic": "/miːl ˈvaʊtʃə/",
+      "meaning": "餐券",
+      "example": "Who is handling the meal voucher?",
+      "exampleZh": "谁在处理这个餐券？",
+      "category": "office"
+    },
+    {
+      "word": "transport allowance",
+      "phonetic": "/ˈtrænspɔːt əˈlaʊəns/",
+      "meaning": "交通补贴",
+      "example": "Who is handling the transport allowance?",
+      "exampleZh": "谁在处理这个交通补贴？",
+      "category": "office"
+    },
+    {
+      "word": "secure boot",
+      "phonetic": "/sɪˈkjʊə buːt/",
+      "meaning": "安全启动",
+      "example": "Please review the secure boot after the patch.",
+      "exampleZh": "打补丁后请审阅这个安全启动。",
+      "category": "it"
+    },
+    {
+      "word": "measured boot",
+      "phonetic": "/ˈmeʒəd buːt/",
+      "meaning": "度量启动",
+      "example": "Who supports this measured boot?",
+      "exampleZh": "谁支持这个度量启动？",
+      "category": "it"
+    },
+    {
+      "word": "TPM",
+      "phonetic": "/ˌtiː piː ˈem/",
+      "meaning": "可信平台模块",
+      "example": "The TPM is slow this morning.",
+      "exampleZh": "今天早上 TPM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "PCR",
+      "phonetic": "/ˌpiː siː ˈɑː/",
+      "meaning": "平台配置寄存器",
+      "example": "The PCR is slow this morning.",
+      "exampleZh": "今天早上 PCR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "BitLocker recovery",
+      "phonetic": "/ˈbɪtlɒkə rɪˈkʌvəri/",
+      "meaning": "磁盘恢复密钥",
+      "example": "Please review the BitLocker recovery after the patch.",
+      "exampleZh": "打补丁后请审阅这个磁盘恢复密钥。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-12",
+  "words": [
+    {
+      "word": "parking-lot item",
+      "phonetic": "/ˈpɑːkɪŋ lɒt ˈaɪtəm/",
+      "meaning": "暂记事项",
+      "example": "Please share the parking-lot item after the meeting.",
+      "exampleZh": "会后请分享这个暂记事项。",
+      "category": "office"
+    },
+    {
+      "word": "decision log",
+      "phonetic": "/dɪˈsɪʒn lɒɡ/",
+      "meaning": "决策记录",
+      "example": "Please review the decision log.",
+      "exampleZh": "请审阅一下这个决策记录。",
+      "category": "office"
+    },
+    {
+      "word": "RACI",
+      "phonetic": "/ˈreɪsi/",
+      "meaning": "权责矩阵",
+      "example": "Please put RACI on the email.",
+      "exampleZh": "请在邮件里注明 RACI。",
+      "category": "office"
+    },
+    {
+      "word": "responsible",
+      "phonetic": "/rɪˈspɒnsəbl/",
+      "meaning": "负责执行的",
+      "example": "The timeline looks responsible.",
+      "exampleZh": "时间看起来负责执行的。",
+      "category": "office"
+    },
+    {
+      "word": "accountable",
+      "phonetic": "/əˈkaʊntəbl/",
+      "meaning": "最终负责的",
+      "example": "Stay accountable in the meeting.",
+      "exampleZh": "会上请保持最终负责的。",
+      "category": "office"
+    },
+    {
+      "word": "proxy server",
+      "phonetic": "/ˈprɒksi ˈsɜːvə/",
+      "meaning": "代理服务器",
+      "example": "We need the proxy server before go-live.",
+      "exampleZh": "上线前我们需要这个代理服务器。",
+      "category": "it"
+    },
+    {
+      "word": "backup job",
+      "phonetic": "/ˈbækʌp dʒɒb/",
+      "meaning": "备份任务",
+      "example": "Please check the backup job.",
+      "exampleZh": "请检查一下这个备份任务。",
+      "category": "it"
+    },
+    {
+      "word": "restore point",
+      "phonetic": "/rɪˈstɔː pɔɪnt/",
+      "meaning": "还原点",
+      "example": "Who supports this restore point?",
+      "exampleZh": "谁支持这个还原点？",
+      "category": "it"
+    },
+    {
+      "word": "snapshot",
+      "phonetic": "/ˈsnæpʃɒt/",
+      "meaning": "快照",
+      "example": "Please check the snapshot.",
+      "exampleZh": "请检查一下这个快照。",
+      "category": "it"
+    },
+    {
+      "word": "cold backup",
+      "phonetic": "/kəʊld ˈbækʌp/",
+      "meaning": "冷备份",
+      "example": "The cold backup is in production.",
+      "exampleZh": "这个冷备份已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

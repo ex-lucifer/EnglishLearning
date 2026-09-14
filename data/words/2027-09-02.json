@@ -1,0 +1,85 @@
+{
+  "date": "2027-09-02",
+  "words": [
+    {
+      "word": "invalid request",
+      "phonetic": "/ɪnˈvælɪd rɪˈkwest/",
+      "meaning": "无效请求",
+      "example": "Please share the invalid request after the meeting.",
+      "exampleZh": "会后请分享这个无效请求。",
+      "category": "office"
+    },
+    {
+      "word": "incomplete form",
+      "phonetic": "/ˌɪnkəmˈpliːt fɔːm/",
+      "meaning": "不完整表格",
+      "example": "The incomplete form is ready for review.",
+      "exampleZh": "这个不完整表格已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "missing field",
+      "phonetic": "/ˈmɪsɪŋ fiːld/",
+      "meaning": "漏填字段",
+      "example": "Please share the missing field after the meeting.",
+      "exampleZh": "会后请分享这个漏填字段。",
+      "category": "office"
+    },
+    {
+      "word": "wrong date",
+      "phonetic": "/rɒŋ deɪt/",
+      "meaning": "日期填错",
+      "example": "The wrong date is ready for review.",
+      "exampleZh": "这个日期填错已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "illegible",
+      "phonetic": "/ɪˈledʒəbl/",
+      "meaning": "字迹难认的",
+      "example": "Please keep this illegible.",
+      "exampleZh": "请保持字迹难认的。",
+      "category": "office"
+    },
+    {
+      "word": "mailbox database",
+      "phonetic": "/ˈmeɪlbɒks ˈdeɪtəbeɪs/",
+      "meaning": "邮箱数据库",
+      "example": "The mailbox database is in production.",
+      "exampleZh": "这个邮箱数据库已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "mailbox quota",
+      "phonetic": "/ˈmeɪlbɒks ˈkwəʊtə/",
+      "meaning": "邮箱配额",
+      "example": "The mailbox quota is in production.",
+      "exampleZh": "这个邮箱配额已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "archive mailbox",
+      "phonetic": "/ˈɑːkaɪv ˈmeɪlbɒks/",
+      "meaning": "归档邮箱",
+      "example": "Please check the archive mailbox.",
+      "exampleZh": "请检查一下这个归档邮箱。",
+      "category": "it"
+    },
+    {
+      "word": "litigation hold",
+      "phonetic": "/ˌlɪtɪˈɡeɪʃn həʊld/",
+      "meaning": "诉讼保留",
+      "example": "We need the litigation hold before go-live.",
+      "exampleZh": "上线前我们需要这个诉讼保留。",
+      "category": "it"
+    },
+    {
+      "word": "in-place hold",
+      "phonetic": "/ɪn pleɪs həʊld/",
+      "meaning": "就地保留",
+      "example": "Please review the in-place hold after the patch.",
+      "exampleZh": "打补丁后请审阅这个就地保留。",
+      "category": "it"
+    }
+  ]
+}

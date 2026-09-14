@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-04",
+  "words": [
+    {
+      "word": "release of information",
+      "phonetic": "/rɪˈliːs əv ˌɪnfəˈmeɪʃn/",
+      "meaning": "信息调取",
+      "example": "Please share the release of information after the meeting.",
+      "exampleZh": "会后请分享这个信息调取。",
+      "category": "office"
+    },
+    {
+      "word": "authorization form",
+      "phonetic": "/ˌɔːθəraɪˈzeɪʃn fɔːm/",
+      "meaning": "授权书",
+      "example": "I updated the authorization form this morning.",
+      "exampleZh": "我今天早上更新了这个授权书。",
+      "category": "office"
+    },
+    {
+      "word": "identity check",
+      "phonetic": "/aɪˈdentəti tʃek/",
+      "meaning": "身份核验",
+      "example": "The identity check is ready for review.",
+      "exampleZh": "这个身份核验已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "next of kin",
+      "phonetic": "/nekst əv kɪn/",
+      "meaning": "近亲属",
+      "example": "I updated the next of kin this morning.",
+      "exampleZh": "我今天早上更新了这个近亲属。",
+      "category": "office"
+    },
+    {
+      "word": "emergency contact",
+      "phonetic": "/ɪˈmɜːdʒənsi ˈkɒntækt/",
+      "meaning": "紧急联系人",
+      "example": "The emergency contact is ready for review.",
+      "exampleZh": "这个紧急联系人已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "NUMA",
+      "phonetic": "/ˈnjuːmə/",
+      "meaning": "内存亲和架构",
+      "example": "The NUMA is slow this morning.",
+      "exampleZh": "今天早上 NUMA 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "vCPU",
+      "phonetic": "/viː ˌsiː piː ˈjuː/",
+      "meaning": "虚拟处理器",
+      "example": "Please check the vCPU.",
+      "exampleZh": "请检查一下这个虚拟处理器。",
+      "category": "it"
+    },
+    {
+      "word": "vRAM",
+      "phonetic": "/ˈviːræm/",
+      "meaning": "虚拟内存",
+      "example": "The vRAM is in production.",
+      "exampleZh": "这个虚拟内存已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "guest OS",
+      "phonetic": "/ɡest əʊ ˈes/",
+      "meaning": "客户机系统",
+      "example": "The guest OS is in production.",
+      "exampleZh": "这个客户机系统已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "host OS",
+      "phonetic": "/həʊst əʊ ˈes/",
+      "meaning": "宿主机系统",
+      "example": "Who supports this host OS?",
+      "exampleZh": "谁支持这个宿主机系统？",
+      "category": "it"
+    }
+  ]
+}

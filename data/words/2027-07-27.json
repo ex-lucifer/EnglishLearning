@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-27",
+  "words": [
+    {
+      "word": "help window",
+      "phonetic": "/help ˈwɪndəʊ/",
+      "meaning": "服务窗口",
+      "example": "The help window is ready for review.",
+      "exampleZh": "这个服务窗口已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "service counter",
+      "phonetic": "/ˈsɜːvɪs ˈkaʊntə/",
+      "meaning": "服务台",
+      "example": "The service counter is ready for review.",
+      "exampleZh": "这个服务台已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "ticket window",
+      "phonetic": "/ˈtɪkɪt ˈwɪndəʊ/",
+      "meaning": "窗口",
+      "example": "Please review the ticket window.",
+      "exampleZh": "请审阅一下这个窗口。",
+      "category": "office"
+    },
+    {
+      "word": "queue number",
+      "phonetic": "/kjuː ˈnʌmbə/",
+      "meaning": "排队号",
+      "example": "I updated the queue number this morning.",
+      "exampleZh": "我今天早上更新了这个排队号。",
+      "category": "office"
+    },
+    {
+      "word": "calling system",
+      "phonetic": "/ˈkɔːlɪŋ ˈsɪstəm/",
+      "meaning": "叫号系统",
+      "example": "Who is handling the calling system?",
+      "exampleZh": "谁在处理这个叫号系统？",
+      "category": "office"
+    },
+    {
+      "word": "overcommit",
+      "phonetic": "/ˌəʊvəˈkɒmɪt/",
+      "meaning": "超分",
+      "example": "Let's overcommit this first.",
+      "exampleZh": "我们先超分这个吧。",
+      "category": "it"
+    },
+    {
+      "word": "storage pool",
+      "phonetic": "/ˈstɔːrɪdʒ puːl/",
+      "meaning": "存储池",
+      "example": "Please review the storage pool after the patch.",
+      "exampleZh": "打补丁后请审阅这个存储池。",
+      "category": "it"
+    },
+    {
+      "word": "datastore",
+      "phonetic": "/ˈdeɪtəstɔː/",
+      "meaning": "数据存储",
+      "example": "Please review the datastore after the patch.",
+      "exampleZh": "打补丁后请审阅这个数据存储。",
+      "category": "it"
+    },
+    {
+      "word": "VMDK",
+      "phonetic": "/ˌviː em diː ˈkeɪ/",
+      "meaning": "虚拟磁盘文件",
+      "example": "The VMDK is slow this morning.",
+      "exampleZh": "今天早上 VMDK 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "VHD",
+      "phonetic": "/ˌviː eɪtʃ ˈdiː/",
+      "meaning": "虚拟硬盘",
+      "example": "The VHD is slow this morning.",
+      "exampleZh": "今天早上 VHD 很慢。",
+      "category": "it"
+    }
+  ]
+}

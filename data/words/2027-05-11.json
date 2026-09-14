@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-11",
+  "words": [
+    {
+      "word": "mid-morning",
+      "phonetic": "/mɪd ˈmɔːnɪŋ/",
+      "meaning": "上午过半",
+      "example": "The mid-morning is ready for review.",
+      "exampleZh": "这个上午过半已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "mid-afternoon",
+      "phonetic": "/mɪd ˌɑːftəˈnuːn/",
+      "meaning": "下午过半",
+      "example": "The mid-afternoon is ready for review.",
+      "exampleZh": "这个下午过半已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "COB",
+      "phonetic": "/ˌsiː əʊ ˈbiː/",
+      "meaning": "下班前",
+      "example": "Please put COB on the email.",
+      "exampleZh": "请在邮件里注明 COB。",
+      "category": "office"
+    },
+    {
+      "word": "EOB",
+      "phonetic": "/ˌiː əʊ ˈbiː/",
+      "meaning": "业务结束前",
+      "example": "Please put EOB on the email.",
+      "exampleZh": "请在邮件里注明 EOB。",
+      "category": "office"
+    },
+    {
+      "word": "ETA",
+      "phonetic": "/ˌiː tiː ˈeɪ/",
+      "meaning": "预计到达时间",
+      "example": "Please put ETA on the email.",
+      "exampleZh": "请在邮件里注明 ETA。",
+      "category": "office"
+    },
+    {
+      "word": "container runtime",
+      "phonetic": "/kənˈteɪnə ˈrʌntaɪm/",
+      "meaning": "容器运行时",
+      "example": "Please review the container runtime after the patch.",
+      "exampleZh": "打补丁后请审阅这个容器运行时。",
+      "category": "it"
+    },
+    {
+      "word": "image pull",
+      "phonetic": "/ˈɪmɪdʒ pʊl/",
+      "meaning": "拉取镜像",
+      "example": "Please review the image pull after the patch.",
+      "exampleZh": "打补丁后请审阅这个拉取镜像。",
+      "category": "it"
+    },
+    {
+      "word": "image registry",
+      "phonetic": "/ˈɪmɪdʒ ˈredʒɪstri/",
+      "meaning": "镜像仓库",
+      "example": "Who supports this image registry?",
+      "exampleZh": "谁支持这个镜像仓库？",
+      "category": "it"
+    },
+    {
+      "word": "image tag",
+      "phonetic": "/ˈɪmɪdʒ tæɡ/",
+      "meaning": "镜像标签",
+      "example": "Please review the image tag after the patch.",
+      "exampleZh": "打补丁后请审阅这个镜像标签。",
+      "category": "it"
+    },
+    {
+      "word": "digest",
+      "phonetic": "/ˈdaɪdʒest/",
+      "meaning": "镜像摘要",
+      "example": "Please check the digest.",
+      "exampleZh": "请检查一下这个镜像摘要。",
+      "category": "it"
+    }
+  ]
+}

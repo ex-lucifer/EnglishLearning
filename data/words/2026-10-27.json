@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-27",
+  "words": [
+    {
+      "word": "subject line",
+      "phonetic": "/ˈsʌbdʒɪkt laɪn/",
+      "meaning": "邮件主题",
+      "example": "Who is handling the subject line?",
+      "exampleZh": "谁在处理这个邮件主题？",
+      "category": "office"
+    },
+    {
+      "word": "attachment",
+      "phonetic": "/əˈtætʃmənt/",
+      "meaning": "附件",
+      "example": "Please share the attachment after the meeting.",
+      "exampleZh": "会后请分享这个附件。",
+      "category": "office"
+    },
+    {
+      "word": "thread",
+      "phonetic": "/θred/",
+      "meaning": "邮件串",
+      "example": "The thread is ready for review.",
+      "exampleZh": "这个邮件串已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "inbox",
+      "phonetic": "/ˈɪnbɒks/",
+      "meaning": "收件箱",
+      "example": "Please share the inbox after the meeting.",
+      "exampleZh": "会后请分享这个收件箱。",
+      "category": "office"
+    },
+    {
+      "word": "FYI",
+      "phonetic": "/ˌef waɪ ˈaɪ/",
+      "meaning": "仅供参考",
+      "example": "Please put FYI on the email.",
+      "exampleZh": "请在邮件里注明 FYI。",
+      "category": "office"
+    },
+    {
+      "word": "order set",
+      "phonetic": "/ˈɔːdə set/",
+      "meaning": "医嘱套餐",
+      "example": "We need the order set before go-live.",
+      "exampleZh": "上线前我们需要这个医嘱套餐。",
+      "category": "it"
+    },
+    {
+      "word": "care plan",
+      "phonetic": "/keə plæn/",
+      "meaning": "护理计划",
+      "example": "We need the care plan before go-live.",
+      "exampleZh": "上线前我们需要这个护理计划。",
+      "category": "it"
+    },
+    {
+      "word": "flowsheet",
+      "phonetic": "/ˈfləʊʃiːt/",
+      "meaning": "护理记录单",
+      "example": "The flowsheet is in production.",
+      "exampleZh": "这个护理记录单已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "MAR",
+      "phonetic": "/mɑː/",
+      "meaning": "用药执行单",
+      "example": "The MAR is slow this morning.",
+      "exampleZh": "今天早上 MAR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "eMAR",
+      "phonetic": "/ˈiːmɑː/",
+      "meaning": "电子用药执行单",
+      "example": "The eMAR is slow this morning.",
+      "exampleZh": "今天早上 eMAR 很慢。",
+      "category": "it"
+    }
+  ]
+}

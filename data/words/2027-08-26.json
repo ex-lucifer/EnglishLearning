@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-26",
+  "words": [
+    {
+      "word": "take care",
+      "phonetic": "/teɪk keə/",
+      "meaning": "多保重",
+      "example": "Take care on your way home.",
+      "exampleZh": "回家路上多保重。",
+      "category": "office"
+    },
+    {
+      "word": "good morning",
+      "phonetic": "/ɡʊd ˈmɔːnɪŋ/",
+      "meaning": "早上好",
+      "example": "Good morning, the roster is ready.",
+      "exampleZh": "早上好，排班已经好了。",
+      "category": "office"
+    },
+    {
+      "word": "good afternoon",
+      "phonetic": "/ɡʊd ˌɑːftəˈnuːn/",
+      "meaning": "下午好",
+      "example": "Good afternoon, shall we start?",
+      "exampleZh": "下午好，我们开始吗？",
+      "category": "office"
+    },
+    {
+      "word": "good evening",
+      "phonetic": "/ɡʊd ˈiːvnɪŋ/",
+      "meaning": "晚上好",
+      "example": "Good evening, night shift is here.",
+      "exampleZh": "晚上好，夜班到了。",
+      "category": "office"
+    },
+    {
+      "word": "welcome back",
+      "phonetic": "/ˈwelkəm bæk/",
+      "meaning": "欢迎回来",
+      "example": "Welcome back from leave.",
+      "exampleZh": "欢迎休假回来。",
+      "category": "office"
+    },
+    {
+      "word": "DoT",
+      "phonetic": "/dɒt/",
+      "meaning": "加密域名传输",
+      "example": "The DoT is slow this morning.",
+      "exampleZh": "今天早上 DoT 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "split DNS",
+      "phonetic": "/splɪt ˌdiː en ˈes/",
+      "meaning": "内外域名分离",
+      "example": "Please check the split DNS.",
+      "exampleZh": "请检查一下这个内外域名分离。",
+      "category": "it"
+    },
+    {
+      "word": "internal zone",
+      "phonetic": "/ɪnˈtɜːnl zəʊn/",
+      "meaning": "内网区域",
+      "example": "Please check the internal zone.",
+      "exampleZh": "请检查一下这个内网区域。",
+      "category": "it"
+    },
+    {
+      "word": "external zone",
+      "phonetic": "/ɪkˈstɜːnl zəʊn/",
+      "meaning": "外网区域",
+      "example": "Who supports this external zone?",
+      "exampleZh": "谁支持这个外网区域？",
+      "category": "it"
+    },
+    {
+      "word": "reverse zone",
+      "phonetic": "/rɪˈvɜːs zəʊn/",
+      "meaning": "反向区域",
+      "example": "Who supports this reverse zone?",
+      "exampleZh": "谁支持这个反向区域？",
+      "category": "it"
+    }
+  ]
+}

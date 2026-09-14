@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-24",
+  "words": [
+    {
+      "word": "for avoidance of doubt",
+      "phonetic": "/fər əˈvɔɪdəns əv daʊt/",
+      "meaning": "以免误解",
+      "example": "For avoidance of doubt, start at nine.",
+      "exampleZh": "以免误解，九点开始。",
+      "category": "office"
+    },
+    {
+      "word": "to be clear",
+      "phonetic": "/tə bi klɪə/",
+      "meaning": "说清楚",
+      "example": "To be clear, no overtime tonight.",
+      "exampleZh": "说清楚，今晚不加班。",
+      "category": "office"
+    },
+    {
+      "word": "just to confirm",
+      "phonetic": "/dʒʌst tə kənˈfɜːm/",
+      "meaning": "再确认一下",
+      "example": "Just to confirm, you will print it.",
+      "exampleZh": "再确认一下，打印由你来。",
+      "category": "office"
+    },
+    {
+      "word": "quick question",
+      "phonetic": "/kwɪk ˈkwestʃn/",
+      "meaning": "快速问一句",
+      "example": "Quick question: who books the room?",
+      "exampleZh": "快速问一句：谁订房间？",
+      "category": "office"
+    },
+    {
+      "word": "one more thing",
+      "phonetic": "/wʌn mɔː θɪŋ/",
+      "meaning": "还有一件事",
+      "example": "One more thing, please copy the clerk.",
+      "exampleZh": "还有一件事，请抄送文员。",
+      "category": "office"
+    },
+    {
+      "word": "RRSIG",
+      "phonetic": "/ˌɑːr ɑːr sɪɡ/",
+      "meaning": "资源记录签名",
+      "example": "The RRSIG is slow this morning.",
+      "exampleZh": "今天早上 RRSIG 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "DS record",
+      "phonetic": "/diː es ˈrekɔːd/",
+      "meaning": "委托签名记录",
+      "example": "Please check the DS record.",
+      "exampleZh": "请检查一下这个委托签名记录。",
+      "category": "it"
+    },
+    {
+      "word": "glue record",
+      "phonetic": "/ɡluː ˈrekɔːd/",
+      "meaning": "粘合记录",
+      "example": "The glue record is in production.",
+      "exampleZh": "这个粘合记录已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "root hints",
+      "phonetic": "/ruːt hɪnts/",
+      "meaning": "根提示",
+      "example": "Who supports this root hints?",
+      "exampleZh": "谁支持这个根提示？",
+      "category": "it"
+    },
+    {
+      "word": "forwarder",
+      "phonetic": "/ˈfɔːwədə/",
+      "meaning": "转发器",
+      "example": "The forwarder is in production.",
+      "exampleZh": "这个转发器已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

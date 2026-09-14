@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-06",
+  "words": [
+    {
+      "word": "study leave",
+      "phonetic": "/ˈstʌdi liːv/",
+      "meaning": "进修假",
+      "example": "Please share the study leave after the meeting.",
+      "exampleZh": "会后请分享这个进修假。",
+      "category": "office"
+    },
+    {
+      "word": "compassionate leave",
+      "phonetic": "/kəmˈpæʃənət liːv/",
+      "meaning": "恩恤假",
+      "example": "I updated the compassionate leave this morning.",
+      "exampleZh": "我今天早上更新了这个恩恤假。",
+      "category": "office"
+    },
+    {
+      "word": "jury duty",
+      "phonetic": "/ˈdʒʊəri ˈdjuːti/",
+      "meaning": "陪审公务",
+      "example": "I updated the jury duty this morning.",
+      "exampleZh": "我今天早上更新了这个陪审公务。",
+      "category": "office"
+    },
+    {
+      "word": "military leave",
+      "phonetic": "/ˈmɪlətri liːv/",
+      "meaning": "服役假",
+      "example": "Please review the military leave.",
+      "exampleZh": "请审阅一下这个服役假。",
+      "category": "office"
+    },
+    {
+      "word": "return-to-work",
+      "phonetic": "/rɪˈtɜːn tə wɜːk/",
+      "meaning": "复工",
+      "example": "The return-to-work is ready for review.",
+      "exampleZh": "这个复工已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "protector",
+      "phonetic": "/prəˈtektə/",
+      "meaning": "保护器",
+      "example": "Please check the protector.",
+      "exampleZh": "请检查一下这个保护器。",
+      "category": "it"
+    },
+    {
+      "word": "numerical password",
+      "phonetic": "/njuːˈmerɪkl ˈpɑːswɜːd/",
+      "meaning": "数字恢复密码",
+      "example": "Please check the numerical password.",
+      "exampleZh": "请检查一下这个数字恢复密码。",
+      "category": "it"
+    },
+    {
+      "word": "FIPS",
+      "phonetic": "/fɪps/",
+      "meaning": "联邦加密标准",
+      "example": "The FIPS is slow this morning.",
+      "exampleZh": "今天早上 FIPS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "HSM",
+      "phonetic": "/ˌeɪtʃ es ˈem/",
+      "meaning": "硬件安全模块",
+      "example": "The HSM is slow this morning.",
+      "exampleZh": "今天早上 HSM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "KMS",
+      "phonetic": "/ˌkeɪ em ˈes/",
+      "meaning": "密钥管理服务",
+      "example": "The KMS is slow this morning.",
+      "exampleZh": "今天早上 KMS 很慢。",
+      "category": "it"
+    }
+  ]
+}

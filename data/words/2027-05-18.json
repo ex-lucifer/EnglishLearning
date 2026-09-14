@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-18",
+  "words": [
+    {
+      "word": "traffic light",
+      "phonetic": "/ˈtræfɪk laɪt/",
+      "meaning": "红黄绿标识",
+      "example": "The traffic light is ready for review.",
+      "exampleZh": "这个红黄绿标识已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "health check",
+      "phonetic": "/helθ tʃek/",
+      "meaning": "健康检查",
+      "example": "Please review the health check.",
+      "exampleZh": "请审阅一下这个健康检查。",
+      "category": "office"
+    },
+    {
+      "word": "pulse check",
+      "phonetic": "/pʌls tʃek/",
+      "meaning": "快速摸底",
+      "example": "I updated the pulse check this morning.",
+      "exampleZh": "我今天早上更新了这个快速摸底。",
+      "category": "office"
+    },
+    {
+      "word": "temperature check",
+      "phonetic": "/ˈtemprətʃə tʃek/",
+      "meaning": "气氛摸底",
+      "example": "I updated the temperature check this morning.",
+      "exampleZh": "我今天早上更新了这个气氛摸底。",
+      "category": "office"
+    },
+    {
+      "word": "morale",
+      "phonetic": "/məˈrɑːl/",
+      "meaning": "士气",
+      "example": "Please review the morale.",
+      "exampleZh": "请审阅一下这个士气。",
+      "category": "office"
+    },
+    {
+      "word": "ulimit",
+      "phonetic": "/ˈjuːlɪmɪt/",
+      "meaning": "资源上限",
+      "example": "Please check the ulimit.",
+      "exampleZh": "请检查一下这个资源上限。",
+      "category": "it"
+    },
+    {
+      "word": "nice value",
+      "phonetic": "/naɪs ˈvæljuː/",
+      "meaning": "进程优先级",
+      "example": "The nice value is in production.",
+      "exampleZh": "这个进程优先级已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "process ID",
+      "phonetic": "/ˈprəʊses aɪ ˈdiː/",
+      "meaning": "进程号",
+      "example": "Who supports this process ID?",
+      "exampleZh": "谁支持这个进程号？",
+      "category": "it"
+    },
+    {
+      "word": "parent process",
+      "phonetic": "/ˈpeərənt ˈprəʊses/",
+      "meaning": "父进程",
+      "example": "Who supports this parent process?",
+      "exampleZh": "谁支持这个父进程？",
+      "category": "it"
+    },
+    {
+      "word": "zombie process",
+      "phonetic": "/ˈzɒmbi ˈprəʊses/",
+      "meaning": "僵尸进程",
+      "example": "The zombie process is in production.",
+      "exampleZh": "这个僵尸进程已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

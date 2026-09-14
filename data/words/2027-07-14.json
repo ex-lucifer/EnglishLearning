@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-14",
+  "words": [
+    {
+      "word": "title",
+      "phonetic": "/ˈtaɪtl/",
+      "meaning": "职务名称",
+      "example": "I updated the title this morning.",
+      "exampleZh": "我今天早上更新了这个职务名称。",
+      "category": "office"
+    },
+    {
+      "word": "reporting line",
+      "phonetic": "/rɪˈpɔːtɪŋ laɪn/",
+      "meaning": "汇报关系",
+      "example": "Please review the reporting line.",
+      "exampleZh": "请审阅一下这个汇报关系。",
+      "category": "office"
+    },
+    {
+      "word": "dotted line",
+      "phonetic": "/ˈdɒtɪd laɪn/",
+      "meaning": "虚线汇报",
+      "example": "The dotted line is ready for review.",
+      "exampleZh": "这个虚线汇报已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "solid line",
+      "phonetic": "/ˈsɒlɪd laɪn/",
+      "meaning": "实线汇报",
+      "example": "Please share the solid line after the meeting.",
+      "exampleZh": "会后请分享这个实线汇报。",
+      "category": "office"
+    },
+    {
+      "word": "span of control",
+      "phonetic": "/spæn əv kənˈtrəʊl/",
+      "meaning": "管理幅度",
+      "example": "Please review the span of control.",
+      "exampleZh": "请审阅一下这个管理幅度。",
+      "category": "office"
+    },
+    {
+      "word": "degraded array",
+      "phonetic": "/dɪˈɡreɪdɪd əˈreɪ/",
+      "meaning": "降级阵列",
+      "example": "The degraded array is in production.",
+      "exampleZh": "这个降级阵列已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "failed disk",
+      "phonetic": "/feɪld dɪsk/",
+      "meaning": "故障磁盘",
+      "example": "Who supports this failed disk?",
+      "exampleZh": "谁支持这个故障磁盘？",
+      "category": "it"
+    },
+    {
+      "word": "predictive failure",
+      "phonetic": "/prɪˈdɪktɪv ˈfeɪljə/",
+      "meaning": "预警故障",
+      "example": "The predictive failure is in production.",
+      "exampleZh": "这个预警故障已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "SMART",
+      "phonetic": "/smɑːt/",
+      "meaning": "磁盘健康监测",
+      "example": "The SMART is slow this morning.",
+      "exampleZh": "今天早上 SMART 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "bad sector",
+      "phonetic": "/bæd ˈsektə/",
+      "meaning": "坏扇区",
+      "example": "Please check the bad sector.",
+      "exampleZh": "请检查一下这个坏扇区。",
+      "category": "it"
+    }
+  ]
+}

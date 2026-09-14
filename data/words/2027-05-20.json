@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-20",
+  "words": [
+    {
+      "word": "shadow",
+      "phonetic": "/ˈʃædəʊ/",
+      "meaning": "跟岗见习",
+      "example": "Can you shadow it today?",
+      "exampleZh": "你今天能跟岗见习一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "cross-train",
+      "phonetic": "/krɒs treɪn/",
+      "meaning": "交叉培训",
+      "example": "Can you cross-train it today?",
+      "exampleZh": "你今天能交叉培训一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "upskill",
+      "phonetic": "/ˈʌpskɪl/",
+      "meaning": "提升技能",
+      "example": "I will upskill it after the meeting.",
+      "exampleZh": "会后我会提升技能它。",
+      "category": "office"
+    },
+    {
+      "word": "knowledge transfer",
+      "phonetic": "/ˈnɒlɪdʒ ˈtrænsfɜː/",
+      "meaning": "知识交接",
+      "example": "Please review the knowledge transfer.",
+      "exampleZh": "请审阅一下这个知识交接。",
+      "category": "office"
+    },
+    {
+      "word": "desk-side support",
+      "phonetic": "/desk saɪd səˈpɔːt/",
+      "meaning": "工位旁支持",
+      "example": "Who is handling the desk-side support?",
+      "exampleZh": "谁在处理这个工位旁支持？",
+      "category": "office"
+    },
+    {
+      "word": "service account lock",
+      "phonetic": "/ˈsɜːvɪs əˈkaʊnt lɒk/",
+      "meaning": "服务账号锁定",
+      "example": "Who supports this service account lock?",
+      "exampleZh": "谁支持这个服务账号锁定？",
+      "category": "it"
+    },
+    {
+      "word": "logon as service",
+      "phonetic": "/ˈlɒɡɒn æz ˈsɜːvɪs/",
+      "meaning": "作为服务登录",
+      "example": "We need the logon as service before go-live.",
+      "exampleZh": "上线前我们需要这个作为服务登录。",
+      "category": "it"
+    },
+    {
+      "word": "interactive logon",
+      "phonetic": "/ˌɪntərˈæktɪv ˈlɒɡɒn/",
+      "meaning": "交互登录",
+      "example": "The interactive logon is in production.",
+      "exampleZh": "这个交互登录已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "network logon",
+      "phonetic": "/ˈnetwɜːk ˈlɒɡɒn/",
+      "meaning": "网络登录",
+      "example": "We need the network logon before go-live.",
+      "exampleZh": "上线前我们需要这个网络登录。",
+      "category": "it"
+    },
+    {
+      "word": "cached logon",
+      "phonetic": "/kæʃt ˈlɒɡɒn/",
+      "meaning": "缓存登录",
+      "example": "We need the cached logon before go-live.",
+      "exampleZh": "上线前我们需要这个缓存登录。",
+      "category": "it"
+    }
+  ]
+}

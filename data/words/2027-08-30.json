@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-30",
+  "words": [
+    {
+      "word": "long time no see",
+      "phonetic": "/lɒŋ taɪm nəʊ siː/",
+      "meaning": "好久不见",
+      "example": "Long time no see at the huddle.",
+      "exampleZh": "晨会上好久不见。",
+      "category": "office"
+    },
+    {
+      "word": "how's it going",
+      "phonetic": "/haʊz ɪt ˈɡəʊɪŋ/",
+      "meaning": "最近怎样",
+      "example": "How's it going with the filing?",
+      "exampleZh": "归档进展怎样？",
+      "category": "office"
+    },
+    {
+      "word": "busy morning",
+      "phonetic": "/ˈbɪzi ˈmɔːnɪŋ/",
+      "meaning": "忙碌的上午",
+      "example": "Please share the busy morning after the meeting.",
+      "exampleZh": "会后请分享这个忙碌的上午。",
+      "category": "office"
+    },
+    {
+      "word": "quiet afternoon",
+      "phonetic": "/ˈkwaɪət ˌɑːftəˈnuːn/",
+      "meaning": "清闲的下午",
+      "example": "Who is handling the quiet afternoon?",
+      "exampleZh": "谁在处理这个清闲的下午？",
+      "category": "office"
+    },
+    {
+      "word": "heavy day",
+      "phonetic": "/ˈhevi deɪ/",
+      "meaning": "繁忙的一天",
+      "example": "I updated the heavy day this morning.",
+      "exampleZh": "我今天早上更新了这个繁忙的一天。",
+      "category": "office"
+    },
+    {
+      "word": "PTR",
+      "phonetic": "/ˌpiː tiː ˈɑː/",
+      "meaning": "反向解析记录",
+      "example": "The PTR is slow this morning.",
+      "exampleZh": "今天早上 PTR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SOA",
+      "phonetic": "/ˌes əʊ ˈeɪ/",
+      "meaning": "起始授权记录",
+      "example": "The SOA is slow this morning.",
+      "exampleZh": "今天早上 SOA 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "NS record",
+      "phonetic": "/en es ˈrekɔːd/",
+      "meaning": "域名服务器记录",
+      "example": "Please review the NS record after the patch.",
+      "exampleZh": "打补丁后请审阅这个域名服务器记录。",
+      "category": "it"
+    },
+    {
+      "word": "TXT record",
+      "phonetic": "/tekst ˈrekɔːd/",
+      "meaning": "文本记录",
+      "example": "The TXT record is in production.",
+      "exampleZh": "这个文本记录已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "SPF",
+      "phonetic": "/ˌes piː ˈef/",
+      "meaning": "发件人策略",
+      "example": "The SPF is slow this morning.",
+      "exampleZh": "今天早上 SPF 很慢。",
+      "category": "it"
+    }
+  ]
+}

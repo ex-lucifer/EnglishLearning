@@ -1,0 +1,2131 @@
+admission|/ədˈmɪʃn/|入院|n
+discharge|/ˈdɪstʃɑːdʒ/|出院|n
+transfer|/ˈtrænsfɜː/|转科转院|n
+referral|/rɪˈfɜːrəl/|转诊|n
+appointment|/əˈpɔɪntmənt/|预约|n
+registration|/ˌredʒɪˈstreɪʃn/|挂号登记|n
+reception|/rɪˈsepʃn/|接待|n
+waiting list|/ˈweɪtɪŋ lɪst/|等候名单|n
+queue|/kjuː/|排队|n
+census|/ˈsensəs/|在院人数|n
+occupancy|/ˈɒkjəpənsi/|床位占用率|n
+bed management|/bed ˈmænɪdʒmənt/|床位管理|n
+ward round|/wɔːd raʊnd/|查房|n
+clinic|/ˈklɪnɪk/|门诊|n
+outpatient|/ˈaʊtpeɪʃnt/|门诊患者|n
+inpatient|/ˈɪnpeɪʃnt/|住院患者|n
+elective|/ɪˈlektɪv/|择期的|adj
+consent form|/kənˈsent fɔːm/|知情同意书|n
+insurance|/ɪnˈʃʊərəns/|医保保险|n
+copay|/ˈkəʊpeɪ/|自付费用|n
+billing|/ˈbɪlɪŋ/|计费收费|n
+claim|/kleɪm/|报销申请|n
+encounter|/ɪnˈkaʊntə/|就诊记录|n
+visit|/ˈvɪzɪt/|就诊|n
+no-show|/nəʊ ʃəʊ/|爽约未到|n
+triage desk|/ˈtriːɑːʒ desk/|分诊台|n
+nurse station|/nɜːs ˈsteɪʃn/|护士站|n
+information desk|/ˌɪnfəˈmeɪʃn desk/|问询台|n
+duty|/ˈdjuːti/|值班职责|n
+assignment|/əˈsaɪnmənt/|任务分配|n
+department head|/dɪˈpɑːtmənt hed/|科室主任|n
+director|/dəˈrektə/|主任|n
+secretary|/ˈsekrəteri/|秘书|n
+clerk|/klɑːk/|文员|n
+coordinator|/kəʊˈɔːdɪneɪtə/|协调员|n
+liaison|/liˈeɪzn/|联络人|n
+counterpart|/ˈkaʊntəpɑːt/|对口同事|n
+colleague|/ˈkɒliːɡ/|同事|n
+supervisor|/ˈsuːpəvaɪzə/|上级主管|n
+manager|/ˈmænɪdʒə/|经理|n
+team lead|/tiːm liːd/|组长|n
+staff|/stɑːf/|员工|n
+workforce|/ˈwɜːkfɔːs/|人力|n
+shift handover|/ʃɪft ˈhændəʊvə/|交接班|n
+morning huddle|/ˈmɔːnɪŋ ˈhʌdl/|晨会|n
+evening report|/ˈiːvnɪŋ rɪˈpɔːt/|晚交班|n
+board round|/bɔːd raʊnd/|看板交班|n
+bed meeting|/bed ˈmiːtɪŋ/|床位会|n
+ops meeting|/ɒps ˈmiːtɪŋ/|运营会|n
+quality meeting|/ˈkwɒləti ˈmiːtɪŋ/|质量会|n
+safety huddle|/ˈseɪfti ˈhʌdl/|安全短会|n
+incident report|/ˈɪnsɪdənt rɪˈpɔːt/|不良事件报告|n
+near miss|/nɪə mɪs/|未遂事件|n
+root cause|/ruːt kɔːz/|根本原因|n
+corrective action|/kəˈrektɪv ˈækʃn/|纠正措施|n
+preventive action|/prɪˈventɪv ˈækʃn/|预防措施|n
+lesson learned|/ˈlesn lɜːnd/|经验教训|n
+best practice|/best ˈpræktɪs/|最佳实践|n
+standard|/ˈstændəd/|标准|n
+protocol|/ˈprəʊtəkɒl/|规程|n
+pathway|/ˈpɑːθweɪ/|路径|n
+checklist audit|/ˈtʃeklɪst ˈɔːdɪt/|清单抽查|n
+spot check|/spɒt tʃek/|突击检查|n
+walkthrough|/ˈwɔːkθruː/|现场走查|n
+inspection|/ɪnˈspekʃn/|检查|n
+finding|/ˈfaɪndɪŋ/|检查发现|n
+nonconformity|/ˌnɒnkənˈfɔːməti/|不符合项|n
+CAPA|/ˈkæpə/|纠正预防措施|acr
+accreditation|/əˌkredɪˈteɪʃn/|评审认证|n
+survey|/ˈsɜːveɪ/|现场评审|n
+tracer|/ˈtreɪsə/|追踪检查|n
+mock survey|/mɒk ˈsɜːveɪ/|模拟评审|n
+scorecard|/ˈskɔːkɑːd/|计分卡|n
+dashboard review|/ˈdæʃbɔːd rɪˈvjuː/|看板回顾|n
+target|/ˈtɑːɡɪt/|目标|n
+baseline|/ˈbeɪslaɪn/|基线|n
+trend|/trend/|趋势|n
+variance|/ˈveəriəns/|偏差|n
+actuals|/ˈæktʃuəlz/|实际数|n
+forecast|/ˈfɔːkɑːst/|预测|n
+budget|/ˈbʌdʒɪt/|预算|n
+cost center|/kɒst ˈsentə/|成本中心|n
+purchase order|/ˈpɜːtʃəs ˈɔːdə/|采购订单|n
+requisition|/ˌrekwɪˈzɪʃn/|请购单|n
+quote|/kwəʊt/|询价报价|n
+lead time|/liːd taɪm/|供货周期|n
+stock|/stɒk/|库存|n
+inventory|/ˈɪnvəntri/|盘点库存|n
+shortage|/ˈʃɔːtɪdʒ/|短缺|n
+surplus|/ˈsɜːpləs/|多余|n
+consumable|/kənˈsjuːməbl/|耗材|n
+asset|/ˈæset/|资产|n
+label|/ˈleɪbl/|标签|n
+serial number|/ˈsɪəriəl ˈnʌmbə/|序列号|n
+asset tag|/ˈæset tæɡ/|资产标签|n
+depreciation|/dɪˌpriːʃiˈeɪʃn/|折旧|n
+write-off|/raɪt ɒf/|核销|n
+petty cash|/ˈpeti kæʃ/|备用金|n
+receipt|/rɪˈsiːt/|收据|n
+expense|/ɪkˈspens/|费用|n
+travel request|/ˈtrævl rɪˈkwest/|出差申请|n
+travel claim|/ˈtrævl kleɪm/|差旅报销|n
+per diem|/pɜː ˈdiːem/|每日补贴|n
+accommodation|/əˌkɒməˈdeɪʃn/|住宿|n
+transport|/ˈtrænspɔːt/|交通|n
+taxi voucher|/ˈtæksi ˈvaʊtʃə/|出租车凭证|n
+parking permit|/ˈpɑːkɪŋ ˈpɜːmɪt/|停车许可|n
+canteen|/kænˈtiːn/|食堂|n
+locker|/ˈlɒkə/|储物柜|n
+uniform|/ˈjuːnɪfɔːm/|工装|n
+notice board|/ˈnəʊtɪs bɔːd/|公告栏|n
+suggestion box|/səˈdʒestʃn bɒks/|意见箱|n
+complaint|/kəmˈpleɪnt/|投诉|n
+compliment|/ˈkɒmplɪmənt/|表扬|n
+patient feedback|/ˈpeɪʃnt ˈfiːdbæk/|患者反馈|n
+service recovery|/ˈsɜːvɪs rɪˈkʌvəri/|服务补救|n
+apology|/əˈpɒlədʒi/|道歉|n
+courtesy|/ˈkɜːtəsi/|礼貌|n
+professionalism|/prəˈfeʃənəlɪzəm/|职业素养|n
+punctuality|/ˌpʌŋktʃuˈæləti/|准时|n
+courtesy copy|/ˈkɜːtəsi ˈkɒpi/|礼节抄送|n
+hard copy|/hɑːd ˈkɒpi/|纸质件|n
+soft copy|/sɒft ˈkɒpi/|电子件|n
+original|/əˈrɪdʒənl/|原件|n
+duplicate|/ˈdjuːplɪkət/|副本|n
+photocopy|/ˈfəʊtəʊkɒpi/|复印件|n
+scan|/skæn/|扫描件|n
+fax|/fæks/|传真|n
+courier|/ˈkʊriə/|快递|n
+dispatch|/dɪˈspætʃ/|发出|v
+receive|/rɪˈsiːv/|签收|v
+acknowledge receipt|/əkˈnɒlɪdʒ rɪˈsiːt/|确认收悉|phr|Please acknowledge receipt of this memo.|请确认已收到这份备忘。
+return|/rɪˈtɜːn/|退回|v
+revise|/rɪˈvaɪz/|修订|v
+amend|/əˈmend/|修改|v
+finalize|/ˈfaɪnəlaɪz/|定稿|v
+issue|/ˈɪʃuː/|印发|v
+announce|/əˈnaʊns/|宣布|v
+communicate|/kəˈmjuːnɪkeɪt/|沟通|v
+discuss|/dɪˈskʌs/|讨论|v
+consult|/kənˈsʌlt/|征询|v
+recommend|/ˌrekəˈmend/|建议|v
+suggest|/səˈdʒest/|提议|v
+propose|/prəˈpəʊz/|提出|v
+present|/prɪˈzent/|汇报展示|v
+report|/rɪˈpɔːt/|报告|v
+debrief|/ˌdiːˈbriːf/|复盘|v
+summarize|/ˈsʌməraɪz/|总结|v
+highlight|/ˈhaɪlaɪt/|标出重点|v
+emphasize|/ˈemfəsaɪz/|强调|v
+compile|/kəmˈpaɪl/|汇总|v
+distribute|/dɪˈstrɪbjuːt/|分发|v
+notify|/ˈnəʊtɪfaɪ/|通知|v
+inform|/ɪnˈfɔːm/|告知|v
+request|/rɪˈkwest/|申请|v
+submit|/səbˈmɪt/|提交|v
+review|/rɪˈvjuː/|审阅|v
+approve|/əˈpruːv/|批准|v
+reject|/rɪˈdʒekt/|驳回|v
+schedule|/ˈʃedjuːl/|安排时间|v
+coordinate|/kəʊˈɔːdɪneɪt/|协调|v
+facilitate|/fəˈsɪlɪteɪt/|促成|v
+prepare|/prɪˈpeə/|准备|v
+arrange|/əˈreɪndʒ/|安排|n
+organize|/ˈɔːɡənaɪz/|组织|v
+book|/bʊk/|预订|v
+reserve|/rɪˈzɜːv/|预留|v
+attend|/əˈtend/|出席|v
+chair|/tʃeə/|主持|v
+host|/həʊst/|主办|v
+moderate|/ˈmɒdəreɪt/|主持讨论|v
+introduce|/ˌɪntrəˈdjuːs/|介绍|v
+welcome|/ˈwelkəm/|欢迎|v
+thank|/θæŋk/|感谢|v
+apologize|/əˈpɒlədʒaɪz/|道歉|v
+congratulate|/kənˈɡrætʃuleɪt/|祝贺|v
+raise|/reɪz/|提出问题|v
+address|/əˈdres/|处理回应|v
+resolve|/rɪˈzɒlv/|解决|v
+settle|/ˈsetl/|谈妥|v
+mediate|/ˈmiːdieɪt/|调解|v
+enforce|/ɪnˈfɔːs/|执行落实|v
+comply|/kəmˈplaɪ/|遵守|v
+waive|/weɪv/|豁免|v
+grant|/ɡrɑːnt/|批准给予|v
+deny|/dɪˈnaɪ/|拒绝批准|v
+permit|/pəˈmɪt/|允许|v
+restrict|/rɪˈstrɪkt/|限制|v
+expand|/ɪkˈspænd/|扩大|v
+reduce|/rɪˈdjuːs/|减少|v
+maintain|/meɪnˈteɪn/|维持|v
+improve|/ɪmˈpruːv/|改进|v
+streamline|/ˈstriːmlaɪn/|精简|v
+simplify|/ˈsɪmplɪfaɪ/|简化|v
+standardize|/ˈstændədaɪz/|标准化|v
+customize|/ˈkʌstəmaɪz/|定制|v
+adapt|/əˈdæpt/|调整适应|v
+adjust|/əˈdʒʌst/|微调|v
+document|/ˈdɒkjument/|形成书面记录|v
+record|/rɪˈkɔːd/|记录|v
+note|/nəʊt/|记下|v
+translate|/trænsˈleɪt/|翻译|v
+explain|/ɪkˈspleɪn/|解释|v
+describe|/dɪˈskraɪb/|描述|v
+define|/dɪˈfaɪn/|界定|v
+specify|/ˈspesɪfaɪ/|明确|v
+itemize|/ˈaɪtəmaɪz/|逐项列出|v
+compare|/kəmˈpeə/|比较|v
+analyze|/ˈænəlaɪz/|分析|v
+calculate|/ˈkælkjuleɪt/|计算|v
+plan|/plæn/|规划|v
+initiate|/ɪˈnɪʃieɪt/|启动|v
+launch|/lɔːntʃ/|推出|v
+pause|/pɔːz/|暂停|v
+resume|/rɪˈzjuːm/|恢复进行|v
+suspend|/səˈspend/|中止|v
+delay|/dɪˈleɪ/|延误|v
+accelerate|/əkˈseləreɪt/|加快|v
+expedite|/ˈekspədaɪt/|加急办理|v
+omit|/əˈmɪt/|省略|v
+include|/ɪnˈkluːd/|纳入|v
+exclude|/ɪkˈskluːd/|排除|v
+replace|/rɪˈpleɪs/|替换|v
+combine|/kəmˈbaɪn/|合并|v
+split|/splɪt/|拆分|v
+track|/træk/|跟踪|v
+measure|/ˈmeʒə/|衡量|v
+evaluate|/ɪˈvæljueɪt/|评估|v
+assess|/əˈses/|评定|v
+train|/treɪn/|培训|v
+coach|/kəʊtʃ/|辅导|v
+hire|/ˈhaɪə/|招聘|v
+recruit|/rɪˈkruːt/|招募|v
+nominate|/ˈnɒmɪneɪt/|提名|v
+appoint|/əˈpɔɪnt/|任命|v
+promote|/prəˈməʊt/|晋升|v
+relocate|/ˌriːləʊˈkeɪt/|调岗搬迁|v
+handover meeting|/ˈhændəʊvə ˈmiːtɪŋ/|交接会|n
+kick-off memo|/ˈkɪk ɒf ˈmeməʊ/|启动备忘|n
+closing remarks|/ˈkləʊzɪŋ rɪˈmɑːks/|结束讲话|n
+opening remarks|/ˈəʊpnɪŋ rɪˈmɑːks/|开场讲话|n
+talking paper|/ˈtɔːkɪŋ ˈpeɪpə/|发言提纲|n
+briefing note|/ˈbriːfɪŋ nəʊt/|情况说明|n
+position paper|/pəˈzɪʃn ˈpeɪpə/|立场说明|n
+white paper|/waɪt ˈpeɪpə/|白皮书|n
+terms of reference|/tɜːmz əv ˈrefrəns/|职责范围|n
+code of conduct|/kəʊd əv ˈkɒndʌkt/|行为规范|n
+conflict of interest|/ˈkɒnflɪkt əv ˈɪntrəst/|利益冲突|n
+declaration|/ˌdekləˈreɪʃn/|申报声明|n
+confidentiality|/ˌkɒnfɪˌdenʃiˈæləti/|保密义务|n
+non-disclosure|/nɒn dɪsˈkləʊʒə/|保密约定|n
+privacy notice|/ˈprɪvəsi ˈnəʊtɪs/|隐私告知|n
+data request|/ˈdeɪtə rɪˈkwest/|数据申请|n
+access request|/ˈækses rɪˈkwest/|权限申请|n
+change request|/tʃeɪndʒ rɪˈkwest/|变更申请|n
+service request|/ˈsɜːvɪs rɪˈkwest/|服务申请|n
+work order|/wɜːk ˈɔːdə/|派工单|n
+priority|/praɪˈɒrəti/|优先级|n
+severity|/səˈverəti/|严重程度|n
+impact|/ˈɪmpækt/|影响|n
+urgency|/ˈɜːdʒənsi/|紧急程度|n
+business hours|/ˈbɪznəs ˈaʊəz/|工作时间|n
+after hours|/ˈɑːftə ˈaʊəz/|下班后|n
+cut-off|/ˈkʌt ɒf/|截止时点|n
+lead-in|/ˈliːd ɪn/|开场铺垫|n
+wrap-up email|/ˈræp ʌp ˈiːmeɪl/|收尾邮件|n
+read receipt|/riːd rɪˈsiːt/|已读回执|n
+delivery failure|/dɪˈlɪvəri ˈfeɪljə/|发送失败|n
+bounce|/baʊns/|退信|n
+outbox|/ˈaʊtbɒks/|发件箱|n
+drafts folder|/drɑːfts ˈfəʊldə/|草稿箱|n
+junk mail|/dʒʌŋk meɪl/|垃圾邮件|n
+recall|/rɪˈkɔːl/|撤回邮件|v
+unsubscribe|/ˌʌnsəbˈskraɪb/|退订|v
+flag|/flæɡ/|标旗标记|v
+pin|/pɪn/|置顶|v
+archive folder|/ˈɑːkaɪv ˈfəʊldə/|归档文件夹|n
+shared mailbox|/ʃeəd ˈmeɪlbɒks/|共享邮箱|n
+group email|/ɡruːp ˈiːmeɪl/|组邮箱|n
+email etiquette|/ˈiːmeɪl ˈetɪket/|邮件礼仪|n
+plain language|/pleɪn ˈlæŋɡwɪdʒ/|通俗表达|n
+tone|/təʊn/|语气|n
+wording|/ˈwɜːdɪŋ/|措辞|n
+bullet point|/ˈbʊlɪt pɔɪnt/|条目要点|n
+call to action|/kɔːl tu ˈækʃn/|行动号召|n
+executive summary|/ɪɡˈzekjətɪv ˈsʌməri/|高管摘要|n
+cover letter|/ˈkʌvə ˈletə/|说明函|n
+transmittal|/trænzˈmɪtl/|送文单|n
+routing slip|/ˈruːtɪŋ slɪp/|传阅单|n
+approval chain|/əˈpruːvl tʃeɪn/|审批链|n
+counter-sign|/ˈkaʊntə saɪn/|会签|v
+stamp and sign|/stæmp ənd saɪn/|盖章签字|phr|Please stamp and sign the form.|请在表格上盖章签字。
+wet signature|/wet ˈsɪɡnətʃə/|手写签名|n
+e-signature|/iː ˈsɪɡnətʃə/|电子签名|n
+initials|/ɪˈnɪʃlz/|姓名缩写签|n
+date stamp|/deɪt stæmp/|日期章|n
+official seal|/əˈfɪʃl siːl/|公章|n
+letter of thanks|/ˈletə əv θæŋks/|感谢信|n
+letter of complaint|/ˈletə əv kəmˈpleɪnt/|投诉信|n
+meeting pack|/ˈmiːtɪŋ pæk/|会议材料包|n
+pre-read|/priː riːd/|会前阅读材料|n
+post-meeting note|/pəʊst ˈmiːtɪŋ nəʊt/|会后说明|n
+action log|/ˈækʃn lɒɡ/|行动清单|n
+risk log|/rɪsk lɒɡ/|风险台账|n
+issue log|/ˈɪʃuː lɒɡ/|问题台账|n
+decision register|/dɪˈsɪʒn ˈredʒɪstə/|决策台账|n
+lessons log|/ˈlesnz lɒɡ/|经验台账|n
+project charter|/ˈprɒdʒekt ˈtʃɑːtə/|项目章程|n
+business case|/ˈbɪznəs keɪs/|立项论证|n
+feasibility|/ˌfiːzəˈbɪləti/|可行性|n
+go-live plan|/ɡəʊ laɪv plæn/|上线计划|n
+training roster|/ˈtreɪnɪŋ ˈrɒstə/|培训名单|n
+attendance sheet|/əˈtendəns ʃiːt/|签到表|n
+feedback form|/ˈfiːdbæk fɔːm/|反馈表|n
+satisfaction survey|/ˌsætɪsˈfækʃn ˈsɜːveɪ/|满意度调查|n
+pulse survey|/pʌls ˈsɜːveɪ/|快问快答调查|n
+town-hall Q&A|/taʊn hɔːl kjuː ənd eɪ/|全员问答|n
+open floor|/ˈəʊpən flɔː/|自由发言|n
+time-box|/taɪm bɒks/|限时讨论|v
+park it|/pɑːk ɪt/|先记下|phr|Let's park it and move on.|先记下来，继续往下。
+take offline|/teɪk ˈɒflaɪn/|会下再谈|phr|Let's take this offline after the call.|会后我们再单独谈。
+table this|/ˈteɪbl ðɪs/|暂搁此议题|phr|Can we table this until Thursday?|能否把这个议题先搁到周四？
+move on|/muːv ɒn/|进入下一项|phr|Let's move on to staffing.|我们进入人手安排这项。
+wrap it up|/ræp ɪt ʌp/|收个尾|phr|Please wrap it up in two minutes.|请在两分钟内收个尾。
+any other business|/ˈeni ˈʌðə ˈbɪznəs/|其他事项|n
+AOB|/ˌeɪ əʊ ˈbiː/|其他事项|acr
+meeting cadence|/ˈmiːtɪŋ ˈkeɪdns/|开会节奏|n
+biweekly|/baɪˈwiːkli/|双周一次|adj
+fortnightly|/ˈfɔːtnaɪtli/|每两周|adj
+quarterly|/ˈkwɔːtəli/|每季度|adj
+year-end|/jɪə end/|年底的|adj
+mid-year|/mɪd jɪə/|年中的|adj
+year to date|/jɪə tə deɪt/|年初至今|n
+month to date|/mʌnθ tə deɪt/|月初至今|n
+week to date|/wiːk tə deɪt/|本周至今|n
+as of|/æz ɒv/|截至|phr|As of Monday, ten beds are free.|截至周一，还有十张空床。
+effective date|/ɪˈfektɪv deɪt/|生效日期|n
+expiry date|/ɪkˈspaɪəri deɪt/|到期日期|n
+grace period|/ɡreɪs ˈpɪəriəd/|宽限期|n
+notice period|/ˈnəʊtɪs ˈpɪəriəd/|通知期|n
+handover window|/ˈhændəʊvə ˈwɪndəʊ/|交接窗口|n
+cooling-off|/ˈkuːlɪŋ ɒf/|冷静期|n
+blackout period|/ˈblækaʊt ˈpɪəriəd/|冻结期|n
+peak hours|/piːk ˈaʊəz/|高峰时段|n
+off-peak|/ɒf piːk/|低峰时段|n
+rush hour|/rʌʃ ˈaʊə/|高峰时间|n
+late running|/leɪt ˈrʌnɪŋ/|晚点延误|n
+on time|/ɒn taɪm/|准时|phr|The briefing started on time.|简报准时开始了。
+running late|/ˈrʌnɪŋ leɪt/|要迟到|phr|I am running late for the huddle.|晨会我要迟到了。
+stuck in|/stʌk ɪn/|被困在|phr|I am stuck in another meeting.|我被另一场会拖住了。
+double-booked|/ˈdʌbl bʊkt/|时间冲突|adj
+overbooked|/ˌəʊvəˈbʊkt/|排程过满|adj
+free slot|/friː slɒt/|空档|n
+busy|/ˈbɪzi/|忙碌的|adj
+available|/əˈveɪləbl/|有空的|adj
+unavailable|/ˌʌnəˈveɪləbl/|没空的|adj
+reachable|/ˈriːtʃəbl/|能联系到的|adj
+unreachable|/ʌnˈriːtʃəbl/|联系不上的|adj
+in a meeting|/ɪn ə ˈmiːtɪŋ/|正在开会|phr|She is in a meeting until eleven.|她开会开到十一点。
+on leave|/ɒn liːv/|在休假|phr|He is on leave this week.|他这周休假。
+working from home|/ˈwɜːkɪŋ frəm həʊm/|在家办公|phr|I am working from home on Thursday.|周四我在家办公。
+on site|/ɒn saɪt/|在现场|phr|Please stay on site until handover.|请留在现场直到交接完成。
+off site|/ɒf saɪt/|不在院内|phr|The team is off site for training.|团队外出培训去了。
+back at desk|/bæk ət desk/|已回到工位|phr|I am back at desk now.|我现在已经回到工位了。
+step out|/step aʊt/|暂时离开|phr|I need to step out for ten minutes.|我需要离开十分钟。
+be right back|/bi raɪt bæk/|马上回来|phr|I will be right back after printing.|我打完材料马上回来。
+catch you later|/kætʃ ju ˈleɪtə/|回头再聊|phr|Catch you later after the round.|查房后回头再聊。
+talk soon|/tɔːk suːn/|稍后联系|phr|Talk soon, I have a visitor.|稍后联系，我这边有访客。
+kind regards|/kaɪnd rɪˈɡɑːdz/|此致敬礼|phr|Kind regards at the end of the email.|邮件结尾写上此致敬礼。
+best regards|/best rɪˈɡɑːdz/|顺祝商祺|phr|Close with best regards.|结尾用顺祝商祺。
+please advise|/pliːz ədˈvaɪz/|请指示|phr|Please advise how we should proceed.|请指示我们接下来怎么做。
+please confirm|/pliːz kənˈfɜːm/|请确认|phr|Please confirm the room number.|请确认房间号。
+well noted|/wel ˈnəʊtɪd/|已记下|phr|Well noted, I will update the roster.|已记下，我会更新排班。
+noted with thanks|/ˈnəʊtɪd wɪð θæŋks/|已知悉谢谢|phr|Noted with thanks, I will print it.|已知悉谢谢，我会打印。
+for your action|/fə jɔː ˈækʃn/|请你处理|phr|This form is for your action.|这张表请你处理。
+for your information|/fə jɔːr ˌɪnfəˈmeɪʃn/|仅供知悉|phr|This chart is for your information.|这张图仅供知悉。
+as discussed|/æz dɪˈskʌst/|按所讨论|phr|As discussed, we start at nine.|按所讨论，我们九点开始。
+as agreed|/æz əˈɡriːd/|按约定|phr|Please send it as agreed.|请按约定发过来。
+per our call|/pɜːr ˈaʊə kɔːl/|按电话沟通|phr|Per our call, the date is Thursday.|按电话沟通，日期定在周四。
+with reference to|/wɪð ˈrefrəns tu/|关于|phr|With reference to your email yesterday.|关于你昨天的邮件。
+in light of|/ɪn laɪt əv/|鉴于|phr|In light of the delay, we will wait.|鉴于延误，我们先等一等。
+for completeness|/fə kəmˈpliːtnəs/|为求完整|phr|I attach the log for completeness.|为求完整，我附上日志。
+at your earliest convenience|/ət jɔːr ˈɜːliɪst kənˈviːniəns/|请尽快方便时|phr|Please reply at your earliest convenience.|请在方便时尽快回复。
+by close of business|/baɪ kləʊz əv ˈbɪznəs/|营业结束前|phr|Send the list by close of business.|请在下班前把名单发来。
+end of day|/end əv deɪ/|当天结束前|n
+start of day|/stɑːt əv deɪ/|当天开始时|n
+mid-morning|/mɪd ˈmɔːnɪŋ/|上午过半|n
+mid-afternoon|/mɪd ˌɑːftəˈnuːn/|下午过半|n
+COB|/ˌsiː əʊ ˈbiː/|下班前|acr
+EOB|/ˌiː əʊ ˈbiː/|业务结束前|acr
+ETA|/ˌiː tiː ˈeɪ/|预计到达时间|acr
+ETD|/ˌiː tiː ˈdiː/|预计出发时间|acr
+TBA|/ˌtiː biː ˈeɪ/|待公布|acr
+TBD|/ˌtiː biː ˈdiː/|待确定|acr
+N/A|/en ˈeɪ/|不适用|acr
+WIP|/ˌdʌbljuː aɪ ˈpiː/|进行中工作|acr
+POC|/ˌpiː əʊ ˈsiː/|对接人|acr
+SME|/ˌes em ˈiː/|业务专家|acr
+PMO|/ˌpiː em ˈəʊ/|项目管理办公室|acr
+SLA|/ˌes el ˈeɪ/|服务级别协议|acr
+OLA|/ˌəʊ el ˈeɪ/|运营级别协议|acr
+KPI review|/ˌkeɪ piː ˈaɪ rɪˈvjuː/|指标回顾|n
+RAG status|/ræɡ ˈsteɪtəs/|红黄绿状态|n
+amber|/ˈæmbə/|黄色预警|n
+red status|/red ˈsteɪtəs/|红色状态|n
+green status|/ɡriːn ˈsteɪtəs/|绿色正常|n
+traffic light|/ˈtræfɪk laɪt/|红黄绿标识|n
+health check|/helθ tʃek/|健康检查|n
+pulse check|/pʌls tʃek/|快速摸底|n
+temperature check|/ˈtemprətʃə tʃek/|气氛摸底|n
+morale|/məˈrɑːl/|士气|n
+workload|/ˈwɜːkləʊd/|工作量|n
+work-life balance|/wɜːk laɪf ˈbæləns/|工作生活平衡|n
+burnout|/ˈbɜːnaʊt/|过劳倦怠|n
+coverage plan|/ˈkʌvərɪdʒ plæn/|顶班计划|n
+backup person|/ˈbækʌp ˈpɜːsn/|替补人员|n
+shadow|/ˈʃædəʊ/|跟岗见习|v
+cross-train|/krɒs treɪn/|交叉培训|v
+upskill|/ˈʌpskɪl/|提升技能|v
+knowledge transfer|/ˈnɒlɪdʒ ˈtrænsfɜː/|知识交接|n
+desk-side support|/desk saɪd səˈpɔːt/|工位旁支持|n
+floor walker|/flɔː ˈwɔːkə/|现场巡视员|n
+super user|/ˈsuːpə ˈjuːzə/|业务骨干用户|n
+champion|/ˈtʃæmpiən/|推广骨干|n
+change agent|/tʃeɪndʒ ˈeɪdʒənt/|变革推动者|n
+sponsor update|/ˈspɒnsə ˌʌpdeɪt/|发起人通报|n
+steering committee|/ˈstɪərɪŋ kəˈmɪti/|指导委员会|n
+working group|/ˈwɜːkɪŋ ɡruːp/|工作组|n
+task force|/tɑːsk fɔːs/|专项组|n
+committee|/kəˈmɪti/|委员会|n
+subcommittee|/ˈsʌbkəmɪti/|分委会|n
+minutes taker|/ˈmɪnɪts ˈteɪkə/|纪要记录人|n
+chair's notes|/tʃeəz nəʊts/|主持备忘|n
+quorum call|/ˈkwɔːrəm kɔːl/|人数确认|n
+roll call|/rəʊl kɔːl/|点名|n
+apology for absence|/əˈpɒlədʒi fər ˈæbsəns/|缺席致歉|n
+late arrival|/leɪt əˈraɪvl/|迟到|n
+early leave|/ˈɜːli liːv/|早退|n
+proxy vote|/ˈprɒksi vəʊt/|代投票|n
+motion|/ˈməʊʃn/|动议|n
+second the motion|/ˈsekənd ðə ˈməʊʃn/|附议|phr|I second the motion to extend.|我附议延长时限。
+carried|/ˈkærid/|通过的|adj
+defeated|/dɪˈfiːtɪd/|未通过的|adj
+unanimous|/juˈnænɪməs/|一致通过的|adj
+majority|/məˈdʒɒrəti/|多数|n
+minority view|/maɪˈnɒrəti vjuː/|少数意见|n
+dissent|/dɪˈsent/|异议|n
+abstain|/əbˈsteɪn/|弃权|v
+vote|/vəʊt/|表决|v
+ballot|/ˈbælət/|无记名票|n
+show of hands|/ʃəʊ əv hændz/|举手表决|n
+silent agreement|/ˈsaɪlənt əˈɡriːmənt/|默许|n
+spoken agreement|/ˈspəʊkən əˈɡriːmənt/|口头约定|n
+written agreement|/ˈrɪtn əˈɡriːmənt/|书面约定|n
+gentle reminder|/ˈdʒentl rɪˈmaɪndə/|温和提醒|n
+final reminder|/ˈfaɪnl rɪˈmaɪndə/|最后提醒|n
+escalation note|/ˌeskəˈleɪʃn nəʊt/|升级说明|n
+courtesy reminder|/ˈkɜːtəsi rɪˈmaɪndə/|礼貌催办|n
+chaser|/ˈtʃeɪsə/|催办邮件|n
+nudge email|/nʌdʒ ˈiːmeɪl/|轻催邮件|n
+follow-up call|/ˈfɒləʊ ʌp kɔːl/|跟进电话|n
+courtesy visit|/ˈkɜːtəsi ˈvɪzɪt/|礼节拜访|n
+site visit|/saɪt ˈvɪzɪt/|现场走访|n
+walk-in|/wɔːk ɪn/|未预约来访|n
+drop-in|/drɒp ɪn/|顺便来访|n
+by appointment|/baɪ əˈpɔɪntmənt/|需预约|phr|The director sees people by appointment.|主任只见预约来访。
+waiting area|/ˈweɪtɪŋ ˈeəriə/|等候区|n
+reception log|/rɪˈsepʃn lɒɡ/|接待登记|n
+visitor log|/ˈvɪzɪtə lɒɡ/|访客登记|n
+badge return|/bædʒ rɪˈtɜːn/|工牌归还|n
+key register|/kiː ˈredʒɪstə/|钥匙登记|n
+room booking|/ruːm ˈbʊkɪŋ/|会议室预订|n
+room conflict|/ruːm ˈkɒnflɪkt/|会议室冲突|n
+double booking|/ˈdʌbl ˈbʊkɪŋ/|重复预订|n
+no-show meeting|/nəʊ ʃəʊ ˈmiːtɪŋ/|无人到会|n
+empty room|/ˈempti ruːm/|空会议室|n
+overrun|/ˌəʊvəˈrʌn/|超时占用|n
+buffer time|/ˈbʌfə taɪm/|缓冲时间|n
+travel time|/ˈtrævl taɪm/|路上时间|n
+setup time|/ˈsetʌp taɪm/|布置时间|n
+cleanup|/ˈkliːnʌp/|清理现场|n
+housekeeping|/ˈhaʊskiːpɪŋ/|会务杂务|n
+AV check|/ˌeɪ ˈviː tʃek/|音视频检查|n
+microphone|/ˈmaɪkrəfəʊn/|麦克风|n
+speakerphone|/ˈspiːkəfəʊn/|免提电话|n
+projector|/prəˈdʒektə/|投影仪|n
+pointer|/ˈpɔɪntə/|激光笔|n
+clicker|/ˈklɪkə/|翻页笔|n
+nameplate|/ˈneɪmpleɪt/|席卡|n
+seating plan|/ˈsiːtɪŋ plæn/|座位表|n
+place card|/pleɪs kɑːd/|座位卡|n
+sign-in sheet|/saɪn ɪn ʃiːt/|签到单|n
+welcome pack|/ˈwelkəm pæk/|欢迎材料|n
+water station|/ˈwɔːtə ˈsteɪʃn/|饮水处|n
+breakout|/ˈbreɪkaʊt/|分组讨论|n
+plenary|/ˈpliːnəri/|全体会议|n
+keynote|/ˈkiːnəʊt/|主旨发言|n
+panel|/ˈpænl/|专题小组|n
+moderator|/ˈmɒdəreɪtə/|主持人|n
+rapporteur|/ˌræpɔːˈtɜː/|报告人|n
+time-out|/taɪm aʊt/|暂停讨论|n
+stretch break|/stretʃ breɪk/|伸展休息|n
+coffee break|/ˈkɒfi breɪk/|茶歇|n
+networking|/ˈnetwɜːkɪŋ/|会间交流|n
+photo op|/ˈfəʊtəʊ ɒp/|合影环节|n
+group photo|/ɡruːp ˈfəʊtəʊ/|集体照|n
+debrief note|/ˌdiːˈbriːf nəʊt/|复盘说明|n
+thank-you note|/θæŋk ju nəʊt/|感谢短笺|n
+appreciation|/əˌpriːʃiˈeɪʃn/|感谢认可|n
+recognition|/ˌrekəɡˈnɪʃn/|表彰|n
+award|/əˈwɔːd/|奖项|n
+citation|/saɪˈteɪʃn/|嘉奖|n
+warning letter|/ˈwɔːnɪŋ ˈletə/|警告信|n
+verbal warning|/ˈvɜːbl ˈwɔːnɪŋ/|口头警告|n
+written warning|/ˈrɪtn ˈwɔːnɪŋ/|书面警告|n
+counseling note|/ˈkaʊnsəlɪŋ nəʊt/|约谈记录|n
+improvement plan|/ɪmˈpruːvmənt plæn/|改进计划|n
+PIP|/ˌpiː aɪ ˈpiː/|绩效改进计划|acr
+probation review|/prəˈbeɪʃn rɪˈvjuː/|试用考核|n
+exit interview|/ˈeksɪt ˈɪntəvjuː/|离职面谈|n
+handover checklist|/ˈhændəʊvə ˈtʃeklɪst/|交接清单|n
+clearance form|/ˈklɪərəns fɔːm/|离职清算单|n
+last day|/lɑːst deɪ/|最后工作日|n
+notice to leave|/ˈnəʊtɪs tə liːv/|离职通知|n
+reference letter|/ˈrefrəns ˈletə/|推荐信|n
+employment letter|/ɪmˈplɔɪmənt ˈletə/|在职证明|n
+salary slip|/ˈsæləri slɪp/|工资单|n
+pay day|/peɪ deɪ/|发薪日|n
+allowance|/əˈlaʊəns/|津贴|n
+bonus|/ˈbəʊnəs/|奖金|n
+overtime claim|/ˈəʊvətaɪm kleɪm/|加班申报|n
+shift allowance|/ʃɪft əˈlaʊəns/|班次津贴|n
+night differential|/naɪt ˌdɪfəˈrenʃl/|夜班补贴|n
+on-call pay|/ɒn kɔːl peɪ/|值班津贴|n
+meal voucher|/miːl ˈvaʊtʃə/|餐券|n
+transport allowance|/ˈtrænspɔːt əˈlaʊəns/|交通补贴|n
+housing allowance|/ˈhaʊzɪŋ əˈlaʊəns/|住房补贴|n
+uniform allowance|/ˈjuːnɪfɔːm əˈlaʊəns/|工装补贴|n
+training allowance|/ˈtreɪnɪŋ əˈlaʊəns/|培训补贴|n
+exam leave|/ɪɡˈzæm liːv/|考试假|n
+marriage leave|/ˈmærɪdʒ liːv/|婚假|n
+bereavement leave|/bɪˈriːvmənt liːv/|丧假|n
+maternity leave|/məˈtɜːnəti liːv/|产假|n
+paternity leave|/pəˈtɜːnəti liːv/|陪产假|n
+parental leave|/pəˈrentl liːv/|育儿假|n
+unpaid leave|/ˌʌnˈpeɪd liːv/|无薪假|n
+study leave|/ˈstʌdi liːv/|进修假|n
+compassionate leave|/kəmˈpæʃənət liːv/|恩恤假|n
+jury duty|/ˈdʒʊəri ˈdjuːti/|陪审公务|n
+military leave|/ˈmɪlətri liːv/|服役假|n
+return-to-work|/rɪˈtɜːn tə wɜːk/|复工|n
+fit note|/fɪt nəʊt/|康复证明|n
+sick note|/sɪk nəʊt/|病假条|n
+occupational health|/ˌɒkjuˈpeɪʃənl helθ/|职业健康|n
+pre-employment check|/pri ɪmˈplɔɪmənt tʃek/|入职体检|n
+background check|/ˈbækɡraʊnd tʃek/|背景审查|n
+reference check|/ˈrefrəns tʃek/|背景询问|n
+conflict check|/ˈkɒnflɪkt tʃek/|利益冲突核查|n
+onboarding pack|/ˌɒnˈbɔːdɪŋ pæk/|入职材料包|n
+welcome email|/ˈwelkəm ˈiːmeɪl/|欢迎邮件|n
+first-day agenda|/fɜːst deɪ əˈdʒendə/|首日安排|n
+buddy assignment|/ˈbʌdi əˈsaɪnmənt/|带教安排|n
+desk assignment|/desk əˈsaɪnmənt/|工位安排|n
+phone extension|/fəʊn ɪkˈstenʃn/|电话分机|n
+email account|/ˈiːmeɪl əˈkaʊnt/|邮箱账号|n
+system access|/ˈsɪstəm ˈækses/|系统权限|n
+training schedule|/ˈtreɪnɪŋ ˈʃedjuːl/|培训日程|n
+competency|/kəmˈpetənsi/|能力要求|n
+skill matrix|/skɪl ˈmeɪtrɪks/|技能矩阵|n
+job grade|/dʒɒb ɡreɪd/|职级|n
+pay band|/peɪ bænd/|薪级|n
+title|/ˈtaɪtl/|职务名称|n
+reporting line|/rɪˈpɔːtɪŋ laɪn/|汇报关系|n
+dotted line|/ˈdɒtɪd laɪn/|虚线汇报|n
+solid line|/ˈsɒlɪd laɪn/|实线汇报|n
+span of control|/spæn əv kənˈtrəʊl/|管理幅度|n
+acting|/ˈæktɪŋ/|代理的|adj
+interim|/ˈɪntərɪm/|临时的|adj
+permanent|/ˈpɜːmənənt/|正式的|adj
+temporary|/ˈtemprəri/|临时的|adj
+full-time|/fʊl taɪm/|全职的|adj
+part-time|/pɑːt taɪm/|兼职的|adj
+contract staff|/ˈkɒntrækt stɑːf/|合同制员工|n
+agency staff|/ˈeɪdʒənsi stɑːf/|派遣员工|n
+locum|/ˈləʊkəm/|代班人员|n
+floater|/ˈfləʊtə/|机动人员|n
+pool staff|/puːl stɑːf/|机动库人员|n
+surge staff|/sɜːdʒ stɑːf/|应急增援人员|n
+overtime roster|/ˈəʊvətaɪm ˈrɒstə/|加班排班|n
+swap shift|/swɒp ʃɪft/|换班|v
+cover shift|/ˈkʌvə ʃɪft/|顶班|v
+call in sick|/kɔːl ɪn sɪk/|请病假|phr|Please call in sick before seven.|七点前请打电话请病假。
+no-pay day|/nəʊ peɪ deɪ/|无薪缺勤日|n
+tardiness|/ˈtɑːdinəs/|迟到记录|n
+absenteeism|/ˌæbsənˈtiːɪzəm/|缺勤|n
+attendance record|/əˈtendəns ˈrekɔːd/|出勤记录|n
+time sheet|/taɪm ʃiːt/|工时表|n
+hours worked|/ˈaʊəz wɜːkt/|实际工时|n
+core team|/kɔː tiːm/|核心团队|n
+extended team|/ɪkˈstendɪd tiːm/|扩展团队|n
+project team|/ˈprɒdʒekt tiːm/|项目组|n
+ops team|/ɒps tiːm/|运营组|n
+support team|/səˈpɔːt tiːm/|支持组|n
+frontline|/ˈfrʌntlaɪn/|一线|n
+back office|/bæk ˈɒfɪs/|后台|n
+shared services|/ʃeəd ˈsɜːvɪsɪz/|共享服务|n
+help window|/help ˈwɪndəʊ/|服务窗口|n
+service counter|/ˈsɜːvɪs ˈkaʊntə/|服务台|n
+ticket window|/ˈtɪkɪt ˈwɪndəʊ/|窗口|n
+queue number|/kjuː ˈnʌmbə/|排队号|n
+calling system|/ˈkɔːlɪŋ ˈsɪstəm/|叫号系统|n
+display board|/dɪˈspleɪ bɔːd/|显示屏|n
+wayfinding|/ˈweɪfaɪndɪŋ/|导引标识|n
+directory board|/dəˈrektəri bɔːd/|楼层索引|n
+floor plan|/flɔː plæn/|平面图|n
+room number|/ruːm ˈnʌmbə/|房间号|n
+building|/ˈbɪldɪŋ/|楼宇|n
+wing|/wɪŋ/|楼翼|n
+ward|/wɔːd/|病区|n
+unit|/ˈjuːnɪt/|单元|n
+bay|/beɪ/|床位区|n
+cubicle|/ˈkjuːbɪkl/|隔间|n
+workstation area|/ˈwɜːksteɪʃn ˈeəriə/|工位区|n
+quiet room|/ˈkwaɪət ruːm/|安静室|n
+on-call room|/ɒn kɔːl ruːm/|值班室|n
+duty room|/ˈdjuːti ruːm/|值班房|n
+changing room|/ˈtʃeɪndʒɪŋ ruːm/|更衣室|n
+storage room|/ˈstɔːrɪdʒ ruːm/|库房|n
+records room|/ˈrekɔːdz ruːm/|病案室|n
+medical records|/ˈmedɪkl ˈrekɔːdz/|病案|n
+chart request|/tʃɑːt rɪˈkwest/|调阅病历|n
+release of information|/rɪˈliːs əv ˌɪnfəˈmeɪʃn/|信息调取|n
+authorization form|/ˌɔːθəraɪˈzeɪʃn fɔːm/|授权书|n
+identity check|/aɪˈdentəti tʃek/|身份核验|n
+next of kin|/nekst əv kɪn/|近亲属|n
+emergency contact|/ɪˈmɜːdʒənsi ˈkɒntækt/|紧急联系人|n
+guardian|/ˈɡɑːdiən/|监护人|n
+interpreter|/ɪnˈtɜːprɪtə/|口译员|n
+language line|/ˈlæŋɡwɪdʒ laɪn/|翻译专线|n
+plain explanation|/pleɪn ˌekspləˈneɪʃn/|通俗解释|n
+teach-back|/tiːtʃ bæk/|复述确认|n
+informed consent|/ɪnˈfɔːmd kənˈsent/|知情同意|n
+patient rights|/ˈpeɪʃnt raɪts/|患者权利|n
+privacy screen|/ˈprɪvəsi skriːn/|隐私屏|n
+lower your voice|/ˈləʊə jɔː vɔɪs/|请放低声音|phr|Please lower your voice at the desk.|前台请放低声音。
+quiet please|/ˈkwaɪət pliːz/|请保持安静|phr|Quiet please, a huddle is on.|请保持安静，正在开短会。
+do not disturb|/duː nɒt dɪˈstɜːb/|请勿打扰|phr|Put a do not disturb sign on the door.|门上请挂请勿打扰。
+knock first|/nɒk fɜːst/|先敲门|phr|Please knock first before entering.|进去前请先敲门。
+wait outside|/weɪt ˌaʊtˈsaɪd/|在门外等|phr|Please wait outside until called.|请在门外等到叫号。
+come in|/kʌm ɪn/|请进|phr|Come in, we can start now.|请进，我们可以开始了。
+have a seat|/hæv ə siːt/|请坐|phr|Please have a seat by the window.|请坐到窗边。
+this way|/ðɪs weɪ/|请这边走|phr|This way to the conference room.|会议室请这边走。
+after you|/ˈɑːftə ju/|您先请|phr|After you at the lift.|电梯您先请。
+watch your step|/wɒtʃ jɔː step/|小心脚下|phr|Watch your step, the floor is wet.|小心脚下，地是湿的。
+mind the door|/maɪnd ðə dɔː/|小心门|phr|Mind the door, it closes fast.|小心门，它关得很快。
+please wait|/pliːz weɪt/|请稍等|phr|Please wait, I will print the form.|请稍等，我去打印表格。
+one moment|/wʌn ˈməʊmənt/|稍等片刻|phr|One moment, I am checking the roster.|稍等，我在查排班。
+right away|/raɪt əˈweɪ/|马上|phr|I will send it right away.|我马上发。
+as soon as possible|/æz suːn æz ˈpɒsəbl/|尽快|phr|Please send the list as soon as possible.|请尽快把名单发来。
+no rush|/nəʊ rʌʃ/|不着急|phr|No rush, tomorrow is fine.|不着急，明天也可以。
+take your time|/teɪk jɔː taɪm/|不着急慢慢来|phr|Take your time with the minutes.|纪要不着急，慢慢写。
+I see|/aɪ siː/|明白了|phr|I see, we will change the time.|明白了，我们改时间。
+got it|/ɡɒt ɪt/|收到|phr|Got it, I will print ten copies.|收到，我会打印十份。
+makes sense|/meɪks sens/|说得通|phr|That makes sense, let's do it.|说得通，那就这么做。
+fair enough|/feə ɪˈnʌf/|可以理解|phr|Fair enough, we can wait one day.|可以理解，我们可以再等一天。
+no problem|/nəʊ ˈprɒbləm/|没问题|phr|No problem, I can cover Thursday.|没问题，周四我可以顶班。
+happy to help|/ˈhæpi tə help/|乐意帮忙|phr|Happy to help with the packing.|打包我乐意帮忙。
+leave it with me|/liːv ɪt wɪð mi/|交给我吧|phr|Leave it with me, I will chase it.|交给我吧，我去催。
+I'll take it|/aɪl teɪk ɪt/|我来负责|phr|I'll take it from here.|从这里开始我来负责。
+over to you|/ˈəʊvə tə ju/|交给你了|phr|The file is over to you now.|这份档案现在交给你了。
+your call|/jɔː kɔːl/|由你决定|phr|It's your call on the room size.|房间大小由你决定。
+up to you|/ʌp tə ju/|随你|phr|The start time is up to you.|开始时间随你定。
+let's proceed|/lets prəˈsiːd/|我们继续|phr|Let's proceed with the next item.|我们继续下一项。
+hold on|/həʊld ɒn/|等一下|phr|Hold on, I need the latest list.|等一下，我需要最新名单。
+wait a second|/weɪt ə ˈsekənd/|稍等一秒|phr|Wait a second, I will mute the phone.|稍等，我先把电话静音。
+sorry to interrupt|/ˈsɒri tu ˌɪntəˈrʌpt/|抱歉打断|phr|Sorry to interrupt, the director is here.|抱歉打断，主任到了。
+may I add|/meɪ aɪ æd/|我补充一句|phr|May I add one point on staffing?|我能补充一句人手的事吗？
+go ahead|/ɡəʊ əˈhed/|请讲|phr|Go ahead, we are listening.|请讲，我们在听。
+please continue|/pliːz kənˈtɪnjuː/|请继续|phr|Please continue from the last slide.|请从上一页继续。
+any questions|/ˈeni ˈkwestʃənz/|有问题吗|phr|Any questions before we close?|结束前还有问题吗？
+any comments|/ˈeni ˈkɒments/|有意见吗|phr|Any comments on the draft?|对草稿有意见吗？
+any objections|/ˈeni əbˈdʒekʃnz/|有异议吗|phr|Any objections to Thursday?|周四有人反对吗？
+all clear|/ɔːl klɪə/|都清楚了|phr|All clear on the new roster?|新排班都清楚了吗？
+crystal clear|/ˈkrɪstl klɪə/|非常清楚|phr|The instruction is crystal clear.|指示非常清楚。
+still unclear|/stɪl ʌnˈklɪə/|仍不清楚|phr|The owner is still unclear.|负责人仍不清楚。
+need clarification|/niːd ˌklærəfɪˈkeɪʃn/|需要澄清|phr|We need clarification on the date.|我们需要把日期澄清一下。
+for avoidance of doubt|/fər əˈvɔɪdəns əv daʊt/|以免误解|phr|For avoidance of doubt, start at nine.|以免误解，九点开始。
+to be clear|/tə bi klɪə/|说清楚|phr|To be clear, no overtime tonight.|说清楚，今晚不加班。
+just to confirm|/dʒʌst tə kənˈfɜːm/|再确认一下|phr|Just to confirm, you will print it.|再确认一下，打印由你来。
+quick question|/kwɪk ˈkwestʃn/|快速问一句|phr|Quick question: who books the room?|快速问一句：谁订房间？
+one more thing|/wʌn mɔː θɪŋ/|还有一件事|phr|One more thing, please copy the clerk.|还有一件事，请抄送文员。
+last item|/lɑːst ˈaɪtəm/|最后一项|n
+that's all|/ðæts ɔːl/|就这些|phr|That's all from my side.|我这边就这些。
+meeting adjourned|/ˈmiːtɪŋ əˈdʒɜːnd/|会议结束|phr|Meeting adjourned, thank you all.|会议结束，谢谢大家。
+see you tomorrow|/siː ju təˈmɒrəʊ/|明天见|phr|See you tomorrow at the huddle.|明天晨会见。
+have a good day|/hæv ə ɡʊd deɪ/|祝你顺利|phr|Have a good day at the desk.|前台今天顺利。
+take care|/teɪk keə/|多保重|phr|Take care on your way home.|回家路上多保重。
+good morning|/ɡʊd ˈmɔːnɪŋ/|早上好|phr|Good morning, the roster is ready.|早上好，排班已经好了。
+good afternoon|/ɡʊd ˌɑːftəˈnuːn/|下午好|phr|Good afternoon, shall we start?|下午好，我们开始吗？
+good evening|/ɡʊd ˈiːvnɪŋ/|晚上好|phr|Good evening, night shift is here.|晚上好，夜班到了。
+welcome back|/ˈwelkəm bæk/|欢迎回来|phr|Welcome back from leave.|欢迎休假回来。
+long time no see|/lɒŋ taɪm nəʊ siː/|好久不见|phr|Long time no see at the huddle.|晨会上好久不见。
+how's it going|/haʊz ɪt ˈɡəʊɪŋ/|最近怎样|phr|How's it going with the filing?|归档进展怎样？
+busy morning|/ˈbɪzi ˈmɔːnɪŋ/|忙碌的上午|n
+quiet afternoon|/ˈkwaɪət ˌɑːftəˈnuːn/|清闲的下午|n
+heavy day|/ˈhevi deɪ/|繁忙的一天|n
+light day|/laɪt deɪ/|轻松的一天|n
+typical day|/ˈtɪpɪkl deɪ/|平常的一天|n
+unusual request|/ʌnˈjuːʒuəl rɪˈkwest/|少见的请求|n
+routine request|/ruːˈtiːn rɪˈkwest/|常规请求|n
+special request|/ˈspeʃl rɪˈkwest/|特殊请求|n
+urgent request|/ˈɜːdʒənt rɪˈkwest/|紧急请求|n
+standing request|/ˈstændɪŋ rɪˈkwest/|长期固定请求|n
+one-off request|/wʌn ɒf rɪˈkwest/|一次性请求|n
+repeat request|/rɪˈpiːt rɪˈkwest/|重复请求|n
+duplicate request|/ˈdjuːplɪkət rɪˈkwest/|重复提交的请求|n
+invalid request|/ɪnˈvælɪd rɪˈkwest/|无效请求|n
+incomplete form|/ˌɪnkəmˈpliːt fɔːm/|不完整表格|n
+missing field|/ˈmɪsɪŋ fiːld/|漏填字段|n
+wrong date|/rɒŋ deɪt/|日期填错|n
+illegible|/ɪˈledʒəbl/|字迹难认的|adj
+unsigned|/ˌʌnˈsaɪnd/|未签字的|adj
+unstamped|/ˌʌnˈstæmpt/|未盖章的|adj
+outdated|/ˌaʊtˈdeɪtɪd/|过时的|adj
+superseded|/ˌsuːpəˈsiːdɪd/|已被替代的|adj
+current version|/ˈkʌrənt ˈvɜːʃn/|当前版本|n
+obsolete version|/ˈɒbsəliːt ˈvɜːʃn/|作废版本|n
+controlled document|/kənˈtrəʊld ˈdɒkjumənt/|受控文件|n
+uncontrolled copy|/ˌʌnkənˈtrəʊld ˈkɒpi/|非受控副本|n
+master copy|/ˈmɑːstə ˈkɒpi/|正本|n
+working copy|/ˈwɜːkɪŋ ˈkɒpi/|工作副本|n
+reference copy|/ˈrefrəns ˈkɒpi/|查阅副本|n
+display copy|/dɪˈspleɪ ˈkɒpi/|展示用副本|n
+archived copy|/ˈɑːkaɪvd ˈkɒpi/|归档副本|n
+retention|/rɪˈtenʃn/|保存期限|n
+destruction|/dɪˈstrʌkʃn/|销毁|n
+shred|/ʃred/|粉碎销毁|v
+confidential bin|/ˌkɒnfɪˈdenʃl bɪn/|保密回收桶|n
+locked cabinet|/lɒkt ˈkæbɪnət/|上锁柜|n
+key control|/kiː kənˈtrəʊl/|钥匙管理|n
+access log|/ˈækses lɒɡ/|进出记录|n
+after-hours access|/ˈɑːftə ˈaʊəz ˈækses/|下班后进出|n
+visitor escort|/ˈvɪzɪtə ˈeskɔːt/|访客陪同|n
+tailgating|/ˈteɪlɡeɪtɪŋ/|尾随进门|n
+lost badge|/lɒst bædʒ/|工牌遗失|n
+badge replacement|/bædʒ rɪˈpleɪsmənt/|补办工牌|n
+temporary badge|/ˈtemprəri bædʒ/|临时工牌|n
+contractor badge|/kənˈtræktə bædʒ/|外包工牌|n
+vendor pass|/ˈvendə pɑːs/|供应商通行证|n
+loading bay|/ˈləʊdɪŋ beɪ/|卸货区|n
+goods in|/ɡʊdz ɪn/|收货|n
+goods out|/ɡʊdz aʊt/|发货|n
+delivery note|/dɪˈlɪvəri nəʊt/|送货单|n
+packing list|/ˈpækɪŋ lɪst/|装箱单|n
+goods receipt|/ɡʊdz rɪˈsiːt/|收货确认|n
+return note|/rɪˈtɜːn nəʊt/|退货单|n
+damaged goods|/ˈdæmɪdʒd ɡʊdz/|破损货物|n
+wrong delivery|/rɒŋ dɪˈlɪvəri/|错送|n
+partial delivery|/ˈpɑːʃl dɪˈlɪvəri/|部分到货|n
+full delivery|/fʊl dɪˈlɪvəri/|全部到货|n
+backorder|/ˈbækɔːdə/|缺货待发|n
+rush order|/rʌʃ ˈɔːdə/|加急订单|n
+standing order|/ˈstændɪŋ ˈɔːdə/|长期订单|n
+blanket order|/ˈblæŋkɪt ˈɔːdə/|开口订单|n
+purchase request|/ˈpɜːtʃəs rɪˈkwest/|采购申请|n
+budget holder|/ˈbʌdʒɪt ˈhəʊldə/|预算负责人|n
+cost code|/kɒst kəʊd/|费用科目|n
+account code|/əˈkaʊnt kəʊd/|会计科目|n
+internal order|/ɪnˈtɜːnl ˈɔːdə/|内部订单|n
+chargeback|/ˈtʃɑːdʒbæk/|内部结算|n
+cross-charge|/krɒs tʃɑːdʒ/|交叉计费|n
+funding|/ˈfʌndɪŋ/|经费|n
+grant funding|/ɡrɑːnt ˈfʌndɪŋ/|拨款经费|n
+donation|/dəʊˈneɪʃn/|捐赠|n
+sponsorship|/ˈspɒnsəʃɪp/|赞助|n
+in-kind|/ɪn kaɪnd/|实物支持|n
+quotation comparison|/kwəʊˈteɪʃn kəmˈpærɪsn/|比价|n
+lowest bid|/ˈləʊɪst bɪd/|最低价投标|n
+preferred vendor|/prɪˈfɜːd ˈvendə/|首选供应商|n
+approved vendor|/əˈpruːvd ˈvendə/|合格供应商|n
+vendor meeting|/ˈvendə ˈmiːtɪŋ/|供应商会议|n
+service review|/ˈsɜːvɪs rɪˈvjuː/|服务回顾|n
+contract renewal|/ˈkɒntrækt rɪˈnjuːəl/|合同续签|n
+contract expiry|/ˈkɒntrækt ɪkˈspaɪəri/|合同到期|n
+notice to terminate|/ˈnəʊtɪs tə ˈtɜːmɪneɪt/|终止通知|n
+penalty clause|/ˈpenəlti klɔːz/|罚则条款|n
+service credit|/ˈsɜːvɪs ˈkredɪt/|服务补偿|n
+warranty|/ˈwɒrənti/|质保|n
+maintenance window|/ˈmeɪntənəns ˈwɪndəʊ/|维护窗口|n
+scheduled downtime|/ˈʃedjuːld ˈdaʊntaɪm/|计划停机|n
+unscheduled downtime|/ʌnˈʃedjuːld ˈdaʊntaɪm/|非计划停机|n
+service notice|/ˈsɜːvɪs ˈnəʊtɪs/|服务公告|n
+user notice|/ˈjuːzə ˈnəʊtɪs/|用户通知|n
+downtime notice|/ˈdaʊntaɪm ˈnəʊtɪs/|停机通知|n
+go-live notice|/ɡəʊ laɪv ˈnəʊtɪs/|上线通知|n
+rollback notice|/ˈrəʊlbæk ˈnəʊtɪs/|回退通知|n
+workaround notice|/ˈwɜːkəraʊnd ˈnəʊtɪs/|临时办法通知|n
+FAQ|/ˌef eɪ ˈkjuː/|常见问题|acr
+how-to|/haʊ tu/|操作说明|n
+quick guide|/kwɪk ɡaɪd/|快速指南|n
+user guide|/ˈjuːzə ɡaɪd/|用户手册|n
+job aid|/dʒɒb eɪd/|岗位提示卡|n
+cheat sheet|/tʃiːt ʃiːt/|速查表|n
+poster|/ˈpəʊstə/|海报|n
+laminated card|/ˈlæmɪneɪtɪd kɑːd/|塑封卡片|n
+desk tent|/desk tent/|桌牌提示|n
+screensaver message|/ˈskriːnseɪvə ˈmesɪdʒ/|屏保提示|n
+hold music|/həʊld ˈmjuːzɪk/|等待音乐|n
+on-hold message|/ɒn həʊld ˈmesɪdʒ/|等待语音|n
+script|/skrɪpt/|话术|n
+call script|/kɔːl skrɪpt/|来电话术|n
+greeting|/ˈɡriːtɪŋ/|问候语|n
+closing line|/ˈkləʊzɪŋ laɪn/|结束语|n
+hold message|/həʊld ˈmesɪdʒ/|请等待提示|n
+transfer message|/ˈtrænsfɜː ˈmesɪdʒ/|转接提示|n
+busy tone|/ˈbɪzi təʊn/|忙音|n
+no answer|/nəʊ ˈɑːnsə/|无人接听|n
+voicemail greeting|/ˈvɔɪsmeɪl ˈɡriːtɪŋ/|语音问候|n
+callback request|/ˈkɔːlbæk rɪˈkwest/|回拨请求|n
+missed call|/mɪst kɔːl/|未接来电|n
+returned call|/rɪˈtɜːnd kɔːl/|已回电话|n
+phone tree|/fəʊn triː/|语音菜单|n
+extension list|/ɪkˈstenʃn lɪst/|分机表|n
+on-call list|/ɒn kɔːl lɪst/|值班名单|n
+escalation list|/ˌeskəˈleɪʃn lɪst/|升级名单|n
+contact tree|/ˈkɒntækt triː/|联络树|n
+phone duty|/fəʊn ˈdjuːti/|接听值班|n
+front-desk duty|/frʌnt desk ˈdjuːti/|前台值班|n
+weekend duty|/ˈwiːkend ˈdjuːti/|周末值班|n
+holiday duty|/ˈhɒlədeɪ ˈdjuːti/|节假日值班|n
+duty swap|/ˈdjuːti swɒp/|值班对调|n
+duty cover|/ˈdjuːti ˈkʌvə/|值班顶替|n
+duty handover|/ˈdjuːti ˈhændəʊvə/|值班交接|n
+duty phone|/ˈdjuːti fəʊn/|值班电话|n
+duty bag|/ˈdjuːti bæɡ/|值班包|n
+duty keys|/ˈdjuːti kiːz/|值班钥匙|n
+duty folder|/ˈdjuːti ˈfəʊldə/|值班文件夹|n
+duty checklist|/ˈdjuːti ˈtʃeklɪst/|值班核对单|n
+night report|/naɪt rɪˈpɔːt/|夜班报告|n
+morning report|/ˈmɔːnɪŋ rɪˈpɔːt/|早交班|n
+24-hour report|/ˈtwenti fɔːr ˈaʊə rɪˈpɔːt/|二十四小时报告|n
+census report|/ˈsensəs rɪˈpɔːt/|在院人数报告|n
+occupancy report|/ˈɒkjəpənsi rɪˈpɔːt/|床位占用报告|n
+delay report|/dɪˈleɪ rɪˈpɔːt/|延误报告|n
+exception report|/ɪkˈsepʃn rɪˈpɔːt/|例外报告|n
+exception list|/ɪkˈsepʃn lɪst/|例外清单|n
+open items|/ˈəʊpən ˈaɪtəmz/|未完事项|n
+closed items|/kləʊzd ˈaɪtəmz/|已完事项|n
+carried forward|/ˈkærid ˈfɔːwəd/|结转事项|n
+brought forward|/brɔːt ˈfɔːwəd/|承前事项|n
+new item|/njuː ˈaɪtəm/|新增事项|n
+old item|/əʊld ˈaɪtəm/|旧事项|n
+recurring item|/rɪˈkɜːrɪŋ ˈaɪtəm/|重复事项|n
+one-time item|/wʌn taɪm ˈaɪtəm/|一次性事项|n
+parking-lot list|/ˈpɑːkɪŋ lɒt lɪst/|待议清单|n
+decision needed|/dɪˈsɪʒn ˈniːdɪd/|待决策|n
+info needed|/ˈɪnfəʊ ˈniːdɪd/|待补充信息|n
+waiting on|/ˈweɪtɪŋ ɒn/|等待对方|phr|We are waiting on finance.|我们在等财务。
+blocked by|/blɒkt baɪ/|被卡住|phr|This is blocked by missing stamps.|这件事被缺章卡住了。
+unblocked|/ʌnˈblɒkt/|已解除阻塞|adj
+ready for review|/ˈredi fə rɪˈvjuː/|待审阅|phr|The pack is ready for review.|材料包待审阅。
+ready to send|/ˈredi tə send/|可以发送|phr|The notice is ready to send.|通知可以发送了。
+sent|/sent/|已发送|adj
+received|/rɪˈsiːvd/|已收到|adj
+acknowledged|/əkˈnɒlɪdʒd/|已确认收到|adj
+in review|/ɪn rɪˈvjuː/|审阅中|phr|The policy is in review.|制度正在审阅。
+approved in principle|/əˈpruːvd ɪn ˈprɪnsəpl/|原则同意|phr|It is approved in principle.|原则上已经同意。
+conditionally approved|/kənˈdɪʃənəli əˈpruːvd/|有条件批准|adj
+rejected with comments|/rɪˈdʒektɪd wɪð ˈkɒments/|退回并批注|phr|It was rejected with comments.|被退回并写了批注。
+needs rework|/niːdz ˌriːˈwɜːk/|需要返工|phr|The draft needs rework.|草稿需要返工。
+good enough|/ɡʊd ɪˈnʌf/|可以接受|phr|This version is good enough to circulate.|这个版本可以传阅了。
+not yet|/nɒt jet/|还没有|phr|The stamp is not yet on the form.|表格上还没有盖章。
+already done|/ɔːlˈredi dʌn/|已经做完|phr|The roster is already done.|排班已经做完了。
+almost done|/ˈɔːlməʊst dʌn/|快做完了|phr|The minutes are almost done.|纪要快写完了。
+just started|/dʒʌst ˈstɑːtɪd/|刚开始|phr|I have just started the filing.|我刚开始归档。
+halfway|/ˈhɑːfweɪ/|做到一半|adv
+on track|/ɒn træk/|进展正常|phr|The plan is on track this week.|这周计划进展正常。
+off track|/ɒf træk/|偏离计划|phr|The filing is off track.|归档偏离计划了。
+at risk|/ət rɪsk/|有风险|phr|Thursday's drill is at risk.|周四演练有风险。
+slipping|/ˈslɪpɪŋ/|进度下滑|adj
+catch-up plan|/ˈkætʃ ʌp plæn/|赶工计划|n
+recovery plan|/rɪˈkʌvəri plæn/|追赶计划|n
+contingency plan|/kənˈtɪndʒənsi plæn/|应急计划|n
+plan B|/plæn biː/|备选方案|n
+fallback|/ˈfɔːlbæk/|退路方案|n
+work-around|/ˈwɜːk əraʊnd/|临时办法|n
+manual process|/ˈmænjuəl ˈprəʊses/|手工流程|n
+paper process|/ˈpeɪpə ˈprəʊses/|纸质流程|n
+electronic process|/ɪlekˈtrɒnɪk ˈprəʊses/|电子流程|n
+hybrid process|/ˈhaɪbrɪd ˈprəʊses/|混合流程|n
+end-to-end|/end tu end/|端到端|adj
+hand-off point|/hænd ɒf pɔɪnt/|交接节点|n
+single point of contact|/ˈsɪŋɡl pɔɪnt əv ˈkɒntækt/|唯一对接人|n
+SPOC|/spɒk/|唯一对接人|acr
+accountable owner|/əˈkaʊntəbl ˈəʊnə/|最终责任人|n
+backup owner|/ˈbækʌp ˈəʊnə/|候补负责人|n
+process owner|/ˈprəʊses ˈəʊnə/|流程负责人|n
+document owner|/ˈdɒkjumənt ˈəʊnə/|文件负责人|n
+data owner|/ˈdeɪtə ˈəʊnə/|数据负责人|n
+system owner|/ˈsɪstəm ˈəʊnə/|系统负责人|n
+business owner|/ˈbɪznəs ˈəʊnə/|业务负责人|n
+technical owner|/ˈteknɪkl ˈəʊnə/|技术负责人|n
+operational owner|/ˌɒpəˈreɪʃənl ˈəʊnə/|运营负责人|n
+duty owner|/ˈdjuːti ˈəʊnə/|值班负责人|n
+on-call owner|/ɒn kɔːl ˈəʊnə/|值班对接人|n
+issue owner|/ˈɪʃuː ˈəʊnə/|问题负责人|n
+risk owner|/rɪsk ˈəʊnə/|风险负责人|n
+action owner|/ˈækʃn ˈəʊnə/|行动负责人|n
+meeting owner|/ˈmiːtɪŋ ˈəʊnə/|会议负责人|n
+room owner|/ruːm ˈəʊnə/|房间负责人|n
+asset owner|/ˈæset ˈəʊnə/|资产负责人|n
+budget owner|/ˈbʌdʒɪt ˈəʊnə/|预算负责人|n
+vendor owner|/ˈvendə ˈəʊnə/|供应商对接人|n
+contract owner|/ˈkɒntrækt ˈəʊnə/|合同负责人|n
+training owner|/ˈtreɪnɪŋ ˈəʊnə/|培训负责人|n
+communication owner|/kəˌmjuːnɪˈkeɪʃn ˈəʊnə/|沟通负责人|n
+change owner|/tʃeɪndʒ ˈəʊnə/|变更负责人|n
+go-live owner|/ɡəʊ laɪv ˈəʊnə/|上线负责人|n
+cutover owner|/ˈkʌtəʊvə ˈəʊnə/|切换负责人|n
+hypercare owner|/ˈhaɪpəkeə ˈəʊnə/|上线守护负责人|n
+floor support|/flɔː səˈpɔːt/|现场支持|n
+war room|/wɔː ruːm/|应急指挥室|n
+command center|/kəˈmɑːnd ˈsentə/|指挥中心|n
+situation room|/ˌsɪtʃuˈeɪʃn ruːm/|态势室|n
+status call|/ˈsteɪtəs kɔːl/|状态电话会|n
+bridge line|/brɪdʒ laɪn/|电话桥|n
+dial-in code|/ˈdaɪəl ɪn kəʊd/|入会密码|n
+meeting ID|/ˈmiːtɪŋ aɪ ˈdiː/|会议号|n
+waiting room|/ˈweɪtɪŋ ruːm/|等候室|n
+host key|/həʊst kiː/|主持人密钥|n
+co-host|/kəʊ həʊst/|联席主持|n
+participant|/pɑːˈtɪsɪpənt/|参会者|n
+panelist|/ˈpænəlɪst/|小组成员|n
+observer|/əbˈzɜːvə/|列席观察员|n
+silent participant|/ˈsaɪlənt pɑːˈtɪsɪpənt/|静音参会者|n
+late joiner|/leɪt ˈdʒɔɪnə/|中途加入者|n
+early leaver|/ˈɜːli ˈliːvə/|提前离开者|n
+dropped call|/drɒpt kɔːl/|通话掉线|n
+poor audio|/pɔː ˈɔːdiəʊ/|声音很差|n
+echo|/ˈekəʊ/|回音|n
+background noise|/ˈbækɡraʊnd nɔɪz/|背景噪音|n
+please mute|/pliːz mjuːt/|请静音|phr|Please mute when you are not speaking.|不发言时请静音。
+please unmute|/pliːz ʌnˈmjuːt/|请取消静音|phr|Please unmute for your update.|请取消静音来通报。
+camera on|/ˈkæmərə ɒn/|打开摄像头|phr|Camera on for the introductions.|介绍环节请打开摄像头。
+camera off|/ˈkæmərə ɒf/|关闭摄像头|phr|Camera off is fine for this update.|这次通报可以关闭摄像头。
+share screen|/ʃeə skriːn/|共享屏幕|phr|Please share screen from slide three.|请从第三页开始共享屏幕。
+stop share|/stɒp ʃeə/|停止共享|phr|Stop share so we can see faces.|请停止共享，好看到人脸。
+remote attendee|/rɪˈməʊt əˌtenˈdiː/|远程参会人|n
+in-person attendee|/ɪn ˈpɜːsn əˌtenˈdiː/|现场参会人|n
+hybrid meeting|/ˈhaɪbrɪd ˈmiːtɪŋ/|线上线下混合会|n
+face-to-face|/feɪs tə feɪs/|面对面|adj
+virtual meeting|/ˈvɜːtʃuəl ˈmiːtɪŋ/|线上会议|n
+in-person meeting|/ɪn ˈpɜːsn ˈmiːtɪŋ/|现场会议|n
+corridor chat|/ˈkɒrɪdɔː tʃæt/|走廊沟通|n
+desk-side chat|/desk saɪd tʃæt/|工位旁沟通|n
+quick huddle|/kwɪk ˈhʌdl/|快速短会|n
+stand-up|/ˈstænd ʌp/|站立短会|n
+sit-down|/ˈsɪt daʊn/|坐下详谈|n
+deep dive|/diːp daɪv/|深入讨论|n
+pre-meet|/priː miːt/|会前预沟通|n
+post-meet|/pəʊst miːt/|会后沟通|n
+side conversation|/saɪd ˌkɒnvəˈseɪʃn/|旁边私聊|n
+parking the issue|/ˈpɑːkɪŋ ði ˈɪʃuː/|先搁置问题|n
+decision time|/dɪˈsɪʒn taɪm/|决策时间|n
+decision maker|/dɪˈsɪʒn ˈmeɪkə/|决策人|n
+approver|/əˈpruːvə/|审批人|n
+reviewer|/rɪˈvjuːə/|审阅人|n
+author|/ˈɔːθə/|起草人|n
+contributor|/kənˈtrɪbjətə/|撰稿人|n
+editor|/ˈedɪtə/|编辑人|n
+publisher|/ˈpʌblɪʃə/|发布人|n
+distributor|/dɪˈstrɪbjətə/|分发人|n
+recipient|/rɪˈsɪpiənt/|收件人|n
+sender|/ˈsendə/|发件人|n
+cc list|/siː siː lɪst/|抄送名单|n
+to line|/tuː laɪn/|收件人栏|n
+from line|/frɒm laɪn/|发件人栏|n
+reply chain|/rɪˈplaɪ tʃeɪn/|回复链|n
+forwarded message|/ˈfɔːwədɪd ˈmesɪdʒ/|转发邮件|n
+embedded image|/ɪmˈbedɪd ˈɪmɪdʒ/|内嵌图片|n
+large attachment|/lɑːdʒ əˈtætʃmənt/|大附件|n
+zip file|/zɪp faɪl/|压缩包|n
+password-protected|/ˈpɑːswɜːd prəˈtektɪd/|有密码保护的|adj
+need-to-know|/niːd tə nəʊ/|按需知悉|adj
+need-to-share|/niːd tə ʃeə/|按需分享|adj
+internal only|/ɪnˈtɜːnl ˈəʊnli/|仅内部|adj
+external|/ɪkˈstɜːnl/|外部的|adj
+public|/ˈpʌblɪk/|公开的|adj
+restricted|/rɪˈstrɪktɪd/|受限的|adj
+sensitive|/ˈsensətɪv/|敏感的|adj
+highly confidential|/ˈhaɪli ˌkɒnfɪˈdenʃl/|高度保密的|adj
+personal data|/ˈpɜːsənl ˈdeɪtə/|个人数据|n
+patient data|/ˈpeɪʃnt ˈdeɪtə/|患者数据|n
+staff data|/stɑːf ˈdeɪtə/|员工数据|n
+business data|/ˈbɪznəs ˈdeɪtə/|业务数据|n
+minimum necessary|/ˈmɪnɪməm ˈnesəsəri/|最小必要|n
+data minimization|/ˈdeɪtə ˌmɪnɪmaɪˈzeɪʃn/|数据最小化|n
+retention schedule|/rɪˈtenʃn ˈʃedjuːl/|保存期限表|n
+destruction log|/dɪˈstrʌkʃn lɒɡ/|销毁记录|n
+audit trail|/ˈɔːdɪt treɪl/|审计轨迹|n
+paper trail|/ˈpeɪpə treɪl/|书面痕迹|n
+email trail|/ˈiːmeɪl treɪl/|邮件痕迹|n
+decision trail|/dɪˈsɪʒn treɪl/|决策痕迹|n
+version history|/ˈvɜːʃn ˈhɪstri/|版本历史|n
+change history|/tʃeɪndʒ ˈhɪstri/|变更历史|n
+revision mark|/rɪˈvɪʒn mɑːk/|修订标记|n
+clean copy|/kliːn ˈkɒpi/|清稿|n
+redline|/ˈredlaɪn/|红线修订稿|n
+compare copy|/kəmˈpeə ˈkɒpi/|对照稿|n
+side-by-side|/saɪd baɪ saɪd/|并排对照|adj
+markup|/ˈmɑːkʌp/|批注标记|n
+strikethrough|/ˈstraɪkθruː/|删除线|n
+highlighting|/ˈhaɪlaɪtɪŋ/|高亮|n
+comment bubble|/ˈkɒment ˈbʌbl/|批注气泡|n
+resolve comment|/rɪˈzɒlv ˈkɒment/|关闭批注|v
+accept change|/əkˈsept tʃeɪndʒ/|接受修订|v
+reject change|/rɪˈdʒekt tʃeɪndʒ/|拒绝修订|v
+show markup|/ʃəʊ ˈmɑːkʌp/|显示标记|phr|Please show markup before you print.|打印前请显示修订标记。
+hide markup|/haɪd ˈmɑːkʌp/|隐藏标记|phr|Hide markup for the final pack.|终稿材料请隐藏标记。
+print preview|/prɪnt ˈpriːvjuː/|打印预览|n
+page break|/peɪdʒ breɪk/|分页符|n
+section break|/ˈsekʃn breɪk/|分节符|n
+landscape|/ˈlændskeɪp/|横向打印|n
+portrait|/ˈpɔːtreɪt/|纵向打印|n
+double-sided|/ˈdʌbl ˈsaɪdɪd/|双面打印|adj
+single-sided|/ˈsɪŋɡl ˈsaɪdɪd/|单面打印|adj
+staple|/ˈsteɪpl/|装订|v
+paper clip|/ˈpeɪpə klɪp/|回形针|n
+binder clip|/ˈbaɪndə klɪp/|长尾夹|n
+hole punch|/həʊl pʌntʃ/|打孔|n
+ring binder|/rɪŋ ˈbaɪndə/|活页夹|n
+document wallet|/ˈdɒkjumənt ˈwɒlɪt/|文件袋|n
+archive box|/ˈɑːkaɪv bɒks/|档案箱|n
+label maker|/ˈleɪbl ˈmeɪkə/|标签机|n
+date label|/deɪt ˈleɪbl/|日期标签|n
+color code|/ˈkʌlə kəʊd/|颜色编码|n
+filing rule|/ˈfaɪlɪŋ ruːl/|归档规则|n
+alphabetical|/ˌælfəˈbetɪkl/|按字母|adj
+chronological|/ˌkrɒnəˈlɒdʒɪkl/|按时间|adj
+by department|/baɪ dɪˈpɑːtmənt/|按科室|phr|File these by department.|请按科室归档。
+by date|/baɪ deɪt/|按日期|phr|Sort the invoices by date.|请按日期整理发票。
+by owner|/baɪ ˈəʊnə/|按负责人|phr|Group the tasks by owner.|请按负责人分组任务。
+misfiled|/ˌmɪsˈfaɪld/|归错档的|adj
+missing file|/ˈmɪsɪŋ faɪl/|缺失档案|n
+overdue file|/ˌəʊvəˈdjuː faɪl/|逾期未还档案|n
+file request|/faɪl rɪˈkwest/|调档申请|n
+file return|/faɪl rɪˈtɜːn/|还档|n
+loan register|/ləʊn ˈredʒɪstə/|借阅登记|n
+due back|/djuː bæk/|应还日期|n
+renewal|/rɪˈnjuːəl/|续借续期|n
+overdue reminder|/ˌəʊvəˈdjuː rɪˈmaɪndə/|逾期提醒|n
+lost file|/lɒst faɪl/|丢失档案|n
+found file|/faʊnd faɪl/|找回档案|n
+duplicate file|/ˈdjuːplɪkət faɪl/|重复档案|n
+merged file|/mɜːdʒd faɪl/|合并档案|n
+split file|/splɪt faɪl/|拆分档案|n
+refile|/ˌriːˈfaɪl/|重新归档|v
+cross-reference|/krɒs ˈrefrəns/|交叉索引|n
+index|/ˈɪndeks/|索引|n
+table of contents|/ˈteɪbl əv ˈkɒntents/|目录|n
+cover page|/ˈkʌvə peɪdʒ/|封面|n
+title page|/ˈtaɪtl peɪdʒ/|扉页|n
+revision table|/rɪˈvɪʒn ˈteɪbl/|修订记录表|n
+approval page|/əˈpruːvl peɪdʒ/|审批页|n
+distribution page|/ˌdɪstrɪˈbjuːʃn peɪdʒ/|分发页|n
+attachment list|/əˈtætʃmənt lɪst/|附件清单|n
+enclosures|/ɪnˈkləʊʒəz/|随附材料|n
+cc notation|/siː siː nəʊˈteɪʃn/|抄送标注|n
+confidential stamp|/ˌkɒnfɪˈdenʃl stæmp/|机密章|n
+draft stamp|/drɑːft stæmp/|草稿章|n
+copy stamp|/ˈkɒpi stæmp/|副本章|n
+original stamp|/əˈrɪdʒənl stæmp/|原件章|n
+void stamp|/vɔɪd stæmp/|作废章|n
+cancelled stamp|/ˈkænsəld stæmp/|已取消章|n
+received stamp|/rɪˈsiːvd stæmp/|收文章|n
+processed stamp|/ˈprəʊsest stæmp/|已办理章|n
+paid stamp|/peɪd stæmp/|已付讫章|n
+urgent stamp|/ˈɜːdʒənt stæmp/|急件章|n
+internal stamp|/ɪnˈtɜːnl stæmp/|内部章|n
+do-not-copy stamp|/duː nɒt ˈkɒpi stæmp/|禁止复印章|n
+controlled stamp|/kənˈtrəʊld stæmp/|受控章|n
+uncontrolled stamp|/ˌʌnkənˈtrəʊld stæmp/|非受控章|n
+sample stamp|/ˈsɑːmpl stæmp/|样本章|n
+training copy|/ˈtreɪnɪŋ ˈkɒpi/|培训用副本|n
+display only|/dɪˈspleɪ ˈəʊnli/|仅供展示|adj
+not for circulation|/nɒt fə ˌsɜːkjəˈleɪʃn/|不得传阅|phr|This draft is not for circulation.|这份草稿不得传阅。
+for internal use|/fər ɪnˈtɜːnl juːs/|仅限内部使用|phr|This list is for internal use.|这份名单仅限内部使用。
+do not forward|/duː nɒt ˈfɔːwəd/|请勿转发|phr|Do not forward this outside the team.|请勿转发到团队以外。
+handle with care|/ˈhændl wɪð keə/|小心处理|phr|Handle with care, this is patient data.|小心处理，这是患者数据。
+lock the drawer|/lɒk ðə drɔː/|锁好抽屉|phr|Lock the drawer before you leave.|离开前请锁好抽屉。
+clear the desk|/klɪə ðə desk/|清理桌面|phr|Clear the desk of papers at night.|晚上请把桌面文件收好。
+clean desk|/kliːn desk/|桌面清场|n
+clear screen|/klɪə skriːn/|锁屏清屏|n
+lock the screen|/lɒk ðə skriːn/|锁定屏幕|phr|Lock the screen when you step out.|离开时请锁定屏幕。
+log off|/lɒɡ ɒf/|注销登录|phr|Please log off the shared PC.|请注销共享电脑。
+log on|/lɒɡ ɒn/|登录|phr|Log on with your own account.|请用自己的账号登录。
+switch user|/swɪtʃ ˈjuːzə/|切换用户|phr|Switch user before the next clerk starts.|下一位文员开始前请切换用户。
+shared PC|/ʃeəd piː siː/|共享电脑|n
+hot desk|/hɒt desk/|轮用工位|n
+assigned desk|/əˈsaɪnd desk/|固定工位|n
+standing desk|/ˈstændɪŋ desk/|升降桌|n
+meeting booth|/ˈmiːtɪŋ buːð/|隔音通话间|n
+phone booth|/fəʊn buːð/|电话间|n
+quiet zone|/ˈkwaɪət zəʊn/|安静区|n
+collaboration zone|/kəˌlæbəˈreɪʃn zəʊn/|协作区|n
+print room|/prɪnt ruːm/|打印室|n
+copy center|/ˈkɒpi ˈsentə/|复印中心|n
+supply closet|/səˈplaɪ ˈklɒzɪt/|文具柜|n
+first-aid kit|/fɜːst eɪd kɪt/|急救箱|n
+fire exit|/ˈfaɪər ˈeksɪt/|消防出口|n
+assembly point|/əˈsembli pɔɪnt/|集合点|n
+evacuation|/ɪˌvækjuˈeɪʃn/|疏散|n
+fire drill|/ˈfaɪə drɪl/|消防演练|n
+earthquake drill|/ˈɜːθkweɪk drɪl/|地震演练|n
+code drill|/kəʊd drɪl/|应急代码演练|n
+tabletop drill|/ˈteɪbltɒp drɪl/|桌面推演|n
+live drill|/laɪv drɪl/|实战演练|n
+after-action review|/ˈɑːftər ˈækʃn rɪˈvjuː/|事后回顾|n
+hot wash|/hɒt wɒʃ/|立即复盘|n
+cold wash|/kəʊld wɒʃ/|事后复盘|n
+lessons register|/ˈlesnz ˈredʒɪstə/|经验登记|n
+improvement log|/ɪmˈpruːvmənt lɒɡ/|改进台账|n
+kaizen|/ˈkaɪzen/|持续改进|n
+suggestion|/səˈdʒestʃn/|改进建议|n
+idea board|/aɪˈdɪə bɔːd/|点子墙|n
+huddle board|/ˈhʌdl bɔːd/|短会看板|n
+visual management|/ˈvɪʒuəl ˈmænɪdʒmənt/|目视管理|n
+red tag|/red tæɡ/|红牌|n
+green tag|/ɡriːn tæɡ/|绿牌|n
+5S|/faɪv es/|现场整理|acr
+sort|/sɔːt/|整理分类|v
+set in order|/set ɪn ˈɔːdə/|整顿定位|phr|Set in order the duty keys.|请把值班钥匙整顿定位。
+shine|/ʃaɪn/|清扫|v
+standardize work|/ˈstændədaɪz wɜːk/|标准化作业|v
+sustain|/səˈsteɪn/|保持|v
+waste|/weɪst/|浪费|n
+waiting waste|/ˈweɪtɪŋ weɪst/|等待浪费|n
+motion waste|/ˈməʊʃn weɪst/|动作浪费|n
+overprocessing|/ˌəʊvəˈprəʊsesɪŋ/|过度加工|n
+overproduction|/ˌəʊvəprəˈdʌkʃn/|过量产出|n
+inventory waste|/ˈɪnvəntri weɪst/|库存浪费|n
+transport waste|/ˈtrænspɔːt weɪst/|搬运浪费|n
+defect waste|/ˈdiːfekt weɪst/|缺陷浪费|n
+talent waste|/ˈtælənt weɪst/|人才浪费|n
+value stream|/ˈvæljuː striːm/|价值流|n
+lead-time map|/liːd taɪm mæp/|周期图|n
+process map|/ˈprəʊses mæp/|流程图|n
+swimlane|/ˈswɪmleɪn/|泳道图|n
+handoff map|/ˈhændɒf mæp/|交接图|n
+spaghetti diagram|/spəˈɡeti ˈdaɪəɡræm/|动线乱图|n
+gemba|/ˈɡembə/|现场|n
+go and see|/ɡəʊ ənd siː/|到现场看|phr|Let's go and see the front desk.|我们到前台现场看一看。
+speak with data|/spiːk wɪð ˈdeɪtə/|用数据说话|phr|Please speak with data, not guesses.|请用数据说话，不要猜。
+stop the line|/stɒp ðə laɪn/|立即叫停|phr|Stop the line if the form is wrong.|表格有错就立即叫停。
+andon|/ˈændɒn/|安灯报警|n
+escalation path|/ˌeskəˈleɪʃn pɑːθ/|升级路径|n
+first response|/fɜːst rɪˈspɒns/|首次响应|n
+containment|/kənˈteɪnmənt/|控制影响|n
+permanent fix|/ˈpɜːmənənt fɪks/|永久措施|n
+temporary fix|/ˈtemprəri fɪks/|临时措施|n
+owner assigned|/ˈəʊnə əˈsaɪnd/|已指定负责人|phr|The owner is assigned now.|现在已经指定负责人。
+due this week|/djuː ðɪs wiːk/|本周到期|phr|The minutes are due this week.|纪要本周到期。
+due today|/djuː təˈdeɪ/|今天到期|phr|The roster is due today.|排班今天到期。
+due tomorrow|/djuː təˈmɒrəʊ/|明天到期|phr|The briefing pack is due tomorrow.|简报材料明天到期。
+slipped to Friday|/slɪpt tə ˈfraɪdeɪ/|拖到周五|phr|The audit slipped to Friday.|审计拖到周五了。
+brought to Thursday|/brɔːt tə ˈθɜːzdeɪ/|提前到周四|phr|Please bring it to Thursday.|请提前到周四。
+fixed date|/fɪkst deɪt/|固定日期|n
+flexible date|/ˈfleksəbl deɪt/|可调日期|n
+hard deadline|/hɑːd ˈdedlaɪn/|硬性截止日期|n
+soft deadline|/sɒft ˈdedlaɪn/|弹性截止日期|n
+internal deadline|/ɪnˈtɜːnl ˈdedlaɪn/|内部截止日期|n
+external deadline|/ɪkˈstɜːnl ˈdedlaɪn/|外部截止日期|n
+regulatory deadline|/ˈreɡjələtəri ˈdedlaɪn/|监管截止日期|n
+board deadline|/bɔːd ˈdedlaɪn/|董事会截止日期|n
+month-end close|/mʌnθ end kləʊz/|月末结账|n
+year-end close|/jɪə end kləʊz/|年末结账|n
+cut-off time|/ˈkʌt ɒf taɪm/|截止时间|n
+submission window|/səbˈmɪʃn ˈwɪndəʊ/|提交窗口|n
+late submission|/leɪt səbˈmɪʃn/|迟交|n
+early submission|/ˈɜːli səbˈmɪʃn/|提前提交|n
+on-time submission|/ɒn taɪm səbˈmɪʃn/|按时提交|n
+complete pack|/kəmˈpliːt pæk/|完整材料包|n
+incomplete pack|/ˌɪnkəmˈpliːt pæk/|不完整材料包|n
+missing annex|/ˈmɪsɪŋ ˈæneks/|缺少附件|n
+wrong annex|/rɒŋ ˈæneks/|附件错误|n
+extra annex|/ˈekstrə ˈæneks/|多余附件|n
+latest pack|/ˈleɪtɪst pæk/|最新材料包|n
+previous pack|/ˈpriːviəs pæk/|上一版材料包|n
+supersede|/ˌsuːpəˈsiːd/|替代作废|v
+withdraw|/wɪðˈdrɔː/|撤回|v
+reissue|/ˌriːˈɪʃuː/|重新印发|v
+republish|/ˌriːˈpʌblɪʃ/|重新发布|v
+circulate again|/ˈsɜːkjəleɪt əˈɡen/|再次传阅|phr|Please circulate again after edits.|修改后再传阅一次。
+collect comments|/kəˈlekt ˈkɒments/|收集意见|phr|Please collect comments by Thursday.|请在周四前收集意见。
+consolidate|/kənˈsɒlɪdeɪt/|合并意见|v
+adjudicate|/əˈdʒuːdɪkeɪt/|裁定取舍|v
+accept comment|/əkˈsept ˈkɒment/|采纳意见|v
+reject comment|/rɪˈdʒekt ˈkɒment/|不采纳意见|v
+comment log|/ˈkɒment lɒɡ/|意见台账|n
+disposition|/ˌdɪspəˈzɪʃn/|处理结论|n
+accepted|/əkˈseptɪd/|已采纳|adj
+rejected|/rɪˈdʒektɪd/|未采纳|adj
+deferred|/dɪˈfɜːd/|延后处理|adj
+out of scope|/aʊt əv skəʊp/|超出范围|phr|That request is out of scope.|那个请求超出范围。
+in scope|/ɪn skəʊp/|在范围内|phr|Printing is in scope for this week.|打印在本周范围内。
+scope creep|/skəʊp kriːp/|范围蔓延|n
+change of scope|/tʃeɪndʒ əv skəʊp/|范围变更|n
+scope freeze|/skəʊp friːz/|范围冻结|n
+baseline scope|/ˈbeɪslaɪn skəʊp/|基线范围|n
+signed scope|/saɪnd skəʊp/|已签范围|n
+draft scope|/drɑːft skəʊp/|草稿范围|n
+assumptions|/əˈsʌmpʃnz/|前提假设|n
+constraints|/kənˈstreɪnts/|约束条件|n
+exclusions|/ɪkˈskluːʒnz/|排除项|n
+inclusions|/ɪnˈkluːʒnz/|纳入项|n
+success criteria|/səkˈses kraɪˈtɪəriə/|成功标准|n
+acceptance criteria|/əkˈseptəns kraɪˈtɪəriə/|验收标准|n
+definition of done|/ˌdefɪˈnɪʃn əv dʌn/|完成定义|n
+ready for sign-off|/ˈredi fə ˈsaɪn ɒf/|可以签字|phr|The pack is ready for sign-off.|材料包可以签字了。
+signed off|/saɪnd ɒf/|已签字确认|phr|The policy is signed off.|制度已经签字确认。
+awaiting sign-off|/əˈweɪtɪŋ ˈsaɪn ɒf/|等待签字|phr|We are awaiting sign-off from the director.|我们在等主任签字。
+verbal OK|/ˈvɜːbl əʊ keɪ/|口头同意|n
+written OK|/ˈrɪtn əʊ keɪ/|书面同意|n
+email OK|/ˈiːmeɪl əʊ keɪ/|邮件同意|n
+meeting OK|/ˈmiːtɪŋ əʊ keɪ/|会上同意|n
+conditional OK|/kənˈdɪʃənl əʊ keɪ/|有条件同意|n
+no-go|/nəʊ ɡəʊ/|暂不放行|n
+go/no-go|/ɡəʊ nəʊ ɡəʊ/|放行评审|n
+gate review|/ɡeɪt rɪˈvjuː/|关口评审|n
+stage gate|/steɪdʒ ɡeɪt/|阶段关口|n
+phase gate|/feɪz ɡeɪt/|阶段门槛|n
+readiness review|/ˈredinəs rɪˈvjuː/|就绪评审|n
+go-live readiness|/ɡəʊ laɪv ˈredinəs/|上线就绪|n
+training readiness|/ˈtreɪnɪŋ ˈredinəs/|培训就绪|n
+comms readiness|/kɒmz ˈredinəs/|沟通就绪|n
+support readiness|/səˈpɔːt ˈredinəs/|支持就绪|n
+cutover plan|/ˈkʌtəʊvə plæn/|切换计划|n
+rollback plan|/ˈrəʊlbæk plæn/|回退计划|n
+hypercare|/ˈhaɪpəkeə/|上线守护期|n
+floor support roster|/flɔː səˈpɔːt ˈrɒstə/|现场支持排班|n
+command roster|/kəˈmɑːnd ˈrɒstə/|指挥排班|n
+war-room roster|/wɔː ruːm ˈrɒstə/|应急室排班|n
+on-call roster|/ɒn kɔːl ˈrɒstə/|值班排班|n
+escalation roster|/ˌeskəˈleɪʃn ˈrɒstə/|升级排班|n
+weekend roster|/ˈwiːkend ˈrɒstə/|周末排班|n
+holiday roster|/ˈhɒlədeɪ ˈrɒstə/|节假日排班|n
+night roster|/naɪt ˈrɒstə/|夜班排班|n
+day roster|/deɪ ˈrɒstə/|白班排班|n
+published roster|/ˈpʌblɪʃt ˈrɒstə/|已公布排班|n
+draft roster|/drɑːft ˈrɒstə/|草稿排班|n
+updated roster|/ˌʌpˈdeɪtɪd ˈrɒstə/|更新后排班|n
+final roster|/ˈfaɪnl ˈrɒstə/|最终排班|n
+roster conflict|/ˈrɒstə ˈkɒnflɪkt/|排班冲突|n
+roster gap|/ˈrɒstə ɡæp/|排班空档|n
+roster swap|/ˈrɒstə swɒp/|排班对调|n
+roster freeze|/ˈrɒstə friːz/|排班冻结|n
+last-minute change|/lɑːst ˈmɪnɪt tʃeɪndʒ/|临时变更|n
+unplanned leave|/ʌnˈplænd liːv/|临时请假|n
+planned leave|/plænd liːv/|计划请假|n
+leave calendar|/liːv ˈkælɪndə/|休假日历|n
+leave balance|/liːv ˈbæləns/|剩余假期|n
+leave approval|/liːv əˈpruːvl/|请假批准|n
+leave rejection|/liːv rɪˈdʒekʃn/|请假驳回|n
+leave cover|/liːv ˈkʌvə/|请假顶班|n
+return date|/rɪˈtɜːn deɪt/|返岗日期|n
+handover date|/ˈhændəʊvə deɪt/|交接日期|n
+start date|/stɑːt deɪt/|开始日期|n
+end date|/end deɪt/|结束日期|n
+effective from|/ɪˈfektɪv frɒm/|自该日起生效|phr|This roster is effective from Monday.|这份排班从周一起生效。
+valid until|/ˈvælɪd ənˈtɪl/|有效期至|phr|This pass is valid until Friday.|这张通行证有效期至周五。
+expired|/ɪkˈspaɪəd/|已过期|adj
+about to expire|/əˈbaʊt tu ɪkˈspaɪə/|即将过期|phr|The badge is about to expire.|工牌即将过期。
+renew in time|/rɪˈnjuː ɪn taɪm/|及时续期|phr|Please renew in time before Friday.|请在周五前及时续期。
+renewal reminder|/rɪˈnjuːəl rɪˈmaɪndə/|续期提醒|n
+expiry reminder|/ɪkˈspaɪəri rɪˈmaɪndə/|到期提醒|n
+calendar reminder|/ˈkælɪndə rɪˈmaɪndə/|日历提醒|n
+popup reminder|/ˈpɒpʌp rɪˈmaɪndə/|弹窗提醒|n
+email reminder|/ˈiːmeɪl rɪˈmaɪndə/|邮件提醒|n
+sms reminder|/ˌes em ˈes rɪˈmaɪndə/|短信提醒|n
+phone reminder|/fəʊn rɪˈmaɪndə/|电话提醒|n
+desk reminder|/desk rɪˈmaɪndə/|工位提醒|n
+sticky note|/ˈstɪki nəʊt/|便利贴|n
+to-do list|/tə ˈduː lɪst/|待办清单|n
+done list|/dʌn lɪst/|已办清单|n
+today list|/təˈdeɪ lɪst/|今日清单|n
+this-week list|/ðɪs wiːk lɪst/|本周清单|n
+parking list|/ˈpɑːkɪŋ lɪst/|暂记清单|n
+waiting list review|/ˈweɪtɪŋ lɪst rɪˈvjuː/|等候名单回顾|n
+priority list|/praɪˈɒrəti lɪst/|优先清单|n
+must-do|/mʌst duː/|必须完成|n
+nice-to-have|/naɪs tə hæv/|锦上添花|n
+stop doing|/stɒp ˈduːɪŋ/|停止再做|n
+start doing|/stɑːt ˈduːɪŋ/|开始要做|n
+continue doing|/kənˈtɪnjuː ˈduːɪŋ/|继续保持|n
+keep doing|/kiːp ˈduːɪŋ/|继续做|n
+do less|/duː les/|少做一些|phr|Please do less reprinting.|请少一点重复打印。
+do more|/duː mɔː/|多做一些|phr|Please do more walkthroughs.|请多做现场走查。
+do it once|/duː ɪt wʌns/|一次做对|phr|Do it once, then file it.|一次做对，然后归档。
+do it right|/duː ɪt raɪt/|按规范做|phr|Do it right, even if it is slower.|即使慢一点也要按规范做。
+do it together|/duː ɪt təˈɡeðə/|一起做|phr|Let's do it together after lunch.|午饭后我们一起做。
+split the work|/splɪt ðə wɜːk/|分工|phr|Let's split the work by ward.|我们按病区分工。
+share the load|/ʃeə ðə ləʊd/|分担负担|phr|Please share the load this week.|这周请分担一下负担。
+ask for help|/ɑːsk fə help/|求助|phr|Ask for help before the deadline.|截止日期前请求助。
+offer help|/ˈɒfə help/|主动帮忙|phr|Offer help if the desk is busy.|前台忙的时候请主动帮忙。
+say no|/seɪ nəʊ/|拒绝|phr|It is okay to say no to extra printing.|额外打印可以拒绝。
+push back politely|/pʊʃ bæk pəˈlaɪtli/|礼貌回绝|phr|Push back politely on the extra meeting.|对这场额外的会请礼貌回绝。
+manage expectations|/ˈmænɪdʒ ˌekspekˈteɪʃnz/|管理预期|phr|Manage expectations on the timeline.|请把时间预期说清楚。
+under promise|/ˈʌndə ˈprɒmɪs/|少承诺|phr|Under promise and then deliver.|少承诺，再兑现。
+over deliver|/ˈəʊvə dɪˈlɪvə/|超额完成|phr|Try not to over deliver overnight.|尽量不要通宵去超额完成。
+deliver as promised|/dɪˈlɪvə æz ˈprɒmɪst/|按承诺交付|phr|Please deliver as promised tomorrow.|请明天按承诺交付。
+miss a deadline|/mɪs ə ˈdedlaɪn/|错过截止|phr|Do not miss a deadline on the roster.|排班不要错过截止时间。
+hit a deadline|/hɪt ə ˈdedlaɪn/|赶上截止|phr|We hit a deadline by noon.|我们中午前赶上了截止时间。
+beat a deadline|/biːt ə ˈdedlaɪn/|提前完成|phr|She beat a deadline by one day.|她提前一天完成了。
+extend a deadline|/ɪkˈstend ə ˈdedlaɪn/|延长截止|phr|Can we extend a deadline to Thursday?|截止能否延到周四？
+reset a deadline|/ˌriːˈset ə ˈdedlaɪn/|重设截止|phr|Please reset a deadline in writing.|请书面重设截止时间。
+confirm a deadline|/kənˈfɜːm ə ˈdedlaɪn/|确认截止|phr|Please confirm a deadline in the email.|请在邮件里确认截止时间。
+publish a deadline|/ˈpʌblɪʃ ə ˈdedlaɪn/|公布截止|phr|Publish a deadline on the notice board.|请在公告栏公布截止时间。
+remind a deadline|/rɪˈmaɪnd ə ˈdedlaɪn/|提醒截止|phr|Remind a deadline in the huddle.|请在短会上提醒截止时间。
+own a deadline|/əʊn ə ˈdedlaɪn/|对截止负责|phr|Please own a deadline for the minutes.|请对纪要截止负责。
+share a deadline|/ʃeə ə ˈdedlaɪn/|同步截止|phr|Share a deadline with the night shift.|请把截止时间同步给夜班。
+write a deadline|/raɪt ə ˈdedlaɪn/|写下截止|phr|Write a deadline on the form.|请在表格上写下截止时间。
+move a deadline|/muːv ə ˈdedlaɪn/|移动截止|phr|Do not move a deadline without notice.|没有通知不要移动截止时间。
+protect a deadline|/prəˈtekt ə ˈdedlaɪn/|守住截止|phr|Protect a deadline by starting today.|从今天开始做，才能守住截止。
+slip a deadline|/slɪp ə ˈdedlaɪn/|截止下滑|phr|We cannot slip a deadline again.|我们不能再让截止下滑。
+risk a deadline|/rɪsk ə ˈdedlaɪn/|危及截止|phr|Late printing will risk a deadline.|打印晚了会危及截止。
+save a deadline|/seɪv ə ˈdedlaɪn/|挽救截止|phr|Extra help can save a deadline.|多一个人手可以挽救截止。
+celebrate a deadline|/ˈselɪbreɪt ə ˈdedlaɪn/|庆祝按时完成|phr|Let's celebrate a deadline we actually hit.|我们按时完成了，庆祝一下。
+debrief a deadline|/ˌdiːˈbriːf ə ˈdedlaɪn/|复盘截止|phr|Please debrief a deadline we missed.|请复盘我们错过的截止。
+learn from a miss|/lɜːn frəm ə mɪs/|从失误学习|phr|Learn from a miss and write it down.|从失误学习，并写下来。
+do not repeat|/duː nɒt rɪˈpiːt/|不要再犯|phr|Do not repeat the same filing error.|不要再犯同样的归档错误。
+fix the process|/fɪks ðə ˈprəʊses/|修好流程|phr|Fix the process, not just the file.|要修好流程，不只是这份档案。
+blame the process|/bleɪm ðə ˈprəʊses/|怪流程|phr|Blame the process, not the clerk.|要怪流程，不要怪文员。
+thank the team|/θæŋk ðə tiːm/|感谢团队|phr|Thank the team after the drill.|演练结束后请感谢团队。
+give credit|/ɡɪv ˈkredɪt/|归功于|phr|Give credit to night shift.|请把功劳归于夜班。
+call out good work|/kɔːl aʊt ɡʊd wɜːk/|当众表扬|phr|Call out good work in the huddle.|请在短会上当众表扬。
+give feedback in private|/ɡɪv ˈfiːdbæk ɪn ˈpraɪvət/|私下反馈|phr|Give feedback in private after the meeting.|会后请私下反馈。
+be specific|/bi spəˈsɪfɪk/|说具体|phr|Be specific about the missing stamp.|缺哪个章请说具体。
+be brief|/bi briːf/|说简短|phr|Be brief, we have five minutes.|说简短，我们只有五分钟。
+be kind|/bi kaɪnd/|语气友善|phr|Be kind when you chase the form.|催表格时语气友善一点。
+be direct|/bi dəˈrekt/|直接说|phr|Be direct about the delay.|延误请直接说。
+be fair|/bi feə/|公平处理|phr|Be fair when you assign overtime.|安排加班时请公平。
+be consistent|/bi kənˈsɪstənt/|保持一致|phr|Be consistent with the filing rules.|归档规则请保持一致。
+be available|/bi əˈveɪləbl/|保持可联系|phr|Be available after the huddle.|短会后请保持可联系。
+be on time|/bi ɒn taɪm/|准时到|phr|Be on time for the bed meeting.|床位会请准时到。
+be prepared|/bi prɪˈpeəd/|提前准备|phr|Be prepared with the latest census.|请带着最新在院人数来。
+bring the file|/brɪŋ ðə faɪl/|带上档案|phr|Bring the file to the meeting.|请把档案带到会上。
+leave the file|/liːv ðə faɪl/|放下档案|phr|Leave the file at the front desk.|请把档案放在前台。
+return the file|/rɪˈtɜːn ðə faɪl/|归还档案|phr|Return the file before noon.|请在中午前归还档案。
+lock the file|/lɒk ðə faɪl/|锁好档案|phr|Lock the file in the cabinet.|请把档案锁进柜子。
+label the file|/ˈleɪbl ðə faɪl/|给档案贴标|phr|Label the file with the date.|请给档案贴上日期。
+copy the file|/ˈkɒpi ðə faɪl/|复印档案|phr|Copy the file for night shift.|请给夜班复印一份档案。
+scan the file|/skæn ðə faɪl/|扫描档案|phr|Scan the file before you send it.|发送前请先扫描档案。
+email the file|/ˈiːmeɪl ðə faɪl/|把档案发邮件|phr|Email the file to the secretary.|请把档案发给秘书。
+print the file|/prɪnt ðə faɪl/|打印档案|phr|Print the file double-sided.|请双面打印这份档案。
+file the papers|/faɪl ðə ˈpeɪpəz/|把文件归档|phr|File the papers after sign-off.|签字后请把文件归档。
+shred the copies|/ʃred ðə ˈkɒpiz/|粉碎复印件|phr|Shred the copies after the audit.|审计后请粉碎复印件。
+keep the original|/kiːp ði əˈrɪdʒənl/|保留原件|phr|Keep the original in the locked drawer.|请把原件放在上锁抽屉里。
+send a copy|/send ə ˈkɒpi/|发一份副本|phr|Send a copy to the ward clerk.|请给病区文员发一份副本。
+keep me copied|/kiːp mi ˈkɒpid/|继续抄送我|phr|Keep me copied on the thread.|这条邮件请继续抄送我。
+drop me from the thread|/drɒp mi frəm ðə θred/|把我移出邮件串|phr|You can drop me from the thread now.|现在可以把我移出这条邮件串了。
+reply in-line|/rɪˈplaɪ ɪn laɪn/|在原文下回复|phr|Please reply in-line under each point.|请在每个要点下回复。
+reply separately|/rɪˈplaɪ ˈseprətli/|单独回复|phr|Reply separately if it is confidential.|如果涉密请单独回复。
+do not reply-all|/duː nɒt rɪˈplaɪ ɔːl/|不要全部回复|phr|Do not reply-all for this small change.|这个小改动不要全部回复。
+use the group|/juːz ðə ɡruːp/|用组邮箱|phr|Use the group, not a personal inbox.|请用组邮箱，不要用个人收件箱。
+use the shared box|/juːz ðə ʃeəd bɒks/|用共享邮箱|phr|Use the shared box for visitor passes.|访客证请走共享邮箱。
+check the shared box|/tʃek ðə ʃeəd bɒks/|查看共享邮箱|phr|Check the shared box every morning.|每天早上请查看共享邮箱。
+empty the shared box|/ˈempti ðə ʃeəd bɒks/|清理共享邮箱|phr|Empty the shared box on Fridays.|周五请清理共享邮箱。
+file the email|/faɪl ði ˈiːmeɪl/|把邮件归档|phr|File the email after you act.|处理完请把邮件归档。
+flag the email|/flæɡ ði ˈiːmeɪl/|给邮件标旗|phr|Flag the email if it is due today.|如果今天到期，请给邮件标旗。
+snooze the email|/snuːz ði ˈiːmeɪl/|稍后处理邮件|phr|Snooze the email until after lunch.|这封邮件午饭后再处理。
+pin the email|/pɪn ði ˈiːmeɪl/|置顶邮件|phr|Pin the email so the team can see it.|请置顶这封邮件，方便团队看到。
+mute the thread|/mjuːt ðə θred/|屏蔽邮件串|phr|Mute the thread if you are only copied.|如果你只是被抄送，可以屏蔽这串邮件。
+leave the meeting|/liːv ðə ˈmiːtɪŋ/|先离开会议|phr|I need to leave the meeting at ten.|我十点需要先离开会议。
+join the meeting|/dʒɔɪn ðə ˈmiːtɪŋ/|加入会议|phr|Please join the meeting from the lobby.|请从大厅加入会议。
+start the meeting|/stɑːt ðə ˈmiːtɪŋ/|开始会议|phr|Let's start the meeting on time.|我们准时开始会议吧。
+end the meeting|/end ðə ˈmiːtɪŋ/|结束会议|phr|We will end the meeting at ten.|我们十点结束会议。
+extend the meeting|/ɪkˈstend ðə ˈmiːtɪŋ/|延长会议|phr|Can we extend the meeting by ten minutes?|会议能延长十分钟吗？
+shorten the meeting|/ˈʃɔːtn ðə ˈmiːtɪŋ/|缩短会议|phr|Please shorten the meeting if possible.|如果可以，请缩短会议。
+cancel the meeting|/ˈkænsl ðə ˈmiːtɪŋ/|取消会议|phr|Cancel the meeting if the room is gone.|如果房间没了，就取消会议。
+move the meeting|/muːv ðə ˈmiːtɪŋ/|改会议时间|phr|Move the meeting to Thursday morning.|请把会议改到周四上午。
+book the meeting|/bʊk ðə ˈmiːtɪŋ/|预订会议|phr|Book the meeting for thirty minutes.|请把会议订成三十分钟。
+accept the invite|/əkˈsept ði ɪnˈvaɪt/|接受邀请|phr|Please accept the invite today.|请今天接受邀请。
+decline the invite|/dɪˈklaɪn ði ɪnˈvaɪt/|拒绝邀请|phr|Decline the invite if you are on leave.|如果你在休假，请拒绝邀请。
+tentative the invite|/ˈtentətɪv ði ɪnˈvaɪt/|暂定邀请|phr|Mark it tentative until the roster is out.|排班出来前请先标暂定。
+propose a new time|/prəˈpəʊz ə njuː taɪm/|提议新时间|phr|Propose a new time that night shift can join.|请提议一个夜班也能参加的新时间。
+find a slot|/faɪnd ə slɒt/|找一个空档|phr|Find a slot before the bed meeting.|请在床位会前找一个空档。
+send the invite|/send ði ɪnˈvaɪt/|发出邀请|phr|Send the invite with the room number.|发出邀请时请带上房间号。
+update the invite|/ˌʌpˈdeɪt ði ɪnˈvaɪt/|更新邀请|phr|Update the invite if the room changes.|房间变了请更新邀请。
+forward the invite|/ˈfɔːwəd ði ɪnˈvaɪt/|转发邀请|phr|Forward the invite to the deputy.|请把邀请转给代理人。
+copy the deputy|/ˈkɒpi ðə ˈdepjuti/|抄送代理人|phr|Copy the deputy on all duty emails.|值班邮件请都抄送代理人。
+brief the deputy|/briːf ðə ˈdepjuti/|向代理人交代|phr|Brief the deputy before you leave.|离开前请向代理人交代。
+cover the desk|/ˈkʌvə ðə desk/|顶一下前台|phr|Can you cover the desk for ten minutes?|你能顶十分钟前台吗？
+watch the phone|/wɒtʃ ðə fəʊn/|看着电话|phr|Watch the phone while I print.|我去打印时请看着电话。
+take a message|/teɪk ə ˈmesɪdʒ/|记下留言|phr|Please take a message if I miss the call.|如果我没接到，请记下留言。
+pass the message|/pɑːs ðə ˈmesɪdʒ/|转达留言|phr|Pass the message to night shift.|请把留言转达给夜班。
+write it down|/raɪt ɪt daʊn/|写下来|phr|Write it down in the duty log.|请写在值班日志里。
+say it again|/seɪ ɪt əˈɡen/|再说一遍|phr|Please say it again more slowly.|请再说一遍，慢一点。
+spell it out|/spel ɪt aʊt/|逐字拼出|phr|Please spell it out for the form.|请为填表逐字拼出。
+repeat the number|/rɪˈpiːt ðə ˈnʌmbə/|重复号码|phr|Please repeat the number twice.|请把号码重复两遍。
+confirm the name|/kənˈfɜːm ðə neɪm/|确认姓名|phr|Confirm the name before you print.|打印前请确认姓名。
+confirm the ward|/kənˈfɜːm ðə wɔːd/|确认病区|phr|Confirm the ward on the request.|请确认申请上的病区。
+confirm the time|/kənˈfɜːm ðə taɪm/|确认时间|phr|Confirm the time with the clerk.|请和文员确认时间。
+confirm the room|/kənˈfɜːm ðə ruːm/|确认房间|phr|Confirm the room on the invite.|请确认邀请上的房间。
+double-check|/ˈdʌbl tʃek/|再核对一遍|v
+triple-check|/ˈtrɪpl tʃek/|核对三遍|v
+spot-check|/spɒt tʃek/|抽查|v
+cross-check|/krɒs tʃek/|交叉核对|v
+sense-check|/sens tʃek/|凭常识核对|v
+peer review|/pɪə rɪˈvjuː/|同事互审|n
+four-eye check|/fɔːr aɪ tʃek/|四人眼核对|n
+maker-checker|/ˈmeɪkə ˈtʃekə/|经办复核|n
+self-check|/self tʃek/|自查|n
+pre-flight check|/priː flaɪt tʃek/|出发前检查|n
+end-of-day check|/end əv deɪ tʃek/|下班前检查|n
+opening check|/ˈəʊpnɪŋ tʃek/|开班检查|n
+closing check|/ˈkləʊzɪŋ tʃek/|收班检查|n
+handover check|/ˈhændəʊvə tʃek/|交接检查|n
+safety check|/ˈseɪfti tʃek/|安全检查|n
+privacy check|/ˈprɪvəsi tʃek/|隐私检查|n
+completeness check|/kəmˈpliːtnəs tʃek/|完整性检查|n
+accuracy check|/ˈækjərəsi tʃek/|准确性检查|n
+spelling check|/ˈspelɪŋ tʃek/|拼写检查|n
+number check|/ˈnʌmbə tʃek/|数字检查|n
+date check|/deɪt tʃek/|日期检查|n
+stamp check|/stæmp tʃek/|盖章检查|n
+signature check|/ˈsɪɡnətʃə tʃek/|签字检查|n
+attachment check|/əˈtætʃmənt tʃek/|附件检查|n
+version check|/ˈvɜːʃn tʃek/|版本检查|n
+permission check|/pəˈmɪʃn tʃek/|权限检查|n
+recipient check|/rɪˈsɪpiənt tʃek/|收件人检查|n
+cc check|/siː siː tʃek/|抄送检查|n
+subject check|/ˈsʌbdʒɪkt tʃek/|主题检查|n
+tone check|/təʊn tʃek/|语气检查|n
+clarity check|/ˈklærəti tʃek/|是否清楚检查|n
+action check|/ˈækʃn tʃek/|行动项检查|n
+owner check|/ˈəʊnə tʃek/|负责人检查|n
+deadline check|/ˈdedlaɪn tʃek/|截止日期检查|n
+room check|/ruːm tʃek/|房间检查|n
+badge check|/bædʒ tʃek/|工牌检查|n
+visitor check|/ˈvɪzɪtə tʃek/|访客检查|n
+roster check|/ˈrɒstə tʃek/|排班检查|n
+census check|/ˈsensəs tʃek/|在院人数检查|n
+stock check|/stɒk tʃek/|库存检查|n
+key check|/kiː tʃek/|钥匙检查|n
+phone check|/fəʊn tʃek/|电话检查|n
+printer check|/ˈprɪntə tʃek/|打印机检查|n
+paper check|/ˈpeɪpə tʃek/|纸张检查|n
+toner check|/ˈtəʊnə tʃek/|墨粉检查|n
+battery check|/ˈbætri tʃek/|电池检查|n
+light check|/laɪt tʃek/|灯光检查|n
+door check|/dɔː tʃek/|房门检查|n
+window check|/ˈwɪndəʊ tʃek/|窗户检查|n
+alarm check|/əˈlɑːm tʃek/|报警检查|n
+extinguisher check|/ɪkˈstɪŋɡwɪʃə tʃek/|灭火器检查|n
+exit check|/ˈeksɪt tʃek/|出口检查|n
+first-aid check|/fɜːst eɪd tʃek/|急救箱检查|n
+water check|/ˈwɔːtə tʃek/|饮水检查|n
+supply check|/səˈplaɪ tʃek/|物资检查|n
+uniform check|/ˈjuːnɪfɔːm tʃek/|工装检查|n
+ID check|/aɪ ˈdiː tʃek/|证件检查|n
+consent check|/kənˈsent tʃek/|知情同意检查|n
+insurance check|/ɪnˈʃʊərəns tʃek/|医保检查|n
+appointment check|/əˈpɔɪntmənt tʃek/|预约检查|n
+queue check|/kjuː tʃek/|排队检查|n
+waiting-time check|/ˈweɪtɪŋ taɪm tʃek/|等候时间检查|n
+complaint check|/kəmˈpleɪnt tʃek/|投诉检查|n
+feedback check|/ˈfiːdbæk tʃek/|反馈检查|n
+morale check|/məˈrɑːl tʃek/|士气摸底|n
+workload check|/ˈwɜːkləʊd tʃek/|工作量检查|n
+coverage check|/ˈkʌvərɪdʒ tʃek/|顶班检查|n
+training check|/ˈtreɪnɪŋ tʃek/|培训检查|n
+competency check|/kəmˈpetənsi tʃek/|能力检查|n
+license check|/ˈlaɪsns tʃek/|执照检查|n
+certificate check|/səˈtɪfɪkət tʃek/|证书检查|n
+expiry check|/ɪkˈspaɪəri tʃek/|到期检查|n
+renewal check|/rɪˈnjuːəl tʃek/|续期检查|n
+contract check|/ˈkɒntrækt tʃek/|合同检查|n
+invoice check|/ˈɪnvɔɪs tʃek/|发票检查|n
+receipt check|/rɪˈsiːt tʃek/|收据检查|n
+budget check|/ˈbʌdʒɪt tʃek/|预算检查|n
+headcount check|/ˈhedkaʊnt tʃek/|人数检查|n
+overtime check|/ˈəʊvətaɪm tʃek/|加班检查|n
+leave check|/liːv tʃek/|请假检查|n
+attendance check|/əˈtendəns tʃek/|出勤检查|n
+punctuality check|/ˌpʌŋktʃuˈæləti tʃek/|准时检查|n
+courtesy check|/ˈkɜːtəsi tʃek/|礼貌检查|n
+script check|/skrɪpt tʃek/|话术检查|n
+tone-of-voice check|/təʊn əv vɔɪs tʃek/|说话口气检查|n
+plain-language check|/pleɪn ˈlæŋɡwɪdʒ tʃek/|是否通俗检查|n
+translation check|/trænsˈleɪʃn tʃek/|译文检查|n
+interpreter check|/ɪnˈtɜːprɪtə tʃek/|口译安排检查|n
+wayfinding check|/ˈweɪfaɪndɪŋ tʃek/|导引检查|n
+signage check|/ˈsaɪnɪdʒ tʃek/|标识检查|n
+notice-board check|/ˈnəʊtɪs bɔːd tʃek/|公告栏检查|n
+poster check|/ˈpəʊstə tʃek/|海报检查|n
+job-aid check|/dʒɒb eɪd tʃek/|提示卡检查|n
+template check|/ˈtemplɪt tʃek/|模板检查|n
+form check|/fɔːm tʃek/|表格检查|n
+field check|/fiːld tʃek/|字段检查|n
+checkbox check|/ˈtʃekbɒks tʃek/|勾选项检查|n
+dropdown check|/ˈdrɒpdaʊn tʃek/|下拉项检查|n
+required-field check|/rɪˈkwaɪəd fiːld tʃek/|必填项检查|n
+optional-field check|/ˈɒpʃənl fiːld tʃek/|选填项检查|n
+default-value check|/dɪˈfɔːlt ˈvæljuː tʃek/|默认值检查|n
+print-quality check|/prɪnt ˈkwɒləti tʃek/|打印质量检查|n
+scan-quality check|/skæn ˈkwɒləti tʃek/|扫描质量检查|n
+photo-quality check|/ˈfəʊtəʊ ˈkwɒləti tʃek/|照片质量检查|n
+audio-quality check|/ˈɔːdiəʊ ˈkwɒləti tʃek/|声音质量检查|n
+video-quality check|/ˈvɪdiəʊ ˈkwɒləti tʃek/|视频质量检查|n
+link check|/lɪŋk tʃek/|链接检查|n
+path check|/pɑːθ tʃek/|路径检查|n
+folder check|/ˈfəʊldə tʃek/|文件夹检查|n
+share-link check|/ʃeə lɪŋk tʃek/|共享链接检查|n
+permission-list check|/pəˈmɪʃn lɪst tʃek/|权限名单检查|n
+expiry-date check|/ɪkˈspaɪəri deɪt tʃek/|有效期检查|n
+owner-name check|/ˈəʊnə neɪm tʃek/|负责人姓名检查|n
+phone-number check|/fəʊn ˈnʌmbə tʃek/|电话号码检查|n
+email-address check|/ˈiːmeɪl əˈdres tʃek/|邮箱地址检查|n
+room-number check|/ruːm ˈnʌmbə tʃek/|房间号检查|n
+bed-number check|/bed ˈnʌmbə tʃek/|床号检查|n
+ward-name check|/wɔːd neɪm tʃek/|病区名检查|n
+department-name check|/dɪˈpɑːtmənt neɪm tʃek/|科室名检查|n
+director-name check|/dəˈrektə neɪm tʃek/|主任姓名检查|n
+patient-name check|/ˈpeɪʃnt neɪm tʃek/|患者姓名检查|n
+staff-name check|/stɑːf neɪm tʃek/|员工姓名检查|n
+visitor-name check|/ˈvɪzɪtə neɪm tʃek/|访客姓名检查|n
+vendor-name check|/ˈvendə neɪm tʃek/|供应商名称检查|n
+contract-number check|/ˈkɒntrækt ˈnʌmbə tʃek/|合同号检查|n
+invoice-number check|/ˈɪnvɔɪs ˈnʌmbə tʃek/|发票号检查|n
+po-number check|/piː əʊ ˈnʌmbə tʃek/|采购订单号检查|n
+asset-tag check|/ˈæset tæɡ tʃek/|资产标签检查|n
+serial-number check|/ˈsɪəriəl ˈnʌmbə tʃek/|序列号检查|n
+batch-number check|/bætʃ ˈnʌmbə tʃek/|批次号检查|n
+lot-number check|/lɒt ˈnʌmbə tʃek/|批号检查|n
+expiry-lot check|/ɪkˈspaɪəri lɒt tʃek/|效期批次检查|n
+temperature check log|/ˈtemprətʃə tʃek lɒɡ/|温度检查记录|n
+fridge log|/frɪdʒ lɒɡ/|冰箱记录|n
+room-temp log|/ruːm temp lɒɡ/|室温记录|n
+humidity log|/hjuːˈmɪdəti lɒɡ/|湿度记录|n
+cleaning log|/ˈkliːnɪŋ lɒɡ/|清洁记录|n
+pest-control log|/pest kənˈtrəʊl lɒɡ/|虫害防治记录|n
+waste log|/weɪst lɒɡ/|废弃物记录|n
+sharps log|/ʃɑːps lɒɡ/|锐器记录|n
+linen log|/ˈlɪnɪn lɒɡ/|被服记录|n
+keys log|/kiːz lɒɡ/|钥匙记录|n
+badge log|/bædʒ lɒɡ/|工牌记录|n
+visitor-pass log|/ˈvɪzɪtə pɑːs lɒɡ/|访客证记录|n
+meeting-room log|/ˈmiːtɪŋ ruːm lɒɡ/|会议室记录|n
+projector log|/prəˈdʒektə lɒɡ/|投影记录|n
+print log|/prɪnt lɒɡ/|打印记录|n
+postage log|/ˈpəʊstɪdʒ lɒɡ/|邮寄记录|n
+courier log|/ˈkʊriə lɒɡ/|快递记录|n
+fax log|/fæks lɒɡ/|传真记录|n
+phone log|/fəʊn lɒɡ/|电话记录|n
+complaint log|/kəmˈpleɪnt lɒɡ/|投诉记录|n
+compliment log|/ˈkɒmplɪmənt lɒɡ/|表扬记录|n
+incident log|/ˈɪnsɪdənt lɒɡ/|事件记录|n
+near-miss log|/nɪə mɪs lɒɡ/|未遂事件记录|n
+drill log|/drɪl lɒɡ/|演练记录|n
+training log|/ˈtreɪnɪŋ lɒɡ/|培训记录|n
+supervision log|/ˌsuːpəˈvɪʒn lɒɡ/|带教记录|n
+handover log|/ˈhændəʊvə lɒɡ/|交接记录|n
+late-arrival log|/leɪt əˈraɪvl lɒɡ/|迟到记录|n
+early-leave log|/ˈɜːli liːv lɒɡ/|早退记录|n
+overtime log|/ˈəʊvətaɪm lɒɡ/|加班记录|n
+on-call log|/ɒn kɔːl lɒɡ/|值班记录|n
+coverage log|/ˈkʌvərɪdʒ lɒɡ/|顶班记录|n
+swap log|/swɒp lɒɡ/|换班记录|n
+leave log|/liːv lɒɡ/|请假记录|n
+return-to-work log|/rɪˈtɜːn tə wɜːk lɒɡ/|复工记录|n
+occupational-health log|/ˌɒkjuˈpeɪʃənl helθ lɒɡ/|职业健康记录|n
+fit-note log|/fɪt nəʊt lɒɡ/|康复证明记录|n
+badge-loss log|/bædʒ lɒs lɒɡ/|工牌遗失记录|n
+key-loss log|/kiː lɒs lɒɡ/|钥匙遗失记录|n
+file-loss log|/faɪl lɒs lɒɡ/|档案遗失记录|n
+found-item log|/faʊnd ˈaɪtəm lɒɡ/|拾物记录|n
+lost-and-found|/lɒst ənd faʊnd/|失物招领|n
+property log|/ˈprɒpəti lɒɡ/|财物记录|n
+valuables log|/ˈvæljuəblz lɒɡ/|贵重物品记录|n
+cash log|/kæʃ lɒɡ/|现金记录|n
+petty-cash log|/ˈpeti kæʃ lɒɡ/|备用金记录|n
+safe log|/seɪf lɒɡ/|保险柜记录|n
+seal log|/siːl lɒɡ/|印章记录|n
+stamp log|/stæmp lɒɡ/|盖章记录|n
+letter-out log|/ˈletə aʊt lɒɡ/|发文记录|n
+letter-in log|/ˈletə ɪn lɒɡ/|收文记录|n
+circular log|/ˈsɜːkjələ lɒɡ/|传阅记录|n
+policy log|/ˈpɒləsi lɒɡ/|制度记录|n
+revision log|/rɪˈvɪʒn lɒɡ/|修订记录|n
+distribution log|/ˌdɪstrɪˈbjuːʃn lɒɡ/|分发记录|n
+acknowledgement log|/əkˈnɒlɪdʒmənt lɒɡ/|签收记录|n
+read-and-sign log|/riːd ənd saɪn lɒɡ/|阅知签字记录|n
+training-sign log|/ˈtreɪnɪŋ saɪn lɒɡ/|培训签字记录|n
+briefing-sign log|/ˈbriːfɪŋ saɪn lɒɡ/|简报签字记录|n
+drill-sign log|/drɪl saɪn lɒɡ/|演练签字记录|n
+meeting-sign log|/ˈmiːtɪŋ saɪn lɒɡ/|会议签字记录|n
+visitor-sign log|/ˈvɪzɪtə saɪn lɒɡ/|访客签字记录|n
+contractor-sign log|/kənˈtræktə saɪn lɒɡ/|外包签字记录|n
+vendor-sign log|/ˈvendə saɪn lɒɡ/|供应商签字记录|n
+delivery-sign log|/dɪˈlɪvəri saɪn lɒɡ/|收货签字记录|n
+handover-sign log|/ˈhændəʊvə saɪn lɒɡ/|交接签字记录|n
+approval-sign log|/əˈpruːvl saɪn lɒɡ/|审批签字记录|n
+exception-sign log|/ɪkˈsepʃn saɪn lɒɡ/|例外签字记录|n
+override-sign log|/ˈəʊvəraɪd saɪn lɒɡ/|越权特批签字记录|n
+after-hours-sign log|/ˈɑːftə ˈaʊəz saɪn lɒɡ/|下班后签字记录|n
+emergency-sign log|/ɪˈmɜːdʒənsi saɪn lɒɡ/|紧急情况签字记录|n
+downtime-sign log|/ˈdaʊntaɪm saɪn lɒɡ/|停机签字记录|n
+workaround-sign log|/ˈwɜːkəraʊnd saɪn lɒɡ/|临时办法签字记录|n
+go-live-sign log|/ɡəʊ laɪv saɪn lɒɡ/|上线签字记录|n
+rollback-sign log|/ˈrəʊlbæk saɪn lɒɡ/|回退签字记录|n
+cutover-sign log|/ˈkʌtəʊvə saɪn lɒɡ/|切换签字记录|n
+hypercare-sign log|/ˈhaɪpəkeə saɪn lɒɡ/|上线守护签字记录|n
+floor-support-sign log|/flɔː səˈpɔːt saɪn lɒɡ/|现场支持签字记录|n
+command-sign log|/kəˈmɑːnd saɪn lɒɡ/|指挥签字记录|n
+status-call-sign log|/ˈsteɪtəs kɔːl saɪn lɒɡ/|状态会签字记录|n
+debrief-sign log|/ˌdiːˈbriːf saɪn lɒɡ/|复盘签字记录|n
+lessons-sign log|/ˈlesnz saɪn lɒɡ/|经验签字记录|n
+capa-sign log|/ˈkæpə saɪn lɒɡ/|纠正预防签字记录|n
+audit-sign log|/ˈɔːdɪt saɪn lɒɡ/|审计签字记录|n
+finding-sign log|/ˈfaɪndɪŋ saɪn lɒɡ/|发现项签字记录|n
+action-sign log|/ˈækʃn saɪn lɒɡ/|行动项签字记录|n
+risk-sign log|/rɪsk saɪn lɒɡ/|风险签字记录|n
+issue-sign log|/ˈɪʃuː saɪn lɒɡ/|问题签字记录|n
+decision-sign log|/dɪˈsɪʒn saɪn lɒɡ/|决策签字记录|n
+scope-sign log|/skəʊp saɪn lɒɡ/|范围签字记录|n
+plan-sign log|/plæn saɪn lɒɡ/|计划签字记录|n
+budget-sign log|/ˈbʌdʒɪt saɪn lɒɡ/|预算签字记录|n
+roster-sign log|/ˈrɒstə saɪn lɒɡ/|排班签字记录|n
+leave-sign log|/liːv saɪn lɒɡ/|请假签字记录|n
+overtime-sign log|/ˈəʊvətaɪm saɪn lɒɡ/|加班签字记录|n
+travel-sign log|/ˈtrævl saɪn lɒɡ/|出差签字记录|n
+claim-sign log|/kleɪm saɪn lɒɡ/|报销签字记录|n
+purchase-sign log|/ˈpɜːtʃəs saɪn lɒɡ/|采购签字记录|n
+contract-sign log|/ˈkɒntrækt saɪn lɒɡ/|合同签字记录|n
+invoice-sign log|/ˈɪnvɔɪs saɪn lɒɡ/|发票签字记录|n
+receipt-sign log|/rɪˈsiːt saɪn lɒɡ/|收据签字记录|n
+asset-sign log|/ˈæset saɪn lɒɡ/|资产签字记录|n
+disposal-sign log|/dɪˈspəʊzl saɪn lɒɡ/|报废签字记录|n
+write-off-sign log|/raɪt ɒf saɪn lɒɡ/|核销签字记录|n
+donation-sign log|/dəʊˈneɪʃn saɪn lɒɡ/|捐赠签字记录|n
+visitor-gift log|/ˈvɪzɪtə ɡɪft lɒɡ/|访客礼品记录|n
+gift register|/ɡɪft ˈredʒɪstə/|礼品登记|n
+hospitality register|/ˌhɒspɪˈtæləti ˈredʒɪstə/|招待登记|n
+conflict register|/ˈkɒnflɪkt ˈredʒɪstə/|利益冲突登记|n
+declaration register|/ˌdekləˈreɪʃn ˈredʒɪstə/|申报登记|n
+training register|/ˈtreɪnɪŋ ˈredʒɪstə/|培训登记|n
+competency register|/kəmˈpetənsi ˈredʒɪstə/|能力登记|n
+license register|/ˈlaɪsns ˈredʒɪstə/|执照登记|n
+certificate register|/səˈtɪfɪkət ˈredʒɪstə/|证书登记|n
+induction register|/ɪnˈdʌkʃn ˈredʒɪstə/|入职培训登记|n
+orientation register|/ˌɔːriənˈteɪʃn ˈredʒɪstə/|入职介绍登记|n
+fire-drill register|/ˈfaɪə drɪl ˈredʒɪstə/|消防演练登记|n
+evacuation register|/ɪˌvækjuˈeɪʃn ˈredʒɪstə/|疏散登记|n
+first-aid register|/fɜːst eɪd ˈredʒɪstə/|急救登记|n
+incident register|/ˈɪnsɪdənt ˈredʒɪstə/|事件登记|n
+complaint register|/kəmˈpleɪnt ˈredʒɪstə/|投诉登记|n
+compliment register|/ˈkɒmplɪmənt ˈredʒɪstə/|表扬登记|n
+suggestion register|/səˈdʒestʃn ˈredʒɪstə/|建议登记|n
+risk register|/rɪsk ˈredʒɪstə/|风险登记|n
+issue register|/ˈɪʃuː ˈredʒɪstə/|问题登记|n
+action register|/ˈækʃn ˈredʒɪstə/|行动登记|n
+decision register book|/dɪˈsɪʒn ˈredʒɪstə bʊk/|决策登记本|n
+change register|/tʃeɪndʒ ˈredʒɪstə/|变更登记|n
+document register|/ˈdɒkjumənt ˈredʒɪstə/|文件登记|n
+contract register|/ˈkɒntrækt ˈredʒɪstə/|合同登记|n
+vendor register|/ˈvendə ˈredʒɪstə/|供应商登记|n
+asset register|/ˈæset ˈredʒɪstə/|资产登记|n
+key register book|/kiː ˈredʒɪstə bʊk/|钥匙登记本|n
+badge register|/bædʒ ˈredʒɪstə/|工牌登记|n
+visitor register|/ˈvɪzɪtə ˈredʒɪstə/|访客登记本|n
+contractor register|/kənˈtræktə ˈredʒɪstə/|外包人员登记|n
+on-call register|/ɒn kɔːl ˈredʒɪstə/|值班登记|n
+leave register|/liːv ˈredʒɪstə/|请假登记|n
+overtime register|/ˈəʊvətaɪm ˈredʒɪstə/|加班登记|n
+roster register|/ˈrɒstə ˈredʒɪstə/|排班登记|n
+handover register|/ˈhændəʊvə ˈredʒɪstə/|交接登记|n
+file register|/faɪl ˈredʒɪstə/|档案登记|n
+loan register book|/ləʊn ˈredʒɪstə bʊk/|借阅登记本|n
+destruction register|/dɪˈstrʌkʃn ˈredʒɪstə/|销毁登记|n
+archive register|/ˈɑːkaɪv ˈredʒɪstə/|归档登记|n
+postage register|/ˈpəʊstɪdʒ ˈredʒɪstə/|邮寄登记|n
+courier register|/ˈkʊriə ˈredʒɪstə/|快递登记|n
+fax register|/fæks ˈredʒɪstə/|传真登记|n
+print register|/prɪnt ˈredʒɪstə/|打印登记|n
+scan register|/skæn ˈredʒɪstə/|扫描登记|n
+copy register|/ˈkɒpi ˈredʒɪstə/|复印登记|n
+mail-out register|/meɪl aʊt ˈredʒɪstə/|外发邮件登记|n
+mail-in register|/meɪl ɪn ˈredʒɪstə/|收件登记|n
+shared-box register|/ʃeəd bɒks ˈredʒɪstə/|共享邮箱登记|n
+password register|/ˈpɑːswɜːd ˈredʒɪstə/|口令登记|n
+access register|/ˈækses ˈredʒɪstə/|权限登记|n
+account register|/əˈkaʊnt ˈredʒɪstə/|账号登记|n
+system-access register|/ˈsɪstəm ˈækses ˈredʒɪstə/|系统权限登记|n
+data-request register|/ˈdeɪtə rɪˈkwest ˈredʒɪstə/|数据申请登记|n
+release-of-information register|/rɪˈliːs əv ˌɪnfəˈmeɪʃn ˈredʒɪstə/|信息调取登记|n
+privacy-incident register|/ˈprɪvəsi ˈɪnsɪdənt ˈredʒɪstə/|隐私事件登记|n
+lost-badge register|/lɒst bædʒ ˈredʒɪstə/|工牌遗失登记|n
+lost-key register|/lɒst kiː ˈredʒɪstə/|钥匙遗失登记|n
+lost-file register|/lɒst faɪl ˈredʒɪstə/|档案遗失登记|n
+found-item register|/faʊnd ˈaɪtəm ˈredʒɪstə/|拾物登记|n
+valuables register|/ˈvæljuəblz ˈredʒɪstə/|贵重物品登记|n
+cash register book|/kæʃ ˈredʒɪstə bʊk/|现金登记本|n
+petty-cash register|/ˈpeti kæʃ ˈredʒɪstə/|备用金登记|n
+safe register|/seɪf ˈredʒɪstə/|保险柜登记|n
+seal register|/siːl ˈredʒɪstə/|印章登记|n
+stamp register|/stæmp ˈredʒɪstə/|盖章登记|n
+letter register|/ˈletə ˈredʒɪstə/|来往信件登记|n
+circular register|/ˈsɜːkjələ ˈredʒɪstə/|传阅文件登记|n
+policy register|/ˈpɒləsi ˈredʒɪstə/|制度登记|n
+sop register|/ˌes əʊ ˈpiː ˈredʒɪstə/|作业程序登记|n
+form register|/fɔːm ˈredʒɪstə/|表格登记|n
+template register|/ˈtemplɪt ˈredʒɪstə/|模板登记|n
+job-aid register|/dʒɒb eɪd ˈredʒɪstə/|提示卡登记|n
+poster register|/ˈpəʊstə ˈredʒɪstə/|海报登记|n
+notice register|/ˈnəʊtɪs ˈredʒɪstə/|通知登记|n
+announcement register|/əˈnaʊnsmənt ˈredʒɪstə/|公告登记|n
+downtime register|/ˈdaʊntaɪm ˈredʒɪstə/|停机登记|n
+workaround register|/ˈwɜːkəraʊnd ˈredʒɪstə/|临时办法登记|n
+go-live register|/ɡəʊ laɪv ˈredʒɪstə/|上线登记|n
+rollback register|/ˈrəʊlbæk ˈredʒɪstə/|回退登记|n
+cutover register|/ˈkʌtəʊvə ˈredʒɪstə/|切换登记|n
+hypercare register|/ˈhaɪpəkeə ˈredʒɪstə/|上线守护登记|n
+floor-support register|/flɔː səˈpɔːt ˈredʒɪstə/|现场支持登记|n
+command register|/kəˈmɑːnd ˈredʒɪstə/|指挥登记|n
+status-call register|/ˈsteɪtəs kɔːl ˈredʒɪstə/|状态会登记|n
+debrief register|/ˌdiːˈbriːf ˈredʒɪstə/|复盘登记|n
+lessons-learned register|/ˈlesnz lɜːnd ˈredʒɪstə/|经验教训登记|n
+capa register|/ˈkæpə ˈredʒɪstə/|纠正预防登记|n
+audit register|/ˈɔːdɪt ˈredʒɪstə/|审计登记|n
+finding register|/ˈfaɪndɪŋ ˈredʒɪstə/|发现项登记|n
+nonconformity register|/ˌnɒnkənˈfɔːməti ˈredʒɪstə/|不符合项登记|n
+accreditation register|/əˌkredɪˈteɪʃn ˈredʒɪstə/|评审认证登记|n
+survey register|/ˈsɜːveɪ ˈredʒɪstə/|现场评审登记|n
+tracer register|/ˈtreɪsə ˈredʒɪstə/|追踪检查登记|n
+mock-survey register|/mɒk ˈsɜːveɪ ˈredʒɪstə/|模拟评审登记|n
+scorecard register|/ˈskɔːkɑːd ˈredʒɪstə/|计分卡登记|n
+kpi register|/ˌkeɪ piː ˈaɪ ˈredʒɪstə/|指标登记|n
+metric register|/ˈmetrɪk ˈredʒɪstə/|衡量指标登记|n
+target register|/ˈtɑːɡɪt ˈredʒɪstə/|目标登记|n
+baseline register|/ˈbeɪslaɪn ˈredʒɪstə/|基线登记|n
+trend register|/trend ˈredʒɪstə/|趋势登记|n
+variance register|/ˈveəriəns ˈredʒɪstə/|偏差登记|n
+forecast register|/ˈfɔːkɑːst ˈredʒɪstə/|预测登记|n
+budget register|/ˈbʌdʒɪt ˈredʒɪstə/|预算登记|n
+cost-center register|/kɒst ˈsentə ˈredʒɪstə/|成本中心登记|n
+purchase-order register|/ˈpɜːtʃəs ˈɔːdə ˈredʒɪstə/|采购订单登记|n
+requisition register|/ˌrekwɪˈzɪʃn ˈredʒɪstə/|请购登记|n
+quotation register|/kwəʊˈteɪʃn ˈredʒɪstə/|报价登记|n
+bid register|/bɪd ˈredʒɪstə/|投标登记|n
+invoice register|/ˈɪnvɔɪs ˈredʒɪstə/|发票登记|n
+receipt register|/rɪˈsiːt ˈredʒɪstə/|收据登记|n
+claim register|/kleɪm ˈredʒɪstə/|报销登记|n
+travel register|/ˈtrævl ˈredʒɪstə/|出差登记|n
+itinerary register|/aɪˈtɪnərəri ˈredʒɪstə/|行程登记|n
+accommodation register|/əˌkɒməˈdeɪʃn ˈredʒɪstə/|住宿登记|n
+transport register|/ˈtrænspɔːt ˈredʒɪstə/|交通登记|n
+parking register|/ˈpɑːkɪŋ ˈredʒɪstə/|停车登记|n
+canteen register|/kænˈtiːn ˈredʒɪstə/|食堂登记|n
+locker register|/ˈlɒkə ˈredʒɪstə/|储物柜登记|n
+uniform register|/ˈjuːnɪfɔːm ˈredʒɪstə/|工装登记|n
+stationery register|/ˈsteɪʃənri ˈredʒɪstə/|文具登记|n
+consumable register|/kənˈsjuːməbl ˈredʒɪstə/|耗材登记|n
+stock register|/stɒk ˈredʒɪstə/|库存登记|n
+inventory register|/ˈɪnvəntri ˈredʒɪstə/|盘点登记|n
+shortage register|/ˈʃɔːtɪdʒ ˈredʒɪstə/|短缺登记|n
+surplus register|/ˈsɜːpləs ˈredʒɪstə/|多余物资登记|n
+write-off register|/raɪt ɒf ˈredʒɪstə/|核销登记|n
+depreciation register|/dɪˌpriːʃiˈeɪʃn ˈredʒɪstə/|折旧登记|n
+disposal register|/dɪˈspəʊzl ˈredʒɪstə/|报废登记|n
+donation register|/dəʊˈneɪʃn ˈredʒɪstə/|捐赠登记|n
+sponsorship register|/ˈspɒnsəʃɪp ˈredʒɪstə/|赞助登记|n
+funding register|/ˈfʌndɪŋ ˈredʒɪstə/|经费登记|n
+grant register|/ɡrɑːnt ˈredʒɪstə/|拨款登记|n
+in-kind register|/ɪn kaɪnd ˈredʒɪstə/|实物支持登记|n
+preferred-vendor register|/prɪˈfɜːd ˈvendə ˈredʒɪstə/|首选供应商登记|n
+approved-vendor register|/əˈpruːvd ˈvendə ˈredʒɪstə/|合格供应商登记|n
+contract-renewal register|/ˈkɒntrækt rɪˈnjuːəl ˈredʒɪstə/|合同续签登记|n
+contract-expiry register|/ˈkɒntrækt ɪkˈspaɪəri ˈredʒɪstə/|合同到期登记|n
+penalty register|/ˈpenəlti ˈredʒɪstə/|罚则登记|n
+service-credit register|/ˈsɜːvɪs ˈkredɪt ˈredʒɪstə/|服务补偿登记|n
+warranty register|/ˈwɒrənti ˈredʒɪstə/|质保登记|n
+maintenance-window register|/ˈmeɪntənəns ˈwɪndəʊ ˈredʒɪstə/|维护窗口登记|n
+scheduled-downtime register|/ˈʃedjuːld ˈdaʊntaɪm ˈredʒɪstə/|计划停机登记|n
+unscheduled-downtime register|/ʌnˈʃedjuːld ˈdaʊntaɪm ˈredʒɪstə/|非计划停机登记|n
+service-notice register|/ˈsɜːvɪs ˈnəʊtɪs ˈredʒɪstə/|服务公告登记|n
+user-notice register|/ˈjuːzə ˈnəʊtɪs ˈredʒɪstə/|用户通知登记|n
+faq register|/ˌef eɪ ˈkjuː ˈredʒɪstə/|常见问题登记|n
+how-to register|/haʊ tu ˈredʒɪstə/|操作说明登记|n
+quick-guide register|/kwɪk ɡaɪd ˈredʒɪstə/|快速指南登记|n
+user-guide register|/ˈjuːzə ɡaɪd ˈredʒɪstə/|用户手册登记|n
+script register|/skrɪpt ˈredʒɪstə/|话术登记|n
+greeting register|/ˈɡriːtɪŋ ˈredʒɪstə/|问候语登记|n
+closing-line register|/ˈkləʊzɪŋ laɪn ˈredʒɪstə/|结束语登记|n
+call-script register|/kɔːl skrɪpt ˈredʒɪstə/|来电话术登记|n
+phone-tree register|/fəʊn triː ˈredʒɪstə/|语音菜单登记|n
+extension-list register|/ɪkˈstenʃn lɪst ˈredʒɪstə/|分机表登记|n
+on-call-list register|/ɒn kɔːl lɪst ˈredʒɪstə/|值班名单登记|n
+escalation-list register|/ˌeskəˈleɪʃn lɪst ˈredʒɪstə/|升级名单登记|n
+contact-tree register|/ˈkɒntækt triː ˈredʒɪstə/|联络树登记|n
+duty-phone register|/ˈdjuːti fəʊn ˈredʒɪstə/|值班电话登记|n
+duty-bag register|/ˈdjuːti bæɡ ˈredʒɪstə/|值班包登记|n
+duty-keys register|/ˈdjuːti kiːz ˈredʒɪstə/|值班钥匙登记|n
+duty-folder register|/ˈdjuːti ˈfəʊldə ˈredʒɪstə/|值班文件夹登记|n
+duty-checklist register|/ˈdjuːti ˈtʃeklɪst ˈredʒɪstə/|值班核对单登记|n
+night-report register|/naɪt rɪˈpɔːt ˈredʒɪstə/|夜班报告登记|n
+morning-report register|/ˈmɔːnɪŋ rɪˈpɔːt ˈredʒɪstə/|早交班登记|n
+census-report register|/ˈsensəs rɪˈpɔːt ˈredʒɪstə/|在院人数报告登记|n
+occupancy-report register|/ˈɒkjəpənsi rɪˈpɔːt ˈredʒɪstə/|床位占用报告登记|n
+delay-report register|/dɪˈleɪ rɪˈpɔːt ˈredʒɪstə/|延误报告登记|n
+exception-report register|/ɪkˈsepʃn rɪˈpɔːt ˈredʒɪstə/|例外报告登记|n
+open-items register|/ˈəʊpən ˈaɪtəmz ˈredʒɪstə/|未完事项登记|n
+closed-items register|/kləʊzd ˈaɪtəmz ˈredʒɪstə/|已完事项登记|n
+carried-forward register|/ˈkærid ˈfɔːwəd ˈredʒɪstə/|结转事项登记|n
+brought-forward register|/brɔːt ˈfɔːwəd ˈredʒɪstə/|承前事项登记|n
+new-item register|/njuː ˈaɪtəm ˈredʒɪstə/|新增事项登记|n
+recurring-item register|/rɪˈkɜːrɪŋ ˈaɪtəm ˈredʒɪstə/|重复事项登记|n
+parking-lot register|/ˈpɑːkɪŋ lɒt ˈredʒɪstə/|待议事项登记|n
+decision-needed register|/dɪˈsɪʒn ˈniːdɪd ˈredʒɪstə/|待决策登记|n
+info-needed register|/ˈɪnfəʊ ˈniːdɪd ˈredʒɪstə/|待补充信息登记|n
+blocked-item register|/blɒkt ˈaɪtəm ˈredʒɪstə/|阻塞事项登记|n
+unblocked-item register|/ʌnˈblɒkt ˈaɪtəm ˈredʒɪstə/|已解除阻塞登记|n
+ready-for-review register|/ˈredi fə rɪˈvjuː ˈredʒɪstə/|待审阅登记|n
+ready-to-send register|/ˈredi tə send ˈredʒɪstə/|可发送登记|n
+in-review register|/ɪn rɪˈvjuː ˈredʒɪstə/|审阅中登记|n
+approved-in-principle register|/əˈpruːvd ɪn ˈprɪnsəpl ˈredʒɪstə/|原则同意登记|n
+conditionally-approved register|/kənˈdɪʃənəli əˈpruːvd ˈredʒɪstə/|有条件批准登记|n
+rejected-with-comments register|/rɪˈdʒektɪd wɪð ˈkɒments ˈredʒɪstə/|退回批注登记|n
+needs-rework register|/niːdz ˌriːˈwɜːk ˈredʒɪstə/|需返工登记|n
+on-track register|/ɒn træk ˈredʒɪstə/|进展正常登记|n
+off-track register|/ɒf træk ˈredʒɪstə/|偏离计划登记|n
+at-risk register|/ət rɪsk ˈredʒɪstə/|有风险登记|n
+slipping-item register|/ˈslɪpɪŋ ˈaɪtəm ˈredʒɪstə/|进度下滑登记|n
+catch-up-plan register|/ˈkætʃ ʌp plæn ˈredʒɪstə/|赶工计划登记|n
+recovery-plan register|/rɪˈkʌvəri plæn ˈredʒɪstə/|追赶计划登记|n
+contingency-plan register|/kənˈtɪndʒənsi plæn ˈredʒɪstə/|应急计划登记|n
+plan-b register|/plæn biː ˈredʒɪstə/|备选方案登记|n
+fallback register|/ˈfɔːlbæk ˈredʒɪstə/|退路方案登记|n
+workaround-process register|/ˈwɜːkəraʊnd ˈprəʊses ˈredʒɪstə/|临时流程登记|n
+manual-process register|/ˈmænjuəl ˈprəʊses ˈredʒɪstə/|手工流程登记|n
+paper-process register|/ˈpeɪpə ˈprəʊses ˈredʒɪstə/|纸质流程登记|n
+electronic-process register|/ɪlekˈtrɒnɪk ˈprəʊses ˈredʒɪstə/|电子流程登记|n
+hybrid-process register|/ˈhaɪbrɪd ˈprəʊses ˈredʒɪstə/|混合流程登记|n
+handoff-point register|/ˈhændɒf pɔɪnt ˈredʒɪstə/|交接节点登记|n
+spoc register|/spɒk ˈredʒɪstə/|唯一对接人登记|n
+accountable-owner register|/əˈkaʊntəbl ˈəʊnə ˈredʒɪstə/|最终责任人登记|n
+backup-owner register|/ˈbækʌp ˈəʊnə ˈredʒɪstə/|候补负责人登记|n
+process-owner register|/ˈprəʊses ˈəʊnə ˈredʒɪstə/|流程负责人登记|n
+document-owner register|/ˈdɒkjumənt ˈəʊnə ˈredʒɪstə/|文件负责人登记|n
+data-owner register|/ˈdeɪtə ˈəʊnə ˈredʒɪstə/|数据负责人登记|n
+system-owner register|/ˈsɪstəm ˈəʊnə ˈredʒɪstə/|系统负责人登记|n
+business-owner register|/ˈbɪznəs ˈəʊnə ˈredʒɪstə/|业务负责人登记|n
+technical-owner register|/ˈteknɪkl ˈəʊnə ˈredʒɪstə/|技术负责人登记|n
+operational-owner register|/ˌɒpəˈreɪʃənl ˈəʊnə ˈredʒɪstə/|运营负责人登记|n
+duty-owner register|/ˈdjuːti ˈəʊnə ˈredʒɪstə/|值班负责人登记|n
+on-call-owner register|/ɒn kɔːl ˈəʊnə ˈredʒɪstə/|值班对接人登记|n
+issue-owner register|/ˈɪʃuː ˈəʊnə ˈredʒɪstə/|问题负责人登记|n
+risk-owner register|/rɪsk ˈəʊnə ˈredʒɪstə/|风险负责人登记|n
+action-owner register|/ˈækʃn ˈəʊnə ˈredʒɪstə/|行动负责人登记|n
+meeting-owner register|/ˈmiːtɪŋ ˈəʊnə ˈredʒɪstə/|会议负责人登记|n
+room-owner register|/ruːm ˈəʊnə ˈredʒɪstə/|房间负责人登记|n
+asset-owner register|/ˈæset ˈəʊnə ˈredʒɪstə/|资产负责人登记|n
+budget-owner register|/ˈbʌdʒɪt ˈəʊnə ˈredʒɪstə/|预算负责人登记|n
+vendor-owner register|/ˈvendə ˈəʊnə ˈredʒɪstə/|供应商对接人登记|n
+contract-owner register|/ˈkɒntrækt ˈəʊnə ˈredʒɪstə/|合同负责人登记|n
+training-owner register|/ˈtreɪnɪŋ ˈəʊnə ˈredʒɪstə/|培训负责人登记|n
+communication-owner register|/kəˌmjuːnɪˈkeɪʃn ˈəʊnə ˈredʒɪstə/|沟通负责人登记|n
+change-owner register|/tʃeɪndʒ ˈəʊnə ˈredʒɪstə/|变更负责人登记|n
+go-live-owner register|/ɡəʊ laɪv ˈəʊnə ˈredʒɪstə/|上线负责人登记|n
+cutover-owner register|/ˈkʌtəʊvə ˈəʊnə ˈredʒɪstə/|切换负责人登记|n
+hypercare-owner register|/ˈhaɪpəkeə ˈəʊnə ˈredʒɪstə/|上线守护负责人登记|n
+floor-support-owner register|/flɔː səˈpɔːt ˈəʊnə ˈredʒɪstə/|现场支持负责人登记|n
+war-room-owner register|/wɔː ruːm ˈəʊnə ˈredʒɪstə/|应急室负责人登记|n
+command-center-owner register|/kəˈmɑːnd ˈsentə ˈəʊnə ˈredʒɪstə/|指挥中心负责人登记|n
+situation-room-owner register|/ˌsɪtʃuˈeɪʃn ruːm ˈəʊnə ˈredʒɪstə/|态势室负责人登记|n
+status-call-owner register|/ˈsteɪtəs kɔːl ˈəʊnə ˈredʒɪstə/|状态会负责人登记|n
+bridge-line-owner register|/brɪdʒ laɪn ˈəʊnə ˈredʒɪstə/|电话桥负责人登记|n
+meeting-id register|/ˈmiːtɪŋ aɪ ˈdiː ˈredʒɪstə/|会议号登记|n
+host-key register|/həʊst kiː ˈredʒɪstə/|主持人密钥登记|n
+co-host register|/kəʊ həʊst ˈredʒɪstə/|联席主持登记|n
+participant register|/pɑːˈtɪsɪpənt ˈredʒɪstə/|参会者登记|n
+panelist register|/ˈpænəlɪst ˈredʒɪstə/|小组成员登记|n
+observer register|/əbˈzɜːvə ˈredʒɪstə/|列席观察员登记|n
+remote-attendee register|/rɪˈməʊt əˌtenˈdiː ˈredʒɪstə/|远程参会人登记|n
+in-person-attendee register|/ɪn ˈpɜːsn əˌtenˈdiː ˈredʒɪstə/|现场参会人登记|n
+hybrid-meeting register|/ˈhaɪbrɪd ˈmiːtɪŋ ˈredʒɪstə/|混合会登记|n
+virtual-meeting register|/ˈvɜːtʃuəl ˈmiːtɪŋ ˈredʒɪstə/|线上会议登记|n
+in-person-meeting register|/ɪn ˈpɜːsn ˈmiːtɪŋ ˈredʒɪstə/|现场会议登记|n
+corridor-chat register|/ˈkɒrɪdɔː tʃæt ˈredʒɪstə/|走廊沟通登记|n
+desk-side-chat register|/desk saɪd tʃæt ˈredʒɪstə/|工位旁沟通登记|n
+quick-huddle register|/kwɪk ˈhʌdl ˈredʒɪstə/|快速短会登记|n
+stand-up register|/ˈstænd ʌp ˈredʒɪstə/|站立短会登记|n
+sit-down register|/ˈsɪt daʊn ˈredʒɪstə/|坐下详谈登记|n
+deep-dive register|/diːp daɪv ˈredʒɪstə/|深入讨论登记|n
+pre-meet register|/priː miːt ˈredʒɪstə/|会前预沟通登记|n
+post-meet register|/pəʊst miːt ˈredʒɪstə/|会后沟通登记|n
+side-conversation register|/saɪd ˌkɒnvəˈseɪʃn ˈredʒɪstə/|旁边私聊登记|n
+decision-time register|/dɪˈsɪʒn taɪm ˈredʒɪstə/|决策时间登记|n
+decision-maker register|/dɪˈsɪʒn ˈmeɪkə ˈredʒɪstə/|决策人登记|n
+approver register|/əˈpruːvə ˈredʒɪstə/|审批人登记|n
+reviewer register|/rɪˈvjuːə ˈredʒɪstə/|审阅人登记|n
+author register|/ˈɔːθə ˈredʒɪstə/|起草人登记|n
+contributor register|/kənˈtrɪbjətə ˈredʒɪstə/|撰稿人登记|n
+editor register|/ˈedɪtə ˈredʒɪstə/|编辑人登记|n
+publisher register|/ˈpʌblɪʃə ˈredʒɪstə/|发布人登记|n
+distributor register|/dɪˈstrɪbjətə ˈredʒɪstə/|分发人登记|n
+recipient register|/rɪˈsɪpiənt ˈredʒɪstə/|收件人登记|n
+sender register|/ˈsendə ˈredʒɪstə/|发件人登记|n
+cc-list register|/siː siː lɪst ˈredʒɪstə/|抄送名单登记|n
+reply-chain register|/rɪˈplaɪ tʃeɪn ˈredʒɪstə/|回复链登记|n
+forwarded-message register|/ˈfɔːwədɪd ˈmesɪdʒ ˈredʒɪstə/|转发邮件登记|n
+large-attachment register|/lɑːdʒ əˈtætʃmənt ˈredʒɪstə/|大附件登记|n
+zip-file register|/zɪp faɪl ˈredʒɪstə/|压缩包登记|n
+password-protected file|/ˈpɑːswɜːd prəˈtektɪd faɪl/|加密文件|n
+need-to-know list|/niːd tə nəʊ lɪst/|按需知悉名单|n
+internal-only list|/ɪnˈtɜːnl ˈəʊnli lɪst/|仅内部名单|n
+external-share list|/ɪkˈstɜːnl ʃeə lɪst/|外部分享名单|n
+restricted list|/rɪˈstrɪktɪd lɪst/|受限名单|n
+sensitive-data list|/ˈsensətɪv ˈdeɪtə lɪst/|敏感数据名单|n
+personal-data list|/ˈpɜːsənl ˈdeɪtə lɪst/|个人数据名单|n
+patient-data list|/ˈpeɪʃnt ˈdeɪtə lɪst/|患者数据名单|n
+staff-data list|/stɑːf ˈdeɪtə lɪst/|员工数据名单|n
+business-data list|/ˈbɪznəs ˈdeɪtə lɪst/|业务数据名单|n
+retention-schedule list|/rɪˈtenʃn ˈʃedjuːl lɪst/|保存期限名单|n
+destruction-log list|/dɪˈstrʌkʃn lɒɡ lɪst/|销毁记录名单|n
+audit-trail list|/ˈɔːdɪt treɪl lɪst/|审计轨迹名单|n
+paper-trail list|/ˈpeɪpə treɪl lɪst/|书面痕迹名单|n
+email-trail list|/ˈiːmeɪl treɪl lɪst/|邮件痕迹名单|n
+decision-trail list|/dɪˈsɪʒn treɪl lɪst/|决策痕迹名单|n
+version-history list|/ˈvɜːʃn ˈhɪstri lɪst/|版本历史名单|n
+change-history list|/tʃeɪndʒ ˈhɪstri lɪst/|变更历史名单|n
+clean-copy list|/kliːn ˈkɒpi lɪst/|清稿名单|n
+redline list|/ˈredlaɪn lɪst/|红线修订名单|n
+compare-copy list|/kəmˈpeə ˈkɒpi lɪst/|对照稿名单|n
+markup list|/ˈmɑːkʌp lɪst/|批注标记名单|n
+print-preview list|/prɪnt ˈpriːvjuː lɪst/|打印预览名单|n
+landscape-print list|/ˈlændskeɪp prɪnt lɪst/|横向打印名单|n
+portrait-print list|/ˈpɔːtreɪt prɪnt lɪst/|纵向打印名单|n
+double-sided list|/ˈdʌbl ˈsaɪdɪd lɪst/|双面打印名单|n
+single-sided list|/ˈsɪŋɡl ˈsaɪdɪd lɪst/|单面打印名单|n
+filing-rule list|/ˈfaɪlɪŋ ruːl lɪst/|归档规则名单|n
+alphabetical list|/ˌælfəˈbetɪkl lɪst/|字母序名单|n
+chronological list|/ˌkrɒnəˈlɒdʒɪkl lɪst/|时间序名单|n
+misfiled-item list|/ˌmɪsˈfaɪld ˈaɪtəm lɪst/|归错档名单|n
+missing-file list|/ˈmɪsɪŋ faɪl lɪst/|缺失档案名单|n
+overdue-file list|/ˌəʊvəˈdjuː faɪl lɪst/|逾期档案名单|n
+file-request list|/faɪl rɪˈkwest lɪst/|调档申请名单|n
+file-return list|/faɪl rɪˈtɜːn lɪst/|还档名单|n
+lost-file list|/lɒst faɪl lɪst/|丢失档案名单|n
+found-file list|/faʊnd faɪl lɪst/|找回档案名单|n
+duplicate-file list|/ˈdjuːplɪkət faɪl lɪst/|重复档案名单|n
+merged-file list|/mɜːdʒd faɪl lɪst/|合并档案名单|n
+split-file list|/splɪt faɪl lɪst/|拆分档案名单|n
+cross-reference list|/krɒs ˈrefrəns lɪst/|交叉索引名单|n
+index list|/ˈɪndeks lɪst/|索引名单|n
+table-of-contents list|/ˈteɪbl əv ˈkɒntents lɪst/|目录名单|n
+cover-page list|/ˈkʌvə peɪdʒ lɪst/|封面名单|n
+title-page list|/ˈtaɪtl peɪdʒ lɪst/|扉页名单|n
+revision-table list|/rɪˈvɪʒn ˈteɪbl lɪst/|修订记录表名单|n
+approval-page list|/əˈpruːvl peɪdʒ lɪst/|审批页名单|n
+distribution-page list|/ˌdɪstrɪˈbjuːʃn peɪdʒ lɪst/|分发页名单|n
+attachment-list page|/əˈtætʃmənt lɪst peɪdʒ/|附件清单页|n
+enclosures list|/ɪnˈkləʊʒəz lɪst/|随附材料名单|n
+cc-notation list|/siː siː nəʊˈteɪʃn lɪst/|抄送标注名单|n
+confidential-stamp list|/ˌkɒnfɪˈdenʃl stæmp lɪst/|机密章名单|n
+draft-stamp list|/drɑːft stæmp lɪst/|草稿章名单|n
+copy-stamp list|/ˈkɒpi stæmp lɪst/|副本章名单|n
+original-stamp list|/əˈrɪdʒənl stæmp lɪst/|原件章名单|n
+void-stamp list|/vɔɪd stæmp lɪst/|作废章名单|n
+cancelled-stamp list|/ˈkænsəld stæmp lɪst/|已取消章名单|n
+received-stamp list|/rɪˈsiːvd stæmp lɪst/|收文章名单|n
+processed-stamp list|/ˈprəʊsest stæmp lɪst/|已办理章名单|n
+paid-stamp list|/peɪd stæmp lɪst/|已付讫章名单|n
+urgent-stamp list|/ˈɜːdʒənt stæmp lɪst/|急件章名单|n
+internal-stamp list|/ɪnˈtɜːnl stæmp lɪst/|内部章名单|n
+do-not-copy list|/duː nɒt ˈkɒpi lɪst/|禁止复印名单|n
+controlled-stamp list|/kənˈtrəʊld stæmp lɪst/|受控章名单|n
+uncontrolled-stamp list|/ˌʌnkənˈtrəʊld stæmp lɪst/|非受控章名单|n
+sample-stamp list|/ˈsɑːmpl stæmp lɪst/|样本章名单|n
+training-copy list|/ˈtreɪnɪŋ ˈkɒpi lɪst/|培训用副本名单|n
+display-only list|/dɪˈspleɪ ˈəʊnli lɪst/|仅供展示名单|n
+clean-desk list|/kliːn desk lɪst/|桌面清场名单|n
+clear-screen list|/klɪə skriːn lɪst/|锁屏清屏名单|n
+shared-pc list|/ʃeəd piː siː lɪst/|共享电脑名单|n
+hot-desk list|/hɒt desk lɪst/|轮用工位名单|n
+assigned-desk list|/əˈsaɪnd desk lɪst/|固定工位名单|n
+meeting-booth list|/ˈmiːtɪŋ buːð lɪst/|隔音通话间名单|n
+phone-booth list|/fəʊn buːð lɪst/|电话间名单|n
+quiet-zone list|/ˈkwaɪət zəʊn lɪst/|安静区名单|n
+collaboration-zone list|/kəˌlæbəˈreɪʃn zəʊn lɪst/|协作区名单|n
+print-room list|/prɪnt ruːm lɪst/|打印室名单|n
+copy-center list|/ˈkɒpi ˈsentə lɪst/|复印中心名单|n
+supply-closet list|/səˈplaɪ ˈklɒzɪt lɪst/|文具柜名单|n
+first-aid-kit list|/fɜːst eɪd kɪt lɪst/|急救箱名单|n
+fire-exit list|/ˈfaɪər ˈeksɪt lɪst/|消防出口名单|n
+assembly-point list|/əˈsembli pɔɪnt lɪst/|集合点名单|n
+evacuation-route list|/ɪˌvækjuˈeɪʃn ruːt lɪst/|疏散路线名单|n
+fire-drill list|/ˈfaɪə drɪl lɪst/|消防演练名单|n
+earthquake-drill list|/ˈɜːθkweɪk drɪl lɪst/|地震演练名单|n
+code-drill list|/kəʊd drɪl lɪst/|应急代码演练名单|n
+tabletop-drill list|/ˈteɪbltɒp drɪl lɪst/|桌面推演名单|n
+live-drill list|/laɪv drɪl lɪst/|实战演练名单|n
+after-action-review list|/ˈɑːftər ˈækʃn rɪˈvjuː lɪst/|事后回顾名单|n
+hot-wash list|/hɒt wɒʃ lɪst/|立即复盘名单|n
+cold-wash list|/kəʊld wɒʃ lɪst/|事后复盘名单|n
+improvement-log list|/ɪmˈpruːvmənt lɒɡ lɪst/|改进台账名单|n
+idea-board list|/aɪˈdɪə bɔːd lɪst/|点子墙名单|n
+huddle-board list|/ˈhʌdl bɔːd lɪst/|短会看板名单|n
+visual-management list|/ˈvɪʒuəl ˈmænɪdʒmənt lɪst/|目视管理名单|n
+red-tag list|/red tæɡ lɪst/|红牌名单|n
+green-tag list|/ɡriːn tæɡ lɪst/|绿牌名单|n
+5s-checklist|/faɪv es ˈtʃeklɪst/|现场整理核对单|n
+value-stream list|/ˈvæljuː striːm lɪst/|价值流名单|n
+process-map list|/ˈprəʊses mæp lɪst/|流程图名单|n
+swimlane list|/ˈswɪmleɪn lɪst/|泳道图名单|n
+handoff-map list|/ˈhændɒf mæp lɪst/|交接图名单|n
+spaghetti-diagram list|/spəˈɡeti ˈdaɪəɡræm lɪst/|动线乱图名单|n
+gemba list|/ˈɡembə lɪst/|现场走访名单|n
+andon list|/ˈændɒn lɪst/|安灯报警名单|n
+escalation-path list|/ˌeskəˈleɪʃn pɑːθ lɪst/|升级路径名单|n
+first-response list|/fɜːst rɪˈspɒns lɪst/|首次响应名单|n
+containment list|/kənˈteɪnmənt lɪst/|控制影响名单|n
+permanent-fix list|/ˈpɜːmənənt fɪks lɪst/|永久措施名单|n
+temporary-fix list|/ˈtemprəri fɪks lɪst/|临时措施名单|n
+hard-deadline list|/hɑːd ˈdedlaɪn lɪst/|硬性截止名单|n
+soft-deadline list|/sɒft ˈdedlaɪn lɪst/|弹性截止名单|n
+internal-deadline list|/ɪnˈtɜːnl ˈdedlaɪn lɪst/|内部截止名单|n
+external-deadline list|/ɪkˈstɜːnl ˈdedlaɪn lɪst/|外部截止名单|n
+regulatory-deadline list|/ˈreɡjələtəri ˈdedlaɪn lɪst/|监管截止名单|n
+board-deadline list|/bɔːd ˈdedlaɪn lɪst/|董事会截止名单|n
+month-end-close list|/mʌnθ end kləʊz lɪst/|月末结账名单|n
+year-end-close list|/jɪə end kləʊz lɪst/|年末结账名单|n
+cut-off-time list|/ˈkʌt ɒf taɪm lɪst/|截止时间名单|n
+submission-window list|/səbˈmɪʃn ˈwɪndəʊ lɪst/|提交窗口名单|n
+late-submission list|/leɪt səbˈmɪʃn lɪst/|迟交名单|n
+early-submission list|/ˈɜːli səbˈmɪʃn lɪst/|提前提交名单|n
+on-time-submission list|/ɒn taɪm səbˈmɪʃn lɪst/|按时提交名单|n
+complete-pack list|/kəmˈpliːt pæk lɪst/|完整材料包名单|n
+incomplete-pack list|/ˌɪnkəmˈpliːt pæk lɪst/|不完整材料包名单|n
+missing-annex list|/ˈmɪsɪŋ ˈæneks lɪst/|缺少附件名单|n
+wrong-annex list|/rɒŋ ˈæneks lɪst/|附件错误名单|n
+extra-annex list|/ˈekstrə ˈæneks lɪst/|多余附件名单|n
+latest-pack list|/ˈleɪtɪst pæk lɪst/|最新材料包名单|n
+previous-pack list|/ˈpriːviəs pæk lɪst/|上一版材料包名单|n
+comment-log list|/ˈkɒment lɒɡ lɪst/|意见台账名单|n
+disposition list|/ˌdɪspəˈzɪʃn lɪst/|处理结论名单|n
+out-of-scope list|/aʊt əv skəʊp lɪst/|超出范围名单|n
+in-scope list|/ɪn skəʊp lɪst/|范围内名单|n
+scope-creep list|/skəʊp kriːp lɪst/|范围蔓延名单|n
+change-of-scope list|/tʃeɪndʒ əv skəʊp lɪst/|范围变更名单|n
+scope-freeze list|/skəʊp friːz lɪst/|范围冻结名单|n
+baseline-scope list|/ˈbeɪslaɪn skəʊp lɪst/|基线范围名单|n
+signed-scope list|/saɪnd skəʊp lɪst/|已签范围名单|n
+draft-scope list|/drɑːft skəʊp lɪst/|草稿范围名单|n
+assumptions list|/əˈsʌmpʃnz lɪst/|前提假设名单|n
+constraints list|/kənˈstreɪnts lɪst/|约束条件名单|n
+exclusions list|/ɪkˈskluːʒnz lɪst/|排除项名单|n
+inclusions list|/ɪnˈkluːʒnz lɪst/|纳入项名单|n
+success-criteria list|/səkˈses kraɪˈtɪəriə lɪst/|成功标准名单|n
+acceptance-criteria list|/əkˈseptəns kraɪˈtɪəriə lɪst/|验收标准名单|n
+definition-of-done list|/ˌdefɪˈnɪʃn əv dʌn lɪst/|完成定义名单|n
+verbal-ok list|/ˈvɜːbl əʊ keɪ lɪst/|口头同意名单|n
+written-ok list|/ˈrɪtn əʊ keɪ lɪst/|书面同意名单|n
+email-ok list|/ˈiːmeɪl əʊ keɪ lɪst/|邮件同意名单|n
+meeting-ok list|/ˈmiːtɪŋ əʊ keɪ lɪst/|会上同意名单|n
+conditional-ok list|/kənˈdɪʃənl əʊ keɪ lɪst/|有条件同意名单|n
+no-go list|/nəʊ ɡəʊ lɪst/|暂不放行名单|n
+go-no-go list|/ɡəʊ nəʊ ɡəʊ lɪst/|放行评审名单|n
+gate-review list|/ɡeɪt rɪˈvjuː lɪst/|关口评审名单|n
+stage-gate list|/steɪdʒ ɡeɪt lɪst/|阶段关口名单|n
+phase-gate list|/feɪz ɡeɪt lɪst/|阶段门槛名单|n
+readiness-review list|/ˈredinəs rɪˈvjuː lɪst/|就绪评审名单|n
+go-live-readiness list|/ɡəʊ laɪv ˈredinəs lɪst/|上线就绪名单|n
+training-readiness list|/ˈtreɪnɪŋ ˈredinəs lɪst/|培训就绪名单|n
+comms-readiness list|/kɒmz ˈredinəs lɪst/|沟通就绪名单|n
+support-readiness list|/səˈpɔːt ˈredinəs lɪst/|支持就绪名单|n
+cutover-plan list|/ˈkʌtəʊvə plæn lɪst/|切换计划名单|n
+rollback-plan list|/ˈrəʊlbæk plæn lɪst/|回退计划名单|n
+hypercare-plan list|/ˈhaɪpəkeə plæn lɪst/|上线守护计划名单|n
+floor-support-roster list|/flɔː səˈpɔːt ˈrɒstə lɪst/|现场支持排班名单|n
+command-roster list|/kəˈmɑːnd ˈrɒstə lɪst/|指挥排班名单|n
+war-room-roster list|/wɔː ruːm ˈrɒstə lɪst/|应急室排班名单|n
+on-call-roster list|/ɒn kɔːl ˈrɒstə lɪst/|值班排班名单|n
+escalation-roster list|/ˌeskəˈleɪʃn ˈrɒstə lɪst/|升级排班名单|n
+weekend-roster list|/ˈwiːkend ˈrɒstə lɪst/|周末排班名单|n
+holiday-roster list|/ˈhɒlədeɪ ˈrɒstə lɪst/|节假日排班名单|n
+night-roster list|/naɪt ˈrɒstə lɪst/|夜班排班名单|n
+day-roster list|/deɪ ˈrɒstə lɪst/|白班排班名单|n
+published-roster list|/ˈpʌblɪʃt ˈrɒstə lɪst/|已公布排班名单|n
+draft-roster list|/drɑːft ˈrɒstə lɪst/|草稿排班名单|n
+updated-roster list|/ˌʌpˈdeɪtɪd ˈrɒstə lɪst/|更新后排班名单|n
+final-roster list|/ˈfaɪnl ˈrɒstə lɪst/|最终排班名单|n
+roster-conflict list|/ˈrɒstə ˈkɒnflɪkt lɪst/|排班冲突名单|n
+roster-gap list|/ˈrɒstə ɡæp lɪst/|排班空档名单|n
+roster-swap list|/ˈrɒstə swɒp lɪst/|排班对调名单|n
+roster-freeze list|/ˈrɒstə friːz lɪst/|排班冻结名单|n
+last-minute-change list|/lɑːst ˈmɪnɪt tʃeɪndʒ lɪst/|临时变更名单|n
+unplanned-leave list|/ʌnˈplænd liːv lɪst/|临时请假名单|n
+planned-leave list|/plænd liːv lɪst/|计划请假名单|n
+leave-calendar list|/liːv ˈkælɪndə lɪst/|休假日历名单|n
+leave-balance list|/liːv ˈbæləns lɪst/|剩余假期名单|n
+leave-approval list|/liːv əˈpruːvl lɪst/|请假批准名单|n
+leave-rejection list|/liːv rɪˈdʒekʃn lɪst/|请假驳回名单|n
+leave-cover list|/liːv ˈkʌvə lɪst/|请假顶班名单|n
+return-date list|/rɪˈtɜːn deɪt lɪst/|返岗日期名单|n
+handover-date list|/ˈhændəʊvə deɪt lɪst/|交接日期名单|n
+start-date list|/stɑːt deɪt lɪst/|开始日期名单|n
+end-date list|/end deɪt lɪst/|结束日期名单|n
+expired-item list|/ɪkˈspaɪəd ˈaɪtəm lɪst/|已过期名单|n
+about-to-expire list|/əˈbaʊt tu ɪkˈspaɪə lɪst/|即将过期名单|n
+renewal-reminder list|/rɪˈnjuːəl rɪˈmaɪndə lɪst/|续期提醒名单|n
+expiry-reminder list|/ɪkˈspaɪəri rɪˈmaɪndə lɪst/|到期提醒名单|n
+calendar-reminder list|/ˈkælɪndə rɪˈmaɪndə lɪst/|日历提醒名单|n
+popup-reminder list|/ˈpɒpʌp rɪˈmaɪndə lɪst/|弹窗提醒名单|n
+email-reminder list|/ˈiːmeɪl rɪˈmaɪndə lɪst/|邮件提醒名单|n
+sms-reminder list|/ˌes em ˈes rɪˈmaɪndə lɪst/|短信提醒名单|n
+phone-reminder list|/fəʊn rɪˈmaɪndə lɪst/|电话提醒名单|n
+desk-reminder list|/desk rɪˈmaɪndə lɪst/|工位提醒名单|n
+sticky-note list|/ˈstɪki nəʊt lɪst/|便利贴名单|n
+to-do-list page|/tə ˈduː lɪst peɪdʒ/|待办清单一页|n
+done-list page|/dʌn lɪst peɪdʒ/|已办清单一页|n
+today-list page|/təˈdeɪ lɪst peɪdʒ/|今日清单一页|n
+this-week-list page|/ðɪs wiːk lɪst peɪdʒ/|本周清单一页|n
+parking-list page|/ˈpɑːkɪŋ lɪst peɪdʒ/|暂记清单一页|n
+waiting-list-review page|/ˈweɪtɪŋ lɪst rɪˈvjuː peɪdʒ/|等候名单回顾页|n
+priority-list page|/praɪˈɒrəti lɪst peɪdʒ/|优先清单一页|n
+must-do list page|/mʌst duː lɪst peɪdʒ/|必须完成清单一页|n
+nice-to-have list page|/naɪs tə hæv lɪst peɪdʒ/|锦上添花清单一页|n
+stop-doing list|/stɒp ˈduːɪŋ lɪst/|停止再做名单|n
+start-doing list|/stɑːt ˈduːɪŋ lɪst/|开始要做名单|n
+continue-doing list|/kənˈtɪnjuː ˈduːɪŋ lɪst/|继续保持名单|n
+keep-doing list|/kiːp ˈduːɪŋ lɪst/|继续做名单|n

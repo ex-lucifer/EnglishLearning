@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-19",
+  "words": [
+    {
+      "word": "part-time",
+      "phonetic": "/pɑːt taɪm/",
+      "meaning": "兼职的",
+      "example": "Stay part-time in the meeting.",
+      "exampleZh": "会上请保持兼职的。",
+      "category": "office"
+    },
+    {
+      "word": "contract staff",
+      "phonetic": "/ˈkɒntrækt stɑːf/",
+      "meaning": "合同制员工",
+      "example": "Please review the contract staff.",
+      "exampleZh": "请审阅一下这个合同制员工。",
+      "category": "office"
+    },
+    {
+      "word": "agency staff",
+      "phonetic": "/ˈeɪdʒənsi stɑːf/",
+      "meaning": "派遣员工",
+      "example": "The agency staff is ready for review.",
+      "exampleZh": "这个派遣员工已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "locum",
+      "phonetic": "/ˈləʊkəm/",
+      "meaning": "代班人员",
+      "example": "Please share the locum after the meeting.",
+      "exampleZh": "会后请分享这个代班人员。",
+      "category": "office"
+    },
+    {
+      "word": "floater",
+      "phonetic": "/ˈfləʊtə/",
+      "meaning": "机动人员",
+      "example": "Who is handling the floater?",
+      "exampleZh": "谁在处理这个机动人员？",
+      "category": "office"
+    },
+    {
+      "word": "HDD",
+      "phonetic": "/ˌeɪtʃ diː ˈdiː/",
+      "meaning": "机械硬盘",
+      "example": "The HDD is slow this morning.",
+      "exampleZh": "今天早上 HDD 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "NVMe",
+      "phonetic": "/ˌen viː em ˈiː/",
+      "meaning": "高速固态接口",
+      "example": "The NVMe is slow this morning.",
+      "exampleZh": "今天早上 NVMe 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SATA",
+      "phonetic": "/ˈsɑːtə/",
+      "meaning": "串口硬盘接口",
+      "example": "The SATA is slow this morning.",
+      "exampleZh": "今天早上 SATA 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SAS",
+      "phonetic": "/sæs/",
+      "meaning": "服务器硬盘接口",
+      "example": "The SAS is slow this morning.",
+      "exampleZh": "今天早上 SAS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "M.2",
+      "phonetic": "/em tɔɪnt tuː/",
+      "meaning": "板载固态接口",
+      "example": "Who supports this M.2?",
+      "exampleZh": "谁支持这个板载固态接口？",
+      "category": "it"
+    }
+  ]
+}

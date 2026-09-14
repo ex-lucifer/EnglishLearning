@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-09",
+  "words": [
+    {
+      "word": "scan",
+      "phonetic": "/skæn/",
+      "meaning": "扫描件",
+      "example": "I updated the scan this morning.",
+      "exampleZh": "我今天早上更新了这个扫描件。",
+      "category": "office"
+    },
+    {
+      "word": "fax",
+      "phonetic": "/fæks/",
+      "meaning": "传真",
+      "example": "Please share the fax after the meeting.",
+      "exampleZh": "会后请分享这个传真。",
+      "category": "office"
+    },
+    {
+      "word": "courier",
+      "phonetic": "/ˈkʊriə/",
+      "meaning": "快递",
+      "example": "Please review the courier.",
+      "exampleZh": "请审阅一下这个快递。",
+      "category": "office"
+    },
+    {
+      "word": "dispatch",
+      "phonetic": "/dɪˈspætʃ/",
+      "meaning": "发出",
+      "example": "Please dispatch this before noon.",
+      "exampleZh": "请在中午前发出这个。",
+      "category": "office"
+    },
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meaning": "签收",
+      "example": "Please receive this before noon.",
+      "exampleZh": "请在中午前签收这个。",
+      "category": "office"
+    },
+    {
+      "word": "backup catalog",
+      "phonetic": "/ˈbækʌp ˈkætəlɒɡ/",
+      "meaning": "备份目录",
+      "example": "Who supports this backup catalog?",
+      "exampleZh": "谁支持这个备份目录？",
+      "category": "it"
+    },
+    {
+      "word": "tape library",
+      "phonetic": "/teɪp ˈlaɪbrəri/",
+      "meaning": "磁带库",
+      "example": "Please review the tape library after the patch.",
+      "exampleZh": "打补丁后请审阅这个磁带库。",
+      "category": "it"
+    },
+    {
+      "word": "offsite backup",
+      "phonetic": "/ˈɒfsaɪt ˈbækʌp/",
+      "meaning": "异地备份",
+      "example": "Please review the offsite backup after the patch.",
+      "exampleZh": "打补丁后请审阅这个异地备份。",
+      "category": "it"
+    },
+    {
+      "word": "immutable backup",
+      "phonetic": "/ɪˈmjuːtəbl ˈbækʌp/",
+      "meaning": "不可篡改备份",
+      "example": "Please check the immutable backup.",
+      "exampleZh": "请检查一下这个不可篡改备份。",
+      "category": "it"
+    },
+    {
+      "word": "air gap",
+      "phonetic": "/eə ɡæp/",
+      "meaning": "物理隔离",
+      "example": "Please check the air gap.",
+      "exampleZh": "请检查一下这个物理隔离。",
+      "category": "it"
+    }
+  ]
+}

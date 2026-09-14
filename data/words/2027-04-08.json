@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-08",
+  "words": [
+    {
+      "word": "official seal",
+      "phonetic": "/əˈfɪʃl siːl/",
+      "meaning": "公章",
+      "example": "Please review the official seal.",
+      "exampleZh": "请审阅一下这个公章。",
+      "category": "office"
+    },
+    {
+      "word": "letter of thanks",
+      "phonetic": "/ˈletə əv θæŋks/",
+      "meaning": "感谢信",
+      "example": "I updated the letter of thanks this morning.",
+      "exampleZh": "我今天早上更新了这个感谢信。",
+      "category": "office"
+    },
+    {
+      "word": "letter of complaint",
+      "phonetic": "/ˈletə əv kəmˈpleɪnt/",
+      "meaning": "投诉信",
+      "example": "The letter of complaint is ready for review.",
+      "exampleZh": "这个投诉信已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "meeting pack",
+      "phonetic": "/ˈmiːtɪŋ pæk/",
+      "meaning": "会议材料包",
+      "example": "I updated the meeting pack this morning.",
+      "exampleZh": "我今天早上更新了这个会议材料包。",
+      "category": "office"
+    },
+    {
+      "word": "pre-read",
+      "phonetic": "/priː riːd/",
+      "meaning": "会前阅读材料",
+      "example": "Who is handling the pre-read?",
+      "exampleZh": "谁在处理这个会前阅读材料？",
+      "category": "office"
+    },
+    {
+      "word": "SSH",
+      "phonetic": "/ˌes es ˈeɪtʃ/",
+      "meaning": "安全外壳协议",
+      "example": "The SSH is slow this morning.",
+      "exampleZh": "今天早上 SSH 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "Telnet",
+      "phonetic": "/ˈtelnet/",
+      "meaning": "远程终端协议",
+      "example": "Please check the Telnet.",
+      "exampleZh": "请检查一下这个远程终端协议。",
+      "category": "it"
+    },
+    {
+      "word": "SNMP",
+      "phonetic": "/ˌes en em ˈpiː/",
+      "meaning": "简单网络管理",
+      "example": "The SNMP is slow this morning.",
+      "exampleZh": "今天早上 SNMP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "Syslog server",
+      "phonetic": "/ˈsɪslɒɡ ˈsɜːvə/",
+      "meaning": "日志服务器",
+      "example": "Who supports this Syslog server?",
+      "exampleZh": "谁支持这个日志服务器？",
+      "category": "it"
+    },
+    {
+      "word": "NTP server",
+      "phonetic": "/ˌen tiː ˈpiː ˈsɜːvə/",
+      "meaning": "时间服务器",
+      "example": "Who supports this NTP server?",
+      "exampleZh": "谁支持这个时间服务器？",
+      "category": "it"
+    }
+  ]
+}

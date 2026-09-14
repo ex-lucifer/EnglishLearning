@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-17",
+  "words": [
+    {
+      "word": "kickoff",
+      "phonetic": "/ˈkɪkɒf/",
+      "meaning": "启动会",
+      "example": "I updated the kickoff this morning.",
+      "exampleZh": "我今天早上更新了这个启动会。",
+      "category": "office"
+    },
+    {
+      "word": "wrap-up",
+      "phonetic": "/ˈræp ʌp/",
+      "meaning": "收尾",
+      "example": "I updated the wrap-up this morning.",
+      "exampleZh": "我今天早上更新了这个收尾。",
+      "category": "office"
+    },
+    {
+      "word": "recap",
+      "phonetic": "/ˈriːkæp/",
+      "meaning": "回顾摘要",
+      "example": "Who is handling the recap?",
+      "exampleZh": "谁在处理这个回顾摘要？",
+      "category": "office"
+    },
+    {
+      "word": "takeaway",
+      "phonetic": "/ˈteɪkəweɪ/",
+      "meaning": "会议要点",
+      "example": "The takeaway is ready for review.",
+      "exampleZh": "这个会议要点已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "action item",
+      "phonetic": "/ˈækʃn ˈaɪtəm/",
+      "meaning": "待办事项",
+      "example": "I updated the action item this morning.",
+      "exampleZh": "我今天早上更新了这个待办事项。",
+      "category": "office"
+    },
+    {
+      "word": "CPOE",
+      "phonetic": "/ˌsiː pəʊ ˈiː/",
+      "meaning": "医嘱录入",
+      "example": "The CPOE is slow this morning.",
+      "exampleZh": "今天早上 CPOE 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "CDSS",
+      "phonetic": "/ˌsiː diː es ˈes/",
+      "meaning": "临床决策支持",
+      "example": "The CDSS is slow this morning.",
+      "exampleZh": "今天早上 CDSS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "ADT",
+      "phonetic": "/ˌeɪ diː ˈtiː/",
+      "meaning": "出入院转科",
+      "example": "The ADT is slow this morning.",
+      "exampleZh": "今天早上 ADT 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "MPI",
+      "phonetic": "/ˌem piː ˈaɪ/",
+      "meaning": "主患者索引",
+      "example": "The MPI is slow this morning.",
+      "exampleZh": "今天早上 MPI 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "EHR",
+      "phonetic": "/ˌiː eɪtʃ ˈɑː/",
+      "meaning": "电子健康档案",
+      "example": "The EHR is slow this morning.",
+      "exampleZh": "今天早上 EHR 很慢。",
+      "category": "it"
+    }
+  ]
+}

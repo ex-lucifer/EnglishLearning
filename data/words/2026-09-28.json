@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-28",
+  "words": [
+    {
+      "word": "cancel",
+      "phonetic": "/ˈkænsl/",
+      "meaning": "取消",
+      "example": "Let's cancel this first.",
+      "exampleZh": "我们先取消这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːm/",
+      "meaning": "确认",
+      "example": "Let's confirm this first.",
+      "exampleZh": "我们先确认这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "reminder",
+      "phonetic": "/rɪˈmaɪndə/",
+      "meaning": "提醒",
+      "example": "Who is handling the reminder?",
+      "exampleZh": "谁在处理这个提醒？",
+      "category": "office"
+    },
+    {
+      "word": "announcement",
+      "phonetic": "/əˈnaʊnsmənt/",
+      "meaning": "通知",
+      "example": "Please review the announcement.",
+      "exampleZh": "请审阅一下这个通知。",
+      "category": "office"
+    },
+    {
+      "word": "memo",
+      "phonetic": "/ˈmeməʊ/",
+      "meaning": "内部备忘",
+      "example": "Please review the memo.",
+      "exampleZh": "请审阅一下这个内部备忘。",
+      "category": "office"
+    },
+    {
+      "word": "infusion pump",
+      "phonetic": "/ɪnˈfjuːʒn pʌmp/",
+      "meaning": "输液泵",
+      "example": "Please check the infusion pump.",
+      "exampleZh": "请检查一下这个输液泵。",
+      "category": "it"
+    },
+    {
+      "word": "vital monitor",
+      "phonetic": "/ˈvaɪtl ˈmɒnɪtə/",
+      "meaning": "生命体征监护仪",
+      "example": "Please check the vital monitor.",
+      "exampleZh": "请检查一下这个生命体征监护仪。",
+      "category": "it"
+    },
+    {
+      "word": "barcode scanner",
+      "phonetic": "/ˈbɑːkəʊd ˈskænə/",
+      "meaning": "条码扫描枪",
+      "example": "The barcode scanner is in production.",
+      "exampleZh": "这个条码扫描枪已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "RFID",
+      "phonetic": "/ˌɑːr ef aɪ ˈdiː/",
+      "meaning": "射频识别",
+      "example": "The RFID is slow this morning.",
+      "exampleZh": "今天早上 RFID 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "RTLS",
+      "phonetic": "/ˌɑːr tiː el ˈes/",
+      "meaning": "实时定位系统",
+      "example": "The RTLS is slow this morning.",
+      "exampleZh": "今天早上 RTLS 很慢。",
+      "category": "it"
+    }
+  ]
+}

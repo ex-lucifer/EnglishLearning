@@ -1,0 +1,85 @@
+{
+  "date": "2027-09-08",
+  "words": [
+    {
+      "word": "reference copy",
+      "phonetic": "/ˈrefrəns ˈkɒpi/",
+      "meaning": "查阅副本",
+      "example": "I updated the reference copy this morning.",
+      "exampleZh": "我今天早上更新了这个查阅副本。",
+      "category": "office"
+    },
+    {
+      "word": "display copy",
+      "phonetic": "/dɪˈspleɪ ˈkɒpi/",
+      "meaning": "展示用副本",
+      "example": "I updated the display copy this morning.",
+      "exampleZh": "我今天早上更新了这个展示用副本。",
+      "category": "office"
+    },
+    {
+      "word": "archived copy",
+      "phonetic": "/ˈɑːkaɪvd ˈkɒpi/",
+      "meaning": "归档副本",
+      "example": "The archived copy is ready for review.",
+      "exampleZh": "这个归档副本已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "retention",
+      "phonetic": "/rɪˈtenʃn/",
+      "meaning": "保存期限",
+      "example": "Please review the retention.",
+      "exampleZh": "请审阅一下这个保存期限。",
+      "category": "office"
+    },
+    {
+      "word": "destruction",
+      "phonetic": "/dɪˈstrʌkʃn/",
+      "meaning": "销毁",
+      "example": "I updated the destruction this morning.",
+      "exampleZh": "我今天早上更新了这个销毁。",
+      "category": "office"
+    },
+    {
+      "word": "autodiscover",
+      "phonetic": "/ˌɔːtəʊdɪsˈkʌvə/",
+      "meaning": "自动发现",
+      "example": "Please check the autodiscover.",
+      "exampleZh": "请检查一下这个自动发现。",
+      "category": "it"
+    },
+    {
+      "word": "Outlook profile",
+      "phonetic": "/ˈaʊtlʊk ˈprəʊfaɪl/",
+      "meaning": "邮件配置文件",
+      "example": "Please check the Outlook profile.",
+      "exampleZh": "请检查一下这个邮件配置文件。",
+      "category": "it"
+    },
+    {
+      "word": "OST",
+      "phonetic": "/ˌəʊ es ˈtiː/",
+      "meaning": "脱机数据文件",
+      "example": "The OST is slow this morning.",
+      "exampleZh": "今天早上 OST 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "PST",
+      "phonetic": "/ˌpiː es ˈtiː/",
+      "meaning": "个人存储文件",
+      "example": "The PST is slow this morning.",
+      "exampleZh": "今天早上 PST 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "cached mode",
+      "phonetic": "/kæʃt məʊd/",
+      "meaning": "缓存模式",
+      "example": "Please check the cached mode.",
+      "exampleZh": "请检查一下这个缓存模式。",
+      "category": "it"
+    }
+  ]
+}

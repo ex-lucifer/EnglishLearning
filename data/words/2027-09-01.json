@@ -1,0 +1,85 @@
+{
+  "date": "2027-09-01",
+  "words": [
+    {
+      "word": "urgent request",
+      "phonetic": "/ˈɜːdʒənt rɪˈkwest/",
+      "meaning": "紧急请求",
+      "example": "The urgent request is ready for review.",
+      "exampleZh": "这个紧急请求已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "standing request",
+      "phonetic": "/ˈstændɪŋ rɪˈkwest/",
+      "meaning": "长期固定请求",
+      "example": "I updated the standing request this morning.",
+      "exampleZh": "我今天早上更新了这个长期固定请求。",
+      "category": "office"
+    },
+    {
+      "word": "one-off request",
+      "phonetic": "/wʌn ɒf rɪˈkwest/",
+      "meaning": "一次性请求",
+      "example": "I updated the one-off request this morning.",
+      "exampleZh": "我今天早上更新了这个一次性请求。",
+      "category": "office"
+    },
+    {
+      "word": "repeat request",
+      "phonetic": "/rɪˈpiːt rɪˈkwest/",
+      "meaning": "重复请求",
+      "example": "The repeat request is ready for review.",
+      "exampleZh": "这个重复请求已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "duplicate request",
+      "phonetic": "/ˈdjuːplɪkət rɪˈkwest/",
+      "meaning": "重复提交的请求",
+      "example": "Who is handling the duplicate request?",
+      "exampleZh": "谁在处理这个重复提交的请求？",
+      "category": "office"
+    },
+    {
+      "word": "open relay",
+      "phonetic": "/ˈəʊpən ˈriːleɪ/",
+      "meaning": "开放中继",
+      "example": "We need the open relay before go-live.",
+      "exampleZh": "上线前我们需要这个开放中继。",
+      "category": "it"
+    },
+    {
+      "word": "spam score",
+      "phonetic": "/spæm skɔː/",
+      "meaning": "垃圾评分",
+      "example": "We need the spam score before go-live.",
+      "exampleZh": "上线前我们需要这个垃圾评分。",
+      "category": "it"
+    },
+    {
+      "word": "quarantine mailbox",
+      "phonetic": "/ˈkwɒrəntiːn ˈmeɪlbɒks/",
+      "meaning": "隔离邮箱",
+      "example": "Who supports this quarantine mailbox?",
+      "exampleZh": "谁支持这个隔离邮箱？",
+      "category": "it"
+    },
+    {
+      "word": "NDR",
+      "phonetic": "/ˌen diː ˈɑː/",
+      "meaning": "未送达报告",
+      "example": "The NDR is slow this morning.",
+      "exampleZh": "今天早上 NDR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "DSN",
+      "phonetic": "/ˌdiː es ˈen/",
+      "meaning": "投递状态通知",
+      "example": "The DSN is slow this morning.",
+      "exampleZh": "今天早上 DSN 很慢。",
+      "category": "it"
+    }
+  ]
+}

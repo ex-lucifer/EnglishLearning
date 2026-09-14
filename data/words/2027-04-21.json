@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-21",
+  "words": [
+    {
+      "word": "mid-year",
+      "phonetic": "/mɪd jɪə/",
+      "meaning": "年中的",
+      "example": "The timeline looks mid-year.",
+      "exampleZh": "时间看起来年中的。",
+      "category": "office"
+    },
+    {
+      "word": "year to date",
+      "phonetic": "/jɪə tə deɪt/",
+      "meaning": "年初至今",
+      "example": "Please review the year to date.",
+      "exampleZh": "请审阅一下这个年初至今。",
+      "category": "office"
+    },
+    {
+      "word": "month to date",
+      "phonetic": "/mʌnθ tə deɪt/",
+      "meaning": "月初至今",
+      "example": "Please share the month to date after the meeting.",
+      "exampleZh": "会后请分享这个月初至今。",
+      "category": "office"
+    },
+    {
+      "word": "week to date",
+      "phonetic": "/wiːk tə deɪt/",
+      "meaning": "本周至今",
+      "example": "Please review the week to date.",
+      "exampleZh": "请审阅一下这个本周至今。",
+      "category": "office"
+    },
+    {
+      "word": "as of",
+      "phonetic": "/æz ɒv/",
+      "meaning": "截至",
+      "example": "As of Monday, ten beds are free.",
+      "exampleZh": "截至周一，还有十张空床。",
+      "category": "office"
+    },
+    {
+      "word": "trusted root",
+      "phonetic": "/ˈtrʌstɪd ruːt/",
+      "meaning": "受信任根",
+      "example": "Who supports this trusted root?",
+      "exampleZh": "谁支持这个受信任根？",
+      "category": "it"
+    },
+    {
+      "word": "untrusted cert",
+      "phonetic": "/ʌnˈtrʌstɪd sɜːt/",
+      "meaning": "不受信任证书",
+      "example": "The untrusted cert is in production.",
+      "exampleZh": "这个不受信任证书已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "expired cert",
+      "phonetic": "/ɪkˈspaɪəd sɜːt/",
+      "meaning": "过期证书",
+      "example": "We need the expired cert before go-live.",
+      "exampleZh": "上线前我们需要这个过期证书。",
+      "category": "it"
+    },
+    {
+      "word": "revoked cert",
+      "phonetic": "/rɪˈvəʊkt sɜːt/",
+      "meaning": "已吊销证书",
+      "example": "Who supports this revoked cert?",
+      "exampleZh": "谁支持这个已吊销证书？",
+      "category": "it"
+    },
+    {
+      "word": "OCSP staple",
+      "phonetic": "/ˌəʊ siː es ˈpiː ˈsteɪpl/",
+      "meaning": "证书装订",
+      "example": "Who supports this OCSP staple?",
+      "exampleZh": "谁支持这个证书装订？",
+      "category": "it"
+    }
+  ]
+}

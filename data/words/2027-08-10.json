@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-10",
+  "words": [
+    {
+      "word": "do not disturb",
+      "phonetic": "/duː nɒt dɪˈstɜːb/",
+      "meaning": "请勿打扰",
+      "example": "Put a do not disturb sign on the door.",
+      "exampleZh": "门上请挂请勿打扰。",
+      "category": "office"
+    },
+    {
+      "word": "knock first",
+      "phonetic": "/nɒk fɜːst/",
+      "meaning": "先敲门",
+      "example": "Please knock first before entering.",
+      "exampleZh": "进去前请先敲门。",
+      "category": "office"
+    },
+    {
+      "word": "wait outside",
+      "phonetic": "/weɪt ˌaʊtˈsaɪd/",
+      "meaning": "在门外等",
+      "example": "Please wait outside until called.",
+      "exampleZh": "请在门外等到叫号。",
+      "category": "office"
+    },
+    {
+      "word": "come in",
+      "phonetic": "/kʌm ɪn/",
+      "meaning": "请进",
+      "example": "Come in, we can start now.",
+      "exampleZh": "请进，我们可以开始了。",
+      "category": "office"
+    },
+    {
+      "word": "have a seat",
+      "phonetic": "/hæv ə siːt/",
+      "meaning": "请坐",
+      "example": "Please have a seat by the window.",
+      "exampleZh": "请坐到窗边。",
+      "category": "office"
+    },
+    {
+      "word": "virtual switch",
+      "phonetic": "/ˈvɜːtʃuəl swɪtʃ/",
+      "meaning": "虚拟交换机",
+      "example": "Who supports this virtual switch?",
+      "exampleZh": "谁支持这个虚拟交换机？",
+      "category": "it"
+    },
+    {
+      "word": "uplink NIC",
+      "phonetic": "/ˈʌplɪŋk nɪk/",
+      "meaning": "上联网卡",
+      "example": "Who supports this uplink NIC?",
+      "exampleZh": "谁支持这个上联网卡？",
+      "category": "it"
+    },
+    {
+      "word": "NIC teaming",
+      "phonetic": "/nɪk ˈtiːmɪŋ/",
+      "meaning": "网卡绑定",
+      "example": "Please check the NIC teaming.",
+      "exampleZh": "请检查一下这个网卡绑定。",
+      "category": "it"
+    },
+    {
+      "word": "LACP",
+      "phonetic": "/lækp/",
+      "meaning": "链路聚合",
+      "example": "The LACP is slow this morning.",
+      "exampleZh": "今天早上 LACP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "load balance",
+      "phonetic": "/ləʊd ˈbæləns/",
+      "meaning": "负载分担",
+      "example": "Please review the load balance after the patch.",
+      "exampleZh": "打补丁后请审阅这个负载分担。",
+      "category": "it"
+    }
+  ]
+}

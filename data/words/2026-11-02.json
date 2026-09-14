@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-02",
+  "words": [
+    {
+      "word": "nudge",
+      "phonetic": "/nʌdʒ/",
+      "meaning": "催一下",
+      "example": "Can you nudge it today?",
+      "exampleZh": "你今天能催一下一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "circulate",
+      "phonetic": "/ˈsɜːkjəleɪt/",
+      "meaning": "传阅",
+      "example": "Please circulate this before noon.",
+      "exampleZh": "请在中午前传阅这个。",
+      "category": "office"
+    },
+    {
+      "word": "loop in",
+      "phonetic": "/luːp ɪn/",
+      "meaning": "拉进沟通",
+      "example": "Please loop in the ward clerk.",
+      "exampleZh": "请把病区文员拉进沟通。",
+      "category": "office"
+    },
+    {
+      "word": "out of office",
+      "phonetic": "/aʊt əv ˈɒfɪs/",
+      "meaning": "不在办公室",
+      "example": "I am out of office until Thursday.",
+      "exampleZh": "我周四前不在办公室。",
+      "category": "office"
+    },
+    {
+      "word": "in progress",
+      "phonetic": "/ɪn ˈprəʊɡres/",
+      "meaning": "进行中",
+      "example": "The request is still in progress.",
+      "exampleZh": "这个请求还在处理中。",
+      "category": "office"
+    },
+    {
+      "word": "automated dispensing",
+      "phonetic": "/ˈɔːtəmeɪtɪd dɪˈspensɪŋ/",
+      "meaning": "自动发药柜",
+      "example": "We need the automated dispensing before go-live.",
+      "exampleZh": "上线前我们需要这个自动发药柜。",
+      "category": "it"
+    },
+    {
+      "word": "ADC",
+      "phonetic": "/ˌeɪ diː ˈsiː/",
+      "meaning": "自动发药柜",
+      "example": "The ADC is slow this morning.",
+      "exampleZh": "今天早上 ADC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "infusion library",
+      "phonetic": "/ɪnˈfjuːʒn ˈlaɪbrəri/",
+      "meaning": "输液泵药库",
+      "example": "Who supports this infusion library?",
+      "exampleZh": "谁支持这个输液泵药库？",
+      "category": "it"
+    },
+    {
+      "word": "device integration",
+      "phonetic": "/dɪˈvaɪs ˌɪntɪˈɡreɪʃn/",
+      "meaning": "设备集成",
+      "example": "We need the device integration before go-live.",
+      "exampleZh": "上线前我们需要这个设备集成。",
+      "category": "it"
+    },
+    {
+      "word": "NTP",
+      "phonetic": "/ˌen tiː ˈpiː/",
+      "meaning": "网络时间协议",
+      "example": "The NTP is slow this morning.",
+      "exampleZh": "今天早上 NTP 很慢。",
+      "category": "it"
+    }
+  ]
+}

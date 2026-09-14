@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-19",
+  "words": [
+    {
+      "word": "nonconformity",
+      "phonetic": "/ˌnɒnkənˈfɔːməti/",
+      "meaning": "不符合项",
+      "example": "Please share the nonconformity after the meeting.",
+      "exampleZh": "会后请分享这个不符合项。",
+      "category": "office"
+    },
+    {
+      "word": "CAPA",
+      "phonetic": "/ˈkæpə/",
+      "meaning": "纠正预防措施",
+      "example": "Please put CAPA on the email.",
+      "exampleZh": "请在邮件里注明 CAPA。",
+      "category": "office"
+    },
+    {
+      "word": "accreditation",
+      "phonetic": "/əˌkredɪˈteɪʃn/",
+      "meaning": "评审认证",
+      "example": "Who is handling the accreditation?",
+      "exampleZh": "谁在处理这个评审认证？",
+      "category": "office"
+    },
+    {
+      "word": "survey",
+      "phonetic": "/ˈsɜːveɪ/",
+      "meaning": "现场评审",
+      "example": "I updated the survey this morning.",
+      "exampleZh": "我今天早上更新了这个现场评审。",
+      "category": "office"
+    },
+    {
+      "word": "tracer",
+      "phonetic": "/ˈtreɪsə/",
+      "meaning": "追踪检查",
+      "example": "I updated the tracer this morning.",
+      "exampleZh": "我今天早上更新了这个追踪检查。",
+      "category": "office"
+    },
+    {
+      "word": "ticket priority",
+      "phonetic": "/ˈtɪkɪt praɪˈɒrəti/",
+      "meaning": "工单优先级",
+      "example": "The ticket priority is in production.",
+      "exampleZh": "这个工单优先级已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "ticket SLA",
+      "phonetic": "/ˈtɪkɪt ˌes el ˈeɪ/",
+      "meaning": "工单时限",
+      "example": "The ticket SLA is in production.",
+      "exampleZh": "这个工单时限已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "first-time fix",
+      "phonetic": "/fɜːst taɪm fɪks/",
+      "meaning": "一次解决",
+      "example": "Please review the first-time fix after the patch.",
+      "exampleZh": "打补丁后请审阅这个一次解决。",
+      "category": "it"
+    },
+    {
+      "word": "reopen rate",
+      "phonetic": "/ˌriːˈəʊpən reɪt/",
+      "meaning": "重开工单率",
+      "example": "Please review the reopen rate after the patch.",
+      "exampleZh": "打补丁后请审阅这个重开工单率。",
+      "category": "it"
+    },
+    {
+      "word": "mean time to repair",
+      "phonetic": "/miːn taɪm tə rɪˈpeə/",
+      "meaning": "平均修复时间",
+      "example": "Who supports this mean time to repair?",
+      "exampleZh": "谁支持这个平均修复时间？",
+      "category": "it"
+    }
+  ]
+}

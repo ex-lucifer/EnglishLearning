@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-24",
+  "words": [
+    {
+      "word": "floor walker",
+      "phonetic": "/flɔː ˈwɔːkə/",
+      "meaning": "现场巡视员",
+      "example": "The floor walker is ready for review.",
+      "exampleZh": "这个现场巡视员已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "super user",
+      "phonetic": "/ˈsuːpə ˈjuːzə/",
+      "meaning": "业务骨干用户",
+      "example": "I updated the super user this morning.",
+      "exampleZh": "我今天早上更新了这个业务骨干用户。",
+      "category": "office"
+    },
+    {
+      "word": "champion",
+      "phonetic": "/ˈtʃæmpiən/",
+      "meaning": "推广骨干",
+      "example": "I updated the champion this morning.",
+      "exampleZh": "我今天早上更新了这个推广骨干。",
+      "category": "office"
+    },
+    {
+      "word": "change agent",
+      "phonetic": "/tʃeɪndʒ ˈeɪdʒənt/",
+      "meaning": "变革推动者",
+      "example": "Please share the change agent after the meeting.",
+      "exampleZh": "会后请分享这个变革推动者。",
+      "category": "office"
+    },
+    {
+      "word": "sponsor update",
+      "phonetic": "/ˈspɒnsə ˌʌpdeɪt/",
+      "meaning": "发起人通报",
+      "example": "Please review the sponsor update.",
+      "exampleZh": "请审阅一下这个发起人通报。",
+      "category": "office"
+    },
+    {
+      "word": "smart-card logon",
+      "phonetic": "/smɑːt kɑːd ˈlɒɡɒn/",
+      "meaning": "智能卡登录",
+      "example": "Please check the smart-card logon.",
+      "exampleZh": "请检查一下这个智能卡登录。",
+      "category": "it"
+    },
+    {
+      "word": "failed logon",
+      "phonetic": "/feɪld ˈlɒɡɒn/",
+      "meaning": "登录失败",
+      "example": "The failed logon is in production.",
+      "exampleZh": "这个登录失败已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "lockout policy",
+      "phonetic": "/ˈlɒkaʊt ˈpɒləsi/",
+      "meaning": "锁定策略",
+      "example": "Please check the lockout policy.",
+      "exampleZh": "请检查一下这个锁定策略。",
+      "category": "it"
+    },
+    {
+      "word": "account disabled",
+      "phonetic": "/əˈkaʊnt dɪsˈeɪbld/",
+      "meaning": "账号已禁用",
+      "example": "We need the account disabled before go-live.",
+      "exampleZh": "上线前我们需要这个账号已禁用。",
+      "category": "it"
+    },
+    {
+      "word": "account enabled",
+      "phonetic": "/əˈkaʊnt ɪˈneɪbld/",
+      "meaning": "账号已启用",
+      "example": "Who supports this account enabled?",
+      "exampleZh": "谁支持这个账号已启用？",
+      "category": "it"
+    }
+  ]
+}

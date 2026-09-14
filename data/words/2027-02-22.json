@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-22",
+  "words": [
+    {
+      "word": "facilitate",
+      "phonetic": "/fəˈsɪlɪteɪt/",
+      "meaning": "促成",
+      "example": "Please facilitate this before noon.",
+      "exampleZh": "请在中午前促成这个。",
+      "category": "office"
+    },
+    {
+      "word": "prepare",
+      "phonetic": "/prɪˈpeə/",
+      "meaning": "准备",
+      "example": "I will prepare it after the meeting.",
+      "exampleZh": "会后我会准备它。",
+      "category": "office"
+    },
+    {
+      "word": "arrange",
+      "phonetic": "/əˈreɪndʒ/",
+      "meaning": "安排",
+      "example": "I updated the arrange this morning.",
+      "exampleZh": "我今天早上更新了这个安排。",
+      "category": "office"
+    },
+    {
+      "word": "organize",
+      "phonetic": "/ˈɔːɡənaɪz/",
+      "meaning": "组织",
+      "example": "I will organize it after the meeting.",
+      "exampleZh": "会后我会组织它。",
+      "category": "office"
+    },
+    {
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "meaning": "预订",
+      "example": "We need to book this by Friday.",
+      "exampleZh": "我们周五前需要预订这个。",
+      "category": "office"
+    },
+    {
+      "word": "real-user monitor",
+      "phonetic": "/rɪəl ˈjuːzə ˈmɒnɪtə/",
+      "meaning": "真实用户监测",
+      "example": "Please check the real-user monitor.",
+      "exampleZh": "请检查一下这个真实用户监测。",
+      "category": "it"
+    },
+    {
+      "word": "APM",
+      "phonetic": "/ˌeɪ piː ˈem/",
+      "meaning": "应用性能监控",
+      "example": "The APM is slow this morning.",
+      "exampleZh": "今天早上 APM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "trace ID",
+      "phonetic": "/treɪs aɪ ˈdiː/",
+      "meaning": "追踪编号",
+      "example": "Who supports this trace ID?",
+      "exampleZh": "谁支持这个追踪编号？",
+      "category": "it"
+    },
+    {
+      "word": "span",
+      "phonetic": "/spæn/",
+      "meaning": "调用片段",
+      "example": "Please review the span after the patch.",
+      "exampleZh": "打补丁后请审阅这个调用片段。",
+      "category": "it"
+    },
+    {
+      "word": "correlation ID",
+      "phonetic": "/ˌkɒrəˈleɪʃn aɪ ˈdiː/",
+      "meaning": "关联编号",
+      "example": "Please review the correlation ID after the patch.",
+      "exampleZh": "打补丁后请审阅这个关联编号。",
+      "category": "it"
+    }
+  ]
+}

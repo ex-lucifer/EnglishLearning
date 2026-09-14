@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-26",
+  "words": [
+    {
+      "word": "archive",
+      "phonetic": "/ˈɑːkaɪv/",
+      "meaning": "归档",
+      "example": "I will archive it after the meeting.",
+      "exampleZh": "会后我会归档它。",
+      "category": "office"
+    },
+    {
+      "word": "revision",
+      "phonetic": "/rɪˈvɪʒn/",
+      "meaning": "修订版",
+      "example": "Who is handling the revision?",
+      "exampleZh": "谁在处理这个修订版？",
+      "category": "office"
+    },
+    {
+      "word": "draft",
+      "phonetic": "/drɑːft/",
+      "meaning": "草稿",
+      "example": "Please share the draft after the meeting.",
+      "exampleZh": "会后请分享这个草稿。",
+      "category": "office"
+    },
+    {
+      "word": "CC",
+      "phonetic": "/ˌsiː ˈsiː/",
+      "meaning": "抄送",
+      "example": "Please put CC on the email.",
+      "exampleZh": "请在邮件里注明 CC。",
+      "category": "office"
+    },
+    {
+      "word": "BCC",
+      "phonetic": "/ˌbiː siː ˈsiː/",
+      "meaning": "密送",
+      "example": "Please put BCC on the email.",
+      "exampleZh": "请在邮件里注明 BCC。",
+      "category": "office"
+    },
+    {
+      "word": "voice recognition",
+      "phonetic": "/vɔɪs ˌrekəɡˈnɪʃn/",
+      "meaning": "语音识别",
+      "example": "We need the voice recognition before go-live.",
+      "exampleZh": "上线前我们需要这个语音识别。",
+      "category": "it"
+    },
+    {
+      "word": "speech-to-text",
+      "phonetic": "/spiːtʃ tə tekst/",
+      "meaning": "语音转文字",
+      "example": "Please check the speech-to-text.",
+      "exampleZh": "请检查一下这个语音转文字。",
+      "category": "it"
+    },
+    {
+      "word": "allergy alert",
+      "phonetic": "/ˈælədʒi əˈlɜːt/",
+      "meaning": "过敏警示",
+      "example": "Who supports this allergy alert?",
+      "exampleZh": "谁支持这个过敏警示？",
+      "category": "it"
+    },
+    {
+      "word": "drug interaction",
+      "phonetic": "/drʌɡ ˌɪntərˈækʃn/",
+      "meaning": "药物相互作用",
+      "example": "The drug interaction is in production.",
+      "exampleZh": "这个药物相互作用已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "duplicate order",
+      "phonetic": "/ˈdjuːplɪkət ˈɔːdə/",
+      "meaning": "重复医嘱",
+      "example": "Please check the duplicate order.",
+      "exampleZh": "请检查一下这个重复医嘱。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-03",
+  "words": [
+    {
+      "word": "on site",
+      "phonetic": "/ɒn saɪt/",
+      "meaning": "在现场",
+      "example": "Please stay on site until handover.",
+      "exampleZh": "请留在现场直到交接完成。",
+      "category": "office"
+    },
+    {
+      "word": "off site",
+      "phonetic": "/ɒf saɪt/",
+      "meaning": "不在院内",
+      "example": "The team is off site for training.",
+      "exampleZh": "团队外出培训去了。",
+      "category": "office"
+    },
+    {
+      "word": "back at desk",
+      "phonetic": "/bæk ət desk/",
+      "meaning": "已回到工位",
+      "example": "I am back at desk now.",
+      "exampleZh": "我现在已经回到工位了。",
+      "category": "office"
+    },
+    {
+      "word": "step out",
+      "phonetic": "/step aʊt/",
+      "meaning": "暂时离开",
+      "example": "I need to step out for ten minutes.",
+      "exampleZh": "我需要离开十分钟。",
+      "category": "office"
+    },
+    {
+      "word": "be right back",
+      "phonetic": "/bi raɪt bæk/",
+      "meaning": "马上回来",
+      "example": "I will be right back after printing.",
+      "exampleZh": "我打完材料马上回来。",
+      "category": "office"
+    },
+    {
+      "word": "green environment",
+      "phonetic": "/ɡriːn ɪnˈvaɪrənmənt/",
+      "meaning": "绿色环境",
+      "example": "Who supports this green environment?",
+      "exampleZh": "谁支持这个绿色环境？",
+      "category": "it"
+    },
+    {
+      "word": "traffic shift",
+      "phonetic": "/ˈtræfɪk ʃɪft/",
+      "meaning": "流量切换",
+      "example": "Who supports this traffic shift?",
+      "exampleZh": "谁支持这个流量切换？",
+      "category": "it"
+    },
+    {
+      "word": "weighted routing",
+      "phonetic": "/ˈweɪtɪd ˈruːtɪŋ/",
+      "meaning": "加权路由",
+      "example": "We need the weighted routing before go-live.",
+      "exampleZh": "上线前我们需要这个加权路由。",
+      "category": "it"
+    },
+    {
+      "word": "health probe",
+      "phonetic": "/helθ prəʊb/",
+      "meaning": "健康探测",
+      "example": "We need the health probe before go-live.",
+      "exampleZh": "上线前我们需要这个健康探测。",
+      "category": "it"
+    },
+    {
+      "word": "unhealthy node",
+      "phonetic": "/ʌnˈhelθi nəʊd/",
+      "meaning": "不健康节点",
+      "example": "Who supports this unhealthy node?",
+      "exampleZh": "谁支持这个不健康节点？",
+      "category": "it"
+    }
+  ]
+}

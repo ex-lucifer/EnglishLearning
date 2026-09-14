@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-23",
+  "words": [
+    {
+      "word": "reserve",
+      "phonetic": "/rɪˈzɜːv/",
+      "meaning": "预留",
+      "example": "Please reserve this before noon.",
+      "exampleZh": "请在中午前预留这个。",
+      "category": "office"
+    },
+    {
+      "word": "attend",
+      "phonetic": "/əˈtend/",
+      "meaning": "出席",
+      "example": "Please attend this before noon.",
+      "exampleZh": "请在中午前出席这个。",
+      "category": "office"
+    },
+    {
+      "word": "chair",
+      "phonetic": "/tʃeə/",
+      "meaning": "主持",
+      "example": "Let's chair this first.",
+      "exampleZh": "我们先主持这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "host",
+      "phonetic": "/həʊst/",
+      "meaning": "主办",
+      "example": "Can you host it today?",
+      "exampleZh": "你今天能主办一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "moderate",
+      "phonetic": "/ˈmɒdəreɪt/",
+      "meaning": "主持讨论",
+      "example": "I will moderate it after the meeting.",
+      "exampleZh": "会后我会主持讨论它。",
+      "category": "office"
+    },
+    {
+      "word": "request ID",
+      "phonetic": "/rɪˈkwest aɪ ˈdiː/",
+      "meaning": "请求编号",
+      "example": "We need the request ID before go-live.",
+      "exampleZh": "上线前我们需要这个请求编号。",
+      "category": "it"
+    },
+    {
+      "word": "error budget",
+      "phonetic": "/ˈerə ˈbʌdʒɪt/",
+      "meaning": "错误预算",
+      "example": "We need the error budget before go-live.",
+      "exampleZh": "上线前我们需要这个错误预算。",
+      "category": "it"
+    },
+    {
+      "word": "SLO",
+      "phonetic": "/ˌes el ˈəʊ/",
+      "meaning": "服务水平目标",
+      "example": "The SLO is slow this morning.",
+      "exampleZh": "今天早上 SLO 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SLI",
+      "phonetic": "/ˌes el ˈaɪ/",
+      "meaning": "服务水平指标",
+      "example": "The SLI is slow this morning.",
+      "exampleZh": "今天早上 SLI 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "error rate",
+      "phonetic": "/ˈerə reɪt/",
+      "meaning": "错误率",
+      "example": "We need the error rate before go-live.",
+      "exampleZh": "上线前我们需要这个错误率。",
+      "category": "it"
+    }
+  ]
+}

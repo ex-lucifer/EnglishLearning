@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-14",
+  "words": [
+    {
+      "word": "access card",
+      "phonetic": "/ˈækses kɑːd/",
+      "meaning": "门禁卡",
+      "example": "Please share the access card after the meeting.",
+      "exampleZh": "会后请分享这个门禁卡。",
+      "category": "office"
+    },
+    {
+      "word": "visitor pass",
+      "phonetic": "/ˈvɪzɪtə pɑːs/",
+      "meaning": "访客证",
+      "example": "Who is handling the visitor pass?",
+      "exampleZh": "谁在处理这个访客证？",
+      "category": "office"
+    },
+    {
+      "word": "escort",
+      "phonetic": "/ˈeskɔːt/",
+      "meaning": "陪同",
+      "example": "I updated the escort this morning.",
+      "exampleZh": "我今天早上更新了这个陪同。",
+      "category": "office"
+    },
+    {
+      "word": "lobby",
+      "phonetic": "/ˈlɒbi/",
+      "meaning": "大厅",
+      "example": "I updated the lobby this morning.",
+      "exampleZh": "我今天早上更新了这个大厅。",
+      "category": "office"
+    },
+    {
+      "word": "conference room",
+      "phonetic": "/ˈkɒnfərəns ruːm/",
+      "meaning": "会议室",
+      "example": "I updated the conference room this morning.",
+      "exampleZh": "我今天早上更新了这个会议室。",
+      "category": "office"
+    },
+    {
+      "word": "service bus",
+      "phonetic": "/ˈsɜːvɪs bʌs/",
+      "meaning": "服务总线",
+      "example": "We need the service bus before go-live.",
+      "exampleZh": "上线前我们需要这个服务总线。",
+      "category": "it"
+    },
+    {
+      "word": "uptime",
+      "phonetic": "/ˈʌptaɪm/",
+      "meaning": "可用时长",
+      "example": "Please check the uptime.",
+      "exampleZh": "请检查一下这个可用时长。",
+      "category": "it"
+    },
+    {
+      "word": "downtime",
+      "phonetic": "/ˈdaʊntaɪm/",
+      "meaning": "停机时长",
+      "example": "The downtime is in production.",
+      "exampleZh": "这个停机时长已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "SLA clock",
+      "phonetic": "/ˌes el ˈeɪ klɒk/",
+      "meaning": "服务时限",
+      "example": "Who supports this SLA clock?",
+      "exampleZh": "谁支持这个服务时限？",
+      "category": "it"
+    },
+    {
+      "word": "P1 incident",
+      "phonetic": "/piː wʌn ˈɪnsɪdənt/",
+      "meaning": "一级故障",
+      "example": "Please review the P1 incident after the patch.",
+      "exampleZh": "打补丁后请审阅这个一级故障。",
+      "category": "it"
+    }
+  ]
+}

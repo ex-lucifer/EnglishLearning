@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-05",
+  "words": [
+    {
+      "word": "please confirm",
+      "phonetic": "/pliːz kənˈfɜːm/",
+      "meaning": "请确认",
+      "example": "Please confirm the room number.",
+      "exampleZh": "请确认房间号。",
+      "category": "office"
+    },
+    {
+      "word": "well noted",
+      "phonetic": "/wel ˈnəʊtɪd/",
+      "meaning": "已记下",
+      "example": "Well noted, I will update the roster.",
+      "exampleZh": "已记下，我会更新排班。",
+      "category": "office"
+    },
+    {
+      "word": "noted with thanks",
+      "phonetic": "/ˈnəʊtɪd wɪð θæŋks/",
+      "meaning": "已知悉谢谢",
+      "example": "Noted with thanks, I will print it.",
+      "exampleZh": "已知悉谢谢，我会打印。",
+      "category": "office"
+    },
+    {
+      "word": "for your action",
+      "phonetic": "/fə jɔː ˈækʃn/",
+      "meaning": "请你处理",
+      "example": "This form is for your action.",
+      "exampleZh": "这张表请你处理。",
+      "category": "office"
+    },
+    {
+      "word": "for your information",
+      "phonetic": "/fə jɔːr ˌɪnfəˈmeɪʃn/",
+      "meaning": "仅供知悉",
+      "example": "This chart is for your information.",
+      "exampleZh": "这张图仅供知悉。",
+      "category": "office"
+    },
+    {
+      "word": "egress",
+      "phonetic": "/ˈiːɡres/",
+      "meaning": "出口流量",
+      "example": "Please review the egress after the patch.",
+      "exampleZh": "打补丁后请审阅这个出口流量。",
+      "category": "it"
+    },
+    {
+      "word": "sidecar",
+      "phonetic": "/ˈsaɪdkɑː/",
+      "meaning": "边车容器",
+      "example": "The sidecar is in production.",
+      "exampleZh": "这个边车容器已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "service mesh",
+      "phonetic": "/ˈsɜːvɪs meʃ/",
+      "meaning": "服务网格",
+      "example": "Who supports this service mesh?",
+      "exampleZh": "谁支持这个服务网格？",
+      "category": "it"
+    },
+    {
+      "word": "config map",
+      "phonetic": "/kənˈfɪɡ mæp/",
+      "meaning": "配置映射",
+      "example": "The config map is in production.",
+      "exampleZh": "这个配置映射已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "secret",
+      "phonetic": "/ˈsiːkrɪt/",
+      "meaning": "密文对象",
+      "example": "We need the secret before go-live.",
+      "exampleZh": "上线前我们需要这个密文对象。",
+      "category": "it"
+    }
+  ]
+}

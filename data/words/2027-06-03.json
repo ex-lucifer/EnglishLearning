@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-03",
+  "words": [
+    {
+      "word": "escalation note",
+      "phonetic": "/ˌeskəˈleɪʃn nəʊt/",
+      "meaning": "升级说明",
+      "example": "Please review the escalation note.",
+      "exampleZh": "请审阅一下这个升级说明。",
+      "category": "office"
+    },
+    {
+      "word": "courtesy reminder",
+      "phonetic": "/ˈkɜːtəsi rɪˈmaɪndə/",
+      "meaning": "礼貌催办",
+      "example": "Please share the courtesy reminder after the meeting.",
+      "exampleZh": "会后请分享这个礼貌催办。",
+      "category": "office"
+    },
+    {
+      "word": "chaser",
+      "phonetic": "/ˈtʃeɪsə/",
+      "meaning": "催办邮件",
+      "example": "Please review the chaser.",
+      "exampleZh": "请审阅一下这个催办邮件。",
+      "category": "office"
+    },
+    {
+      "word": "nudge email",
+      "phonetic": "/nʌdʒ ˈiːmeɪl/",
+      "meaning": "轻催邮件",
+      "example": "Please share the nudge email after the meeting.",
+      "exampleZh": "会后请分享这个轻催邮件。",
+      "category": "office"
+    },
+    {
+      "word": "follow-up call",
+      "phonetic": "/ˈfɒləʊ ʌp kɔːl/",
+      "meaning": "跟进电话",
+      "example": "Who is handling the follow-up call?",
+      "exampleZh": "谁在处理这个跟进电话？",
+      "category": "office"
+    },
+    {
+      "word": "software audit",
+      "phonetic": "/ˈsɒftweə ˈɔːdɪt/",
+      "meaning": "软件审计",
+      "example": "Please check the software audit.",
+      "exampleZh": "请检查一下这个软件审计。",
+      "category": "it"
+    },
+    {
+      "word": "unlicensed install",
+      "phonetic": "/ʌnˈlaɪsnst ɪnˈstɔːl/",
+      "meaning": "未授权安装",
+      "example": "Please review the unlicensed install after the patch.",
+      "exampleZh": "打补丁后请审阅这个未授权安装。",
+      "category": "it"
+    },
+    {
+      "word": "silent install",
+      "phonetic": "/ˈsaɪlənt ɪnˈstɔːl/",
+      "meaning": "静默安装",
+      "example": "Who supports this silent install?",
+      "exampleZh": "谁支持这个静默安装？",
+      "category": "it"
+    },
+    {
+      "word": "push install",
+      "phonetic": "/pʊʃ ɪnˈstɔːl/",
+      "meaning": "推送安装",
+      "example": "The push install is in production.",
+      "exampleZh": "这个推送安装已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "uninstall",
+      "phonetic": "/ˌʌnɪnˈstɔːl/",
+      "meaning": "卸载",
+      "example": "Can you uninstall it today?",
+      "exampleZh": "你今天能卸载一下吗？",
+      "category": "it"
+    }
+  ]
+}

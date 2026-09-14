@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-09",
+  "words": [
+    {
+      "word": "room booking",
+      "phonetic": "/ruːm ˈbʊkɪŋ/",
+      "meaning": "会议室预订",
+      "example": "Please review the room booking.",
+      "exampleZh": "请审阅一下这个会议室预订。",
+      "category": "office"
+    },
+    {
+      "word": "room conflict",
+      "phonetic": "/ruːm ˈkɒnflɪkt/",
+      "meaning": "会议室冲突",
+      "example": "Who is handling the room conflict?",
+      "exampleZh": "谁在处理这个会议室冲突？",
+      "category": "office"
+    },
+    {
+      "word": "double booking",
+      "phonetic": "/ˈdʌbl ˈbʊkɪŋ/",
+      "meaning": "重复预订",
+      "example": "The double booking is ready for review.",
+      "exampleZh": "这个重复预订已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "no-show meeting",
+      "phonetic": "/nəʊ ʃəʊ ˈmiːtɪŋ/",
+      "meaning": "无人到会",
+      "example": "Please share the no-show meeting after the meeting.",
+      "exampleZh": "会后请分享这个无人到会。",
+      "category": "office"
+    },
+    {
+      "word": "empty room",
+      "phonetic": "/ˈempti ruːm/",
+      "meaning": "空会议室",
+      "example": "Who is handling the empty room?",
+      "exampleZh": "谁在处理这个空会议室？",
+      "category": "office"
+    },
+    {
+      "word": "WUAgent",
+      "phonetic": "/ˈdʌbljuː juː ˈeɪdʒənt/",
+      "meaning": "更新代理",
+      "example": "Please review the WUAgent after the patch.",
+      "exampleZh": "打补丁后请审阅这个更新代理。",
+      "category": "it"
+    },
+    {
+      "word": "WSUS",
+      "phonetic": "/ˈwɪsəs/",
+      "meaning": "补丁分发服务器",
+      "example": "The WSUS is slow this morning.",
+      "exampleZh": "今天早上 WSUS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "catalog file",
+      "phonetic": "/ˈkætəlɒɡ faɪl/",
+      "meaning": "目录文件",
+      "example": "We need the catalog file before go-live.",
+      "exampleZh": "上线前我们需要这个目录文件。",
+      "category": "it"
+    },
+    {
+      "word": "offline patch",
+      "phonetic": "/ˈɒflaɪn pætʃ/",
+      "meaning": "离线补丁",
+      "example": "Please check the offline patch.",
+      "exampleZh": "请检查一下这个离线补丁。",
+      "category": "it"
+    },
+    {
+      "word": "online update",
+      "phonetic": "/ˈɒnlaɪn ˌʌpˈdeɪt/",
+      "meaning": "在线更新",
+      "example": "Please review the online update after the patch.",
+      "exampleZh": "打补丁后请审阅这个在线更新。",
+      "category": "it"
+    }
+  ]
+}

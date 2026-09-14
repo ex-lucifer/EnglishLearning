@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-03",
+  "words": [
+    {
+      "word": "on hold",
+      "phonetic": "/ɒn həʊld/",
+      "meaning": "暂缓",
+      "example": "We put the purchase on hold.",
+      "exampleZh": "我们把采购先暂缓了。",
+      "category": "office"
+    },
+    {
+      "word": "next steps",
+      "phonetic": "/nekst steps/",
+      "meaning": "下一步",
+      "example": "Please share the next steps after the meeting.",
+      "exampleZh": "会后请分享这个下一步。",
+      "category": "office"
+    },
+    {
+      "word": "status update",
+      "phonetic": "/ˈsteɪtəs ˌʌpdeɪt/",
+      "meaning": "进展通报",
+      "example": "I updated the status update this morning.",
+      "exampleZh": "我今天早上更新了这个进展通报。",
+      "category": "office"
+    },
+    {
+      "word": "weekly report",
+      "phonetic": "/ˈwiːkli rɪˈpɔːt/",
+      "meaning": "周报",
+      "example": "Please review the weekly report.",
+      "exampleZh": "请审阅一下这个周报。",
+      "category": "office"
+    },
+    {
+      "word": "monthly report",
+      "phonetic": "/ˈmʌnθli rɪˈpɔːt/",
+      "meaning": "月报",
+      "example": "Please review the monthly report.",
+      "exampleZh": "请审阅一下这个月报。",
+      "category": "office"
+    },
+    {
+      "word": "domain time",
+      "phonetic": "/dəˈmeɪn taɪm/",
+      "meaning": "域时间",
+      "example": "The domain time is in production.",
+      "exampleZh": "这个域时间已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "certificate authority",
+      "phonetic": "/səˈtɪfɪkət ɔːˈθɒrəti/",
+      "meaning": "证书颁发机构",
+      "example": "The certificate authority is in production.",
+      "exampleZh": "这个证书颁发机构已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "CRL",
+      "phonetic": "/ˌsiː ɑː ˈel/",
+      "meaning": "证书吊销列表",
+      "example": "The CRL is slow this morning.",
+      "exampleZh": "今天早上 CRL 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "OCSP",
+      "phonetic": "/ˌəʊ siː es ˈpiː/",
+      "meaning": "在线证书状态",
+      "example": "The OCSP is slow this morning.",
+      "exampleZh": "今天早上 OCSP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "password reset",
+      "phonetic": "/ˈpɑːswɜːd ˌriːˈset/",
+      "meaning": "密码重置",
+      "example": "The password reset is in production.",
+      "exampleZh": "这个密码重置已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

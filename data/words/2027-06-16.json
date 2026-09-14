@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-16",
+  "words": [
+    {
+      "word": "sign-in sheet",
+      "phonetic": "/saɪn ɪn ʃiːt/",
+      "meaning": "签到单",
+      "example": "Please share the sign-in sheet after the meeting.",
+      "exampleZh": "会后请分享这个签到单。",
+      "category": "office"
+    },
+    {
+      "word": "welcome pack",
+      "phonetic": "/ˈwelkəm pæk/",
+      "meaning": "欢迎材料",
+      "example": "Please review the welcome pack.",
+      "exampleZh": "请审阅一下这个欢迎材料。",
+      "category": "office"
+    },
+    {
+      "word": "water station",
+      "phonetic": "/ˈwɔːtə ˈsteɪʃn/",
+      "meaning": "饮水处",
+      "example": "Who is handling the water station?",
+      "exampleZh": "谁在处理这个饮水处？",
+      "category": "office"
+    },
+    {
+      "word": "breakout",
+      "phonetic": "/ˈbreɪkaʊt/",
+      "meaning": "分组讨论",
+      "example": "Please share the breakout after the meeting.",
+      "exampleZh": "会后请分享这个分组讨论。",
+      "category": "office"
+    },
+    {
+      "word": "plenary",
+      "phonetic": "/ˈpliːnəri/",
+      "meaning": "全体会议",
+      "example": "Please review the plenary.",
+      "exampleZh": "请审阅一下这个全体会议。",
+      "category": "office"
+    },
+    {
+      "word": "subscription",
+      "phonetic": "/səbˈskrɪpʃn/",
+      "meaning": "订阅",
+      "example": "Please review the subscription after the patch.",
+      "exampleZh": "打补丁后请审阅这个订阅。",
+      "category": "it"
+    },
+    {
+      "word": "query filter",
+      "phonetic": "/ˈkwɪəri ˈfɪltə/",
+      "meaning": "查询过滤",
+      "example": "The query filter is in production.",
+      "exampleZh": "这个查询过滤已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "xpath",
+      "phonetic": "/ˈekspæθ/",
+      "meaning": "路径查询",
+      "example": "Please review the xpath after the patch.",
+      "exampleZh": "打补丁后请审阅这个路径查询。",
+      "category": "it"
+    },
+    {
+      "word": "event ID",
+      "phonetic": "/ɪˈvent aɪ ˈdiː/",
+      "meaning": "事件编号",
+      "example": "The event ID is in production.",
+      "exampleZh": "这个事件编号已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "logon type",
+      "phonetic": "/ˈlɒɡɒn taɪp/",
+      "meaning": "登录类型",
+      "example": "The logon type is in production.",
+      "exampleZh": "这个登录类型已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

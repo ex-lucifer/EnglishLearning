@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-28",
+  "words": [
+    {
+      "word": "display board",
+      "phonetic": "/dɪˈspleɪ bɔːd/",
+      "meaning": "显示屏",
+      "example": "The display board is ready for review.",
+      "exampleZh": "这个显示屏已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "wayfinding",
+      "phonetic": "/ˈweɪfaɪndɪŋ/",
+      "meaning": "导引标识",
+      "example": "Please review the wayfinding.",
+      "exampleZh": "请审阅一下这个导引标识。",
+      "category": "office"
+    },
+    {
+      "word": "directory board",
+      "phonetic": "/dəˈrektəri bɔːd/",
+      "meaning": "楼层索引",
+      "example": "Please share the directory board after the meeting.",
+      "exampleZh": "会后请分享这个楼层索引。",
+      "category": "office"
+    },
+    {
+      "word": "floor plan",
+      "phonetic": "/flɔː plæn/",
+      "meaning": "平面图",
+      "example": "The floor plan is ready for review.",
+      "exampleZh": "这个平面图已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "room number",
+      "phonetic": "/ruːm ˈnʌmbə/",
+      "meaning": "房间号",
+      "example": "Please review the room number.",
+      "exampleZh": "请审阅一下这个房间号。",
+      "category": "office"
+    },
+    {
+      "word": "snapshot chain",
+      "phonetic": "/ˈsnæpʃɒt tʃeɪn/",
+      "meaning": "快照链",
+      "example": "We need the snapshot chain before go-live.",
+      "exampleZh": "上线前我们需要这个快照链。",
+      "category": "it"
+    },
+    {
+      "word": "delta disk",
+      "phonetic": "/ˈdeltə dɪsk/",
+      "meaning": "增量盘",
+      "example": "Who supports this delta disk?",
+      "exampleZh": "谁支持这个增量盘？",
+      "category": "it"
+    },
+    {
+      "word": "linked clone",
+      "phonetic": "/lɪŋkt kləʊn/",
+      "meaning": "链接克隆",
+      "example": "We need the linked clone before go-live.",
+      "exampleZh": "上线前我们需要这个链接克隆。",
+      "category": "it"
+    },
+    {
+      "word": "full clone",
+      "phonetic": "/fʊl kləʊn/",
+      "meaning": "完整克隆",
+      "example": "We need the full clone before go-live.",
+      "exampleZh": "上线前我们需要这个完整克隆。",
+      "category": "it"
+    },
+    {
+      "word": "template VM",
+      "phonetic": "/ˈtemplɪt ˌviː ˈem/",
+      "meaning": "虚拟机模板",
+      "example": "The template VM is in production.",
+      "exampleZh": "这个虚拟机模板已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

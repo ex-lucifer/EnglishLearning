@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-04",
+  "words": [
+    {
+      "word": "quarterly review",
+      "phonetic": "/ˈkwɔːtəli rɪˈvjuː/",
+      "meaning": "季度回顾",
+      "example": "Please review the quarterly review.",
+      "exampleZh": "请审阅一下这个季度回顾。",
+      "category": "office"
+    },
+    {
+      "word": "annual review",
+      "phonetic": "/ˈænjuəl rɪˈvjuː/",
+      "meaning": "年度回顾",
+      "example": "Please review the annual review.",
+      "exampleZh": "请审阅一下这个年度回顾。",
+      "category": "office"
+    },
+    {
+      "word": "performance review",
+      "phonetic": "/pəˈfɔːməns rɪˈvjuː/",
+      "meaning": "绩效面谈",
+      "example": "Who is handling the performance review?",
+      "exampleZh": "谁在处理这个绩效面谈？",
+      "category": "office"
+    },
+    {
+      "word": "project plan",
+      "phonetic": "/ˈprɒdʒekt plæn/",
+      "meaning": "项目计划",
+      "example": "Please review the project plan.",
+      "exampleZh": "请审阅一下这个项目计划。",
+      "category": "office"
+    },
+    {
+      "word": "work plan",
+      "phonetic": "/wɜːk plæn/",
+      "meaning": "工作计划",
+      "example": "Please share the work plan after the meeting.",
+      "exampleZh": "会后请分享这个工作计划。",
+      "category": "office"
+    },
+    {
+      "word": "account lockout",
+      "phonetic": "/əˈkaʊnt ˈlɒkaʊt/",
+      "meaning": "账号锁定",
+      "example": "Please check the account lockout.",
+      "exampleZh": "请检查一下这个账号锁定。",
+      "category": "it"
+    },
+    {
+      "word": "disk space",
+      "phonetic": "/dɪsk speɪs/",
+      "meaning": "磁盘空间",
+      "example": "Who supports this disk space?",
+      "exampleZh": "谁支持这个磁盘空间？",
+      "category": "it"
+    },
+    {
+      "word": "CPU usage",
+      "phonetic": "/ˌsiː piː ˈjuː ˈjuːsɪdʒ/",
+      "meaning": "处理器占用",
+      "example": "The CPU usage is in production.",
+      "exampleZh": "这个处理器占用已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "memory leak",
+      "phonetic": "/ˈmeməri liːk/",
+      "meaning": "内存泄漏",
+      "example": "Please review the memory leak after the patch.",
+      "exampleZh": "打补丁后请审阅这个内存泄漏。",
+      "category": "it"
+    },
+    {
+      "word": "network share",
+      "phonetic": "/ˈnetwɜːk ʃeə/",
+      "meaning": "网络共享",
+      "example": "Please review the network share after the patch.",
+      "exampleZh": "打补丁后请审阅这个网络共享。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-22",
+  "words": [
+    {
+      "word": "talking paper",
+      "phonetic": "/ˈtɔːkɪŋ ˈpeɪpə/",
+      "meaning": "发言提纲",
+      "example": "Please share the talking paper after the meeting.",
+      "exampleZh": "会后请分享这个发言提纲。",
+      "category": "office"
+    },
+    {
+      "word": "briefing note",
+      "phonetic": "/ˈbriːfɪŋ nəʊt/",
+      "meaning": "情况说明",
+      "example": "I updated the briefing note this morning.",
+      "exampleZh": "我今天早上更新了这个情况说明。",
+      "category": "office"
+    },
+    {
+      "word": "position paper",
+      "phonetic": "/pəˈzɪʃn ˈpeɪpə/",
+      "meaning": "立场说明",
+      "example": "Please share the position paper after the meeting.",
+      "exampleZh": "会后请分享这个立场说明。",
+      "category": "office"
+    },
+    {
+      "word": "white paper",
+      "phonetic": "/waɪt ˈpeɪpə/",
+      "meaning": "白皮书",
+      "example": "Please share the white paper after the meeting.",
+      "exampleZh": "会后请分享这个白皮书。",
+      "category": "office"
+    },
+    {
+      "word": "terms of reference",
+      "phonetic": "/tɜːmz əv ˈrefrəns/",
+      "meaning": "职责范围",
+      "example": "Who is handling the terms of reference?",
+      "exampleZh": "谁在处理这个职责范围？",
+      "category": "office"
+    },
+    {
+      "word": "driver pack",
+      "phonetic": "/ˈdraɪvə pæk/",
+      "meaning": "驱动包",
+      "example": "Please review the driver pack after the patch.",
+      "exampleZh": "打补丁后请审阅这个驱动包。",
+      "category": "it"
+    },
+    {
+      "word": "image",
+      "phonetic": "/ˈɪmɪdʒ/",
+      "meaning": "系统镜像",
+      "example": "Please check the image.",
+      "exampleZh": "请检查一下这个系统镜像。",
+      "category": "it"
+    },
+    {
+      "word": "golden image",
+      "phonetic": "/ˈɡəʊldən ˈɪmɪdʒ/",
+      "meaning": "标准镜像",
+      "example": "The golden image is in production.",
+      "exampleZh": "这个标准镜像已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "PXE boot",
+      "phonetic": "/pɪksi buːt/",
+      "meaning": "网络启动",
+      "example": "Please review the PXE boot after the patch.",
+      "exampleZh": "打补丁后请审阅这个网络启动。",
+      "category": "it"
+    },
+    {
+      "word": "MDT",
+      "phonetic": "/ˌem diː ˈtiː/",
+      "meaning": "批量部署工具",
+      "example": "The MDT is slow this morning.",
+      "exampleZh": "今天早上 MDT 很慢。",
+      "category": "it"
+    }
+  ]
+}

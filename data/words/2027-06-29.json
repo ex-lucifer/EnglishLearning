@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-29",
+  "words": [
+    {
+      "word": "salary slip",
+      "phonetic": "/ˈsæləri slɪp/",
+      "meaning": "工资单",
+      "example": "Who is handling the salary slip?",
+      "exampleZh": "谁在处理这个工资单？",
+      "category": "office"
+    },
+    {
+      "word": "pay day",
+      "phonetic": "/peɪ deɪ/",
+      "meaning": "发薪日",
+      "example": "The pay day is ready for review.",
+      "exampleZh": "这个发薪日已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "allowance",
+      "phonetic": "/əˈlaʊəns/",
+      "meaning": "津贴",
+      "example": "Who is handling the allowance?",
+      "exampleZh": "谁在处理这个津贴？",
+      "category": "office"
+    },
+    {
+      "word": "bonus",
+      "phonetic": "/ˈbəʊnəs/",
+      "meaning": "奖金",
+      "example": "I updated the bonus this morning.",
+      "exampleZh": "我今天早上更新了这个奖金。",
+      "category": "office"
+    },
+    {
+      "word": "overtime claim",
+      "phonetic": "/ˈəʊvətaɪm kleɪm/",
+      "meaning": "加班申报",
+      "example": "Who is handling the overtime claim?",
+      "exampleZh": "谁在处理这个加班申报？",
+      "category": "office"
+    },
+    {
+      "word": "AppLocker",
+      "phonetic": "/ˈæplɒkə/",
+      "meaning": "应用锁",
+      "example": "Please review the AppLocker after the patch.",
+      "exampleZh": "打补丁后请审阅这个应用锁。",
+      "category": "it"
+    },
+    {
+      "word": "Software Restriction",
+      "phonetic": "/ˈsɒftweə rɪˈstrɪkʃn/",
+      "meaning": "软件限制策略",
+      "example": "We need the Software Restriction before go-live.",
+      "exampleZh": "上线前我们需要这个软件限制策略。",
+      "category": "it"
+    },
+    {
+      "word": "Device Guard",
+      "phonetic": "/dɪˈvaɪs ɡɑːd/",
+      "meaning": "设备防护",
+      "example": "Please review the Device Guard after the patch.",
+      "exampleZh": "打补丁后请审阅这个设备防护。",
+      "category": "it"
+    },
+    {
+      "word": "Credential Guard",
+      "phonetic": "/krəˈdenʃl ɡɑːd/",
+      "meaning": "凭据防护",
+      "example": "Who supports this Credential Guard?",
+      "exampleZh": "谁支持这个凭据防护？",
+      "category": "it"
+    },
+    {
+      "word": "LSA protection",
+      "phonetic": "/ˌel es ˈeɪ prəˈtekʃn/",
+      "meaning": "认证进程保护",
+      "example": "The LSA protection is in production.",
+      "exampleZh": "这个认证进程保护已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

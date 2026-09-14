@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-05",
+  "words": [
+    {
+      "word": "tone",
+      "phonetic": "/təʊn/",
+      "meaning": "语气",
+      "example": "Who is handling the tone?",
+      "exampleZh": "谁在处理这个语气？",
+      "category": "office"
+    },
+    {
+      "word": "wording",
+      "phonetic": "/ˈwɜːdɪŋ/",
+      "meaning": "措辞",
+      "example": "The wording is ready for review.",
+      "exampleZh": "这个措辞已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "bullet point",
+      "phonetic": "/ˈbʊlɪt pɔɪnt/",
+      "meaning": "条目要点",
+      "example": "Please share the bullet point after the meeting.",
+      "exampleZh": "会后请分享这个条目要点。",
+      "category": "office"
+    },
+    {
+      "word": "call to action",
+      "phonetic": "/kɔːl tu ˈækʃn/",
+      "meaning": "行动号召",
+      "example": "The call to action is ready for review.",
+      "exampleZh": "这个行动号召已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "executive summary",
+      "phonetic": "/ɪɡˈzekjətɪv ˈsʌməri/",
+      "meaning": "高管摘要",
+      "example": "Who is handling the executive summary?",
+      "exampleZh": "谁在处理这个高管摘要？",
+      "category": "office"
+    },
+    {
+      "word": "default route",
+      "phonetic": "/dɪˈfɔːlt ruːt/",
+      "meaning": "默认路由",
+      "example": "Please check the default route.",
+      "exampleZh": "请检查一下这个默认路由。",
+      "category": "it"
+    },
+    {
+      "word": "routing table",
+      "phonetic": "/ˈruːtɪŋ ˈteɪbl/",
+      "meaning": "路由表",
+      "example": "Please check the routing table.",
+      "exampleZh": "请检查一下这个路由表。",
+      "category": "it"
+    },
+    {
+      "word": "ARP",
+      "phonetic": "/ɑːp/",
+      "meaning": "地址解析协议",
+      "example": "The ARP is slow this morning.",
+      "exampleZh": "今天早上 ARP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "ICMP",
+      "phonetic": "/ˌaɪ siː em ˈpiː/",
+      "meaning": "网络控制消息",
+      "example": "The ICMP is slow this morning.",
+      "exampleZh": "今天早上 ICMP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "TCP",
+      "phonetic": "/ˌtiː siː ˈpiː/",
+      "meaning": "传输控制协议",
+      "example": "The TCP is slow this morning.",
+      "exampleZh": "今天早上 TCP 很慢。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-23",
+  "words": [
+    {
+      "word": "switchboard",
+      "phonetic": "/ˈswɪtʃbɔːd/",
+      "meaning": "总机",
+      "example": "Who is handling the switchboard?",
+      "exampleZh": "谁在处理这个总机？",
+      "category": "office"
+    },
+    {
+      "word": "voicemail",
+      "phonetic": "/ˈvɔɪsmeɪl/",
+      "meaning": "语音留言",
+      "example": "Who is handling the voicemail?",
+      "exampleZh": "谁在处理这个语音留言？",
+      "category": "office"
+    },
+    {
+      "word": "callback",
+      "phonetic": "/ˈkɔːlbæk/",
+      "meaning": "回拨",
+      "example": "Please share the callback after the meeting.",
+      "exampleZh": "会后请分享这个回拨。",
+      "category": "office"
+    },
+    {
+      "word": "hold the line",
+      "phonetic": "/həʊld ðə laɪn/",
+      "meaning": "请别挂",
+      "example": "Please hold the line for a minute.",
+      "exampleZh": "请稍等，别挂电话。",
+      "category": "office"
+    },
+    {
+      "word": "put through",
+      "phonetic": "/pʊt θruː/",
+      "meaning": "转接",
+      "example": "Can you put me through to billing?",
+      "exampleZh": "能帮我转到收费处吗？",
+      "category": "office"
+    },
+    {
+      "word": "regression test",
+      "phonetic": "/rɪˈɡreʃn test/",
+      "meaning": "回归测试",
+      "example": "Please review the regression test after the patch.",
+      "exampleZh": "打补丁后请审阅这个回归测试。",
+      "category": "it"
+    },
+    {
+      "word": "user acceptance",
+      "phonetic": "/ˈjuːzə əkˈseptəns/",
+      "meaning": "用户验收",
+      "example": "The user acceptance is in production.",
+      "exampleZh": "这个用户验收已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "UAT",
+      "phonetic": "/ˌjuː eɪ ˈtiː/",
+      "meaning": "用户验收测试",
+      "example": "The UAT is slow this morning.",
+      "exampleZh": "今天早上 UAT 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "staging",
+      "phonetic": "/ˈsteɪdʒɪŋ/",
+      "meaning": "预发布环境",
+      "example": "Please check the staging.",
+      "exampleZh": "请检查一下这个预发布环境。",
+      "category": "it"
+    },
+    {
+      "word": "production",
+      "phonetic": "/prəˈdʌkʃn/",
+      "meaning": "生产环境",
+      "example": "Who supports this production?",
+      "exampleZh": "谁支持这个生产环境？",
+      "category": "it"
+    }
+  ]
+}

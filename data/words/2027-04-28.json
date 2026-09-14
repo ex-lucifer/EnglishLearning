@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-28",
+  "words": [
+    {
+      "word": "overbooked",
+      "phonetic": "/ˌəʊvəˈbʊkt/",
+      "meaning": "排程过满",
+      "example": "This request is overbooked.",
+      "exampleZh": "这个请求是排程过满的。",
+      "category": "office"
+    },
+    {
+      "word": "free slot",
+      "phonetic": "/friː slɒt/",
+      "meaning": "空档",
+      "example": "Please share the free slot after the meeting.",
+      "exampleZh": "会后请分享这个空档。",
+      "category": "office"
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meaning": "忙碌的",
+      "example": "Please keep this busy.",
+      "exampleZh": "请保持忙碌的。",
+      "category": "office"
+    },
+    {
+      "word": "available",
+      "phonetic": "/əˈveɪləbl/",
+      "meaning": "有空的",
+      "example": "Please keep this available.",
+      "exampleZh": "请保持有空的。",
+      "category": "office"
+    },
+    {
+      "word": "unavailable",
+      "phonetic": "/ˌʌnəˈveɪləbl/",
+      "meaning": "没空的",
+      "example": "This request is unavailable.",
+      "exampleZh": "这个请求是没空的的。",
+      "category": "office"
+    },
+    {
+      "word": "API quota",
+      "phonetic": "/ˌeɪ piː ˈaɪ ˈkwəʊtə/",
+      "meaning": "接口配额",
+      "example": "Please review the API quota after the patch.",
+      "exampleZh": "打补丁后请审阅这个接口配额。",
+      "category": "it"
+    },
+    {
+      "word": "API version",
+      "phonetic": "/ˌeɪ piː ˈaɪ ˈvɜːʃn/",
+      "meaning": "接口版本",
+      "example": "Please review the API version after the patch.",
+      "exampleZh": "打补丁后请审阅这个接口版本。",
+      "category": "it"
+    },
+    {
+      "word": "breaking change",
+      "phonetic": "/ˈbreɪkɪŋ tʃeɪndʒ/",
+      "meaning": "破坏性变更",
+      "example": "We need the breaking change before go-live.",
+      "exampleZh": "上线前我们需要这个破坏性变更。",
+      "category": "it"
+    },
+    {
+      "word": "backward compatible",
+      "phonetic": "/ˈbækwəd kəmˈpætəbl/",
+      "meaning": "向后兼容",
+      "example": "Please keep this backward compatible.",
+      "exampleZh": "请保持向后兼容。",
+      "category": "it"
+    },
+    {
+      "word": "deprecation",
+      "phonetic": "/ˌdeprəˈkeɪʃn/",
+      "meaning": "即将废弃",
+      "example": "Please review the deprecation after the patch.",
+      "exampleZh": "打补丁后请审阅这个即将废弃。",
+      "category": "it"
+    }
+  ]
+}

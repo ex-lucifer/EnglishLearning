@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-06",
+  "words": [
+    {
+      "word": "onboard",
+      "phonetic": "/ˌɒnˈbɔːd/",
+      "meaning": "入职对接",
+      "example": "I will onboard it after the meeting.",
+      "exampleZh": "会后我会入职对接它。",
+      "category": "office"
+    },
+    {
+      "word": "offboard",
+      "phonetic": "/ˌɒfˈbɔːd/",
+      "meaning": "离职交接",
+      "example": "I will offboard it after the meeting.",
+      "exampleZh": "会后我会离职交接它。",
+      "category": "office"
+    },
+    {
+      "word": "probation",
+      "phonetic": "/prəˈbeɪʃn/",
+      "meaning": "试用期",
+      "example": "Please review the probation.",
+      "exampleZh": "请审阅一下这个试用期。",
+      "category": "office"
+    },
+    {
+      "word": "appraisal",
+      "phonetic": "/əˈpreɪzl/",
+      "meaning": "绩效考核",
+      "example": "Please share the appraisal after the meeting.",
+      "exampleZh": "会后请分享这个绩效考核。",
+      "category": "office"
+    },
+    {
+      "word": "overtime",
+      "phonetic": "/ˈəʊvətaɪm/",
+      "meaning": "加班",
+      "example": "Please share the overtime after the meeting.",
+      "exampleZh": "会后请分享这个加班。",
+      "category": "office"
+    },
+    {
+      "word": "rate limit",
+      "phonetic": "/reɪt ˈlɪmɪt/",
+      "meaning": "速率限制",
+      "example": "Who supports this rate limit?",
+      "exampleZh": "谁支持这个速率限制？",
+      "category": "it"
+    },
+    {
+      "word": "circuit breaker",
+      "phonetic": "/ˈsɜːkɪt ˈbreɪkə/",
+      "meaning": "熔断器",
+      "example": "We need the circuit breaker before go-live.",
+      "exampleZh": "上线前我们需要这个熔断器。",
+      "category": "it"
+    },
+    {
+      "word": "health endpoint",
+      "phonetic": "/helθ ˈendpɔɪnt/",
+      "meaning": "健康检查接口",
+      "example": "Please check the health endpoint.",
+      "exampleZh": "请检查一下这个健康检查接口。",
+      "category": "it"
+    },
+    {
+      "word": "readiness probe",
+      "phonetic": "/ˈredinəs prəʊb/",
+      "meaning": "就绪探针",
+      "example": "Please review the readiness probe after the patch.",
+      "exampleZh": "打补丁后请审阅这个就绪探针。",
+      "category": "it"
+    },
+    {
+      "word": "liveness probe",
+      "phonetic": "/ˈlaɪvnəs prəʊb/",
+      "meaning": "存活探针",
+      "example": "Please review the liveness probe after the patch.",
+      "exampleZh": "打补丁后请审阅这个存活探针。",
+      "category": "it"
+    }
+  ]
+}

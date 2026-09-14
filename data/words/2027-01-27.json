@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-27",
+  "words": [
+    {
+      "word": "asset",
+      "phonetic": "/ˈæset/",
+      "meaning": "资产",
+      "example": "Please share the asset after the meeting.",
+      "exampleZh": "会后请分享这个资产。",
+      "category": "office"
+    },
+    {
+      "word": "label",
+      "phonetic": "/ˈleɪbl/",
+      "meaning": "标签",
+      "example": "The label is ready for review.",
+      "exampleZh": "这个标签已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "serial number",
+      "phonetic": "/ˈsɪəriəl ˈnʌmbə/",
+      "meaning": "序列号",
+      "example": "Please review the serial number.",
+      "exampleZh": "请审阅一下这个序列号。",
+      "category": "office"
+    },
+    {
+      "word": "asset tag",
+      "phonetic": "/ˈæset tæɡ/",
+      "meaning": "资产标签",
+      "example": "Please share the asset tag after the meeting.",
+      "exampleZh": "会后请分享这个资产标签。",
+      "category": "office"
+    },
+    {
+      "word": "depreciation",
+      "phonetic": "/dɪˌpriːʃiˈeɪʃn/",
+      "meaning": "折旧",
+      "example": "Who is handling the depreciation?",
+      "exampleZh": "谁在处理这个折旧？",
+      "category": "office"
+    },
+    {
+      "word": "uptime chart",
+      "phonetic": "/ˈʌptaɪm tʃɑːt/",
+      "meaning": "可用性图表",
+      "example": "We need the uptime chart before go-live.",
+      "exampleZh": "上线前我们需要这个可用性图表。",
+      "category": "it"
+    },
+    {
+      "word": "capacity plan",
+      "phonetic": "/kəˈpæsəti plæn/",
+      "meaning": "容量规划",
+      "example": "We need the capacity plan before go-live.",
+      "exampleZh": "上线前我们需要这个容量规划。",
+      "category": "it"
+    },
+    {
+      "word": "disk forecast",
+      "phonetic": "/dɪsk ˈfɔːkɑːst/",
+      "meaning": "磁盘预测",
+      "example": "Who supports this disk forecast?",
+      "exampleZh": "谁支持这个磁盘预测？",
+      "category": "it"
+    },
+    {
+      "word": "CPU spike",
+      "phonetic": "/ˌsiː piː ˈjuː spaɪk/",
+      "meaning": "处理器突增",
+      "example": "Please review the CPU spike after the patch.",
+      "exampleZh": "打补丁后请审阅这个处理器突增。",
+      "category": "it"
+    },
+    {
+      "word": "memory pressure",
+      "phonetic": "/ˈmeməri ˈpreʃə/",
+      "meaning": "内存压力",
+      "example": "The memory pressure is in production.",
+      "exampleZh": "这个内存压力已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-27",
+  "words": [
+    {
+      "word": "late running",
+      "phonetic": "/leɪt ˈrʌnɪŋ/",
+      "meaning": "晚点延误",
+      "example": "Who is handling the late running?",
+      "exampleZh": "谁在处理这个晚点延误？",
+      "category": "office"
+    },
+    {
+      "word": "on time",
+      "phonetic": "/ɒn taɪm/",
+      "meaning": "准时",
+      "example": "The briefing started on time.",
+      "exampleZh": "简报准时开始了。",
+      "category": "office"
+    },
+    {
+      "word": "running late",
+      "phonetic": "/ˈrʌnɪŋ leɪt/",
+      "meaning": "要迟到",
+      "example": "I am running late for the huddle.",
+      "exampleZh": "晨会我要迟到了。",
+      "category": "office"
+    },
+    {
+      "word": "stuck in",
+      "phonetic": "/stʌk ɪn/",
+      "meaning": "被困在",
+      "example": "I am stuck in another meeting.",
+      "exampleZh": "我被另一场会拖住了。",
+      "category": "office"
+    },
+    {
+      "word": "double-booked",
+      "phonetic": "/ˈdʌbl bʊkt/",
+      "meaning": "时间冲突",
+      "example": "This request is double-booked.",
+      "exampleZh": "这个请求是时间冲突的。",
+      "category": "office"
+    },
+    {
+      "word": "ID token",
+      "phonetic": "/aɪ ˈdiː ˈtəʊkən/",
+      "meaning": "身份令牌",
+      "example": "The ID token is in production.",
+      "exampleZh": "这个身份令牌已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "JWT",
+      "phonetic": "/ˌdʒeɪ ˈdʌbljuː ˈtiː/",
+      "meaning": "JSON令牌",
+      "example": "The JWT is slow this morning.",
+      "exampleZh": "今天早上 JWT 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "bearer token",
+      "phonetic": "/ˈbeərə ˈtəʊkən/",
+      "meaning": "持有者令牌",
+      "example": "Please review the bearer token after the patch.",
+      "exampleZh": "打补丁后请审阅这个持有者令牌。",
+      "category": "it"
+    },
+    {
+      "word": "API gateway",
+      "phonetic": "/ˌeɪ piː ˈaɪ ˈɡeɪtweɪ/",
+      "meaning": "接口网关",
+      "example": "The API gateway is in production.",
+      "exampleZh": "这个接口网关已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "rate limiting",
+      "phonetic": "/reɪt ˈlɪmɪtɪŋ/",
+      "meaning": "限流控制",
+      "example": "Please review the rate limiting after the patch.",
+      "exampleZh": "打补丁后请审阅这个限流控制。",
+      "category": "it"
+    }
+  ]
+}

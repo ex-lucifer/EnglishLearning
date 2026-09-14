@@ -1,0 +1,2137 @@
+deploy|/dɪˈplɔɪ/|部署|v
+outage|/ˈaʊtɪdʒ/|停机中断|n
+EMR|/ˌiː em ˈɑː/|电子病历|acr
+rollback|/ˈrəʊlbæk/|回滚|n
+ticket|/ˈtɪkɪt/|工单|n
+HIS|/ˌeɪtʃ aɪ ˈes/|医院信息系统|acr
+patch|/pætʃ/|补丁|n
+backup|/ˈbækʌp/|备份|n
+firewall|/ˈfaɪəwɔːl/|防火墙|n
+latency|/ˈleɪtənsi/|延迟|n
+PACS|/pæks/|医学影像系统|acr
+LIS|/ˌel aɪ ˈes/|检验信息系统|acr
+RIS|/ˌɑːr aɪ ˈes/|放射信息系统|acr
+CIS|/ˌsiː aɪ ˈes/|临床信息系统|acr
+NIS|/ˌen aɪ ˈes/|护理信息系统|acr
+CPOE|/ˌsiː pəʊ ˈiː/|医嘱录入|acr
+CDSS|/ˌsiː diː es ˈes/|临床决策支持|acr
+ADT|/ˌeɪ diː ˈtiː/|出入院转科|acr
+MPI|/ˌem piː ˈaɪ/|主患者索引|acr
+EHR|/ˌiː eɪtʃ ˈɑː/|电子健康档案|acr
+PHR|/ˌpiː eɪtʃ ˈɑː/|个人健康档案|acr
+DICOM|/ˈdaɪkɒm/|医学影像标准|acr
+HL7|/eɪtʃ el ˈsevn/|医疗信息交换标准|acr
+FHIR|/ˈfaɪə/|快速医疗互操作资源|acr
+IHE|/ˌaɪ eɪtʃ ˈiː/|医疗集成规范|acr
+ICD-10|/ˌaɪ siː diː ˈten/|疾病分类编码|acr
+SNOMED|/ˈsnəʊmed/|临床术语标准|acr
+LOINC|/lɔɪŋk/|检验指标编码|acr
+CPT|/ˌsiː piː ˈtiː/|操作编码|acr
+DRG|/ˌdiː ɑː ˈdʒiː/|疾病相关分组|acr
+interface engine|/ˈɪntəfeɪs ˈendʒɪn/|接口引擎|n
+middleware|/ˈmɪdlweə/|中间件|n
+worklist|/ˈwɜːklɪst/|工作列表|n
+accession number|/əkˈseʃn ˈnʌmbə/|检查号|n
+study UID|/ˈstʌdi juː aɪ ˈdiː/|检查唯一号|n
+modality|/məʊˈdæləti/|检查设备类型|n
+PACS archive|/pæks ˈɑːkaɪv/|影像归档|n
+diagnostic workstation|/ˌdaɪəɡˈnɒstɪk ˈwɜːksteɪʃn/|诊断工作站|n
+clinical workstation|/ˈklɪnɪkl ˈwɜːksteɪʃn/|临床工作站|n
+nurse call|/nɜːs kɔːl/|护士呼叫|n
+infusion pump|/ɪnˈfjuːʒn pʌmp/|输液泵|n
+vital monitor|/ˈvaɪtl ˈmɒnɪtə/|生命体征监护仪|n
+barcode scanner|/ˈbɑːkəʊd ˈskænə/|条码扫描枪|n
+RFID|/ˌɑːr ef aɪ ˈdiː/|射频识别|acr
+RTLS|/ˌɑːr tiː el ˈes/|实时定位系统|acr
+asset tracking|/ˈæset ˈtrækɪŋ/|资产定位|n
+CMMS|/ˌsiː em em ˈes/|设备维修系统|acr
+lab analyzer|/læb ˈænəlaɪzə/|检验分析仪|n
+integration engine|/ˌɪntɪˈɡreɪʃn ˈendʒɪn/|集成引擎|n
+ADT feed|/ˌeɪ diː ˈtiː fiːd/|出入院消息流|n
+order message|/ˈɔːdə ˈmesɪdʒ/|医嘱消息|n
+result message|/rɪˈzʌlt ˈmesɪdʒ/|结果消息|n
+ORM|/ˌəʊ ɑː ˈem/|医嘱消息类型|acr
+ORU|/ˌəʊ ɑː ˈjuː/|结果消息类型|acr
+ACK|/æk/|确认应答|acr
+NACK|/næk/|否定应答|acr
+PID segment|/piː aɪ ˈdiː ˈseɡmənt/|患者信息段|n
+OBX segment|/əʊ biː ˈeks ˈseɡmənt/|观察结果段|n
+OBR segment|/əʊ biː ˈɑː ˈseɡmənt/|检查申请段|n
+HL7 mapping|/eɪtʃ el ˈsevn ˈmæpɪŋ/|消息字段映射|n
+field mapping|/fiːld ˈmæpɪŋ/|字段对照|n
+retry queue|/ˈriːtraɪ kjuː/|重试队列|n
+dead-letter queue|/ded ˈletə kjuː/|死信队列|n
+poison message|/ˈpɔɪzn ˈmesɪdʒ/|毒化消息|n
+throttle|/ˈθrɒtl/|限流|v
+rate limit|/reɪt ˈlɪmɪt/|速率限制|n
+circuit breaker|/ˈsɜːkɪt ˈbreɪkə/|熔断器|n
+health endpoint|/helθ ˈendpɔɪnt/|健康检查接口|n
+readiness probe|/ˈredinəs prəʊb/|就绪探针|n
+liveness probe|/ˈlaɪvnəs prəʊb/|存活探针|n
+blue-green|/bluː ɡriːn/|蓝绿发布|n
+canary release|/ˈkænəri rɪˈliːs/|金丝雀发布|n
+feature flag|/ˈfiːtʃə flæɡ/|功能开关|n
+config file|/kənˈfɪɡ faɪl/|配置文件|n
+environment variable|/ɪnˈvaɪrənmənt ˈveəriəbl/|环境变量|n
+secrets vault|/ˈsiːkrɪts vɔːlt/|密钥库|n
+key rotation|/kiː rəʊˈteɪʃn/|密钥轮换|n
+vulnerability scan|/ˌvʌlnərəˈbɪləti skæn/|漏洞扫描|n
+antivirus|/ˌæntiˈvaɪərəs/|杀毒软件|n
+EDR|/ˌiː diː ˈɑː/|终端检测响应|acr
+malware|/ˈmælweə/|恶意软件|n
+ransomware|/ˈrænsəmweə/|勒索软件|n
+phishing|/ˈfɪʃɪŋ/|钓鱼攻击|n
+spam filter|/spæm ˈfɪltə/|垃圾过滤|n
+sandbox|/ˈsændbɒks/|沙箱|n
+allowlist|/ˈəlaʊlɪst/|允许名单|n
+blocklist|/ˈblɒklɪst/|拦截名单|n
+IDS|/ˌaɪ diː ˈes/|入侵检测系统|acr
+IPS|/ˌaɪ piː ˈes/|入侵防护系统|acr
+WAF|/wæf/|Web应用防火墙|acr
+DDoS|/ˈdiːdɒs/|分布式拒绝服务|acr
+zero-day|/ˈzɪərəʊ deɪ/|零日漏洞|n
+CVE|/ˌsiː viː ˈiː/|公开漏洞编号|acr
+patch management|/pætʃ ˈmænɪdʒmənt/|补丁管理|n
+endpoint protection|/ˈendpɔɪnt prəˈtekʃn/|终端防护|n
+disk encryption|/dɪsk ɪnˈkrɪpʃn/|磁盘加密|n
+BitLocker|/ˈbɪtlɒkə/|磁盘加密工具|n
+USB control|/ˌjuː es ˈbiː kənˈtrəʊl/|U盘管控|n
+DLP|/ˌdiː el ˈpiː/|数据防泄漏|acr
+printer mapping|/ˈprɪntə ˈmæpɪŋ/|打印机映射|n
+default printer|/dɪˈfɔːlt ˈprɪntə/|默认打印机|n
+print spooler|/prɪnt ˈspuːlə/|打印队列服务|n
+label printer|/ˈleɪbl ˈprɪntə/|标签打印机|n
+wristband printer|/ˈrɪstbænd ˈprɪntə/|腕带打印机|n
+barcode printer|/ˈbɑːkəʊd ˈprɪntə/|条码打印机|n
+card printer|/kɑːd ˈprɪntə/|卡片打印机|n
+handheld terminal|/ˈhændheld ˈtɜːmɪnl/|手持终端|n
+workstation|/ˈwɜːksteɪʃn/|工作站|n
+thin client|/θɪn ˈklaɪənt/|瘦客户机|n
+fat client|/fæt ˈklaɪənt/|胖客户机|n
+kiosk|/ˈkiːɒsk/|自助终端|n
+bedside terminal|/ˈbedsaɪd ˈtɜːmɪnl/|床旁终端|n
+computer on wheels|/kəmˈpjuːtə ɒn wiːlz/|移动查房电脑|n
+workstation on wheels|/ˈwɜːksteɪʃn ɒn wiːlz/|移动护理工作站|n
+medication cart PC|/ˌmedɪˈkeɪʃn kɑːt piː siː/|发药车电脑|n
+nurse-station PC|/nɜːs ˈsteɪʃn piː siː/|护士站电脑|n
+OR workstation|/əʊ ɑː ˈwɜːksteɪʃn/|手术室工作站|n
+radiology workstation|/ˌreɪdiˈɒlədʒi ˈwɜːksteɪʃn/|放射工作站|n
+PACS viewer|/pæks ˈvjuːə/|影像浏览器|n
+dictation|/dɪkˈteɪʃn/|语音口述|n
+voice recognition|/vɔɪs ˌrekəɡˈnɪʃn/|语音识别|n
+speech-to-text|/spiːtʃ tə tekst/|语音转文字|n
+allergy alert|/ˈælədʒi əˈlɜːt/|过敏警示|n
+drug interaction|/drʌɡ ˌɪntərˈækʃn/|药物相互作用|n
+duplicate order|/ˈdjuːplɪkət ˈɔːdə/|重复医嘱|n
+order set|/ˈɔːdə set/|医嘱套餐|n
+care plan|/keə plæn/|护理计划|n
+flowsheet|/ˈfləʊʃiːt/|护理记录单|n
+MAR|/mɑː/|用药执行单|acr
+eMAR|/ˈiːmɑː/|电子用药执行单|acr
+lab result|/læb rɪˈzʌlt/|检验结果|n
+critical result|/ˈkrɪtɪkl rɪˈzʌlt/|危急值|n
+panic value|/ˈpænɪk ˈvæljuː/|危急值结果|n
+result acknowledgement|/rɪˈzʌlt əkˈnɒlɪdʒmənt/|结果确认|n
+specimen tracking|/ˈspesɪmən ˈtrækɪŋ/|标本追踪|n
+blood bank|/blʌd bæŋk/|血库系统|n
+blood product|/blʌd ˈprɒdʌkt/|血液制品|n
+pharmacy system|/ˈfɑːməsi ˈsɪstəm/|药房系统|n
+e-prescribing|/iː prɪˈskraɪbɪŋ/|电子处方|n
+formulary|/ˈfɔːmjələri/|药品目录|n
+automated dispensing|/ˈɔːtəmeɪtɪd dɪˈspensɪŋ/|自动发药柜|n
+ADC|/ˌeɪ diː ˈsiː/|自动发药柜|acr
+infusion library|/ɪnˈfjuːʒn ˈlaɪbrəri/|输液泵药库|n
+device integration|/dɪˈvaɪs ˌɪntɪˈɡreɪʃn/|设备集成|n
+NTP|/ˌen tiː ˈpiː/|网络时间协议|acr
+domain time|/dəˈmeɪn taɪm/|域时间|n
+certificate authority|/səˈtɪfɪkət ɔːˈθɒrəti/|证书颁发机构|n
+CRL|/ˌsiː ɑː ˈel/|证书吊销列表|acr
+OCSP|/ˌəʊ siː es ˈpiː/|在线证书状态|acr
+password reset|/ˈpɑːswɜːd ˌriːˈset/|密码重置|n
+account lockout|/əˈkaʊnt ˈlɒkaʊt/|账号锁定|n
+disk space|/dɪsk speɪs/|磁盘空间|n
+CPU usage|/ˌsiː piː ˈjuː ˈjuːsɪdʒ/|处理器占用|n
+memory leak|/ˈmeməri liːk/|内存泄漏|n
+network share|/ˈnetwɜːk ʃeə/|网络共享|n
+mapped drive|/mæpt draɪv/|映射盘符|n
+print queue|/prɪnt kjuː/|打印队列|n
+default gateway|/dɪˈfɔːlt ˈɡeɪtweɪ/|默认网关|n
+IP address|/aɪ ˈpiː əˈdres/|IP地址|n
+MAC address|/mæk əˈdres/|网卡地址|n
+subnet mask|/ˈsʌbnet mɑːsk/|子网掩码|n
+DNS server|/ˌdiː en ˈes ˈsɜːvə/|域名服务器|n
+DHCP lease|/ˌdiː eɪtʃ siː ˈpiː liːs/|地址租约|n
+SSL certificate|/ˌes es ˈel səˈtɪfɪkət/|安全证书|n
+VPN tunnel|/ˌviː piː ˈen ˈtʌnl/|虚拟专网隧道|n
+remote desktop|/rɪˈməʊt ˈdesktɒp/|远程桌面|n
+service account|/ˈsɜːvɪs əˈkaʊnt/|服务账号|n
+admin rights|/ˈædmɪn raɪts/|管理员权限|n
+user account|/ˈjuːzə əˈkaʊnt/|用户账号|n
+group policy|/ɡruːp ˈpɒləsi/|组策略|n
+domain controller|/dəˈmeɪn kənˈtrəʊlə/|域控制器|n
+file server|/faɪl ˈsɜːvə/|文件服务器|n
+app server|/æp ˈsɜːvə/|应用服务器|n
+web server|/web ˈsɜːvə/|网页服务器|n
+mail server|/meɪl ˈsɜːvə/|邮件服务器|n
+proxy server|/ˈprɒksi ˈsɜːvə/|代理服务器|n
+backup job|/ˈbækʌp dʒɒb/|备份任务|n
+restore point|/rɪˈstɔː pɔɪnt/|还原点|n
+snapshot|/ˈsnæpʃɒt/|快照|n
+cold backup|/kəʊld ˈbækʌp/|冷备份|n
+hot backup|/hɒt ˈbækʌp/|热备份|n
+incremental backup|/ˌɪŋkrɪˈmentl ˈbækʌp/|增量备份|n
+full backup|/fʊl ˈbækʌp/|全量备份|n
+differential backup|/ˌdɪfəˈrenʃl ˈbækʌp/|差异备份|n
+disaster recovery|/dɪˈzɑːstə rɪˈkʌvəri/|灾难恢复|n
+business continuity|/ˈbɪznəs ˌkɒntɪˈnjuːəti/|业务连续性|n
+high availability|/haɪ əˌveɪləˈbɪləti/|高可用|n
+failover cluster|/ˈfeɪləʊvə ˈklʌstə/|故障转移集群|n
+load balancer|/ləʊd ˈbælənsə/|负载均衡器|n
+reverse proxy|/rɪˈvɜːs ˈprɒksi/|反向代理|n
+virtual machine|/ˈvɜːtʃuəl məˈʃiːn/|虚拟机|n
+hypervisor|/ˈhaɪpəvaɪzə/|虚拟化平台|n
+container image|/kənˈteɪnə ˈɪmɪdʒ/|容器镜像|n
+Kubernetes|/ˌkuːbəˈnetiːz/|容器编排|n
+Docker host|/ˈdɒkə həʊst/|容器宿主机|n
+CI pipeline|/ˌsiː ˈaɪ ˈpaɪplaɪn/|持续集成流水线|n
+CD pipeline|/ˌsiː ˈdiː ˈpaɪplaɪn/|持续交付流水线|n
+git repository|/ɡɪt rɪˈpɒzətri/|代码仓库|n
+merge conflict|/mɜːdʒ ˈkɒnflɪkt/|合并冲突|n
+pull request|/pʊl rɪˈkwest/|合并请求|n
+release notes|/rɪˈliːs nəʊts/|发布说明|n
+change window|/tʃeɪndʒ ˈwɪndəʊ/|变更窗口|n
+maintenance freeze|/ˈmeɪntənəns friːz/|维护冻结|n
+incident severity|/ˈɪnsɪdənt səˈverəti/|事件级别|n
+root-cause analysis|/ruːt kɔːz əˈnæləsɪs/|根因分析|n
+postmortem|/ˌpəʊstˈmɔːtəm/|事后分析|n
+known error|/nəʊn ˈerə/|已知错误|n
+service catalog|/ˈsɜːvɪs ˈkætəlɒɡ/|服务目录|n
+configuration item|/kənˌfɪɡəˈreɪʃn ˈaɪtəm/|配置项|n
+CMDB|/ˌsiː em diː ˈbiː/|配置管理库|acr
+monitoring alert|/ˈmɒnɪtərɪŋ əˈlɜːt/|监控告警|n
+log aggregation|/lɒɡ ˌæɡrɪˈɡeɪʃn/|日志汇聚|n
+SIEM|/siːm/|安全信息事件管理|acr
+SOC|/sɒk/|安全运营中心|acr
+MFA|/ˌem ef ˈeɪ/|多因素认证|acr
+SSO|/ˌes es ˈəʊ/|单点登录|acr
+LDAP|/ˈeldæp/|目录访问协议|acr
+Active Directory|/ˈæktɪv dəˈrektəri/|活动目录|n
+RBAC|/ˈɑːbæk/|基于角色的权限|acr
+ACL|/ˌeɪ siː ˈel/|访问控制列表|acr
+least privilege|/liːst ˈprɪvəlɪdʒ/|最小权限|n
+privileged access|/ˈprɪvəlɪdʒd ˈækses/|特权访问|n
+session timeout|/ˈseʃn ˈtaɪmaʊt/|会话超时|n
+idle timeout|/ˈaɪdl ˈtaɪmaʊt/|空闲超时|n
+account expiry|/əˈkaʊnt ɪkˈspaɪəri/|账号到期|n
+password policy|/ˈpɑːswɜːd ˈpɒləsi/|密码策略|n
+encryption at rest|/ɪnˈkrɪpʃn ət rest/|静态加密|n
+encryption in transit|/ɪnˈkrɪpʃn ɪn ˈtrænzɪt/|传输加密|n
+TLS handshake|/ˌtiː el ˈes ˈhændʃeɪk/|加密握手|n
+certificate expiry|/səˈtɪfɪkət ɪkˈspaɪəri/|证书到期|n
+wildcard cert|/ˈwaɪldkɑːd sɜːt/|通配符证书|n
+self-signed cert|/self saɪnd sɜːt/|自签名证书|n
+PKI|/ˌpiː keɪ ˈaɪ/|公钥基础设施|acr
+API key|/ˌeɪ piː ˈaɪ kiː/|接口密钥|n
+OAuth|/ˈəʊɔːθ/|授权协议|acr
+SAML|/ˈsæml/|安全断言标记|acr
+OpenID|/ˈəʊpən aɪ ˈdiː/|开放身份|acr
+JSON payload|/ˈdʒeɪsən ˈpeɪləʊd/|JSON报文|n
+XML message|/ˌeks em ˈel ˈmesɪdʒ/|XML报文|n
+SOAP service|/səʊp ˈsɜːvɪs/|SOAP服务|n
+REST API|/rest ˌeɪ piː ˈaɪ/|REST接口|n
+webhook|/ˈwebhʊk/|回调接口|n
+endpoint|/ˈendpɔɪnt/|接口地址|n
+HTTP status|/ˌeɪtʃ tiː tiː ˈpiː ˈsteɪtəs/|网页状态码|n
+timeout error|/ˈtaɪmaʊt ˈerə/|超时错误|n
+connection pool|/kəˈnekʃn puːl/|连接池|n
+deadlock|/ˈdedlɒk/|死锁|n
+query timeout|/ˈkwɪəri ˈtaɪmaʊt/|查询超时|n
+index rebuild|/ˈɪndeks ˌriːˈbɪld/|索引重建|n
+replica lag|/ˈreplɪkə læɡ/|副本延迟|n
+primary database|/ˈpraɪməri ˈdeɪtəbeɪs/|主库|n
+read replica|/riːd ˈreplɪkə/|只读副本|n
+stored procedure|/stɔːd prəˈsiːdʒə/|存储过程|n
+ETL job|/ˌiː tiː ˈel dʒɒb/|数据抽取任务|n
+data warehouse|/ˈdeɪtə ˈweəhaʊs/|数据仓库|n
+data lake|/ˈdeɪtə leɪk/|数据湖|n
+report server|/rɪˈpɔːt ˈsɜːvə/|报表服务器|n
+SQL Server|/ˌes kjuː ˈel ˈsɜːvə/|数据库服务器|n
+cache|/kæʃ/|缓存|n
+message queue|/ˈmesɪdʒ kjuː/|消息队列|n
+service bus|/ˈsɜːvɪs bʌs/|服务总线|n
+uptime|/ˈʌptaɪm/|可用时长|n
+downtime|/ˈdaʊntaɪm/|停机时长|n
+SLA clock|/ˌes el ˈeɪ klɒk/|服务时限|n
+P1 incident|/piː wʌn ˈɪnsɪdənt/|一级故障|n
+P2 incident|/piː tuː ˈɪnsɪdənt/|二级故障|n
+P3 incident|/piː θriː ˈɪnsɪdənt/|三级故障|n
+major incident|/ˈmeɪdʒə ˈɪnsɪdənt/|重大故障|n
+service degradation|/ˈsɜːvɪs ˌdeɡrəˈdeɪʃn/|服务降级|n
+workaround|/ˈwɜːkəraʊnd/|临时规避|n
+hotfix|/ˈhɒtfɪks/|紧急修复|n
+bugfix|/ˈbʌɡfɪks/|缺陷修复|n
+release|/rɪˈliːs/|版本发布|n
+build|/bɪld/|构建包|n
+artifact|/ˈɑːtɪfækt/|构建产物|n
+changelog|/ˈtʃeɪndʒlɒɡ/|变更日志|n
+version tag|/ˈvɜːʃn tæɡ/|版本标签|n
+branch|/brɑːntʃ/|代码分支|n
+commit|/kəˈmɪt/|提交记录|n
+merge|/mɜːdʒ/|合并代码|v
+rebase|/ˈriːbeɪs/|变基|v
+checkout|/ˈtʃekaʊt/|检出代码|v
+clone|/kləʊn/|克隆仓库|v
+fork|/fɔːk/|派生仓库|n
+pipeline|/ˈpaɪplaɪn/|流水线|n
+build agent|/bɪld ˈeɪdʒənt/|构建代理|n
+test coverage|/test ˈkʌvərɪdʒ/|测试覆盖|n
+unit test|/ˈjuːnɪt test/|单元测试|n
+integration test|/ˌɪntɪˈɡreɪʃn test/|集成测试|n
+smoke test|/sməʊk test/|冒烟测试|n
+regression test|/rɪˈɡreʃn test/|回归测试|n
+user acceptance|/ˈjuːzə əkˈseptəns/|用户验收|n
+UAT|/ˌjuː eɪ ˈtiː/|用户验收测试|acr
+staging|/ˈsteɪdʒɪŋ/|预发布环境|n
+production|/prəˈdʌkʃn/|生产环境|n
+sandbox environment|/ˈsændbɒks ɪnˈvaɪrənmənt/|沙箱环境|n
+dev environment|/dev ɪnˈvaɪrənmənt/|开发环境|n
+test environment|/test ɪnˈvaɪrənmənt/|测试环境|n
+DR site|/ˌdiː ˈɑː saɪt/|灾备站点|n
+primary site|/ˈpraɪməri saɪt/|主站点|n
+secondary site|/ˈsekəndri saɪt/|备站点|n
+RTO|/ˌɑː tiː ˈəʊ/|恢复时间目标|acr
+RPO|/ˌɑː piː ˈəʊ/|恢复点目标|acr
+failover|/ˈfeɪləʊvə/|故障切换|n
+failback|/ˈfeɪlbæk/|故障切回|n
+heartbeat|/ˈhɑːtbiːt/|心跳检测|n
+quorum disk|/ˈkwɔːrəm dɪsk/|仲裁磁盘|n
+shared storage|/ʃeəd ˈstɔːrɪdʒ/|共享存储|n
+SAN|/sæn/|存储区域网|acr
+NAS|/næs/|网络附加存储|acr
+RAID|/reɪd/|磁盘阵列|acr
+LUN|/lʌn/|逻辑单元号|acr
+HBA|/ˌeɪtʃ biː ˈeɪ/|主机总线适配器|acr
+fiber switch|/ˈfaɪbə swɪtʃ/|光纤交换机|n
+iSCSI|/aɪ ˈskʌzi/|网络磁盘协议|acr
+snapshot replica|/ˈsnæpʃɒt ˈreplɪkə/|快照副本|n
+replication|/ˌreplɪˈkeɪʃn/|数据复制|n
+sync job|/sɪŋk dʒɒb/|同步任务|n
+bandwidth usage|/ˈbændwɪdθ ˈjuːsɪdʒ/|带宽占用|n
+packet loss|/ˈpækɪt lɒs/|丢包|n
+jitter|/ˈdʒɪtə/|抖动|n
+traceroute|/ˈtreɪsruːt/|路由跟踪|n
+packet capture|/ˈpækɪt ˈkæptʃə/|抓包|n
+Wireshark|/ˈwaɪəʃɑːk/|抓包工具|n
+NIC|/nɪk/|网卡|acr
+VLAN|/ˈviːlæn/|虚拟局域网|acr
+subnet|/ˈsʌbnet/|子网|n
+gateway|/ˈɡeɪtweɪ/|网关|n
+router|/ˈruːtə/|路由器|n
+switch|/swɪtʃ/|交换机|n
+PoE|/ˌpiː əʊ ˈiː/|以太网供电|acr
+access point|/ˈækses pɔɪnt/|无线接入点|n
+SSID|/ˌes es aɪ ˈdiː/|无线网络名|acr
+Wi-Fi|/ˈwaɪ faɪ/|无线网|n
+5G|/faɪv dʒiː/|第五代移动网|n
+Bluetooth|/ˈbluːtuːθ/|蓝牙|n
+VPN client|/ˌviː piː ˈen ˈklaɪənt/|虚拟专网客户端|n
+split tunnel|/splɪt ˈtʌnl/|分流隧道|n
+full tunnel|/fʊl ˈtʌnl/|全流量隧道|n
+MFA prompt|/ˌem ef ˈeɪ prɒmpt/|二次验证提示|n
+one-time password|/wʌn taɪm ˈpɑːswɜːd/|一次性密码|n
+OTP|/ˌəʊ tiː ˈpiː/|一次性口令|acr
+smart card|/smɑːt kɑːd/|智能卡|n
+badge reader|/bædʒ ˈriːdə/|门禁读卡器|n
+biometric|/ˌbaɪəʊˈmetrɪk/|生物识别|n
+fingerprint|/ˈfɪŋɡəprɪnt/|指纹|n
+face ID|/feɪs aɪ ˈdiː/|人脸识别|n
+single sign-on|/ˈsɪŋɡl saɪn ɒn/|单点登录|n
+password vault|/ˈpɑːswɜːd vɔːlt/|密码保险箱|n
+privileged account|/ˈprɪvəlɪdʒd əˈkaʊnt/|特权账号|n
+local admin|/ˈləʊkl ˈædmɪn/|本地管理员|n
+domain admin|/dəˈmeɪn ˈædmɪn/|域管理员|n
+service desk|/ˈsɜːvɪs desk/|服务台|n
+helpdesk|/ˈhelpdesk/|技术支持台|n
+L1 support|/el wʌn səˈpɔːt/|一线支持|n
+L2 support|/el tuː səˈpɔːt/|二线支持|n
+L3 support|/el θriː səˈpɔːt/|三线支持|n
+on-site engineer|/ɒn saɪt ˌendʒɪˈnɪə/|现场工程师|n
+remote support|/rɪˈməʊt səˈpɔːt/|远程支持|n
+screen control|/skriːn kənˈtrəʊl/|远程控屏|n
+knowledge base|/ˈnɒlɪdʒ beɪs/|知识库|n
+runbook|/ˈrʌnbʊk/|操作手册|n
+playbook|/ˈpleɪbʊk/|应急剧本|n
+escalation path IT|/ˌeskəˈleɪʃn pɑːθ aɪ ˈtiː/|技术升级路径|n
+ticket queue|/ˈtɪkɪt kjuː/|工单队列|n
+ticket priority|/ˈtɪkɪt praɪˈɒrəti/|工单优先级|n
+ticket SLA|/ˈtɪkɪt ˌes el ˈeɪ/|工单时限|n
+first-time fix|/fɜːst taɪm fɪks/|一次解决|n
+reopen rate|/ˌriːˈəʊpən reɪt/|重开工单率|n
+mean time to repair|/miːn taɪm tə rɪˈpeə/|平均修复时间|n
+MTTR|/ˌem tiː tiː ˈɑː/|平均修复时间|acr
+MTBF|/ˌem tiː biː ˈef/|平均无故障时间|acr
+service availability|/ˈsɜːvɪs əˌveɪləˈbɪləti/|服务可用性|n
+error log|/ˈerə lɒɡ/|错误日志|n
+event log|/ɪˈvent lɒɡ/|事件日志|n
+syslog|/ˈsɪslɒɡ/|系统日志|n
+audit log|/ˈɔːdɪt lɒɡ/|审计日志|n
+application log|/ˌæplɪˈkeɪʃn lɒɡ/|应用日志|n
+crash dump|/kræʃ dʌmp/|崩溃转储|n
+core dump|/kɔː dʌmp/|核心转储|n
+stack trace|/stæk treɪs/|堆栈跟踪|n
+debug mode|/diːˈbʌɡ məʊd/|调试模式|n
+verbose logging|/vɜːˈbəʊs ˈlɒɡɪŋ/|详细日志|n
+log rotation|/lɒɡ rəʊˈteɪʃn/|日志轮转|n
+log retention|/lɒɡ rɪˈtenʃn/|日志保存|n
+alert threshold|/əˈlɜːt ˈθreʃhəʊld/|告警阈值|n
+alert storm|/əˈlɜːt stɔːm/|告警风暴|n
+false positive|/fɔːls ˈpɒzətɪv/|误报|n
+false negative|/fɔːls ˈneɡətɪv/|漏报|n
+dashboard widget|/ˈdæʃbɔːd ˈwɪdʒɪt/|看板控件|n
+uptime chart|/ˈʌptaɪm tʃɑːt/|可用性图表|n
+capacity plan|/kəˈpæsəti plæn/|容量规划|n
+disk forecast|/dɪsk ˈfɔːkɑːst/|磁盘预测|n
+CPU spike|/ˌsiː piː ˈjuː spaɪk/|处理器突增|n
+memory pressure|/ˈmeməri ˈpreʃə/|内存压力|n
+swap usage|/swɒp ˈjuːsɪdʒ/|交换分区占用|n
+IOPS|/ˈaɪɒps/|每秒读写次数|acr
+throughput|/ˈθruːpʊt/|吞吐量|n
+queue depth|/kjuː depθ/|队列深度|n
+slow query|/sləʊ ˈkwɪəri/|慢查询|n
+table lock|/ˈteɪbl lɒk/|表锁|n
+row lock|/rəʊ lɒk/|行锁|n
+index scan|/ˈɪndeks skæn/|索引扫描|n
+full table scan|/fʊl ˈteɪbl skæn/|全表扫描|n
+query plan|/ˈkwɪəri plæn/|执行计划|n
+statistics update|/stəˈtɪstɪks ˌʌpˈdeɪt/|统计信息更新|n
+DBA|/ˌdiː biː ˈeɪ/|数据库管理员|acr
+schema|/ˈskiːmə/|数据库结构|n
+table|/ˈteɪbl/|数据表|n
+view|/vjuː/|视图|n
+trigger|/ˈtrɪɡə/|触发器|n
+constraint|/kənˈstreɪnt/|约束|n
+foreign key|/ˈfɒrən kiː/|外键|n
+primary key|/ˈpraɪməri kiː/|主键|n
+unique index|/juˈniːk ˈɪndeks/|唯一索引|n
+null value|/nʌl ˈvæljuː/|空值|n
+data type|/ˈdeɪtə taɪp/|数据类型|n
+character set|/ˈkærəktə set/|字符集|n
+collation|/kəˈleɪʃn/|排序规则|n
+transaction|/trænˈzækʃn/|事务|n
+commit log|/kəˈmɪt lɒɡ/|提交日志|n
+rollback segment|/ˈrəʊlbæk ˈseɡmənt/|回滚段|n
+tempdb|/ˈtempdiːbiː/|临时库|n
+backup compression|/ˈbækʌp kəmˈpreʃn/|备份压缩|n
+restore test|/rɪˈstɔː test/|恢复演练|n
+backup catalog|/ˈbækʌp ˈkætəlɒɡ/|备份目录|n
+tape library|/teɪp ˈlaɪbrəri/|磁带库|n
+offsite backup|/ˈɒfsaɪt ˈbækʌp/|异地备份|n
+immutable backup|/ɪˈmjuːtəbl ˈbækʌp/|不可篡改备份|n
+air gap|/eə ɡæp/|物理隔离|n
+jump host|/dʒʌmp həʊst/|跳板机|n
+bastion|/ˈbæstiən/|堡垒机|n
+privileged session|/ˈprɪvəlɪdʒd ˈseʃn/|特权会话|n
+session recording|/ˈseʃn rɪˈkɔːdɪŋ/|会话录像|n
+command filter|/kəˈmɑːnd ˈfɪltə/|命令过滤|n
+sudo|/ˈsuːduː/|提权命令|n
+root account|/ruːt əˈkaʊnt/|超级管理员|n
+service restart|/ˈsɜːvɪs ˌriːˈstɑːt/|服务重启|n
+graceful restart|/ˈɡreɪsfl ˌriːˈstɑːt/|平滑重启|n
+hard reboot|/hɑːd ˌriːˈbuːt/|强制重启|n
+safe mode|/seɪf məʊd/|安全模式|n
+BIOS|/ˈbaɪɒs/|基本输入输出系统|acr
+UEFI|/juː ˈefaɪ/|统一固件接口|acr
+firmware|/ˈfɜːmweə/|固件|n
+driver|/ˈdraɪvə/|驱动程序|n
+kernel|/ˈkɜːnl/|内核|n
+patch Tuesday|/pætʃ ˈtjuːzdeɪ/|补丁日|n
+reboot window|/ˌriːˈbuːt ˈwɪndəʊ/|重启窗口|n
+change advisory|/tʃeɪndʒ ədˈvaɪzəri/|变更评审|n
+CAB|/kæb/|变更顾问委员会|acr
+emergency change|/ɪˈmɜːdʒənsi tʃeɪndʒ/|紧急变更|n
+standard change|/ˈstændəd tʃeɪndʒ/|标准变更|n
+normal change|/ˈnɔːml tʃeɪndʒ/|常规变更|n
+change freeze|/tʃeɪndʒ friːz/|变更冻结|n
+release train|/rɪˈliːs treɪn/|发布列车|n
+cutover|/ˈkʌtəʊvə/|切换上线|n
+backout|/ˈbækaʊt/|退出回退|n
+smoke after release|/sməʊk ˈɑːftə rɪˈliːs/|发布后冒烟|n
+health check job|/helθ tʃek dʒɒb/|健康检查任务|n
+synthetic monitor|/sɪnˈθetɪk ˈmɒnɪtə/|模拟拨测|n
+real-user monitor|/rɪəl ˈjuːzə ˈmɒnɪtə/|真实用户监测|n
+APM|/ˌeɪ piː ˈem/|应用性能监控|acr
+trace ID|/treɪs aɪ ˈdiː/|追踪编号|n
+span|/spæn/|调用片段|n
+correlation ID|/ˌkɒrəˈleɪʃn aɪ ˈdiː/|关联编号|n
+request ID|/rɪˈkwest aɪ ˈdiː/|请求编号|n
+error budget|/ˈerə ˈbʌdʒɪt/|错误预算|n
+SLO|/ˌes el ˈəʊ/|服务水平目标|acr
+SLI|/ˌes el ˈaɪ/|服务水平指标|acr
+error rate|/ˈerə reɪt/|错误率|n
+success rate|/səkˈses reɪt/|成功率|n
+p95 latency|/piː naɪnti faɪv ˈleɪtənsi/|百分之九十五延迟|n
+p99 latency|/piː naɪnti naɪn ˈleɪtənsi/|百分之九十九延迟|n
+cold start|/kəʊld stɑːt/|冷启动|n
+warm start|/wɔːm stɑːt/|热启动|n
+connection leak|/kəˈnekʃn liːk/|连接泄漏|n
+thread dump|/θred dʌmp/|线程转储|n
+heap dump|/hiːp dʌmp/|堆转储|n
+garbage collection|/ˈɡɑːbɪdʒ kəˈlekʃn/|垃圾回收|n
+out of memory|/aʊt əv ˈmeməri/|内存耗尽|n
+CPU saturation|/ˌsiː piː ˈjuː ˌsætʃəˈreɪʃn/|处理器打满|n
+disk full|/dɪsk fʊl/|磁盘已满|n
+inode|/ˈaɪnəʊd/|文件节点|n
+file handle|/faɪl ˈhændl/|文件句柄|n
+port conflict|/pɔːt ˈkɒnflɪkt/|端口冲突|n
+listen port|/ˈlɪsn pɔːt/|监听端口|n
+open port|/ˈəʊpən pɔːt/|开放端口|n
+closed port|/kləʊzd pɔːt/|关闭端口|n
+firewall rule|/ˈfaɪəwɔːl ruːl/|防火墙规则|n
+NAT|/næt/|网络地址转换|acr
+port forward|/pɔːt ˈfɔːwəd/|端口转发|n
+DMZ|/ˌdiː em ˈzed/|隔离区|acr
+intranet|/ˈɪntrənet/|内网|n
+extranet|/ˈekstrənet/|外联网|n
+internet breakout|/ˈɪntənet ˈbreɪkaʊt/|上网出口|n
+proxy bypass|/ˈprɒksi ˈbaɪpɑːs/|绕过代理|n
+PAC file|/pæk faɪl/|代理自动配置|n
+DNS cache|/ˌdiː en ˈes kæʃ/|域名缓存|n
+flush DNS|/flʌʃ ˌdiː en ˈes/|刷新域名缓存|v
+hosts file|/həʊsts faɪl/|主机映射文件|n
+CNAME|/ˈsiːneɪm/|别名记录|acr
+A record|/eɪ ˈrekɔːd/|地址记录|n
+MX record|/em eks ˈrekɔːd/|邮件交换记录|n
+TTL|/ˌtiː tiː ˈel/|生存时间|acr
+DHCP reservation|/ˌdiː eɪtʃ siː ˈpiː ˌrezəˈveɪʃn/|地址保留|n
+static IP|/ˈstætɪk aɪ ˈpiː/|静态地址|n
+dynamic IP|/daɪˈnæmɪk aɪ ˈpiː/|动态地址|n
+link down|/lɪŋk daʊn/|链路断开|n
+link up|/lɪŋk ʌp/|链路恢复|n
+duplex mismatch|/ˈdjuːpleks ˈmɪsmætʃ/|双工不匹配|n
+speed mismatch|/spiːd ˈmɪsmætʃ/|速率不匹配|n
+CRC error|/ˌsiː ɑː ˈsiː ˈerə/|校验错误|n
+broadcast storm|/ˈbrɔːdkɑːst stɔːm/|广播风暴|n
+loop|/luːp/|环路|n
+spanning tree|/ˈspænɪŋ triː/|生成树|n
+trunk|/trʌŋk/|中继链路|n
+access port|/ˈækses pɔːt/|接入端口|n
+uplink|/ˈʌplɪŋk/|上联口|n
+core switch|/kɔː swɪtʃ/|核心交换机|n
+distribution switch|/ˌdɪstrɪˈbjuːʃn swɪtʃ/|汇聚交换机|n
+access switch|/ˈækses swɪtʃ/|接入交换机|n
+stack|/stæk/|交换机堆叠|n
+power supply|/ˈpaʊə səˈplaɪ/|电源模块|n
+UPS|/ˌjuː piː ˈes/|不间断电源|acr
+PDU|/ˌpiː diː ˈjuː/|电源分配单元|acr
+generator|/ˈdʒenəreɪtə/|发电机|n
+cooling|/ˈkuːlɪŋ/|机房制冷|n
+CRAC|/kræk/|机房空调|acr
+raised floor|/reɪzd flɔː/|架空地板|n
+rack|/ræk/|机柜|n
+U space|/juː speɪs/|机柜高度单位|n
+KVM|/ˌkeɪ viː ˈem/|键盘视频鼠标切换|acr
+console cable|/ˈkɒnsəʊl ˈkeɪbl/|控制台线|n
+serial console|/ˈsɪəriəl ˈkɒnsəʊl/|串口控制台|n
+IPMI|/ˌaɪ piː em ˈaɪ/|服务器底板管理|acr
+iLO|/ˈaɪləʊ/|远程管理口|acr
+iDRAC|/ˈaɪdræk/|远程管理卡|acr
+BMC|/ˌbiː em ˈsiː/|基板管理控制器|acr
+firmware update|/ˈfɜːmweə ˌʌpˈdeɪt/|固件更新|n
+BIOS update|/ˈbaɪɒs ˌʌpˈdeɪt/|主板固件更新|n
+driver pack|/ˈdraɪvə pæk/|驱动包|n
+image|/ˈɪmɪdʒ/|系统镜像|n
+golden image|/ˈɡəʊldən ˈɪmɪdʒ/|标准镜像|n
+PXE boot|/pɪksi buːt/|网络启动|n
+MDT|/ˌem diː ˈtiː/|批量部署工具|acr
+SCCM|/ˌes siː siː ˈem/|系统中心配置管理|acr
+Intune|/ˈɪntjuːn/|云端设备管理|n
+MDM|/ˌem diː ˈem/|移动设备管理|acr
+BYOD|/ˌbiː waɪ əʊ ˈdiː/|自带设备|acr
+mobile device|/ˈməʊbaɪl dɪˈvaɪs/|移动设备|n
+tablet|/ˈtæblɪt/|平板|n
+smartphone|/ˈsmɑːtfəʊn/|智能手机|n
+pager|/ˈpeɪdʒə/|传呼机|n
+VoIP|/vɔɪp/|网络电话|acr
+SIP|/sɪp/|会话启动协议|acr
+PBX|/ˌpiː biː ˈeks/|程控交换机|acr
+softphone|/ˈsɒftfəʊn/|软电话|n
+call recording|/kɔːl rɪˈkɔːdɪŋ/|通话录音|n
+IVR|/ˌaɪ viː ˈɑː/|语音导航|acr
+ACD|/ˌeɪ siː ˈdiː/|自动呼叫分配|acr
+queue wait|/kjuː weɪt/|排队等待|n
+call drop|/kɔːl drɒp/|通话中断|n
+codec|/ˈkəʊdek/|编解码|n
+jitter buffer|/ˈdʒɪtə ˈbʌfə/|抖动缓冲|n
+QoS|/ˌkjuː əʊ ˈes/|服务质量|acr
+DSCP|/ˌdiː es siː ˈpiː/|差分服务标记|acr
+traffic shaping|/ˈtræfɪk ˈʃeɪpɪŋ/|流量整形|n
+bandwidth cap|/ˈbændwɪdθ kæp/|带宽上限|n
+WAN|/wæn/|广域网|acr
+LAN|/læn/|局域网|acr
+MAN|/mæn/|城域网|acr
+MPLS|/ˌem piː el ˈes/|多协议标签交换|acr
+SD-WAN|/ˌes diː ˈwæn/|软件定义广域网|acr
+dark fiber|/dɑːk ˈfaɪbə/|裸光纤|n
+last mile|/lɑːst maɪl/|最后一公里|n
+circuit ID|/ˈsɜːkɪt aɪ ˈdiː/|专线编号|n
+carrier|/ˈkæriə/|运营商|n
+BGP|/ˌbiː dʒiː ˈpiː/|边界网关协议|acr
+OSPF|/ˌəʊ es piː ˈef/|开放最短路径优先|acr
+static route|/ˈstætɪk ruːt/|静态路由|n
+default route|/dɪˈfɔːlt ruːt/|默认路由|n
+routing table|/ˈruːtɪŋ ˈteɪbl/|路由表|n
+ARP|/ɑːp/|地址解析协议|acr
+ICMP|/ˌaɪ siː em ˈpiː/|网络控制消息|acr
+TCP|/ˌtiː siː ˈpiː/|传输控制协议|acr
+UDP|/ˌjuː diː ˈpiː/|用户数据报协议|acr
+TLS|/ˌtiː el ˈes/|传输层安全|acr
+HTTPS|/ˌeɪtʃ tiː tiː piː ˈes/|加密网页协议|acr
+HTTP|/ˌeɪtʃ tiː tiː ˈpiː/|网页协议|acr
+FTP|/ˌef tiː ˈpiː/|文件传输协议|acr
+SFTP|/ˌes ef tiː ˈpiː/|安全文件传输|acr
+SMB|/ˌes em ˈbiː/|文件共享协议|acr
+NFS|/ˌen ef ˈes/|网络文件系统|acr
+CIFS|/sɪfs/|通用互联网文件系统|acr
+RDP|/ˌɑːr diː ˈpiː/|远程桌面协议|acr
+SSH|/ˌes es ˈeɪtʃ/|安全外壳协议|acr
+Telnet|/ˈtelnet/|远程终端协议|n
+SNMP|/ˌes en em ˈpiː/|简单网络管理|acr
+Syslog server|/ˈsɪslɒɡ ˈsɜːvə/|日志服务器|n
+NTP server|/ˌen tiː ˈpiː ˈsɜːvə/|时间服务器|n
+time drift|/taɪm drɪft/|时间漂移|n
+clock skew|/klɒk skjuː/|时钟偏差|n
+Kerberos|/ˈkɜːbərəs/|票据认证|n
+NTLM|/ˌen tiː el ˈem/|Windows认证|acr
+token cache|/ˈtəʊkən kæʃ/|令牌缓存|n
+ticket-granting|/ˈtɪkɪt ˈɡrɑːntɪŋ/|票据授予|n
+service principal|/ˈsɜːvɪs ˈprɪnsəpl/|服务主体|n
+SPN|/ˌes piː ˈen/|服务主体名称|acr
+GPO|/ˌdʒiː piː ˈəʊ/|组策略对象|acr
+OU|/ˌəʊ ˈjuː/|组织单元|acr
+security group|/sɪˈkjʊərəti ɡruːp/|安全组|n
+distribution group|/ˌdɪstrɪˈbjuːʃn ɡruːp/|通讯组|n
+nested group|/ˈnestɪd ɡruːp/|嵌套组|n
+group membership|/ɡruːp ˈmembəʃɪp/|组成员关系|n
+sid|/sɪd/|安全标识|n
+GUID|/ɡuːɪd/|全局唯一标识|acr
+UPN|/ˌjuː piː ˈen/|用户主体名称|acr
+sAMAccountName|/sæm əˈkaʊnt neɪm/|登录名|n
+password hash|/ˈpɑːswɜːd hæʃ/|密码哈希|n
+salt|/sɔːlt/|加盐|n
+hash|/hæʃ/|哈希|n
+encryption key|/ɪnˈkrɪpʃn kiː/|加密密钥|n
+public key|/ˈpʌblɪk kiː/|公钥|n
+private key|/ˈpraɪvət kiː/|私钥|n
+certificate chain|/səˈtɪfɪkət tʃeɪn/|证书链|n
+intermediate CA|/ˌɪntəˈmiːdiət siː eɪ/|中间证书机构|n
+root CA|/ruːt siː eɪ/|根证书机构|n
+CSR|/ˌsiː es ˈɑː/|证书申请|acr
+SAN name|/sæn neɪm/|证书备用名|n
+certificate store|/səˈtɪfɪkət stɔː/|证书存储|n
+trusted root|/ˈtrʌstɪd ruːt/|受信任根|n
+untrusted cert|/ʌnˈtrʌstɪd sɜːt/|不受信任证书|n
+expired cert|/ɪkˈspaɪəd sɜːt/|过期证书|n
+revoked cert|/rɪˈvəʊkt sɜːt/|已吊销证书|n
+OCSP staple|/ˌəʊ siː es ˈpiː ˈsteɪpl/|证书装订|n
+HSTS|/ˌeɪtʃ tiː es ˈtiː/|强制加密传输|acr
+cipher suite|/ˈsaɪfə swiːt/|加密套件|n
+deprecated TLS|/ˈdeprəkeɪtɪd ˌtiː el ˈes/|过时加密|n
+weak cipher|/wiːk ˈsaɪfə/|弱加密|n
+perfect forward secrecy|/ˈpɜːfɪkt ˈfɔːwəd ˈsiːkrəsi/|前向保密|n
+key exchange|/kiː ɪksˈtʃeɪndʒ/|密钥交换|n
+session key|/ˈseʃn kiː/|会话密钥|n
+token expiry|/ˈtəʊkən ɪkˈspaɪəri/|令牌到期|n
+refresh token|/rɪˈfreʃ ˈtəʊkən/|刷新令牌|n
+access token|/ˈækses ˈtəʊkən/|访问令牌|n
+ID token|/aɪ ˈdiː ˈtəʊkən/|身份令牌|n
+JWT|/ˌdʒeɪ ˈdʌbljuː ˈtiː/|JSON令牌|acr
+bearer token|/ˈbeərə ˈtəʊkən/|持有者令牌|n
+API gateway|/ˌeɪ piː ˈaɪ ˈɡeɪtweɪ/|接口网关|n
+rate limiting|/reɪt ˈlɪmɪtɪŋ/|限流控制|n
+API quota|/ˌeɪ piː ˈaɪ ˈkwəʊtə/|接口配额|n
+API version|/ˌeɪ piː ˈaɪ ˈvɜːʃn/|接口版本|n
+breaking change|/ˈbreɪkɪŋ tʃeɪndʒ/|破坏性变更|n
+backward compatible|/ˈbækwəd kəmˈpætəbl/|向后兼容|adj
+deprecation|/ˌdeprəˈkeɪʃn/|即将废弃|n
+sunset date|/ˈsʌnset deɪt/|下线日期|n
+feature toggle|/ˈfiːtʃə ˈtɒɡl/|功能开关|n
+dark launch|/dɑːk lɔːntʃ/|暗发布|n
+canary host|/ˈkænəri həʊst/|金丝雀主机|n
+blue environment|/bluː ɪnˈvaɪrənmənt/|蓝色环境|n
+green environment|/ɡriːn ɪnˈvaɪrənmənt/|绿色环境|n
+traffic shift|/ˈtræfɪk ʃɪft/|流量切换|n
+weighted routing|/ˈweɪtɪd ˈruːtɪŋ/|加权路由|n
+health probe|/helθ prəʊb/|健康探测|n
+unhealthy node|/ʌnˈhelθi nəʊd/|不健康节点|n
+drain node|/dreɪn nəʊd/|排空节点|v
+cordon|/ˈkɔːdn/|封锁节点|v
+pod|/pɒd/|容器组|n
+namespace|/ˈneɪmspeɪs/|命名空间|n
+ingress|/ˈɪŋɡres/|入口路由|n
+egress|/ˈiːɡres/|出口流量|n
+sidecar|/ˈsaɪdkɑː/|边车容器|n
+service mesh|/ˈsɜːvɪs meʃ/|服务网格|n
+config map|/kənˈfɪɡ mæp/|配置映射|n
+secret|/ˈsiːkrɪt/|密文对象|n
+volume mount|/ˈvɒljuːm maʊnt/|卷挂载|n
+persistent volume|/pəˈsɪstənt ˈvɒljuːm/|持久卷|n
+storage class|/ˈstɔːrɪdʒ klɑːs/|存储类|n
+node pool|/nəʊd puːl/|节点池|n
+cluster|/ˈklʌstə/|集群|n
+control plane|/kənˈtrəʊl pleɪn/|控制平面|n
+worker node|/ˈwɜːkə nəʊd/|工作节点|n
+etcd|/ˈetsidiː/|集群键值库|n
+scheduler|/ˈʃedjuːlə/|调度器|n
+kubelet|/ˈkjuːbəlet/|节点代理|n
+container runtime|/kənˈteɪnə ˈrʌntaɪm/|容器运行时|n
+image pull|/ˈɪmɪdʒ pʊl/|拉取镜像|n
+image registry|/ˈɪmɪdʒ ˈredʒɪstri/|镜像仓库|n
+image tag|/ˈɪmɪdʒ tæɡ/|镜像标签|n
+digest|/ˈdaɪdʒest/|镜像摘要|n
+vulnerability CVE|/ˌvʌlnərəˈbɪləti ˌsiː viː ˈiː/|镜像漏洞编号|n
+base image|/beɪs ˈɪmɪdʒ/|基础镜像|n
+distroless|/ˈdɪstrəʊləs/|精简镜像|n
+rootless|/ˈruːtləs/|非特权运行|adj
+read-only root|/riːd ˈəʊnli ruːt/|只读根文件系统|n
+seccomp|/ˈsekkɒmp/|系统调用过滤|n
+AppArmor|/ˈæpəmɔː/|应用防护|n
+SELinux|/ˌes iː ˈlɪnəks/|强制访问控制|n
+capabilities|/ˌkeɪpəˈbɪlətiz/|权限能力|n
+sysctl|/ˈsɪskəntəʊl/|内核参数|n
+kernel panic|/ˈkɜːnl ˈpænɪk/|内核崩溃|n
+oops|/uːps/|内核异常|n
+watchdog|/ˈwɒtʃdɒɡ/|看门狗|n
+kdump|/ˈkeɪdʌmp/|内核转储|n
+core pattern|/kɔː ˈpætn/|转储路径|n
+ulimit|/ˈjuːlɪmɪt/|资源上限|n
+nice value|/naɪs ˈvæljuː/|进程优先级|n
+process ID|/ˈprəʊses aɪ ˈdiː/|进程号|n
+parent process|/ˈpeərənt ˈprəʊses/|父进程|n
+zombie process|/ˈzɒmbi ˈprəʊses/|僵尸进程|n
+orphan process|/ˈɔːfn ˈprəʊses/|孤儿进程|n
+daemon|/ˈdiːmən/|守护进程|n
+cron job|/krɒn dʒɒb/|定时任务|n
+scheduled task|/ˈʃedjuːld tɑːsk/|计划任务|n
+Windows service|/ˈwɪndəʊz ˈsɜːvɪs/|Windows服务|n
+service account lock|/ˈsɜːvɪs əˈkaʊnt lɒk/|服务账号锁定|n
+logon as service|/ˈlɒɡɒn æz ˈsɜːvɪs/|作为服务登录|n
+interactive logon|/ˌɪntərˈæktɪv ˈlɒɡɒn/|交互登录|n
+network logon|/ˈnetwɜːk ˈlɒɡɒn/|网络登录|n
+cached logon|/kæʃt ˈlɒɡɒn/|缓存登录|n
+smart-card logon|/smɑːt kɑːd ˈlɒɡɒn/|智能卡登录|n
+failed logon|/feɪld ˈlɒɡɒn/|登录失败|n
+lockout policy|/ˈlɒkaʊt ˈpɒləsi/|锁定策略|n
+account disabled|/əˈkaʊnt dɪsˈeɪbld/|账号已禁用|n
+account enabled|/əˈkaʊnt ɪˈneɪbld/|账号已启用|n
+password expired|/ˈpɑːswɜːd ɪkˈspaɪəd/|密码已过期|n
+must change password|/mʌst tʃeɪndʒ ˈpɑːswɜːd/|必须改密|phr|The account must change password at next logon.|下次登录必须改密。
+password never expires|/ˈpɑːswɜːd ˈnevə ɪkˈspaɪəz/|密码永不过期|phr|Do not set password never expires on shared PCs.|共享电脑不要设密码永不过期。
+complex password|/ˈkɒmpleks ˈpɑːswɜːd/|复杂密码|n
+passphrase|/ˈpɑːsfreɪz/|密码短语|n
+password manager|/ˈpɑːswɜːd ˈmænɪdʒə/|密码管理器|n
+shared password|/ʃeəd ˈpɑːswɜːd/|共享密码|n
+default password|/dɪˈfɔːlt ˈpɑːswɜːd/|默认密码|n
+hard-coded password|/hɑːd kəʊdɪd ˈpɑːswɜːd/|写死的密码|n
+secrets in code|/ˈsiːkrɪts ɪn kəʊd/|代码中的密钥|n
+credential leak|/krəˈdenʃl liːk/|凭据泄露|n
+keylogger|/ˈkiːlɒɡə/|键盘记录|n
+screen capture|/skriːn ˈkæptʃə/|屏幕截取|n
+clipboard|/ˈklɪpbɔːd/|剪贴板|n
+USB drop|/ˌjuː es ˈbiː drɒp/|U盘投放|n
+shadow IT|/ˈʃædəʊ aɪ ˈtiː/|影子信息化|n
+unsanctioned app|/ʌnˈsæŋkʃənd æp/|未批准软件|n
+software whitelist|/ˈsɒftweə ˈwaɪtlɪst/|软件白名单|n
+software inventory|/ˈsɒftweə ˈɪnvəntri/|软件清单|n
+license count|/ˈlaɪsns kaʊnt/|授权数量|n
+license server|/ˈlaɪsns ˈsɜːvə/|授权服务器|n
+license key|/ˈlaɪsns kiː/|授权密钥|n
+trial license|/ˈtraɪəl ˈlaɪsns/|试用授权|n
+perpetual license|/pəˈpetʃuəl ˈlaɪsns/|永久授权|n
+subscription license|/səbˈskrɪpʃn ˈlaɪsns/|订阅授权|n
+concurrent license|/kənˈkʌrənt ˈlaɪsns/|并发授权|n
+named user|/neɪmd ˈjuːzə/|指定用户|n
+floating license|/ˈfləʊtɪŋ ˈlaɪsns/|浮动授权|n
+license compliance|/ˈlaɪsns kəmˈplaɪəns/|授权合规|n
+true-up|/truː ʌp/|授权对账|n
+software audit|/ˈsɒftweə ˈɔːdɪt/|软件审计|n
+unlicensed install|/ʌnˈlaɪsnst ɪnˈstɔːl/|未授权安装|n
+silent install|/ˈsaɪlənt ɪnˈstɔːl/|静默安装|n
+push install|/pʊʃ ɪnˈstɔːl/|推送安装|n
+uninstall|/ˌʌnɪnˈstɔːl/|卸载|v
+repair install|/rɪˈpeə ɪnˈstɔːl/|修复安装|n
+msi package|/ˌem es ˈaɪ ˈpækɪdʒ/|安装包|n
+exe installer|/ˌiː eks ˈiː ɪnˈstɔːlə/|可执行安装程序|n
+patch file|/pætʃ faɪl/|补丁文件|n
+hotfix rollup|/ˈhɒtfɪks ˈrəʊlʌp/|累积热修复|n
+cumulative update|/ˈkjuːmjələtɪv ˌʌpˈdeɪt/|累积更新|n
+security bulletin|/sɪˈkjʊərəti ˈbʊlətɪn/|安全公告|n
+KB number|/keɪ ˈbiː ˈnʌmbə/|知识库编号|n
+reboot pending|/ˌriːˈbuːt ˈpendɪŋ/|等待重启|n
+pending reboot|/ˈpendɪŋ ˌriːˈbuːt/|待重启|n
+WUAgent|/ˈdʌbljuː juː ˈeɪdʒənt/|更新代理|n
+WSUS|/ˈwɪsəs/|补丁分发服务器|acr
+catalog file|/ˈkætəlɒɡ faɪl/|目录文件|n
+offline patch|/ˈɒflaɪn pætʃ/|离线补丁|n
+online update|/ˈɒnlaɪn ˌʌpˈdeɪt/|在线更新|n
+metered network|/ˈmiːtəd ˈnetwɜːk/|按流量网络|n
+delivery optimization|/dɪˈlɪvəri ˌɒptɪmaɪˈzeɪʃn/|分发优化|n
+peer cache|/pɪə kæʃ/|对等缓存|n
+branch cache|/brɑːntʃ kæʃ/|分支缓存|n
+content server|/ˈkɒntent ˈsɜːvə/|内容服务器|n
+distribution point|/ˌdɪstrɪˈbjuːʃn pɔɪnt/|分发点|n
+management point|/ˈmænɪdʒmənt pɔɪnt/|管理点|n
+client agent|/ˈklaɪənt ˈeɪdʒənt/|客户端代理|n
+heartbeat interval|/ˈhɑːtbiːt ˈɪntəvl/|心跳间隔|n
+policy refresh|/ˈpɒləsi rɪˈfreʃ/|策略刷新|n
+gpupdate|/ˈdʒiːpiːˌʌpdeɪt/|刷新组策略|v
+rsop|/ˌɑːr es əʊ ˈpiː/|策略结果集|acr
+event forwarding|/ɪˈvent ˈfɔːwədɪŋ/|事件转发|n
+WEF|/wef/|Windows事件转发|acr
+collector|/kəˈlektə/|事件收集器|n
+subscription|/səbˈskrɪpʃn/|订阅|n
+query filter|/ˈkwɪəri ˈfɪltə/|查询过滤|n
+xpath|/ˈekspæθ/|路径查询|n
+event ID|/ɪˈvent aɪ ˈdiː/|事件编号|n
+logon type|/ˈlɒɡɒn taɪp/|登录类型|n
+privileged logon|/ˈprɪvəlɪdʒd ˈlɒɡɒn/|特权登录|n
+explicit creds|/ɪkˈsplɪsɪt kredz/|显式凭据|n
+pass-the-hash|/pɑːs ðə hæʃ/|哈希传递|n
+kerberoasting|/ˈkɜːbərəʊstɪŋ/|票据攻击手法|n
+lateral movement|/ˈlætərəl ˈmuːvmənt/|横向移动|n
+living off the land|/ˈlɪvɪŋ ɒf ðə lænd/|利用系统自带工具|n
+IOC|/ˌaɪ əʊ ˈsiː/|失陷指标|acr
+IOA|/ˌaɪ əʊ ˈeɪ/|攻击行为指标|acr
+threat intel|/θret ˈɪntel/|威胁情报|n
+indicator|/ˈɪndɪkeɪtə/|威胁指标|n
+hash reputation|/hæʃ ˌrepjuˈteɪʃn/|哈希信誉|n
+file hash|/faɪl hæʃ/|文件哈希|n
+SHA-256|/ʃɑː tuː ˈfɪfti sɪks/|哈希算法|acr
+MD5|/ˌem diː ˈfaɪv/|旧哈希算法|acr
+quarantine|/ˈkwɒrəntiːn/|隔离|v
+allow exception|/əˈlaʊ ɪkˈsepʃn/|放行例外|n
+block hash|/blɒk hæʃ/|按哈希拦截|n
+block path|/blɒk pɑːθ/|按路径拦截|n
+block publisher|/blɒk ˈpʌblɪʃə/|按发布者拦截|n
+code signing|/kəʊd ˈsaɪnɪŋ/|代码签名|n
+unsigned binary|/ʌnˈsaɪnd ˈbaɪnəri/|未签名程序|n
+trusted publisher|/ˈtrʌstɪd ˈpʌblɪʃə/|受信任发布者|n
+SmartScreen|/ˈsmɑːtskriːn/|智能筛选|n
+Defender|/dɪˈfendə/|系统防护|n
+ASR|/ˌeɪ es ˈɑː/|攻击面减少|acr
+exploit protection|/ˈeksplɔɪt prəˈtekʃn/|漏洞利用防护|n
+DEP|/dep/|数据执行保护|acr
+ASLR|/ˌeɪ es el ˈɑː/|地址随机化|acr
+Control Flow Guard|/kənˈtrəʊl fləʊ ɡɑːd/|控制流防护|n
+WDAC|/ˈdʌbljuː dæk/|应用控制|acr
+AppLocker|/ˈæplɒkə/|应用锁|n
+Software Restriction|/ˈsɒftweə rɪˈstrɪkʃn/|软件限制策略|n
+Device Guard|/dɪˈvaɪs ɡɑːd/|设备防护|n
+Credential Guard|/krəˈdenʃl ɡɑːd/|凭据防护|n
+LSA protection|/ˌel es ˈeɪ prəˈtekʃn/|认证进程保护|n
+secure boot|/sɪˈkjʊə buːt/|安全启动|n
+measured boot|/ˈmeʒəd buːt/|度量启动|n
+TPM|/ˌtiː piː ˈem/|可信平台模块|acr
+PCR|/ˌpiː siː ˈɑː/|平台配置寄存器|acr
+BitLocker recovery|/ˈbɪtlɒkə rɪˈkʌvəri/|磁盘恢复密钥|n
+recovery key|/rɪˈkʌvəri kiː/|恢复密钥|n
+TPM owner|/ˌtiː piː ˈem ˈəʊnə/|可信模块属主|n
+escrow|/ˈeskrəʊ/|密钥托管|n
+MBAM|/ˈembæm/|磁盘加密管理|acr
+disk unlock|/dɪsk ʌnˈlɒk/|磁盘解锁|n
+pre-boot|/priː buːt/|开机前验证|n
+BitLocker PIN|/ˈbɪtlɒkə pɪn/|磁盘开机密码|n
+startup key|/ˈstɑːtʌp kiː/|启动密钥|n
+USB key|/ˌjuː es ˈbiː kiː/|U盘密钥|n
+network unlock|/ˈnetwɜːk ʌnˈlɒk/|网络解锁|n
+protector|/prəˈtektə/|保护器|n
+numerical password|/njuːˈmerɪkl ˈpɑːswɜːd/|数字恢复密码|n
+FIPS|/fɪps/|联邦加密标准|acr
+HSM|/ˌeɪtʃ es ˈem/|硬件安全模块|acr
+KMS|/ˌkeɪ em ˈes/|密钥管理服务|acr
+CMK|/ˌsiː em ˈkeɪ/|客户主密钥|acr
+envelope encryption|/ˈenvələʊp ɪnˈkrɪpʃn/|信封加密|n
+data key|/ˈdeɪtə kiː/|数据密钥|n
+key alias|/kiː ˈeɪliəs/|密钥别名|n
+key policy|/kiː ˈpɒləsi/|密钥策略|n
+key deletion|/kiː dɪˈliːʃn/|密钥删除|n
+key disable|/kiː dɪsˈeɪbl/|密钥停用|n
+key enable|/kiː ɪˈneɪbl/|密钥启用|n
+cryptographic erase|/ˌkrɪptəˈɡræfɪk ɪˈreɪz/|加密擦除|n
+secure wipe|/sɪˈkjʊə waɪp/|安全擦除|n
+disk wipe|/dɪsk waɪp/|磁盘擦除|n
+degauss|/diːˈɡaʊs/|消磁|v
+physical destruction|/ˈfɪzɪkl dɪˈstrʌkʃn/|物理销毁|n
+media sanitization|/ˈmiːdiə ˌsænɪtaɪˈzeɪʃn/|介质净化|n
+NIST wipe|/nɪst waɪp/|标准擦除|n
+DoD wipe|/ˌdiː əʊ ˈdiː waɪp/|国防部擦除|n
+spare disk|/speə dɪsk/|备用磁盘|n
+hot spare|/hɒt speə/|热备盘|n
+cold spare|/kəʊld speə/|冷备盘|n
+rebuild time|/ˌriːˈbɪld taɪm/|重建时间|n
+degraded array|/dɪˈɡreɪdɪd əˈreɪ/|降级阵列|n
+failed disk|/feɪld dɪsk/|故障磁盘|n
+predictive failure|/prɪˈdɪktɪv ˈfeɪljə/|预警故障|n
+SMART|/smɑːt/|磁盘健康监测|acr
+bad sector|/bæd ˈsektə/|坏扇区|n
+uncorrectable error|/ˌʌnkəˈrektəbl ˈerə/|不可纠正错误|n
+reallocated sector|/ˌriːˈæləkeɪtɪd ˈsektə/|重映射扇区|n
+spin-up|/spɪn ʌp/|磁盘启动|n
+head crash|/hed kræʃ/|磁头损坏|n
+SSD|/ˌes es ˈdiː/|固态硬盘|acr
+HDD|/ˌeɪtʃ diː ˈdiː/|机械硬盘|acr
+NVMe|/ˌen viː em ˈiː/|高速固态接口|acr
+SATA|/ˈsɑːtə/|串口硬盘接口|acr
+SAS|/sæs/|服务器硬盘接口|acr
+M.2|/em tɔɪnt tuː/|板载固态接口|n
+hot swap|/hɒt swɒp/|热插拔|n
+caddy|/ˈkædi/|硬盘托架|n
+backplane|/ˈbækpleɪn/|硬盘背板|n
+RAID controller|/reɪd kənˈtrəʊlə/|阵列卡|n
+battery backup unit|/ˈbætri ˈbækʌp ˈjuːnɪt/|阵列电池|n
+write cache|/raɪt kæʃ/|写缓存|n
+read cache|/riːd kæʃ/|读缓存|n
+cache battery|/kæʃ ˈbætri/|缓存电池|n
+write-through|/raɪt θruː/|直写|n
+write-back|/raɪt bæk/|回写|n
+stripe|/straɪp/|条带|n
+mirror|/ˈmɪrə/|镜像盘|n
+parity|/ˈpærəti/|校验|n
+RAID 1|/reɪd wʌn/|镜像阵列|n
+RAID 5|/reɪd faɪv/|校验阵列|n
+RAID 6|/reɪd sɪks/|双校验阵列|n
+RAID 10|/reɪd ten/|镜像条带|n
+JBOD|/ˈdʒeɪbɒd/|简单磁盘组合|acr
+thin provision|/θɪn prəˈvɪʒn/|精简配置|n
+thick provision|/θɪk prəˈvɪʒn/|厚配置|n
+overcommit|/ˌəʊvəˈkɒmɪt/|超分|v
+storage pool|/ˈstɔːrɪdʒ puːl/|存储池|n
+datastore|/ˈdeɪtəstɔː/|数据存储|n
+VMDK|/ˌviː em diː ˈkeɪ/|虚拟磁盘文件|acr
+VHD|/ˌviː eɪtʃ ˈdiː/|虚拟硬盘|acr
+snapshot chain|/ˈsnæpʃɒt tʃeɪn/|快照链|n
+delta disk|/ˈdeltə dɪsk/|增量盘|n
+linked clone|/lɪŋkt kləʊn/|链接克隆|n
+full clone|/fʊl kləʊn/|完整克隆|n
+template VM|/ˈtemplɪt ˌviː ˈem/|虚拟机模板|n
+instant clone|/ˈɪnstənt kləʊn/|即时克隆|n
+vMotion|/viː ˈməʊʃn/|在线迁移|n
+storage vMotion|/ˈstɔːrɪdʒ viː ˈməʊʃn/|存储在线迁移|n
+HA cluster|/eɪtʃ eɪ ˈklʌstə/|高可用集群|n
+DRS|/ˌdiː ɑːr ˈes/|动态资源调度|acr
+affinity|/əˈfɪnəti/|亲和性|n
+anti-affinity|/ˈænti əˈfɪnəti/|反亲和性|n
+resource pool|/rɪˈsɔːs puːl/|资源池|n
+reservation|/ˌrezəˈveɪʃn/|资源预留|n
+limit|/ˈlɪmɪt/|资源上限|n
+shares|/ʃeəz/|资源份额|n
+ballooning|/bəˈluːnɪŋ/|内存回收|n
+swap file|/swɒp faɪl/|交换文件|n
+CPU ready|/ˌsiː piː ˈjuː ˈredi/|处理器等待|n
+co-stop|/kəʊ stɒp/|共同停顿|n
+NUMA|/ˈnjuːmə/|内存亲和架构|acr
+vCPU|/viː ˌsiː piː ˈjuː/|虚拟处理器|n
+vRAM|/ˈviːræm/|虚拟内存|n
+guest OS|/ɡest əʊ ˈes/|客户机系统|n
+host OS|/həʊst əʊ ˈes/|宿主机系统|n
+tools agent|/tuːlz ˈeɪdʒənt/|虚拟化工具代理|n
+guest customization|/ɡest ˌkʌstəmaɪˈzeɪʃn/|客户机定制|n
+sysprep|/ˈsɪsprep/|系统封装|n
+SID duplication|/sɪd ˌdjuːplɪˈkeɪʃn/|安全标识重复|n
+IP conflict|/aɪ ˈpiː ˈkɒnflɪkt/|地址冲突|n
+duplicate MAC|/ˈdjuːplɪkət mæk/|网卡地址重复|n
+promiscuous mode|/prəˈmɪskjuəs məʊd/|混杂模式|n
+forged transmit|/fɔːdʒd trænzˈmɪt/|伪造发送|n
+MAC change|/mæk tʃeɪndʒ/|网卡地址更改|n
+port group|/pɔːt ɡruːp/|端口组|n
+virtual switch|/ˈvɜːtʃuəl swɪtʃ/|虚拟交换机|n
+uplink NIC|/ˈʌplɪŋk nɪk/|上联网卡|n
+NIC teaming|/nɪk ˈtiːmɪŋ/|网卡绑定|n
+LACP|/lækp/|链路聚合|acr
+load balance|/ləʊd ˈbæləns/|负载分担|n
+failover order|/ˈfeɪləʊvə ˈɔːdə/|故障切换顺序|n
+beacon probing|/ˈbiːkən ˈprəʊbɪŋ/|信标探测|n
+network isolation|/ˈnetwɜːk ˌaɪsəˈleɪʃn/|网络隔离|n
+microsegmentation|/ˈmaɪkrəʊˌseɡmənˈteɪʃn/|微分段|n
+distributed firewall|/dɪˈstrɪbjuːtɪd ˈfaɪəwɔːl/|分布式防火墙|n
+east-west traffic|/iːst west ˈtræfɪk/|东西向流量|n
+north-south traffic|/nɔːθ saʊθ ˈtræfɪk/|南北向流量|n
+hairpin|/ˈheəpɪn/|回流转发|n
+anycast|/ˈenikɑːst/|任播|n
+unicast|/ˈjuːnɪkɑːst/|单播|n
+multicast|/ˈmʌltikɑːst/|组播|n
+broadcast|/ˈbrɔːdkɑːst/|广播|n
+IGMP|/ˌaɪ dʒiː em ˈpiː/|组播管理协议|acr
+protocol independent multicast|/ˈprəʊtəkɒl ˌɪndɪˈpendənt ˈmʌltikɑːst/|协议无关组播|n
+mDNS|/ˌem diː en ˈes/|组播域名|acr
+LLMNR|/ˌel el em en ˈɑː/|本地链路名称解析|acr
+NetBIOS|/net ˈbaɪɒs/|网上基本输入输出|n
+WINS|/wɪnz/|Windows名称服务|acr
+name resolution|/neɪm ˌrezəˈluːʃn/|名称解析|n
+split-brain DNS|/splɪt breɪn ˌdiː en ˈes/|脑裂域名|n
+conditional forwarder|/kənˈdɪʃənl ˈfɔːwədə/|条件转发|n
+stub zone|/stʌb zəʊn/|存根区域|n
+secondary zone|/ˈsekəndri zəʊn/|辅助区域|n
+primary zone|/ˈpraɪməri zəʊn/|主要区域|n
+AD-integrated zone|/eɪ ˈdiː ˈɪntɪɡreɪtɪd zəʊn/|目录集成区域|n
+scavenging|/ˈskævɪndʒɪŋ/|过期记录清理|n
+aging|/ˈeɪdʒɪŋ/|记录老化|n
+dynamic update|/daɪˈnæmɪk ˌʌpˈdeɪt/|动态更新|n
+secure update|/sɪˈkjʊə ˌʌpˈdeɪt/|安全更新|n
+zone transfer|/zəʊn ˈtrænsfɜː/|区域传送|n
+AXFR|/ˌeɪ eks ef ˈɑː/|全量区域传送|acr
+IXFR|/ˌaɪ eks ef ˈɑː/|增量区域传送|acr
+DNS notify|/ˌdiː en ˈes ˈnəʊtɪfaɪ/|区域变更通知|n
+TSIG|/ˈtiːsɪɡ/|事务签名|acr
+DNSSEC|/ˈdɪnsek/|域名安全扩展|acr
+RRSIG|/ˌɑːr ɑːr sɪɡ/|资源记录签名|acr
+DS record|/diː es ˈrekɔːd/|委托签名记录|n
+glue record|/ɡluː ˈrekɔːd/|粘合记录|n
+root hints|/ruːt hɪnts/|根提示|n
+forwarder|/ˈfɔːwədə/|转发器|n
+recursion|/rɪˈkɜːʃn/|递归查询|n
+iterative query|/ˈɪtərətɪv ˈkwɪəri/|迭代查询|n
+cache poisoning|/kæʃ ˈpɔɪznɪŋ/|缓存投毒|n
+DNS tunneling|/ˌdiː en ˈes ˈtʌnlɪŋ/|域名隧道|n
+DoH|/dɒ/|加密域名查询|acr
+DoT|/dɒt/|加密域名传输|acr
+split DNS|/splɪt ˌdiː en ˈes/|内外域名分离|n
+internal zone|/ɪnˈtɜːnl zəʊn/|内网区域|n
+external zone|/ɪkˈstɜːnl zəʊn/|外网区域|n
+reverse zone|/rɪˈvɜːs zəʊn/|反向区域|n
+PTR|/ˌpiː tiː ˈɑː/|反向解析记录|acr
+SOA|/ˌes əʊ ˈeɪ/|起始授权记录|acr
+NS record|/en es ˈrekɔːd/|域名服务器记录|n
+TXT record|/tekst ˈrekɔːd/|文本记录|n
+SPF|/ˌes piː ˈef/|发件人策略|acr
+DKIM|/ˈdiːkɪm/|邮件签名|acr
+DMARC|/ˈdiːmɑːk/|邮件认证报告|acr
+MX failover|/em eks ˈfeɪləʊvə/|邮件交换切换|n
+smarthost|/ˈsmɑːthəʊst/|智能中继|n
+relay|/ˈriːleɪ/|邮件中继|n
+open relay|/ˈəʊpən ˈriːleɪ/|开放中继|n
+spam score|/spæm skɔː/|垃圾评分|n
+quarantine mailbox|/ˈkwɒrəntiːn ˈmeɪlbɒks/|隔离邮箱|n
+NDR|/ˌen diː ˈɑː/|未送达报告|acr
+DSN|/ˌdiː es ˈen/|投递状态通知|acr
+mailbox database|/ˈmeɪlbɒks ˈdeɪtəbeɪs/|邮箱数据库|n
+mailbox quota|/ˈmeɪlbɒks ˈkwəʊtə/|邮箱配额|n
+archive mailbox|/ˈɑːkaɪv ˈmeɪlbɒks/|归档邮箱|n
+litigation hold|/ˌlɪtɪˈɡeɪʃn həʊld/|诉讼保留|n
+in-place hold|/ɪn pleɪs həʊld/|就地保留|n
+eDiscovery|/iː dɪsˈkʌvəri/|电子取证|n
+journaling|/ˈdʒɜːnəlɪŋ/|邮件日志|n
+transport rule|/ˈtrænspɔːt ruːl/|传输规则|n
+mail flow|/meɪl fləʊ/|邮件流|n
+connector|/kəˈnektə/|连接器|n
+send connector|/send kəˈnektə/|发送连接器|n
+receive connector|/rɪˈsiːv kəˈnektə/|接收连接器|n
+accepted domain|/əkˈseptɪd dəˈmeɪn/|接受域名|n
+authoritative domain|/ɔːˈθɒrətətɪv dəˈmeɪn/|权威域名|n
+internal relay domain|/ɪnˈtɜːnl ˈriːleɪ dəˈmeɪn/|内部中继域名|n
+autodiscover|/ˌɔːtəʊdɪsˈkʌvə/|自动发现|n
+Outlook profile|/ˈaʊtlʊk ˈprəʊfaɪl/|邮件配置文件|n
+OST|/ˌəʊ es ˈtiː/|脱机数据文件|acr
+PST|/ˌpiː es ˈtiː/|个人存储文件|acr
+cached mode|/kæʃt məʊd/|缓存模式|n
+online mode|/ˈɒnlaɪn məʊd/|在线模式|n
+mailbox move|/ˈmeɪlbɒks muːv/|邮箱迁移|n
+hybrid mail|/ˈhaɪbrɪd meɪl/|混合邮件|n
+exchange|/ɪksˈtʃeɪndʒ/|邮件系统|n
+calendar free-busy|/ˈkælɪndə friː ˈbɪzi/|忙闲状态|n
+resource mailbox|/rɪˈsɔːs ˈmeɪlbɒks/|资源邮箱|n
+room mailbox|/ruːm ˈmeɪlbɒks/|会议室邮箱|n
+equipment mailbox|/ɪˈkwɪpmənt ˈmeɪlbɒks/|设备邮箱|n
+shared calendar|/ʃeəd ˈkælɪndə/|共享日历|n
+delegate access|/ˈdelɪɡət ˈækses/|代理访问|n
+send as|/send æz/|以某人发送|phr|Grant send as on the group mailbox.|请给组邮箱开“以某人发送”。
+send on behalf|/send ɒn bɪˈhɑːf/|代表发送|phr|She has send on behalf of the director.|她可以代表主任发信。
+full access|/fʊl ˈækses/|完全访问|n
+folder permission|/ˈfəʊldə pəˈmɪʃn/|文件夹权限|n
+public folder|/ˈpʌblɪk ˈfəʊldə/|公共文件夹|n
+address book|/əˈdres bʊk/|通讯簿|n
+GAL|/ɡæl/|全局地址列表|acr
+OAB|/ˌəʊ eɪ ˈbiː/|脱机通讯簿|acr
+offline address book|/ˈɒflaɪn əˈdres bʊk/|脱机通讯簿|n
+recipient policy|/rɪˈsɪpiənt ˈpɒləsi/|收件人策略|n
+email address policy|/ˈiːmeɪl əˈdres ˈpɒləsi/|邮箱地址策略|n
+accepted recipient|/əkˈseptɪd rɪˈsɪpiənt/|可接受收件人|n
+external forwarding|/ɪkˈstɜːnl ˈfɔːwədɪŋ/|外转发|n
+auto-forward|/ˈɔːtəʊ ˈfɔːwəd/|自动转发|n
+transport dumpster|/ˈtrænspɔːt ˈdʌmpstə/|传输回收|n
+shadow redundancy|/ˈʃædəʊ rɪˈdʌndənsi/|影子冗余|n
+DAG|/dæɡ/|数据库可用性组|acr
+copy queue|/ˈkɒpi kjuː/|复制队列|n
+replay queue|/rɪˈpleɪ kjuː/|重放队列|n
+lagged copy|/læɡd ˈkɒpi/|延迟副本|n
+activation preference|/ˌæktɪˈveɪʃn ˈprefrəns/|激活优先级|n
+mailbox server|/ˈmeɪlbɒks ˈsɜːvə/|邮箱服务器|n
+client access|/ˈklaɪənt ˈækses/|客户端访问|n
+load-balanced VIP|/ləʊd ˈbælənst viː aɪ ˈpiː/|负载虚拟地址|n
+health set|/helθ set/|健康集|n
+probe|/prəʊb/|探测|n
+monitor|/ˈmɒnɪtə/|监视器|n
+responder|/rɪˈspɒndə/|自动响应|n
+maintenance mode|/ˈmeɪntənəns məʊd/|维护模式|n
+drain mode|/dreɪn məʊd/|排空模式|n
+activation suspended|/ˌæktɪˈveɪʃn səˈspendɪd/|激活已暂停|n
+database mount|/ˈdeɪtəbeɪs maʊnt/|数据库装载|n
+database dismount|/ˈdeɪtəbeɪs dɪsˈmaʊnt/|数据库卸载|n
+dirty shutdown|/ˈdɜːti ˈʃʌtdaʊn/|非正常关机|n
+clean shutdown|/kliːn ˈʃʌtdaʊn/|正常关机|n
+repair database|/rɪˈpeə ˈdeɪtəbeɪs/|修复数据库|v
+eseutil|/ˈiːsjuːtɪl/|数据库修复工具|n
+isinteg|/ˈaɪsɪnteɡ/|完整性检查工具|n
+content index|/ˈkɒntent ˈɪndeks/|内容索引|n
+search crawler|/sɜːtʃ ˈkrɔːlə/|搜索爬虫|n
+index corruption|/ˈɪndeks kəˈrʌpʃn/|索引损坏|n
+catalog rebuild|/ˈkætəlɒɡ ˌriːˈbɪld/|目录重建|n
+search service|/sɜːtʃ ˈsɜːvɪs/|搜索服务|n
+query processor|/ˈkwɪəri ˈprəʊsesə/|查询处理器|n
+full-text search|/fʊl tekst sɜːtʃ/|全文检索|n
+wildcard search|/ˈwaɪldkɑːd sɜːtʃ/|通配检索|n
+boolean search|/ˈbuːliən sɜːtʃ/|布尔检索|n
+saved search|/seɪvd sɜːtʃ/|保存的检索|n
+search folder|/sɜːtʃ ˈfəʊldə/|搜索文件夹|n
+retention tag|/rɪˈtenʃn tæɡ/|保留标签|n
+retention policy|/rɪˈtenʃn ˈpɒləsi/|保留策略|n
+archive policy|/ˈɑːkaɪv ˈpɒləsi/|归档策略|n
+delete policy|/dɪˈliːt ˈpɒləsi/|删除策略|n
+recoverable items|/rɪˈkʌvərəbl ˈaɪtəmz/|可恢复项目|n
+dumpster|/ˈdʌmpstə/|回收站|n
+single item recovery|/ˈsɪŋɡl ˈaɪtəm rɪˈkʌvəri/|单项目恢复|n
+mailbox restore|/ˈmeɪlbɒks rɪˈstɔː/|邮箱恢复|n
+disconnected mailbox|/ˌdɪskəˈnektɪd ˈmeɪlbɒks/|断开邮箱|n
+soft-deleted mailbox|/sɒft dɪˈliːtɪd ˈmeɪlbɒks/|软删除邮箱|n
+hard-deleted mailbox|/hɑːd dɪˈliːtɪd ˈmeɪlbɒks/|硬删除邮箱|n
+reconnect mailbox|/ˌriːkəˈnekt ˈmeɪlbɒks/|重新连接邮箱|v
+purge|/pɜːdʒ/|彻底清除|v
+hold policy|/həʊld ˈpɒləsi/|保留策略|n
+legal hold|/ˈliːɡl həʊld/|法律保留|n
+compliance search|/kəmˈplaɪəns sɜːtʃ/|合规检索|n
+content search|/ˈkɒntent sɜːtʃ/|内容检索|n
+export PST|/ˈekspɔːt ˌpiː es ˈtiː/|导出个人存储|n
+import PST|/ˈɪmpɔːt ˌpiː es ˈtiː/|导入个人存储|n
+migration batch|/maɪˈɡreɪʃn bætʃ/|迁移批次|n
+move request|/muːv rɪˈkwest/|迁移请求|n
+stalled move|/stɔːld muːv/|卡住的迁移|n
+bad item limit|/bæd ˈaɪtəm ˈlɪmɪt/|坏项上限|n
+large item|/lɑːdʒ ˈaɪtəm/|超大项目|n
+corrupt item|/kəˈrʌpt ˈaɪtəm/|损坏项目|n
+skip item|/skɪp ˈaɪtəm/|跳过项目|v
+resume move|/rɪˈzjuːm muːv/|恢复迁移|v
+complete move|/kəmˈpliːt muːv/|完成迁移|v
+cutover migration|/ˈkʌtəʊvə maɪˈɡreɪʃn/|切换迁移|n
+staged migration|/steɪdʒd maɪˈɡreɪʃn/|分阶段迁移|n
+hybrid migration|/ˈhaɪbrɪd maɪˈɡreɪʃn/|混合迁移|n
+IMAP migration|/ˈaɪmæp maɪˈɡreɪʃn/|IMAP迁移|n
+MRS|/ˌem ɑːr ˈes/|邮箱复制服务|acr
+proxy endpoint|/ˈprɒksi ˈendpɔɪnt/|代理端点|n
+MRS proxy|/ˌem ɑːr ˈes ˈprɒksi/|邮箱复制代理|n
+throttling policy|/ˈθrɒtlɪŋ ˈpɒləsi/|限流策略|n
+user throttling|/ˈjuːzə ˈθrɒtlɪŋ/|用户限流|n
+tenant throttling|/ˈtenənt ˈθrɒtlɪŋ/|租户限流|n
+workload management|/ˈwɜːkləʊd ˈmænɪdʒmənt/|负载管理|n
+health mailbox|/helθ ˈmeɪlbɒks/|健康邮箱|n
+probe mailbox|/prəʊb ˈmeɪlbɒks/|探测邮箱|n
+test cmdlet|/test kəˈmændlɪt/|测试命令|n
+PowerShell|/ˈpaʊəʃel/|命令行外壳|n
+remote PowerShell|/rɪˈməʊt ˈpaʊəʃel/|远程命令行|n
+constrained language|/kənˈstreɪnd ˈlæŋɡwɪdʒ/|受限语言模式|n
+execution policy|/ˌeksɪˈkjuːʃn ˈpɒləsi/|执行策略|n
+signed script|/saɪnd skrɪpt/|已签名脚本|n
+unsigned script|/ʌnˈsaɪnd skrɪpt/|未签名脚本|n
+Just Enough Admin|/dʒʌst ɪˈnʌf ˈædmɪn/|刚好够用的管理|n
+JEAN|/dʒiːn/|刚好够用管理|acr
+PAM|/pæm/|特权账号管理|acr
+privileged identity|/ˈprɪvəlɪdʒd aɪˈdentəti/|特权身份管理|n
+eligible role|/ˈelɪdʒəbl rəʊl/|可激活角色|n
+active role|/ˈæktɪv rəʊl/|已激活角色|n
+role activation|/rəʊl ˌæktɪˈveɪʃn/|角色激活|n
+approval workflow IT|/əˈpruːvl ˈwɜːkfləʊ aɪ ˈtiː/|权限审批流|n
+time-bound access|/taɪm baʊnd ˈækses/|限时权限|n
+just-in-time access|/dʒʌst ɪn taɪm ˈækses/|即时权限|n
+standing access|/ˈstændɪŋ ˈækses/|长期权限|n
+break-glass account|/breɪk ɡlɑːs əˈkaʊnt/|应急账号|n
+emergency admin|/ɪˈmɜːdʒənsi ˈædmɪn/|应急管理员|n
+offline admin|/ˈɒflaɪn ˈædmɪn/|离线管理员|n
+cloud admin|/klaʊd ˈædmɪn/|云管理员|n
+global admin|/ˈɡləʊbl ˈædmɪn/|全局管理员|n
+helpdesk admin|/ˈhelpdesk ˈædmɪn/|服务台管理员|n
+user admin|/ˈjuːzə ˈædmɪn/|用户管理员|n
+exchange admin|/ɪksˈtʃeɪndʒ ˈædmɪn/|邮件管理员|n
+sharepoint admin|/ˈʃeəpɔɪnt ˈædmɪn/|协作平台管理员|n
+teams admin|/tiːmz ˈædmɪn/|会议平台管理员|n
+security admin|/sɪˈkjʊərəti ˈædmɪn/|安全管理员|n
+compliance admin|/kəmˈplaɪəns ˈædmɪn/|合规管理员|n
+billing admin|/ˈbɪlɪŋ ˈædmɪn/|计费管理员|n
+license admin|/ˈlaɪsns ˈædmɪn/|授权管理员|n
+application admin|/ˌæplɪˈkeɪʃn ˈædmɪn/|应用管理员|n
+cloud app security|/klaʊd æp sɪˈkjʊərəti/|云应用安全|n
+CASB|/kæzb/|云访问安全代理|acr
+SSO app|/ˌes es ˈəʊ æp/|单点登录应用|n
+SAML app|/sæml æp/|断言登录应用|n
+OIDC app|/ˌəʊ aɪ diː ˈsiː æp/|开放身份应用|n
+app registration|/æp ˌredʒɪˈstreɪʃn/|应用注册|n
+client ID|/ˈklaɪənt aɪ ˈdiː/|客户端编号|n
+client secret|/ˈklaɪənt ˈsiːkrɪt/|客户端密钥|n
+redirect URI|/ˌriːdəˈrekt ˌjuː ɑːr ˈaɪ/|回调地址|n
+reply URL|/rɪˈplaɪ juː ɑːr ˈel/|回复地址|n
+consent prompt|/kənˈsent prɒmpt/|授权提示|n
+admin consent|/ˈædmɪn kənˈsent/|管理员授权|n
+user consent|/ˈjuːzə kənˈsent/|用户授权|n
+permission scope|/pəˈmɪʃn skəʊp/|权限范围|n
+delegated permission|/ˈdelɪɡeɪtɪd pəˈmɪʃn/|委派权限|n
+application permission|/ˌæplɪˈkeɪʃn pəˈmɪʃn/|应用权限|n
+Graph API|/ɡrɑːf ˌeɪ piː ˈaɪ/|图形接口|n
+webhook subscription|/ˈwebhʊk səbˈskrɪpʃn/|回调订阅|n
+change notification|/tʃeɪndʒ ˌnəʊtɪˈfeɪʃn/|变更通知|n
+delta query|/ˈdeltə ˈkwɪəri/|增量查询|n
+batch request|/bætʃ rɪˈkwest/|批量请求|n
+throttled request|/ˈθrɒtld rɪˈkwest/|被限流的请求|n
+retry-after|/ˈriːtraɪ ˈɑːftə/|稍后重试|n
+idempotent|/aɪˈdempətənt/|幂等的|adj
+correlation header|/ˌkɒrəˈleɪʃn ˈhedə/|关联头|n
+request tracing|/rɪˈkwest ˈtreɪsɪŋ/|请求追踪|n
+distributed tracing|/dɪˈstrɪbjuːtɪd ˈtreɪsɪŋ/|分布式追踪|n
+OpenTelemetry|/ˈəʊpən təˈlemɪtri/|开放遥测|n
+metrics|/ˈmetrɪks/|度量指标|n
+logs|/lɒɡz/|日志|n
+traces|/ˈtreɪsɪz/|追踪|n
+span ID|/spæn aɪ ˈdiː/|片段编号|n
+parent span|/ˈpeərənt spæn/|父片段|n
+baggage|/ˈbæɡɪdʒ/|追踪附加信息|n
+sampling|/ˈsɑːmplɪŋ/|采样|n
+tail sampling|/teɪl ˈsɑːmplɪŋ/|尾部采样|n
+head sampling|/hed ˈsɑːmplɪŋ/|头部采样|n
+cardinality|/ˌkɑːdɪˈnæləti/|基数|n
+high cardinality|/haɪ ˌkɑːdɪˈnæləti/|高基数|n
+label explosion|/ˈleɪbl ɪkˈspləʊʒn/|标签爆炸|n
+metric name|/ˈmetrɪk neɪm/|指标名|n
+histogram|/ˈhɪstəɡræm/|直方图|n
+gauge|/ɡeɪdʒ/|瞬时值|n
+counter|/ˈkaʊntə/|计数器|n
+summary metric|/ˈsʌməri ˈmetrɪk/|汇总指标|n
+alert rule|/əˈlɜːt ruːl/|告警规则|n
+recording rule|/rɪˈkɔːdɪŋ ruːl/|预聚合规则|n
+silence|/ˈsaɪləns/|告警静默|n
+inhibition|/ˌɪnhɪˈbɪʃn/|告警抑制|n
+routing key|/ˈruːtɪŋ kiː/|路由键|n
+pager duty|/ˈpeɪdʒə ˈdjuːti/|值班告警|n
+on-call rotation IT|/ɒn kɔːl rəʊˈteɪʃn aɪ ˈtiː/|技术值班轮换|n
+incident commander|/ˈɪnsɪdənt kəˈmɑːndə/|事件指挥官|n
+comms lead|/kɒmz liːd/|沟通负责人|n
+scribe IT|/skraɪb aɪ ˈtiː/|故障记录员|n
+timeline keeper|/ˈtaɪmlaɪn ˈkiːpə/|时间线记录人|n
+subject-matter expert|/ˈsʌbdʒɪkt ˈmætə ˈekspɜːt/|专题专家|n
+bridge|/brɪdʒ/|故障电话桥|n
+war room chat|/wɔː ruːm tʃæt/|应急群聊|n
+status page|/ˈsteɪtəs peɪdʒ/|状态页|n
+public status|/ˈpʌblɪk ˈsteɪtəs/|对外状态|n
+internal status|/ɪnˈtɜːnl ˈsteɪtəs/|对内状态|n
+incident channel|/ˈɪnsɪdənt ˈtʃænl/|故障频道|n
+severity page|/səˈverəti peɪdʒ/|级别说明|n
+customer impact|/ˈkʌstəmə ˈɪmpækt/|用户影响|n
+blast radius|/blɑːst ˈreɪdiəs/|影响范围|n
+affected wards|/əˈfektɪd wɔːdz/|受影响病区|n
+affected clinics|/əˈfektɪd ˈklɪnɪks/|受影响门诊|n
+HIS down|/ˌeɪtʃ aɪ ˈes daʊn/|医院系统宕机|n
+EMR slow|/ˌiː em ˈɑː sləʊ/|电子病历变慢|n
+login storm|/ˈlɒɡɪn stɔːm/|登录风暴|n
+session pileup|/ˈseʃn ˈpaɪlʌp/|会话堆积|n
+license exhaustion|/ˈlaɪsns ɪɡˈzɔːstʃn/|授权耗尽|n
+concurrent session|/kənˈkʌrənt ˈseʃn/|并发会话|n
+named seat|/neɪmd siːt/|指定席位|n
+floating seat|/ˈfləʊtɪŋ siːt/|浮动席位|n
+CAL|/kæl/|客户端访问许可|acr
+device CAL|/dɪˈvaɪs kæl/|设备访问许可|n
+user CAL|/ˈjuːzə kæl/|用户访问许可|n
+RDS CAL|/ˌɑːr diː ˈes kæl/|远程桌面许可|n
+terminal server|/ˈtɜːmɪnl ˈsɜːvə/|终端服务器|n
+session host|/ˈseʃn həʊst/|会话主机|n
+connection broker|/kəˈnekʃn ˈbrəʊkə/|连接代理|n
+gateway server|/ˈɡeɪtweɪ ˈsɜːvə/|网关服务器|n
+web access|/web ˈækses/|网页访问|n
+RemoteApp|/rɪˈməʊtæp/|远程应用|n
+published app|/ˈpʌblɪʃt æp/|已发布应用|n
+published desktop|/ˈpʌblɪʃt ˈdesktɒp/|已发布桌面|n
+user profile disk|/ˈjuːzə ˈprəʊfaɪl dɪsk/|用户配置磁盘|n
+FSLogix|/ˈefeslɒdʒɪks/|配置文件容器|n
+profile container|/ˈprəʊfaɪl kənˈteɪnə/|配置容器|n
+office container|/ˈɒfɪs kənˈteɪnə/|办公配置容器|n
+cloud cache|/klaʊd kæʃ/|云缓存|n
+GPO loopback|/ˌdʒiː piː ˈəʊ ˈluːpbæk/|组策略回环|n
+folder redirection|/ˈfəʊldə ˌriːdəˈrekʃn/|文件夹重定向|n
+offline files|/ˈɒflaɪn faɪlz/|脱机文件|n
+CSC|/ˌsiː es ˈsiː/|客户端缓存|acr
+sync center|/sɪŋk ˈsentə/|同步中心|n
+always-on VPN|/ˈɔːlweɪz ɒn ˌviː piː ˈen/|常开虚拟专网|n
+device tunnel|/dɪˈvaɪs ˈtʌnl/|设备隧道|n
+user tunnel|/ˈjuːzə ˈtʌnl/|用户隧道|n
+IKEv2|/ˌaɪ keɪ ˈiː tuː/|密钥交换第二版|acr
+IPsec|/ˈaɪpsek/|网络层加密|acr
+L2TP|/ˌel tuː tiː ˈpiː/|第二层隧道协议|acr
+SSTP|/ˌes es tiː ˈpiː/|安全套接隧道|acr
+OpenVPN|/ˈəʊpən viː piː ˈen/|开源虚拟专网|n
+WireGuard|/ˈwaɪəɡɑːd/|轻量虚拟专网|n
+split DNS VPN|/splɪt ˌdiː en ˈes ˌviː piː ˈen/|分流域名专网|n
+force tunnel|/fɔːs ˈtʌnl/|强制隧道|n
+local breakout|/ˈləʊkl ˈbreɪkaʊt/|本地出口|n
+trusted network detection|/ˈtrʌstɪd ˈnetwɜːk dɪˈtekʃn/|可信网络检测|n
+NAP|/næp/|网络访问保护|acr
+NAC|/næk/|网络准入控制|acr
+802.1X|/eɪt əʊ tuː pɔɪnt wʌn eks/|端口认证|n
+RADIUS|/ˈreɪdiəs/|远程认证拨号服务|acr
+TACACS|/ˈtækæks/|终端访问控制器|acr
+EAP|/iː eɪ ˈpiː/|可扩展认证|acr
+PEAP|/piːp/|保护可扩展认证|acr
+EAP-TLS|/iː eɪ ˈpiː ˌtiː el ˈes/|证书认证|acr
+machine cert|/məˈʃiːn sɜːt/|计算机证书|n
+user cert|/ˈjuːzə sɜːt/|用户证书|n
+autoenrollment|/ˈɔːtəʊɪnˈrəʊlmənt/|自动注册|n
+certificate template|/səˈtɪfɪkət ˈtemplɪt/|证书模板|n
+enrollment agent|/ɪnˈrəʊlmənt ˈeɪdʒənt/|注册代理|n
+NDES|/en des/|网络设备注册服务|acr
+SCEP|/skep/|简单证书注册|acr
+Intune connector|/ˈɪntjuːn kəˈnektə/|云管理连接器|n
+hybrid join|/ˈhaɪbrɪd dʒɔɪn/|混合加入|n
+Azure AD join|/ˈæʒə eɪ ˈdiː dʒɔɪn/|云目录加入|n
+domain join|/dəˈmeɪn dʒɔɪn/|加域|n
+workgroup|/ˈwɜːkɡruːp/|工作组|n
+local account|/ˈləʊkl əˈkaʊnt/|本地账号|n
+Microsoft account|/ˈmaɪkrəsɒft əˈkaʊnt/|微软账号|n
+workplace join|/ˈwɜːkpleɪs dʒɔɪn/|工作场所加入|n
+device registration|/dɪˈvaɪs ˌredʒɪˈstreɪʃn/|设备注册|n
+device compliance|/dɪˈvaɪs kəmˈplaɪəns/|设备合规|n
+compliance policy|/kəmˈplaɪəns ˈpɒləsi/|合规策略|n
+configuration profile|/kənˌfɪɡəˈreɪʃn ˈprəʊfaɪl/|配置描述文件|n
+app protection|/æp prəˈtekʃn/|应用防护|n
+Windows Information Protection|/ˈwɪndəʊz ˌɪnfəˈmeɪʃn prəˈtekʃn/|Windows信息保护|n
+MAM|/mæm/|移动应用管理|acr
+selective wipe|/sɪˈlektɪv waɪp/|选择性擦除|n
+full wipe|/fʊl waɪp/|全部擦除|n
+retire device|/rɪˈtaɪə dɪˈvaɪs/|退役设备|v
+wipe device|/waɪp dɪˈvaɪs/|擦除设备|v
+lost mode|/lɒst məʊd/|丢失模式|n
+activation lock|/ˌæktɪˈveɪʃn lɒk/|激活锁|n
+DEP enrollment|/dep ɪnˈrəʊlmənt/|设备自动注册|n
+ABM|/ˌeɪ biː ˈem/|商务设备管理|acr
+supervised device|/ˈsuːpəvaɪzd dɪˈvaɪs/|监管设备|n
+unsupervised device|/ˌʌnˈsuːpəvaɪzd dɪˈvaɪs/|非监管设备|n
+kiosk mode|/ˈkiːɒsk məʊd/|自助模式|n
+single-app mode|/ˈsɪŋɡl æp məʊd/|单应用模式|n
+guided access|/ˈɡaɪdɪd ˈækses/|引导式访问|n
+autonomous single app|/ɔːˈtɒnəməs ˈsɪŋɡl æp/|自动单应用|n
+shared iPad|/ʃeəd ˈaɪpæd/|共享平板|n
+temporary session|/ˈtemprəri ˈseʃn/|临时会话|n
+guest session|/ɡest ˈseʃn/|访客会话|n
+clinic tablet|/ˈklɪnɪk ˈtæblɪt/|门诊平板|n
+ward tablet|/wɔːd ˈtæblɪt/|病区平板|n
+medication tablet|/ˌmedɪˈkeɪʃn ˈtæblɪt/|发药平板|n
+rounding tablet|/ˈraʊndɪŋ ˈtæblɪt/|查房平板|n
+consent tablet|/kənˈsent ˈtæblɪt/|知情同意平板|n
+wayfinding kiosk|/ˈweɪfaɪndɪŋ ˈkiːɒsk/|导引自助机|n
+check-in kiosk|/tʃek ɪn ˈkiːɒsk/|签到自助机|n
+payment kiosk|/ˈpeɪmənt ˈkiːɒsk/|缴费自助机|n
+report kiosk|/rɪˈpɔːt ˈkiːɒsk/|取报告自助机|n
+queue kiosk|/kjuː ˈkiːɒsk/|取号自助机|n
+blood-draw kiosk|/blʌd drɔː ˈkiːɒsk/|抽血签到机|n
+pharmacy kiosk|/ˈfɑːməsi ˈkiːɒsk/|药房自助机|n
+film kiosk|/fɪlm ˈkiːɒsk/|胶片自助机|n
+CD burner|/siː diː ˈbɜːnə/|光盘刻录|n
+DICOM CD|/ˈdaɪkɒm siː diː/|影像光盘|n
+portable media|/ˈpɔːtəbl ˈmiːdiə/|便携介质|n
+encrypted USB|/ɪnˈkrɪptɪd ˌjuː es ˈbiː/|加密U盘|n
+managed USB|/ˈmænɪdʒd ˌjuː es ˈbiː/|受管U盘|n
+blocked USB|/blɒkt ˌjuː es ˈbiː/|被拦截U盘|n
+read-only USB|/riːd ˈəʊnli ˌjuː es ˈbiː/|只读U盘|n
+write-blocked|/raɪt blɒkt/|写保护的|adj
+forensic image|/fəˈrensɪk ˈɪmɪdʒ/|取证镜像|n
+chain of custody|/tʃeɪn əv ˈkʌstədi/|保管链|n
+evidence locker|/ˈevɪdəns ˈlɒkə/|证据柜|n
+ticket evidence|/ˈtɪkɪt ˈevɪdəns/|工单证据|n
+screenshot|/ˈskriːnʃɒt/|屏幕截图|n
+screen recording|/skriːn rɪˈkɔːdɪŋ/|屏幕录像|n
+HAR file|/hɑː faɪl/|网页抓包文件|n
+Fiddler|/ˈfɪdlə/|网页调试代理|n
+Postman|/ˈpəʊstmən/|接口调试工具|n
+curl|/kɜːl/|命令行请求|n
+wget|/ˈdʌbəljuːɡet/|命令行下载|n
+PowerShell remoting|/ˈpaʊəʃel rɪˈməʊtɪŋ/|远程命令|n
+WinRM|/ˈwɪnɑːm/|Windows远程管理|acr
+WMI|/ˌdʌbljuː em ˈaɪ/|Windows管理规范|acr
+CIM|/sɪm/|通用信息模型|acr
+SNMP trap|/ˌes en em ˈpiː træp/|网管陷阱|n
+syslog facility|/ˈsɪslɒɡ fəˈsɪləti/|日志设施|n
+severity code|/səˈverəti kəʊd/|严重级别码|n
+RFC|/ˌɑːr ef ˈsiː/|请求评议文档|acr
+MIB|/mɪb/|管理信息库|acr
+OID|/ˌəʊ aɪ ˈdiː/|对象标识|acr
+community string|/kəˈmjuːnəti strɪŋ/|团体字|n
+SNMPv3|/ˌes en em ˈpiː θriː/|加密网管协议|n
+authPriv|/ɔːθ prɪv/|认证加密|n
+authNoPriv|/ɔːθ nəʊ prɪv/|仅认证|n
+noAuthNoPriv|/nəʊ ɔːθ nəʊ prɪv/|无认证无加密|n
+poll interval|/pəʊl ˈɪntəvl/|轮询间隔|n
+timeout retry|/ˈtaɪmaʊt ˈriːtraɪ/|超时重试|n
+unreachable host|/ʌnˈriːtʃəbl həʊst/|主机不可达|n
+packet too big|/ˈpækɪt tuː bɪɡ/|报文过大|n
+MTU|/ˌem tiː ˈjuː/|最大传输单元|acr
+fragmentation|/ˌfræɡmənˈteɪʃn/|分片|n
+PMTUD|/ˌpiː em tiː juː ˈdiː/|路径最大单元探测|acr
+black hole|/blæk həʊl/|黑洞路由|n
+asymmetric routing|/ˌeɪsɪˈmetrɪk ˈruːtɪŋ/|不对称路由|n
+stateful firewall|/ˈsteɪtfl ˈfaɪəwɔːl/|状态防火墙|n
+stateless ACL|/ˈsteɪtləs ˌeɪ siː ˈel/|无状态访问表|n
+return traffic|/rɪˈtɜːn ˈtræfɪk/|回程流量|n
+established session|/ɪˈstæblɪʃt ˈseʃn/|已建立会话|n
+half-open|/hɑːf ˈəʊpən/|半开连接|n
+SYN flood|/sɪn flʌd/|半开洪水|n
+connection tracking|/kəˈnekʃn ˈtrækɪŋ/|连接跟踪|n
+conntrack|/ˈkɒntræk/|连接跟踪表|n
+NAT table|/næt ˈteɪbl/|地址转换表|n
+source NAT|/sɔːs næt/|源地址转换|n
+destination NAT|/ˌdestɪˈneɪʃn næt/|目的地址转换|n
+port address translation|/pɔːt əˈdres trænsˈleɪʃn/|端口地址转换|n
+hairpin NAT|/ˈheəpɪn næt/|回流地址转换|n
+one-to-one NAT|/wʌn tə wʌn næt/|一对一地址转换|n
+many-to-one NAT|/ˈmeni tə wʌn næt/|多对一地址转换|n
+VIP|/viː aɪ ˈpiː/|虚拟地址|acr
+real server|/rɪəl ˈsɜːvə/|真实服务器|n
+health check URL|/helθ tʃek juː ɑːr ˈel/|健康检查地址|n
+persistence|/pəˈsɪstəns/|会话保持|n
+sticky session|/ˈstɪki ˈseʃn/|粘滞会话|n
+cookie persistence|/ˈkʊki pəˈsɪstəns/|Cookie保持|n
+source IP persistence|/sɔːs aɪ ˈpiː pəˈsɪstəns/|源地址保持|n
+least connections|/liːst kəˈnekʃnz/|最少连接|n
+round robin|/raʊnd ˈrɒbɪn/|轮询|n
+weighted round robin|/ˈweɪtɪd raʊnd ˈrɒbɪn/|加权轮询|n
+least response time|/liːst rɪˈspɒns taɪm/|最短响应|n
+hash balancing|/hæʃ ˈbælənsɪŋ/|哈希分担|n
+SSL offload|/ˌes es ˈel ˈɒfləʊd/|证书卸载|n
+SSL bridging|/ˌes es ˈel ˈbrɪdʒɪŋ/|证书桥接|n
+SSL passthrough|/ˌes es ˈel ˈpɑːsθruː/|证书透传|n
+SNI|/ˌes en ˈaɪ/|服务器名称指示|acr
+HTTP/2|/ˌeɪtʃ tiː tiː ˈpiː tuː/|第二版网页协议|n
+HTTP/3|/ˌeɪtʃ tiː tiː ˈpiː θriː/|第三版网页协议|n
+QUIC|/kwɪk/|快速加密传输|acr
+WebSocket|/ˈwebsɒkɪt/|长连接套接字|n
+gRPC|/ˌdʒiː ɑːr piː ˈsiː/|远程过程调用|acr
+GraphQL|/ɡrɑːf kjuː ˈel/|查询语言接口|n
+OpenAPI|/ˈəʊpən ˌeɪ piː ˈaɪ/|接口说明书|n
+Swagger|/ˈswæɡə/|接口文档|n
+WSDL|/ˈwɪzdl/|服务描述语言|acr
+XSD|/ˌeks es ˈdiː/|XML结构定义|acr
+JSON Schema|/ˈdʒeɪsən ˈskiːmə/|JSON结构|n
+payload size|/ˈpeɪləʊd saɪz/|报文大小|n
+chunked encoding|/tʃʌŋkt ɪnˈkəʊdɪŋ/|分块编码|n
+gzip|/ˈdʒiːzɪp/|压缩编码|n
+brotli|/ˈbrɒtli/|压缩算法|n
+cache-control|/kæʃ kənˈtrəʊl/|缓存控制|n
+etag|/ˈiːtæɡ/|实体标签|n
+last-modified|/lɑːst ˈmɒdɪfaɪd/|最后修改|n
+if-none-match|/ɪf nʌn mætʃ/|条件匹配|n
+304 response|/θriː əʊ fɔː rɪˈspɒns/|未修改响应|n
+301 redirect|/θriː əʊ wʌn ˌriːdəˈrekt/|永久重定向|n
+302 redirect|/θriː əʊ tuː ˌriːdəˈrekt/|临时重定向|n
+401 unauthorized|/fɔːr əʊ wʌn ʌnˈɔːθəraɪzd/|未授权|n
+403 forbidden|/fɔːr əʊ θriː fəˈbɪdn/|禁止访问|n
+404 not found|/fɔːr əʊ fɔː nɒt faʊnd/|未找到|n
+429 too many|/fɔː tuː naɪn tuː ˈmeni/|请求过多|n
+500 error|/faɪv ˈhʌndrəd ˈerə/|服务器错误|n
+502 bad gateway|/faɪv əʊ tuː bæd ˈɡeɪtweɪ/|网关错误|n
+503 unavailable|/faɪv əʊ θriː ʌnəˈveɪləbl/|服务不可用|n
+504 gateway timeout|/faɪv əʊ fɔː ˈɡeɪtweɪ ˈtaɪmaʊt/|网关超时|n
+retry storm|/ˈriːtraɪ stɔːm/|重试风暴|n
+backoff|/ˈbækɒf/|退避|n
+exponential backoff|/ˌekspəˈnenʃl ˈbækɒf/|指数退避|n
+jittered retry|/ˈdʒɪtəd ˈriːtraɪ/|带抖动重试|n
+circuit open|/ˈsɜːkɪt ˈəʊpən/|熔断打开|n
+circuit closed|/ˈsɜːkɪt kləʊzd/|熔断关闭|n
+half-open circuit|/hɑːf ˈəʊpən ˈsɜːkɪt/|半开熔断|n
+bulkhead|/ˈbʌlkhed/|舱壁隔离|n
+timeout budget|/ˈtaɪmaʊt ˈbʌdʒɪt/|超时预算|n
+deadline propagation|/ˈdedlaɪn ˌprɒpəˈɡeɪʃn/|截止传播|n
+cancellation|/ˌkænsəˈleɪʃn/|取消请求|n
+graceful shutdown|/ˈɡreɪsfl ˈʃʌtdaʊn/|平滑关机|n
+drain timeout|/dreɪn ˈtaɪmaʊt/|排空超时|n
+prestop hook|/priːstɒp hʊk/|停止前钩子|n
+poststart hook|/pəʊststɑːt hʊk/|启动后钩子|n
+init container|/ˈɪnɪt kənˈteɪnə/|初始化容器|n
+ephemeral volume|/ɪˈfemərəl ˈvɒljuːm/|临时卷|n
+emptyDir|/ˈempti dɪə/|空目录卷|n
+hostPath|/həʊst pɑːθ/|宿主机路径|n
+configMap key|/kənˈfɪɡmæp kiː/|配置键|n
+secret key ref|/ˈsiːkrɪt kiː ref/|密钥引用|n
+envFrom|/env frɒm/|批量环境变量|n
+resource request|/rɪˈsɔːs rɪˈkwest/|资源请求|n
+resource limit|/rɪˈsɔːs ˈlɪmɪt/|资源限制|n
+OOMKill|/uːm kɪl/|内存杀进程|n
+eviction|/ɪˈvɪkʃn/|驱逐|n
+taint|/teɪnt/|污点|n
+toleration|/ˌtɒləˈreɪʃn/|容忍|n
+node selector|/nəʊd sɪˈlektə/|节点选择器|n
+affinity rule|/əˈfɪnəti ruːl/|亲和规则|n
+topology spread|/təˈpɒlədʒi spred/|拓扑打散|n
+disruption budget|/dɪsˈrʌpʃn ˈbʌdʒɪt/|中断预算|n
+rolling update|/ˈrəʊlɪŋ ˌʌpˈdeɪt/|滚动更新|n
+max unavailable|/mæks ʌnəˈveɪləbl/|最大不可用|n
+max surge|/mæks sɜːdʒ/|最大超额|n
+revision history|/rɪˈvɪʒn ˈhɪstri/|修订历史|n
+rollout|/ˈrəʊlaʊt/|滚动发布|n
+rollout pause|/ˈrəʊlaʊt pɔːz/|暂停发布|n
+rollout resume|/ˈrəʊlaʊt rɪˈzjuːm/|继续发布|n
+rollout undo|/ˈrəʊlaʊt ʌnˈduː/|撤销发布|n
+replica set|/ˈreplɪkə set/|副本集|n
+deployment|/dɪˈplɔɪmənt/|部署对象|n
+stateful set|/ˈsteɪtfl set/|有状态副本|n
+daemon set|/ˈdiːmən set/|守护副本|n
+job|/dʒɒb/|一次性任务|n
+cronjob|/ˈkrɒndʒɒb/|定时任务对象|n
+HPA|/ˌeɪtʃ piː ˈeɪ/|水平自动扩缩|acr
+VPA|/ˌviː piː ˈeɪ/|垂直自动扩缩|acr
+cluster autoscaler|/ˈklʌstə ˈɔːtəʊskeɪlə/|集群自动扩缩|n
+node autoscaler|/nəʊd ˈɔːtəʊskeɪlə/|节点自动扩缩|n
+scale out|/skeɪl aʊt/|横向扩展|v
+scale in|/skeɪl ɪn/|横向收缩|v
+scale up|/skeɪl ʌp/|纵向升配|v
+scale down|/skeɪl daʊn/|纵向降配|v
+warm pool|/wɔːm puːl/|预热池|n
+cold pool|/kəʊld puːl/|冷池|n
+spot instance|/spɒt ˈɪnstəns/|抢占实例|n
+on-demand instance|/ɒn dɪˈmɑːnd ˈɪnstəns/|按需实例|n
+reserved instance|/rɪˈzɜːvd ˈɪnstəns/|预留实例|n
+savings plan|/ˈseɪvɪŋz plæn/|节省计划|n
+right-sizing|/raɪt ˈsaɪzɪŋ/|规格优化|n
+idle resource|/ˈaɪdl rɪˈsɔːs/|闲置资源|n
+zombie VM|/ˈzɒmbi ˌviː ˈem/|僵尸虚拟机|n
+orphaned disk|/ˈɔːfənd dɪsk/|孤儿磁盘|n
+unattached volume|/ˌʌnəˈtætʃt ˈvɒljuːm/|未挂载卷|n
+snapshot lifecycle|/ˈsnæpʃɒt ˈlaɪfsaɪkl/|快照生命周期|n
+backup policy|/ˈbækʌp ˈpɒləsi/|备份策略|n
+retention count|/rɪˈtenʃn kaʊnt/|保留份数|n
+GFS backup|/ˌdʒiː ef ˈes ˈbækʌp/|代际备份|n
+grandfather backup|/ˈɡrænfɑːðə ˈbækʌp/|长期备份|n
+father backup|/ˈfɑːðə ˈbækʌp/|中期备份|n
+son backup|/sʌn ˈbækʌp/|短期备份|n
+weekly full|/ˈwiːkli fʊl/|每周全备|n
+daily incremental|/ˈdeɪli ˌɪŋkrɪˈmentl/|每日增量|n
+hourly snapshot|/ˈaʊəli ˈsnæpʃɒt/|每小时快照|n
+continuous backup|/kənˈtɪnjuəs ˈbækʌp/|持续备份|n
+point-in-time restore|/pɔɪnt ɪn taɪm rɪˈstɔː/|时间点恢复|n
+log shipping|/lɒɡ ˈʃɪpɪŋ/|日志传送|n
+mirroring|/ˈmɪrərɪŋ/|数据库镜像|n
+Always On|/ˈɔːlweɪz ɒn/|始终联机|n
+availability group|/əˌveɪləˈbɪləti ɡruːp/|可用性组|n
+listener|/ˈlɪsnə/|监听器|n
+read-intent|/riːd ɪnˈtent/|只读意图|n
+synchronous commit|/ˈsɪŋkrənəs kəˈmɪt/|同步提交|n
+asynchronous commit|/eɪˈsɪŋkrənəs kəˈmɪt/|异步提交|n
+forced failover|/fɔːst ˈfeɪləʊvə/|强制故障转移|n
+planned failover|/plænd ˈfeɪləʊvə/|计划故障转移|n
+automatic failover|/ˌɔːtəˈmætɪk ˈfeɪləʊvə/|自动故障转移|n
+witness|/ˈwɪtnəs/|见证|n
+file share witness|/faɪl ʃeə ˈwɪtnəs/|文件共享见证|n
+cloud witness|/klaʊd ˈwɪtnəs/|云见证|n
+dynamic quorum|/daɪˈnæmɪk ˈkwɔːrəm/|动态仲裁|n
+node majority|/nəʊd məˈdʒɒrəti/|节点多数|n
+disk witness|/dɪsk ˈwɪtnəs/|磁盘见证|n
+cluster IP|/ˈklʌstə aɪ ˈpiː/|集群地址|n
+cluster name|/ˈklʌstə neɪm/|集群名称|n
+role|/rəʊl/|集群角色|n
+resource|/rɪˈsɔːs/|集群资源|n
+dependency tree|/dɪˈpendənsi triː/|依赖树|n
+possible owners|/ˈpɒsəbl ˈəʊnəz/|可能属主|n
+preferred owners|/prɪˈfɜːd ˈəʊnəz/|首选属主|n
+failback policy|/ˈfeɪlbæk ˈpɒləsi/|故障切回策略|n
+restart policy|/ˌriːˈstɑːt ˈpɒləsi/|重启策略|n
+pending timeout|/ˈpendɪŋ ˈtaɪmaʊt/|挂起超时|n
+offline timeout|/ˈɒflaɪn ˈtaɪmaʊt/|离线超时|n
+looks alive|/lʊks əˈlaɪv/|看起来存活|n
+is alive|/ɪz əˈlaɪv/|确实存活|n
+cluster log|/ˈklʌstə lɒɡ/|集群日志|n
+validate cluster|/ˈvælɪdeɪt ˈklʌstə/|验证集群|v
+cluster-aware updating|/ˈklʌstə əˈweə ˌʌpˈdeɪtɪŋ/|集群感知更新|n
+CAU|/kɔː/|集群感知更新|acr
+paused node|/pɔːzd nəʊd/|已暂停节点|n
+draining node|/ˈdreɪnɪŋ nəʊd/|正在排空节点|n
+evicted role|/ɪˈvɪktɪd rəʊl/|被驱逐角色|n
+owned by|/əʊnd baɪ/|由谁持有|phr|The file share is owned by node two.|这个文件共享由二号节点持有。
+move role|/muːv rəʊl/|迁移角色|v
+start role|/stɑːt rəʊl/|启动角色|v
+stop role|/stɒp rəʊl/|停止角色|v
+simulate failure|/ˈsɪmjuleɪt ˈfeɪljə/|模拟故障|v
+force quorum|/fɔːs ˈkwɔːrəm/|强制仲裁|v
+repair cluster|/rɪˈpeə ˈklʌstə/|修复集群|v
+destroy cluster|/dɪˈstrɔɪ ˈklʌstə/|销毁集群|v
+join node|/dʒɔɪn nəʊd/|加入节点|v
+evict node|/ɪˈvɪkt nəʊd/|逐出节点|v
+add disk|/æd dɪsk/|添加磁盘|v
+remove disk|/rɪˈmuːv dɪsk/|移除磁盘|v
+online disk|/ˈɒnlaɪn dɪsk/|联机磁盘|v
+offline disk|/ˈɒflaɪn dɪsk/|脱机磁盘|v
+initialize disk|/ɪˈnɪʃəlaɪz dɪsk/|初始化磁盘|v
+format volume|/ˈfɔːmæt ˈvɒljuːm/|格式化卷|v
+extend volume|/ɪkˈstend ˈvɒljuːm/|扩展卷|v
+shrink volume|/ʃrɪŋk ˈvɒljuːm/|收缩卷|v
+mount point|/maʊnt pɔɪnt/|挂载点|n
+drive letter|/draɪv ˈletə/|盘符|n
+GPT|/ˌdʒiː piː ˈtiː/|GUID分区表|acr
+MBR|/ˌem biː ˈɑː/|主引导记录|acr
+partition|/pɑːˈtɪʃn/|分区|n
+volume label|/ˈvɒljuːm ˈleɪbl/|卷标|n
+NTFS|/ˌen tiː ef ˈes/|Windows文件系统|acr
+ReFS|/refz/|弹性文件系统|acr
+ext4|/ekst fɔː/|Linux文件系统|n
+XFS|/ˌeks ef ˈes/|高性能文件系统|acr
+ZFS|/zed ef ˈes/|池化文件系统|acr
+btrfs|/ˈbʌtəfs/|写时复制文件系统|n
+inode table|/ˈaɪnəʊd ˈteɪbl/|节点表|n
+journal|/ˈdʒɜːnl/|日志区|n
+fsck|/fɪsk/|文件系统检查|n
+chkdsk|/tʃek dɪsk/|磁盘检查|n
+defrag|/ˈdiːfræɡ/|磁盘整理|v
+trim|/trɪm/|固态回收|v
+wear leveling|/weə ˈlevlɪŋ/|磨损均衡|n
+overprovision|/ˈəʊvəprəvɪʒn/|预留空间|n
+endurance|/ɪnˈdjʊərəns/|写入寿命|n
+TBW|/ˌtiː biː ˈdʌbljuː/|可写总量|acr
+DWPD|/ˌdiː ˈdʌbljuː piː ˈdiː/|每日全盘写入|acr
+power-loss protection|/ˈpaʊə lɒs prəˈtekʃn/|掉电保护|n
+PLP|/ˌpiː el ˈpiː/|掉电保护|acr
+supercap|/ˈsuːpəkæp/|超级电容|n
+BBU|/ˌbiː biː ˈjuː/|电池备份单元|acr
+learn cycle|/lɜːn ˈsaɪkl/|电池学习周期|n
+battery failed|/ˈbætri feɪld/|电池故障|n
+write-through fallback|/raɪt θruː ˈfɔːlbæk/|直写回退|n
+cache disabled|/kæʃ dɪsˈeɪbld/|缓存已关闭|n
+battery charging|/ˈbætri ˈtʃɑːdʒɪŋ/|电池充电中|n
+battery ready|/ˈbætri ˈredi/|电池就绪|n
+controller firmware|/kənˈtrəʊlə ˈfɜːmweə/|阵列卡固件|n
+controller log|/kənˈtrəʊlə lɒɡ/|阵列卡日志|n
+smart error|/smɑːt ˈerə/|磁盘健康错误|n
+predictive spare|/prɪˈdɪktɪv speə/|预警热备|n
+copyback|/ˈkɒpibæk/|回拷|n
+rebuild priority|/ˌriːˈbɪld praɪˈɒrəti/|重建优先级|n
+patrol read|/pəˈtrəʊl riːd/|巡检读取|n
+consistency check|/kənˈsɪstənsi tʃek/|一致性检查|n
+background init|/ˈbækɡraʊnd ˈɪnɪt/|后台初始化|n
+fast init|/fɑːst ˈɪnɪt/|快速初始化|n
+secure erase|/sɪˈkjʊər ɪˈreɪz/|安全擦除|n
+sanitize|/ˈsænɪtaɪz/|净化擦除|v
+crypto erase|/ˈkrɪptəʊ ɪˈreɪz/|加密擦除|n
+block erase|/blɒk ɪˈreɪz/|块擦除|n
+overwrite pass|/ˌəʊvəˈraɪt pɑːs/|覆盖遍数|n
+verify pass|/ˈverɪfaɪ pɑːs/|校验遍数|n
+wipe status|/waɪp ˈsteɪtəs/|擦除状态|n
+certified destruction|/ˈsɜːtɪfaɪd dɪˈstrʌkʃn/|认证销毁|n
+certificate of destruction|/səˈtɪfɪkət əv dɪˈstrʌkʃn/|销毁证明|n
+media tracking|/ˈmiːdiə ˈtrækɪŋ/|介质追踪|n
+tape barcode|/teɪp ˈbɑːkəʊd/|磁带条码|n
+tape slot|/teɪp slɒt/|磁带槽位|n
+drive cleaning|/draɪv ˈkliːnɪŋ/|磁头清洁|n
+cleaning cartridge|/ˈkliːnɪŋ ˈkɑːtrɪdʒ/|清洁带|n
+write protect|/raɪt prəˈtekt/|写保护|n
+write-protect tab|/raɪt prəˈtekt tæb/|写保护开关|n
+LTO|/ˌel tiː ˈəʊ/|线性磁带开放|acr
+tape drive|/teɪp draɪv/|磁带机|n
+library robot|/ˈlaɪbrəri ˈrəʊbɒt/|带库机械臂|n
+I/E station|/aɪ ˈiː ˈsteɪʃn/|进出仓口|n
+mail slot|/meɪl slɒt/|投递口|n
+cartridge|/ˈkɑːtrɪdʒ/|磁带匣|n
+volume serial|/ˈvɒljuːm ˈsɪəriəl/|卷序列号|n
+media set|/ˈmiːdiə set/|介质集|n
+backup set|/ˈbækʌp set/|备份集|n
+catalog database|/ˈkætəlɒɡ ˈdeɪtəbeɪs/|目录库|n
+media server|/ˈmiːdiə ˈsɜːvə/|介质服务器|n
+master server|/ˈmɑːstə ˈsɜːvə/|主备份服务器|n
+client backup|/ˈklaɪənt ˈbækʌp/|客户端备份|n
+agentless backup|/ˈeɪdʒəntləs ˈbækʌp/|无代理备份|n
+agent-based backup|/ˈeɪdʒənt beɪst ˈbækʌp/|有代理备份|n
+application-aware|/ˌæplɪˈkeɪʃn əˈweə/|应用感知的|adj
+VSS|/ˌviː es ˈes/|卷影复制|acr
+snapshot quiesce|/ˈsnæpʃɒt kwiˈes/|静默快照|n
+crash-consistent|/kræʃ kənˈsɪstənt/|崩溃一致的|adj
+app-consistent|/æp kənˈsɪstənt/|应用一致的|adj
+log truncation|/lɒɡ trʌŋˈkeɪʃn/|日志截断|n
+checkpoint|/ˈtʃekpɔɪnt/|检查点|n
+redo log|/ˈriːdəʊ lɒɡ/|重做日志|n
+undo log|/ˈʌndəʊ lɒɡ/|撤销日志|n
+WAL|/wɔːl/|预写日志|acr
+binlog|/ˈbɪnlɒɡ/|二进制日志|n
+archive log|/ˈɑːkaɪv lɒɡ/|归档日志|n
+archive gap|/ˈɑːkaɪv ɡæp/|归档缺口|n
+missing archive|/ˈmɪsɪŋ ˈɑːkaɪv/|缺失归档|n
+apply lag|/əˈplaɪ læɡ/|应用延迟|n
+transport lag|/ˈtrænspɔːt læɡ/|传输延迟|n
+data guard|/ˈdeɪtə ɡɑːd/|数据守护|n
+standby database|/ˈstændbaɪ ˈdeɪtəbeɪs/|备库|n
+physical standby|/ˈfɪzɪkl ˈstændbaɪ/|物理备库|n
+logical standby|/ˈlɒdʒɪkl ˈstændbaɪ/|逻辑备库|n
+snapshot standby|/ˈsnæpʃɒt ˈstændbaɪ/|快照备库|n
+read-only standby|/riːd ˈəʊnli ˈstændbaɪ/|只读备库|n
+active data guard|/ˈæktɪv ˈdeɪtə ɡɑːd/|活动数据守护|n
+switchover|/ˈswɪtʃəʊvə/|计划切换|n
+role transition|/rəʊl trænˈzɪʃn/|角色转换|n
+Data Guard observer|/ˈdeɪtə ɡɑːd əbˈzɜːvə/|数据守护观察进程|n
+fast-start failover|/fɑːst stɑːt ˈfeɪləʊvə/|快速故障转移|n
+FSFO|/ˈfesfəʊ/|快速故障转移|acr
+protection mode|/prəˈtekʃn məʊd/|保护模式|n
+maximum protection|/ˈmæksɪməm prəˈtekʃn/|最高保护|n
+maximum availability|/ˈmæksɪməm əˌveɪləˈbɪləti/|最高可用|n
+maximum performance|/ˈmæksɪməm pəˈfɔːməns/|最高性能|n
+sync redo|/sɪŋk ˈriːdəʊ/|同步重做|n
+async redo|/eɪˈsɪŋk ˈriːdəʊ/|异步重做|n
+real-time apply|/rɪəl taɪm əˈplaɪ/|实时应用|n
+delayed apply|/dɪˈleɪd əˈplaɪ/|延迟应用|n
+flashback|/ˈflæʃbæk/|闪回|n
+flashback database|/ˈflæʃbæk ˈdeɪtəbeɪs/|数据库闪回|n
+recycle bin|/rɪˈsaɪkl bɪn/|回收站|n
+point-in-time recovery|/pɔɪnt ɪn taɪm rɪˈkʌvəri/|时间点恢复|n
+incomplete recovery|/ˌɪnkəmˈpliːt rɪˈkʌvəri/|不完全恢复|n
+complete recovery|/kəmˈpliːt rɪˈkʌvəri/|完全恢复|n
+resetlogs|/ˈriːsetlɒɡz/|重置日志|n
+open resetlogs|/ˈəʊpən ˈriːsetlɒɡz/|以重置日志打开|n
+control file|/kənˈtrəʊl faɪl/|控制文件|n
+spfile|/ˈespiːfaɪl/|服务器参数文件|n
+pfile|/ˈpiːfaɪl/|文本参数文件|n
+parameter|/pəˈræmɪtə/|参数|n
+hidden parameter|/ˈhɪdn pəˈræmɪtə/|隐藏参数|n
+scope both|/skəʊp bəʊθ/|同时改内存和文件|n
+scope memory|/skəʊp ˈmeməri/|只改内存|n
+scope spfile|/skəʊp ˈespiːfaɪl/|只改参数文件|n
+bounce instance|/baʊns ˈɪnstəns/|重启实例|v
+startup nomount|/ˈstɑːtʌp nəʊmaʊnt/|不装载启动|n
+startup mount|/ˈstɑːtʌp maʊnt/|装载启动|n
+startup open|/ˈstɑːtʌp ˈəʊpən/|打开启动|n
+shutdown immediate|/ˈʃʌtdaʊn ɪˈmiːdiət/|立即关闭|n
+shutdown abort|/ˈʃʌtdaʊn əˈbɔːt/|中止关闭|n
+shutdown transactional|/ˈʃʌtdaʊn trænˈzækʃənl/|事务关闭|n
+restricted session|/rɪˈstrɪktɪd ˈseʃn/|受限会话|n
+quiesce database|/kwiˈes ˈdeɪtəbeɪs/|静默数据库|v
+suspend database|/səˈspend ˈdeɪtəbeɪs/|挂起数据库|v
+resume database|/rɪˈzjuːm ˈdeɪtəbeɪs/|恢复数据库|v
+tablespace|/ˈteɪblspeɪs/|表空间|n
+datafile|/ˈdeɪtəfaɪl/|数据文件|n
+tempfile|/ˈtempfaɪl/|临时文件|n
+redo member|/ˈriːdəʊ ˈmembə/|重做成员|n
+log group|/lɒɡ ɡruːp/|日志组|n
+archive dest|/ˈɑːkaɪv dest/|归档目标|n
+FRA|/ˌef ɑːr ˈeɪ/|快速恢复区|acr
+block change tracking|/blɒk tʃeɪndʒ ˈtrækɪŋ/|块变更跟踪|n
+incremental forever|/ˌɪŋkrɪˈmentl fəˈrevə/|永久增量|n
+synthetic full|/sɪnˈθetɪk fʊl/|合成全备|n
+backup piece|/ˈbækʌp piːs/|备份片|n
+backup set piece|/ˈbækʌp set piːs/|备份集片|n
+channel|/ˈtʃænl/|备份通道|n
+parallelism|/ˌpærəˈlelɪzəm/|并行度|n
+section size|/ˈsekʃn saɪz/|分段大小|n
+maxpiecesize|/mæks piːs saɪz/|最大片大小|n
+compression|/kəmˈpreʃn/|压缩|n
+encryption wallet|/ɪnˈkrɪpʃn ˈwɒlɪt/|加密钱包|n
+TDE|/ˌtiː diː ˈiː/|透明数据加密|acr
+tablespace encryption|/ˈteɪblspeɪs ɪnˈkrɪpʃn/|表空间加密|n
+column encryption|/ˈkɒləm ɪnˈkrɪpʃn/|列加密|n
+always encrypted|/ˈɔːlweɪz ɪnˈkrɪptɪd/|始终加密|n
+dynamic data masking|/daɪˈnæmɪk ˈdeɪtə ˈmɑːskɪŋ/|动态数据脱敏|n
+static masking|/ˈstætɪk ˈmɑːskɪŋ/|静态脱敏|n
+tokenization|/ˌtəʊkənaɪˈzeɪʃn/|令牌化|n
+pseudonymization|/ˌsjuːdəʊnɪmaɪˈzeɪʃn/|假名化|n
+anonymization|/əˌnɒnɪmaɪˈzeɪʃn/|匿名化|n
+de-identification|/diː aɪˌdentɪfɪˈkeɪʃn/|去标识化|n
+re-identification|/riː aɪˌdentɪfɪˈkeɪʃn/|再识别|n
+PHI|/ˌpiː eɪtʃ ˈaɪ/|受保护健康信息|acr
+PII|/ˌpiː aɪ ˈaɪ/|个人身份信息|acr
+HIPAA|/ˈhɪpə/|医疗隐私法规|acr
+minimum necessary IT|/ˈmɪnɪməm ˈnesəsəri aɪ ˈtiː/|最小必要访问|n
+break-the-glass|/breɪk ðə ɡlɑːs/|紧急调阅|n
+emergency access log|/ɪˈmɜːdʒənsi ˈækses lɒɡ/|紧急访问日志|n
+break-glass review|/breɪk ɡlɑːs rɪˈvjuː/|紧急调阅复核|n
+access recertification|/ˈækses ˌriːsɜːtɪfɪˈkeɪʃn/|权限再认证|n
+user recertification|/ˈjuːzə ˌriːsɜːtɪfɪˈkeɪʃn/|用户再认证|n
+orphaned account|/ˈɔːfənd əˈkaʊnt/|孤儿账号|n
+dormant account|/ˈdɔːmənt əˈkaʊnt/|休眠账号|n
+shared account|/ʃeəd əˈkaʊnt/|共享账号|n
+generic account|/dʒəˈnerɪk əˈkaʊnt/|通用账号|n
+service ID|/ˈsɜːvɪs aɪ ˈdiː/|服务标识|n
+non-human identity|/nɒn ˈhjuːmən aɪˈdentəti/|非人类身份|n
+workload identity|/ˈwɜːkləʊd aɪˈdentəti/|工作负载身份|n
+managed identity|/ˈmænɪdʒd aɪˈdentəti/|托管身份|n
+system-assigned identity|/ˈsɪstəm əˈsaɪnd aɪˈdentəti/|系统分配身份|n
+user-assigned identity|/ˈjuːzə əˈsaɪnd aɪˈdentəti/|用户分配身份|n
+federated identity|/ˈfedəreɪtɪd aɪˈdentəti/|联邦身份|n
+identity provider|/aɪˈdentəti prəˈvaɪdə/|身份提供方|n
+service provider|/ˈsɜːvɪs prəˈvaɪdə/|服务提供方|n
+relying party|/rɪˈlaɪɪŋ ˈpɑːti/|依赖方|n
+assertion|/əˈsɜːʃn/|断言|n
+identity claim|/aɪˈdentəti kleɪm/|身份声明|n
+attribute|/ˈætrɪbjuːt/|属性|n
+attribute mapping|/ˈætrɪbjuːt ˈmæpɪŋ/|属性映射|n
+claim rule|/kleɪm ruːl/|声明规则|n
+name identifier|/neɪm aɪˈdentɪfaɪə/|名称标识|n
+persistent ID|/pəˈsɪstənt aɪ ˈdiː/|持久标识|n
+transient ID|/ˈtrænziənt aɪ ˈdiː/|临时标识|n
+subject confirmation|/ˈsʌbdʒɪkt ˌkɒnfəˈmeɪʃn/|主体确认|n
+audience|/ˈɔːdiəns/|受众|n
+issuer|/ˈɪʃuːə/|签发方|n
+clock skew SSO|/klɒk skjuː ˌes es ˈəʊ/|单点登录时钟偏差|n
+assertion replay|/əˈsɜːʃn rɪˈpleɪ/|断言重放|n
+XML signature|/ˌeks em ˈel ˈsɪɡnətʃə/|XML签名|n
+XML encryption|/ˌeks em ˈel ɪnˈkrɪpʃn/|XML加密|n
+metadata|/ˈmetədeɪtə/|元数据|n
+federation metadata|/ˌfedəˈreɪʃn ˈmetədeɪtə/|联邦元数据|n
+entity ID|/ˈentəti aɪ ˈdiː/|实体编号|n
+ACS URL|/ˌeɪ siː ˈes juː ɑːr ˈel/|断言消费地址|n
+SLO URL|/ˌes el ˈəʊ juː ɑːr ˈel/|单点登出地址|n
+single logout|/ˈsɪŋɡl ˈlɒɡaʊt/|单点登出|n
+session index|/ˈseʃn ˈɪndeks/|会话索引|n
+NameID format|/neɪm aɪ ˈdiː ˈfɔːmæt/|名称格式|n
+transient NameID|/ˈtrænziənt neɪm aɪ ˈdiː/|临时名称标识|n
+persistent NameID|/pəˈsɪstənt neɪm aɪ ˈdiː/|持久名称标识|n
+email NameID|/ˈiːmeɪl neɪm aɪ ˈdiː/|邮箱名称标识|n
+unspecified NameID|/ˌʌnspəˈsɪfaɪd neɪm aɪ ˈdiː/|未指定名称标识|n
+forceauthn|/fɔːs ɔːθn/|强制重新认证|n
+passive request|/ˈpæsɪv rɪˈkwest/|被动请求|n
+active request|/ˈæktɪv rɪˈkwest/|主动请求|n
+IdP-initiated|/aɪ diː ˈpiː ɪˈnɪʃieɪtɪd/|身份方发起的|adj
+SP-initiated|/es ˈpiː ɪˈnɪʃieɪtɪd/|服务方发起的|adj
+deep link|/diːp lɪŋk/|深链接|n
+relay state|/ˈriːleɪ steɪt/|中继状态|n
+return URL|/rɪˈtɜːn juː ɑːr ˈel/|返回地址|n
+home realm discovery|/həʊm relm dɪsˈkʌvəri/|归属域发现|n
+HRD|/ˌeɪtʃ ɑːr ˈdiː/|归属域发现|acr
+realm|/relm/|认证域|n
+tenant|/ˈtenənt/|租户|n
+directory tenant|/dəˈrektəri ˈtenənt/|目录租户|n
+B2B guest|/biː tə biː ɡest/|外部访客|n
+B2C user|/biː tə siː ˈjuːzə/|外部用户|n
+external identity|/ɪkˈstɜːnl aɪˈdentəti/|外部身份|n
+invitation redemption|/ˌɪnvɪˈteɪʃn rɪˈdempʃn/|邀请兑换|n
+guest invite|/ɡest ɪnˈvaɪt/|访客邀请|n
+access package|/ˈækses ˈpækɪdʒ/|权限包|n
+entitlement|/ɪnˈtaɪtlmənt/|权限资格|n
+catalog IT|/ˈkætəlɒɡ aɪ ˈtiː/|权限目录|n
+access review|/ˈækses rɪˈvjuː/|权限复核|n
+campaign|/kæmˈpeɪn/|复核活动|n
+reviewer IT|/rɪˈvjuːə aɪ ˈtiː/|权限复核人|n
+self-review|/self rɪˈvjuː/|自我复核|n
+manager review|/ˈmænɪdʒə rɪˈvjuː/|上级复核|n
+resource owner review|/rɪˈsɔːs ˈəʊnə rɪˈvjuː/|资源负责人复核|n
+access denied|/ˈækses dɪˈnaɪd/|访问被拒|n
+access granted|/ˈækses ˈɡrɑːntɪd/|访问已批|n
+conditional access|/kənˈdɪʃənl ˈækses/|条件访问|n
+named location|/neɪmd ləʊˈkeɪʃn/|命名位置|n
+trusted IP|/ˈtrʌstɪd aɪ ˈpiː/|可信地址|n
+compliant device|/kəmˈplaɪənt dɪˈvaɪs/|合规设备|n
+hybrid joined device|/ˈhaɪbrɪd dʒɔɪnd dɪˈvaɪs/|混合加入设备|n
+app-enforced restriction|/æp ɪnˈfɔːst rɪˈstrɪkʃn/|应用强制限制|n
+session control|/ˈseʃn kənˈtrəʊl/|会话控制|n
+persistent browser|/pəˈsɪstənt ˈbraʊzə/|持久浏览器|n
+sign-in frequency|/saɪn ɪn ˈfriːkwənsi/|登录频率|n
+risk-based access|/rɪsk beɪst ˈækses/|基于风险的访问|n
+user risk|/ˈjuːzə rɪsk/|用户风险|n
+sign-in risk|/saɪn ɪn rɪsk/|登录风险|n
+leaked credentials|/liːkt krəˈdenʃlz/|泄露凭据|n
+anonymous IP|/əˈnɒnɪməs aɪ ˈpiː/|匿名地址|n
+unfamiliar location|/ʌnˈfəmɪliə ləʊˈkeɪʃn/|陌生地点|n
+malware-linked IP|/ˈmælweə lɪŋkt aɪ ˈpiː/|恶意关联地址|n
+impossible travel|/ɪmˈpɒsəbl ˈtrævl/|不可能旅行|n
+atypical travel|/ˌeɪˈtɪpɪkl ˈtrævl/|异常出行|n
+password spray|/ˈpɑːswɜːd spreɪ/|密码喷洒|n
+brute force|/bruːt fɔːs/|暴力尝试|n
+smart lockout|/smɑːt ˈlɒkaʊt/|智能锁定|n
+legacy auth|/ˈleɡəsi ɔːθ/|旧版认证|n
+basic auth|/ˈbeɪsɪk ɔːθ/|基本认证|n
+modern auth|/ˈmɒdn ɔːθ/|新版认证|n
+protocol fallback|/ˈprəʊtəkɒl ˈfɔːlbæk/|协议回退|n
+NTLM fallback|/ˌen tiː el ˈem ˈfɔːlbæk/|旧认证回退|n
+Kerberos constrained|/ˈkɜːbərəs kənˈstreɪnd/|受限委派|n
+unconstrained delegation|/ˌʌnkənˈstreɪnd ˌdelɪˈɡeɪʃn/|非受限委派|n
+resource-based delegation|/rɪˈsɔːs beɪst ˌdelɪˈɡeɪʃn/|基于资源的委派|n
+constrained delegation|/kənˈstreɪnd ˌdelɪˈɡeɪʃn/|受限委派|n
+protocol transition|/ˈprəʊtəkɒl trænˈzɪʃn/|协议转换|n
+S4U|/es fɔː ˈjuː/|用户服务|acr
+TGT|/ˌtiː dʒiː ˈtiː/|票据授予票据|acr
+TGS|/ˌtiː dʒiː ˈes/|服务票据|acr
+service ticket|/ˈsɜːvɪs ˈtɪkɪt/|服务票据|n
+krbtgt|/ˈkɜːbiːtiːdʒiːtiː/|票据账号|n
+golden ticket|/ˈɡəʊldən ˈtɪkɪt/|黄金票据|n
+silver ticket|/ˈsɪlvə ˈtɪkɪt/|白银票据|n
+diamond ticket|/ˈdaɪəmənd ˈtɪkɪt/|钻石票据|n
+PAC validation|/pæk ˌvælɪˈdeɪʃn/|特权属性验证|n
+SID filtering|/sɪd ˈfɪltərɪŋ/|安全标识过滤|n
+SID history|/sɪd ˈhɪstri/|安全标识历史|n
+trust|/trʌst/|信任关系|n
+forest trust|/ˈfɒrɪst trʌst/|林信任|n
+external trust|/ɪkˈstɜːnl trʌst/|外部信任|n
+shortcut trust|/ˈʃɔːtkʌt trʌst/|快捷信任|n
+realm trust|/relm trʌst/|领域信任|n
+selective authentication|/sɪˈlektɪv ɔːˌθentɪˈkeɪʃn/|选择性认证|n
+forest-wide auth|/ˈfɒrɪst waɪd ɔːθ/|全林认证|n
+SID filter quarantine|/sɪd ˈfɪltə ˈkwɒrəntiːn/|标识过滤隔离|n
+name suffix routing|/neɪm ˈsʌfɪks ˈruːtɪŋ/|名称后缀路由|n
+UPN suffix|/ˌjuː piː ˈen ˈsʌfɪks/|用户主体后缀|n
+alternative UPN|/ɔːlˈtɜːnətɪv ˌjuː piː ˈen/|备用主体名|n
+email as UPN|/ˈiːmeɪl æz ˌjuː piː ˈen/|邮箱作主体名|n
+sAM as UPN|/sæm æz ˌjuː piː ˈen/|登录名作主体名|n
+duplicate UPN|/ˈdjuːplɪkət ˌjuː piː ˈen/|重复主体名|n
+duplicate sAM|/ˈdjuːplɪkət sæm/|重复登录名|n
+conflict object|/ˈkɒnflɪkt ˈɒbdʒɪkt/|冲突对象|n
+lingering object|/ˈlɪŋɡərɪŋ ˈɒbdʒɪkt/|残留对象|n
+USN rollback|/ˌjuː es ˈen ˈrəʊlbæk/|更新序号回滚|n
+invocation ID|/ˌɪnvəˈkeɪʃn aɪ ˈdiː/|调用编号|n
+high-watermark|/haɪ ˈwɔːtəmɑːk/|高水位|n
+up-to-dateness|/ʌp tə ˈdeɪtnəs/|最新程度|n
+replication latency|/ˌreplɪˈkeɪʃn ˈleɪtənsi/|复制延迟|n
+site link|/saɪt lɪŋk/|站点链接|n
+site link bridge|/saɪt lɪŋk brɪdʒ/|站点链接桥|n
+bridgehead|/ˈbrɪdʒhed/|桥头服务器|n
+GC|/dʒiː siː/|全局编录|acr
+global catalog|/ˈɡləʊbl ˈkætəlɒɡ/|全局编录|n
+universal group|/ˌjuːnɪˈvɜːsl ɡruːp/|通用组|n
+global group|/ˈɡləʊbl ɡruːp/|全局组|n
+domain local group|/dəˈmeɪn ˈləʊkl ɡruːp/|本地域组|n
+universal group caching|/ˌjuːnɪˈvɜːsl ɡruːp ˈkæʃɪŋ/|通用组缓存|n
+token bloat|/ˈtəʊkən bləʊt/|令牌膨胀|n
+nested group explosion|/ˈnestɪd ɡruːp ɪkˈspləʊʒn/|嵌套组爆炸|n
+circular nesting|/ˈsɜːkjələ ˈnestɪŋ/|循环嵌套|n
+group scoping|/ɡruːp ˈskəʊpɪŋ/|组范围|n
+AGDLP|/ˌeɪ dʒiː diː el ˈpiː/|组嵌套模型|acr
+AGUDLP|/ˌeɪ ɡuː diː el ˈpiː/|通用组嵌套模型|acr
+adminSDHolder|/ədˌmɪn es diː ˈhəʊldə/|管理员安全持有者|n
+SDProp|/ˈesdiːprɒp/|安全描述符传播|n
+protected group|/prəˈtektɪd ɡruːp/|受保护组|n
+adminCount|/ədˈmɪnkaʊnt/|管理员计数|n
+inheritance blocked|/ɪnˈherɪtəns blɒkt/|继承已阻断|n
+explicit ACE|/ɪkˈsplɪsɪt eɪ siː ˈiː/|显式访问项|n
+inherited ACE|/ɪnˈherɪtɪd eɪ siː ˈiː/|继承访问项|n
+deny ACE|/dɪˈnaɪ eɪ siː ˈiː/|拒绝访问项|n
+allow ACE|/əˈlaʊ eɪ siː ˈiː/|允许访问项|n
+DACL|/ˈdækl/|自主访问控制表|acr
+SACL|/sækl/|系统访问控制表|acr
+owner SID|/ˈəʊnə sɪd/|属主标识|n
+primary group SID|/ˈpraɪməri ɡruːp sɪd/|主组标识|n
+integrity level|/ɪnˈteɡrəti ˈlevl/|完整性级别|n
+mandatory label|/ˈmændətəri ˈleɪbl/|强制标签|n
+UAC|/ˌjuː eɪ ˈsiː/|用户账户控制|acr
+elevation|/ˌelɪˈveɪʃn/|提权|n
+consent prompt UAC|/kənˈsent prɒmpt juː eɪ ˈsiː/|提权提示|n
+secure desktop|/sɪˈkjʊə ˈdesktɒp/|安全桌面|n
+filtered token|/ˈfɪltəd ˈtəʊkən/|过滤令牌|n
+linked token|/lɪŋkt ˈtəʊkən/|链接令牌|n
+split token|/splɪt ˈtəʊkən/|拆分令牌|n
+admin approval mode|/ˈædmɪn əˈpruːvl məʊd/|管理员批准模式|n
+auto-elevate|/ˈɔːtəʊ ˈelɪveɪt/|自动提权|v
+uiAccess|/juː aɪ ˈækses/|界面访问|n
+integrity high|/ɪnˈteɡrəti haɪ/|高完整性|n
+integrity medium|/ɪnˈteɡrəti ˈmiːdiəm/|中完整性|n
+integrity low|/ɪnˈteɡrəti ləʊ/|低完整性|n
+AppContainer|/æp kənˈteɪnə/|应用容器|n
+LowBox|/ləʊ bɒks/|低完整性盒子|n
+capability SID|/ˌkeɪpəˈbɪləti sɪd/|能力标识|n
+package SID|/ˈpækɪdʒ sɪd/|程序包标识|n
+AppID|/æp aɪ ˈdiː/|应用标识|n
+publisher ID|/ˈpʌblɪʃə aɪ ˈdiː/|发布者标识|n
+authenticode|/ɔːˈθentɪkəʊd/|验证签名|n
+catalog signing|/ˈkætəlɒɡ ˈsaɪnɪŋ/|目录签名|n
+kernel-mode signing|/ˈkɜːnl məʊd ˈsaɪnɪŋ/|内核签名|n
+test signing|/test ˈsaɪnɪŋ/|测试签名|n
+secure boot policy|/sɪˈkjʊə buːt ˈpɒləsi/|安全启动策略|n
+DBX|/ˌdiː biː ˈeks/|吊销数据库|acr
+KEK|/kek/|密钥加密密钥|acr
+PK|/piː keɪ/|平台密钥|acr
+db|/diː biː/|允许数据库|n
+MokList|/mɒk lɪst/|机器所有者密钥列表|n
+shim|/ʃɪm/|启动垫片|n
+grub|/ɡrʌb/|启动加载器|n
+bootloader|/ˈbuːtləʊdə/|引导程序|n
+initramfs|/ˈɪnɪtræm ef es/|初始内存盘|n
+dracut|/ˈdrækʌt/|内存盘生成|n
+kernel parameter|/ˈkɜːnl pəˈræmɪtə/|内核参数|n
+cmdline|/kəˈmændlaɪn/|启动命令行|n
+systemd|/ˈsɪstəmdiː/|系统与服务管理|n
+unit file|/ˈjuːnɪt faɪl/|单元文件|n
+systemd target|/ˈsɪstəmdiː ˈtɑːɡɪt/|启动目标|n
+socket activation|/ˈsɒkɪt ˌæktɪˈveɪʃn/|套接字激活|n
+timer unit|/ˈtaɪmə ˈjuːnɪt/|定时单元|n
+slice|/slaɪs/|资源切片|n
+cgroup|/ˈsiːɡruːp/|控制组|n
+namespace isolation|/ˈneɪmspeɪs ˌaɪsəˈleɪʃn/|命名空间隔离|n
+pid namespace|/pɪd ˈneɪmspeɪs/|进程命名空间|n
+net namespace|/net ˈneɪmspeɪs/|网络命名空间|n
+mnt namespace|/maʊnt ˈneɪmspeɪs/|挂载命名空间|n
+user namespace|/ˈjuːzə ˈneɪmspeɪs/|用户命名空间|n
+uts namespace|/juː tiː es ˈneɪmspeɪs/|主机名命名空间|n
+ipc namespace|/aɪ piː siː ˈneɪmspeɪs/|进程通信命名空间|n
+cgroup namespace|/ˈsiːɡruːp ˈneɪmspeɪs/|控制组命名空间|n
+time namespace|/taɪm ˈneɪmspeɪs/|时间命名空间|n
+seccomp profile|/ˈsekkɒmp ˈprəʊfaɪl/|系统调用配置|n
+AppArmor profile|/ˈæpəmɔː ˈprəʊfaɪl/|应用防护配置|n
+SELinux context|/ˌes iː ˈlɪnəks ˈkɒntekst/|强制访问上下文|n
+SELinux boolean|/ˌes iː ˈlɪnəks ˈbuːliən/|强制访问开关|n
+restorecon|/rɪˈstɔːkɒn/|恢复安全上下文|v
+chcon|/tʃkɒn/|更改安全上下文|v
+semanage|/ˈsemənɪdʒ/|安全管理|v
+audit2allow|/ˈɔːdɪttuːəlaʊ/|审计转放行|n
+AVC denial|/ˌeɪ viː ˈsiː dɪˈnaɪəl/|访问拒绝|n
+permissive mode|/pəˈmɪsɪv məʊd/|宽容模式|n
+enforcing mode|/ɪnˈfɔːsɪŋ məʊd/|强制模式|n
+disabled mode|/dɪsˈeɪbld məʊd/|关闭模式|n
+relabel|/ˌriːˈleɪbl/|重新标记|v
+autorelabel|/ˈɔːtəʊˌriːˈleɪbl/|自动重新标记|n
+file context|/faɪl ˈkɒntekst/|文件上下文|n
+port context|/pɔːt ˈkɒntekst/|端口上下文|n
+fcontext|/ef ˈkɒntekst/|文件上下文规则|n
+boolean persist|/ˈbuːliən pəˈsɪst/|开关持久化|n
+policy module|/ˈpɒləsi ˈmɒdjuːl/|策略模块|n
+pp file|/piː piː faɪl/|策略包文件|n
+te file|/tiː iː faɪl/|类型强制文件|n
+fc file|/ef siː faɪl/|文件上下文文件|n
+if file|/ɪf faɪl/|接口文件|n
+make load|/meɪk ləʊd/|编译加载策略|v
+semodule|/ˈsemɒdjuːl/|策略模块工具|n
+sestatus|/ˈsesteɪtəs/|安全状态|n
+getenforce|/ˈɡetɪnfɔːs/|获取强制状态|n
+setenforce|/ˈsetɪnfɔːs/|设置强制状态|n
+auditd|/ˈɔːdɪtdiː/|审计守护|n
+ausearch|/ˈɔːsɜːtʃ/|审计搜索|n
+aureport|/ˈɔːrɪpɔːt/|审计报告|n
+auditctl|/ˈɔːdɪtkəntəʊl/|审计控制|n
+audit rule|/ˈɔːdɪt ruːl/|审计规则|n
+watch rule|/wɒtʃ ruːl/|监视规则|n
+syscall rule|/ˈsɪskɔːl ruːl/|系统调用规则|n
+never rule|/ˈnevə ruːl/|永不记录规则|n
+always rule|/ˈɔːlweɪz ruːl/|始终记录规则|n
+key tag|/kiː tæɡ/|规则标签|n
+auid|/ˈɔːɪd/|审计用户号|n
+session ID|/ˈseʃn aɪ ˈdiː/|会话号|n
+tty|/tiː tiː ˈwaɪ/|终端|n
+pts|/piː tiː ˈes/|伪终端|n
+sudoers|/ˈsuːdəz/|提权配置|n
+visudo|/vɪˈsuːdəʊ/|安全编辑提权|n
+NOPASSWD|/nəʊ ˈpɑːswɜːd/|免密提权|n
+requiretty|/rɪˈkwaɪətiːtiːwaɪ/|要求终端|n
+Defaults|/dɪˈfɔːlts/|提权默认项|n
+timestamp_timeout|/ˈtaɪmstamp ˈtaɪmaʊt/|提权超时|n
+lecture|/ˈlektʃə/|提权提示|n
+insults|/ˈɪnsʌlts/|错误密码提示|n
+secure_path|/sɪˈkjʊə pɑːθ/|安全路径|n
+env_reset|/env rɪˈset/|环境重置|n
+env_keep|/env kiːp/|保留环境变量|n
+runas|/rʌn æz/|以谁运行|n
+host alias|/həʊst ˈeɪliəs/|主机别名|n
+user alias|/ˈjuːzə ˈeɪliəs/|用户别名|n
+cmnd alias|/kəˈmɑːnd ˈeɪliəs/|命令别名|n
+runas alias|/rʌn æz ˈeɪliəs/|身份别名|n
+include dir|/ɪnˈkluːd dɪə/|包含目录|n
+includedir|/ɪnˈkluːddɪə/|包含目录项|n
+sudo log|/ˈsuːduː lɒɡ/|提权日志|n
+iolog|/ˈaɪəʊlɒɡ/|输入输出日志|n
+sudoreplay|/ˈsuːduːrɪpleɪ/|提权回放|n
+IO logging|/aɪ ˈəʊ ˈlɒɡɪŋ/|输入输出记录|n
+log_input|/lɒɡ ˈɪnpʊt/|记录输入|n
+log_output|/lɒɡ ˈaʊtpʊt/|记录输出|n
+maxseq|/mæks siːk/|最大序号|n
+iolog_dir|/ˈaɪəʊlɒɡ dɪə/|输入输出目录|n
+iolog_file|/ˈaɪəʊlɒɡ faɪl/|输入输出文件|n
+compress_io|/kəmˈpres aɪ əʊ/|压缩输入输出|n
+use_pty|/juːz piː tiː ˈwaɪ/|使用伪终端|n
+close_from|/kləʊz frɒm/|关闭多余描述符|n
+passprompt|/pɑːs prɒmpt/|密码提示|n
+badpass_message|/bæd pɑːs ˈmesɪdʒ/|密码错误提示|n
+mail_badpass|/meɪl bæd pɑːs/|错误密码发信|n
+mailto|/meɪl tuː/|提权告警收件人|n
+mailfrom|/meɪl frɒm/|提权告警发件人|n
+mailsub|/meɪl sʌb/|提权告警主题|n
+syslog_goodpri|/ˈsɪslɒɡ ɡʊd praɪ/|成功优先级|n
+syslog_badpri|/ˈsɪslɒɡ bæd praɪ/|失败优先级|n
+ignore_dot|/ɪɡˈnɔː dɒt/|忽略当前目录|n
+always_set_home|/ˈɔːlweɪz set həʊm/|始终设置家目录|n
+set_logname|/set ˈlɒɡneɪm/|设置登录名|n
+fqdn|/ˈefkjuːdiːen/|完全限定域名|n
+insult|/ɪnˈsʌlt/|嘲讽提示|n
+pwfeedback|/ˈpɑːswɜːdˌfiːdbæk/|密码星号反馈|n
+rootpw|/ruːt pɑːswɜːd/|用超级密码|n
+targetpw|/ˈtɑːɡɪt pɑːswɜːd/|用目标密码|n
+runaspw|/rʌn æz pɑːswɜːd/|用身份密码|n
+authenticate|/ɔːˈθentɪkeɪt/|认证|v
+passwd_tries|/ˈpɑːswɜːd traɪz/|密码尝试次数|n
+passwd_timeout|/ˈpɑːswɜːd ˈtaɪmaʊt/|密码输入超时|n
+timestamp_type|/ˈtaɪmstamp taɪp/|时间戳类型|n
+tty_tickets|/tiː tiː ˈwaɪ ˈtɪkɪts/|按终端票据|n
+umask|/ˈjuːmɑːsk/|权限掩码|n
+logfile|/ˈlɒɡfaɪl/|日志文件|n
+log_year|/lɒɡ jɪə/|日志记年|n
+log_host|/lɒɡ həʊst/|日志记主机|n
+syslog_maxpri|/ˈsɪslɒɡ mæks praɪ/|最大日志优先级|n
+fast_glob|/fɑːst ɡlɒb/|快速通配|n
+match_group_by_gid|/mætʃ ɡruːp baɪ dʒiː aɪ ˈdiː/|按组号匹配|n
+group_plugin|/ɡruːp ˈplʌɡɪn/|组插件|n
+sudoers_locale|/ˈsuːdəz ləʊˈkɑːl/|提权语言环境|n
+max_groups|/mæks ɡruːps/|最大组数|n
+closefrom_override|/kləʊz frɒm ˈəʊvəraɪd/|覆盖关闭描述符|n
+ignore_local_sudoers|/ɪɡˈnɔː ˈləʊkl ˈsuːdəz/|忽略本地提权文件|n
+ldap_conf|/ˈeldæp kɒnf/|目录提权配置|n
+sssd|/ˈesesesdiː/|系统安全服务守护|n
+nslcd|/ˈensel siː diː/|名称服务缓存|n
+nscd|/ˈens siː diː/|名称服务缓存守护|n
+sssd.conf|/ˈesesesdiː kɒnf/|目录认证配置|n
+id_provider|/aɪ ˈdiː prəˈvaɪdə/|标识提供方|n
+auth_provider|/ɔːθ prəˈvaɪdə/|认证提供方|n
+access_provider|/ˈækses prəˈvaɪdə/|访问提供方|n
+chpass_provider|/tʃeɪndʒ pɑːs prəˈvaɪdə/|改密提供方|n
+sudo_provider|/ˈsuːduː prəˈvaɪdə/|提权提供方|n
+autofs_provider|/ˈɔːtəʊefes prəˈvaɪdə/|自动挂载提供方|n
+selinux_provider|/ˌes iː ˈlɪnəks prəˈvaɪdə/|强制访问提供方|n
+hostid_provider|/həʊst aɪ ˈdiː prəˈvaɪdə/|主机标识提供方|n
+subdomains_provider|/ˈsʌbdəmeɪnz prəˈvaɪdə/|子域提供方|n
+session_provider|/ˈseʃn prəˈvaɪdə/|会话提供方|n
+enumerator|/ɪˈnjuːməreɪtə/|枚举器|n
+cache_credentials|/kæʃ krəˈdenʃlz/|缓存凭据|n
+krb5_realm|/kɜːb faɪv relm/|Kerberos领域|n
+krb5_server|/kɜːb faɪv ˈsɜːvə/|Kerberos服务器|n
+krb5_store_password_if_offline|/kɜːb faɪv stɔː ˈpɑːswɜːd ɪf ˈɒflaɪn/|离线存密|n
+ad_server|/eɪ ˈdiː ˈsɜːvə/|目录服务器|n
+ad_backup_server|/eɪ ˈdiː ˈbækʌp ˈsɜːvə/|目录备份服务器|n
+ad_site|/eɪ ˈdiː saɪt/|目录站点|n
+ad_enable_dns_sites|/eɪ ˈdiː ɪˈneɪbl ˌdiː en ˈes saɪts/|启用目录站点发现|n
+ldap_uri|/ˈeldæp ˈjʊəri/|目录地址|n
+ldap_search_base|/ˈeldæp sɜːtʃ beɪs/|目录搜索基|n
+ldap_user_search_base|/ˈeldæp ˈjuːzə sɜːtʃ beɪs/|用户搜索基|n
+ldap_group_search_base|/ˈeldæp ɡruːp sɜːtʃ beɪs/|组搜索基|n
+ldap_tls_reqcert|/ˈeldæp tiː el ˈes rɪˈkwaɪəsɜːt/|证书要求|n
+ldap_tls_cacert|/ˈeldæp tiː el ˈes siː eɪ sɜːt/|目录根证书|n
+ldap_id_mapping|/ˈeldæp aɪ ˈdiː ˈmæpɪŋ/|标识映射|n
+override_homedir|/ˈəʊvəraɪd ˈhəʊmdɪə/|覆盖家目录|n
+override_shell|/ˈəʊvəraɪd ʃel/|覆盖登录壳|n
+default_shell|/dɪˈfɔːlt ʃel/|默认登录壳|n
+fallback_homedir|/ˈfɔːlbæk ˈhəʊmdɪə/|回退家目录|n
+skel|/skel/|家目录模板|n
+create_homedir|/kriˈeɪt ˈhəʊmdɪə/|自动创建家目录|n
+oddjob|/ˈɒddʒɒb/|家目录创建服务|n
+pam_mkhomedir|/pæm meɪk ˈhəʊmdɪə/|认证创建家目录|n
+pam_sss|/pæm es es es/|认证插件|n
+pam_ldap|/pæm ˈeldæp/|目录认证插件|n
+pam_krb5|/pæm kɜːb faɪv/|票据认证插件|n
+pam_unix|/pæm ˈjuːnɪks/|本地认证插件|n
+pam_succeed_if|/pæm səkˈsiːd ɪf/|条件成功插件|n
+pam_deny|/pæm dɪˈnaɪ/|拒绝插件|n
+pam_permit|/pæm pəˈmɪt/|放行插件|n
+pam_wheel|/pæm wiːl/|轮组插件|n
+pam_tally2|/pæm ˈtæli tuː/|失败计数插件|n
+pam_faillock|/pæm ˈfeɪllɒk/|失败锁定插件|n
+faillock|/ˈfeɪllɒk/|失败锁定|n
+deny count|/dɪˈnaɪ kaʊnt/|失败次数|n
+unlock_time|/ʌnˈlɒk taɪm/|解锁时间|n
+fail_interval|/feɪl ˈɪntəvl/|失败间隔|n
+even_deny_root|/ˈiːvn dɪˈnaɪ ruːt/|也锁定超级用户|n
+root_unlock_time|/ruːt ʌnˈlɒk taɪm/|超级用户解锁时间|n
+dir|/dɪə/|失败记录目录|n
+faillock audit|/ˈfeɪllɒk ˈɔːdɪt/|失败锁定审计|n
+silent|/ˈsaɪlənt/|静默失败|n
+no_log_info|/nəʊ lɒɡ ˈɪnfəʊ/|不记信息级|n
+local_users_only|/ˈləʊkl ˈjuːzəz ˈəʊnli/|仅本地用户|n
+admin_group|/ˈædmɪn ɡruːp/|管理组|n
+root_unlock|/ruːt ʌnˈlɒk/|超级用户解锁|n
+mode|/məʊd/|锁定模式|n
+dirperm|/dɪə pɜːm/|目录权限|n
+fileperm|/faɪl pɜːm/|文件权限|n

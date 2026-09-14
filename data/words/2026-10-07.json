@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-07",
+  "words": [
+    {
+      "word": "shift",
+      "phonetic": "/ʃɪft/",
+      "meaning": "班次",
+      "example": "The shift is ready for review.",
+      "exampleZh": "这个班次已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "roster",
+      "phonetic": "/ˈrɒstə/",
+      "meaning": "排班表",
+      "example": "I updated the roster this morning.",
+      "exampleZh": "我今天早上更新了这个排班表。",
+      "category": "office"
+    },
+    {
+      "word": "coverage",
+      "phonetic": "/ˈkʌvərɪdʒ/",
+      "meaning": "顶班安排",
+      "example": "The coverage is ready for review.",
+      "exampleZh": "这个顶班安排已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "deputy",
+      "phonetic": "/ˈdepjuti/",
+      "meaning": "代理人",
+      "example": "The deputy is ready for review.",
+      "exampleZh": "这个代理人已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɒksi/",
+      "meaning": "授权代表",
+      "example": "Who is handling the proxy?",
+      "exampleZh": "谁在处理这个授权代表？",
+      "category": "office"
+    },
+    {
+      "word": "blue-green",
+      "phonetic": "/bluː ɡriːn/",
+      "meaning": "蓝绿发布",
+      "example": "Who supports this blue-green?",
+      "exampleZh": "谁支持这个蓝绿发布？",
+      "category": "it"
+    },
+    {
+      "word": "canary release",
+      "phonetic": "/ˈkænəri rɪˈliːs/",
+      "meaning": "金丝雀发布",
+      "example": "The canary release is in production.",
+      "exampleZh": "这个金丝雀发布已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "feature flag",
+      "phonetic": "/ˈfiːtʃə flæɡ/",
+      "meaning": "功能开关",
+      "example": "Please review the feature flag after the patch.",
+      "exampleZh": "打补丁后请审阅这个功能开关。",
+      "category": "it"
+    },
+    {
+      "word": "config file",
+      "phonetic": "/kənˈfɪɡ faɪl/",
+      "meaning": "配置文件",
+      "example": "Please check the config file.",
+      "exampleZh": "请检查一下这个配置文件。",
+      "category": "it"
+    },
+    {
+      "word": "environment variable",
+      "phonetic": "/ɪnˈvaɪrənmənt ˈveəriəbl/",
+      "meaning": "环境变量",
+      "example": "We need the environment variable before go-live.",
+      "exampleZh": "上线前我们需要这个环境变量。",
+      "category": "it"
+    }
+  ]
+}

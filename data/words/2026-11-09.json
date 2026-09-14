@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-09",
+  "words": [
+    {
+      "word": "skip-level",
+      "phonetic": "/skɪp ˈlevl/",
+      "meaning": "越级沟通",
+      "example": "The skip-level is ready for review.",
+      "exampleZh": "这个越级沟通已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "all-hands",
+      "phonetic": "/ɔːl hændz/",
+      "meaning": "全员会",
+      "example": "Who is handling the all-hands?",
+      "exampleZh": "谁在处理这个全员会？",
+      "category": "office"
+    },
+    {
+      "word": "brown-bag",
+      "phonetic": "/braʊn bæɡ/",
+      "meaning": "午餐分享会",
+      "example": "I updated the brown-bag this morning.",
+      "exampleZh": "我今天早上更新了这个午餐分享会。",
+      "category": "office"
+    },
+    {
+      "word": "icebreaker",
+      "phonetic": "/ˈaɪsbreɪkə/",
+      "meaning": "破冰环节",
+      "example": "Please review the icebreaker.",
+      "exampleZh": "请审阅一下这个破冰环节。",
+      "category": "office"
+    },
+    {
+      "word": "roundtable",
+      "phonetic": "/ˈraʊndteɪbl/",
+      "meaning": "圆桌讨论",
+      "example": "Please share the roundtable after the meeting.",
+      "exampleZh": "会后请分享这个圆桌讨论。",
+      "category": "office"
+    },
+    {
+      "word": "subnet mask",
+      "phonetic": "/ˈsʌbnet mɑːsk/",
+      "meaning": "子网掩码",
+      "example": "The subnet mask is in production.",
+      "exampleZh": "这个子网掩码已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "DNS server",
+      "phonetic": "/ˌdiː en ˈes ˈsɜːvə/",
+      "meaning": "域名服务器",
+      "example": "We need the DNS server before go-live.",
+      "exampleZh": "上线前我们需要这个域名服务器。",
+      "category": "it"
+    },
+    {
+      "word": "DHCP lease",
+      "phonetic": "/ˌdiː eɪtʃ siː ˈpiː liːs/",
+      "meaning": "地址租约",
+      "example": "Who supports this DHCP lease?",
+      "exampleZh": "谁支持这个地址租约？",
+      "category": "it"
+    },
+    {
+      "word": "SSL certificate",
+      "phonetic": "/ˌes es ˈel səˈtɪfɪkət/",
+      "meaning": "安全证书",
+      "example": "Please check the SSL certificate.",
+      "exampleZh": "请检查一下这个安全证书。",
+      "category": "it"
+    },
+    {
+      "word": "VPN tunnel",
+      "phonetic": "/ˌviː piː ˈen ˈtʌnl/",
+      "meaning": "虚拟专网隧道",
+      "example": "Who supports this VPN tunnel?",
+      "exampleZh": "谁支持这个虚拟专网隧道？",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-10",
+  "words": [
+    {
+      "word": "brainstorm",
+      "phonetic": "/ˈbreɪnstɔːm/",
+      "meaning": "头脑风暴",
+      "example": "Please share the brainstorm after the meeting.",
+      "exampleZh": "会后请分享这个头脑风暴。",
+      "category": "office"
+    },
+    {
+      "word": "whiteboard",
+      "phonetic": "/ˈwaɪtbɔːd/",
+      "meaning": "白板",
+      "example": "The whiteboard is ready for review.",
+      "exampleZh": "这个白板已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "flipchart",
+      "phonetic": "/ˈflɪptʃɑːt/",
+      "meaning": "挂纸板",
+      "example": "Who is handling the flipchart?",
+      "exampleZh": "谁在处理这个挂纸板？",
+      "category": "office"
+    },
+    {
+      "word": "handout",
+      "phonetic": "/ˈhændaʊt/",
+      "meaning": "会发材料",
+      "example": "Who is handling the handout?",
+      "exampleZh": "谁在处理这个会发材料？",
+      "category": "office"
+    },
+    {
+      "word": "attendance",
+      "phonetic": "/əˈtendəns/",
+      "meaning": "出席情况",
+      "example": "Please review the attendance.",
+      "exampleZh": "请审阅一下这个出席情况。",
+      "category": "office"
+    },
+    {
+      "word": "remote desktop",
+      "phonetic": "/rɪˈməʊt ˈdesktɒp/",
+      "meaning": "远程桌面",
+      "example": "We need the remote desktop before go-live.",
+      "exampleZh": "上线前我们需要这个远程桌面。",
+      "category": "it"
+    },
+    {
+      "word": "service account",
+      "phonetic": "/ˈsɜːvɪs əˈkaʊnt/",
+      "meaning": "服务账号",
+      "example": "Please review the service account after the patch.",
+      "exampleZh": "打补丁后请审阅这个服务账号。",
+      "category": "it"
+    },
+    {
+      "word": "admin rights",
+      "phonetic": "/ˈædmɪn raɪts/",
+      "meaning": "管理员权限",
+      "example": "Please review the admin rights after the patch.",
+      "exampleZh": "打补丁后请审阅这个管理员权限。",
+      "category": "it"
+    },
+    {
+      "word": "user account",
+      "phonetic": "/ˈjuːzə əˈkaʊnt/",
+      "meaning": "用户账号",
+      "example": "Please review the user account after the patch.",
+      "exampleZh": "打补丁后请审阅这个用户账号。",
+      "category": "it"
+    },
+    {
+      "word": "group policy",
+      "phonetic": "/ɡruːp ˈpɒləsi/",
+      "meaning": "组策略",
+      "example": "Please check the group policy.",
+      "exampleZh": "请检查一下这个组策略。",
+      "category": "it"
+    }
+  ]
+}

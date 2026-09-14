@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-14",
+  "words": [
+    {
+      "word": "risk",
+      "phonetic": "/rɪsk/",
+      "meaning": "风险",
+      "example": "I updated the risk this morning.",
+      "exampleZh": "我今天早上更新了这个风险。",
+      "category": "office"
+    },
+    {
+      "word": "mitigation",
+      "phonetic": "/ˌmɪtɪˈɡeɪʃn/",
+      "meaning": "缓解措施",
+      "example": "The mitigation is ready for review.",
+      "exampleZh": "这个缓解措施已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "contingency",
+      "phonetic": "/kənˈtɪndʒənsi/",
+      "meaning": "应急预案",
+      "example": "The contingency is ready for review.",
+      "exampleZh": "这个应急预案已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "meaning": "升级上报",
+      "example": "I will escalate it after the meeting.",
+      "exampleZh": "会后我会升级上报它。",
+      "category": "office"
+    },
+    {
+      "word": "bottleneck",
+      "phonetic": "/ˈbɒtlnek/",
+      "meaning": "瓶颈",
+      "example": "Please share the bottleneck after the meeting.",
+      "exampleZh": "会后请分享这个瓶颈。",
+      "category": "office"
+    },
+    {
+      "word": "DDoS",
+      "phonetic": "/ˈdiːdɒs/",
+      "meaning": "分布式拒绝服务",
+      "example": "The DDoS is slow this morning.",
+      "exampleZh": "今天早上 DDoS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "zero-day",
+      "phonetic": "/ˈzɪərəʊ deɪ/",
+      "meaning": "零日漏洞",
+      "example": "Who supports this zero-day?",
+      "exampleZh": "谁支持这个零日漏洞？",
+      "category": "it"
+    },
+    {
+      "word": "CVE",
+      "phonetic": "/ˌsiː viː ˈiː/",
+      "meaning": "公开漏洞编号",
+      "example": "The CVE is slow this morning.",
+      "exampleZh": "今天早上 CVE 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "patch management",
+      "phonetic": "/pætʃ ˈmænɪdʒmənt/",
+      "meaning": "补丁管理",
+      "example": "We need the patch management before go-live.",
+      "exampleZh": "上线前我们需要这个补丁管理。",
+      "category": "it"
+    },
+    {
+      "word": "endpoint protection",
+      "phonetic": "/ˈendpɔɪnt prəˈtekʃn/",
+      "meaning": "终端防护",
+      "example": "Who supports this endpoint protection?",
+      "exampleZh": "谁支持这个终端防护？",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-08",
+  "words": [
+    {
+      "word": "delegate",
+      "phonetic": "/ˈdelɪɡeɪt/",
+      "meaning": "委派",
+      "example": "Please delegate this before noon.",
+      "exampleZh": "请在中午前委派这个。",
+      "category": "office"
+    },
+    {
+      "word": "authorize",
+      "phonetic": "/ˈɔːθəraɪz/",
+      "meaning": "授权",
+      "example": "Can you authorize it today?",
+      "exampleZh": "你今天能授权一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "headcount",
+      "phonetic": "/ˈhedkaʊnt/",
+      "meaning": "编制人数",
+      "example": "I updated the headcount this morning.",
+      "exampleZh": "我今天早上更新了这个编制人数。",
+      "category": "office"
+    },
+    {
+      "word": "vacancy",
+      "phonetic": "/ˈveɪkənsi/",
+      "meaning": "空缺岗位",
+      "example": "I updated the vacancy this morning.",
+      "exampleZh": "我今天早上更新了这个空缺岗位。",
+      "category": "office"
+    },
+    {
+      "word": "interview",
+      "phonetic": "/ˈɪntəvjuː/",
+      "meaning": "面试",
+      "example": "Please share the interview after the meeting.",
+      "exampleZh": "会后请分享这个面试。",
+      "category": "office"
+    },
+    {
+      "word": "secrets vault",
+      "phonetic": "/ˈsiːkrɪts vɔːlt/",
+      "meaning": "密钥库",
+      "example": "We need the secrets vault before go-live.",
+      "exampleZh": "上线前我们需要这个密钥库。",
+      "category": "it"
+    },
+    {
+      "word": "key rotation",
+      "phonetic": "/kiː rəʊˈteɪʃn/",
+      "meaning": "密钥轮换",
+      "example": "Who supports this key rotation?",
+      "exampleZh": "谁支持这个密钥轮换？",
+      "category": "it"
+    },
+    {
+      "word": "vulnerability scan",
+      "phonetic": "/ˌvʌlnərəˈbɪləti skæn/",
+      "meaning": "漏洞扫描",
+      "example": "Please review the vulnerability scan after the patch.",
+      "exampleZh": "打补丁后请审阅这个漏洞扫描。",
+      "category": "it"
+    },
+    {
+      "word": "antivirus",
+      "phonetic": "/ˌæntiˈvaɪərəs/",
+      "meaning": "杀毒软件",
+      "example": "We need the antivirus before go-live.",
+      "exampleZh": "上线前我们需要这个杀毒软件。",
+      "category": "it"
+    },
+    {
+      "word": "EDR",
+      "phonetic": "/ˌiː diː ˈɑː/",
+      "meaning": "终端检测响应",
+      "example": "The EDR is slow this morning.",
+      "exampleZh": "今天早上 EDR 很慢。",
+      "category": "it"
+    }
+  ]
+}

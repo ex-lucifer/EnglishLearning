@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-03",
+  "words": [
+    {
+      "word": "changing room",
+      "phonetic": "/ˈtʃeɪndʒɪŋ ruːm/",
+      "meaning": "更衣室",
+      "example": "Who is handling the changing room?",
+      "exampleZh": "谁在处理这个更衣室？",
+      "category": "office"
+    },
+    {
+      "word": "storage room",
+      "phonetic": "/ˈstɔːrɪdʒ ruːm/",
+      "meaning": "库房",
+      "example": "The storage room is ready for review.",
+      "exampleZh": "这个库房已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "records room",
+      "phonetic": "/ˈrekɔːdz ruːm/",
+      "meaning": "病案室",
+      "example": "Please share the records room after the meeting.",
+      "exampleZh": "会后请分享这个病案室。",
+      "category": "office"
+    },
+    {
+      "word": "medical records",
+      "phonetic": "/ˈmedɪkl ˈrekɔːdz/",
+      "meaning": "病案",
+      "example": "The medical records is ready for review.",
+      "exampleZh": "这个病案已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "chart request",
+      "phonetic": "/tʃɑːt rɪˈkwest/",
+      "meaning": "调阅病历",
+      "example": "I updated the chart request this morning.",
+      "exampleZh": "我今天早上更新了这个调阅病历。",
+      "category": "office"
+    },
+    {
+      "word": "shares",
+      "phonetic": "/ʃeəz/",
+      "meaning": "资源份额",
+      "example": "We need the shares before go-live.",
+      "exampleZh": "上线前我们需要这个资源份额。",
+      "category": "it"
+    },
+    {
+      "word": "ballooning",
+      "phonetic": "/bəˈluːnɪŋ/",
+      "meaning": "内存回收",
+      "example": "We need the ballooning before go-live.",
+      "exampleZh": "上线前我们需要这个内存回收。",
+      "category": "it"
+    },
+    {
+      "word": "swap file",
+      "phonetic": "/swɒp faɪl/",
+      "meaning": "交换文件",
+      "example": "The swap file is in production.",
+      "exampleZh": "这个交换文件已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "CPU ready",
+      "phonetic": "/ˌsiː piː ˈjuː ˈredi/",
+      "meaning": "处理器等待",
+      "example": "The CPU ready is in production.",
+      "exampleZh": "这个处理器等待已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "co-stop",
+      "phonetic": "/kəʊ stɒp/",
+      "meaning": "共同停顿",
+      "example": "Who supports this co-stop?",
+      "exampleZh": "谁支持这个共同停顿？",
+      "category": "it"
+    }
+  ]
+}

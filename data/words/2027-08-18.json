@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-18",
+  "words": [
+    {
+      "word": "up to you",
+      "phonetic": "/ʌp tə ju/",
+      "meaning": "随你",
+      "example": "The start time is up to you.",
+      "exampleZh": "开始时间随你定。",
+      "category": "office"
+    },
+    {
+      "word": "let's proceed",
+      "phonetic": "/lets prəˈsiːd/",
+      "meaning": "我们继续",
+      "example": "Let's proceed with the next item.",
+      "exampleZh": "我们继续下一项。",
+      "category": "office"
+    },
+    {
+      "word": "hold on",
+      "phonetic": "/həʊld ɒn/",
+      "meaning": "等一下",
+      "example": "Hold on, I need the latest list.",
+      "exampleZh": "等一下，我需要最新名单。",
+      "category": "office"
+    },
+    {
+      "word": "wait a second",
+      "phonetic": "/weɪt ə ˈsekənd/",
+      "meaning": "稍等一秒",
+      "example": "Wait a second, I will mute the phone.",
+      "exampleZh": "稍等，我先把电话静音。",
+      "category": "office"
+    },
+    {
+      "word": "sorry to interrupt",
+      "phonetic": "/ˈsɒri tu ˌɪntəˈrʌpt/",
+      "meaning": "抱歉打断",
+      "example": "Sorry to interrupt, the director is here.",
+      "exampleZh": "抱歉打断，主任到了。",
+      "category": "office"
+    },
+    {
+      "word": "conditional forwarder",
+      "phonetic": "/kənˈdɪʃənl ˈfɔːwədə/",
+      "meaning": "条件转发",
+      "example": "The conditional forwarder is in production.",
+      "exampleZh": "这个条件转发已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "stub zone",
+      "phonetic": "/stʌb zəʊn/",
+      "meaning": "存根区域",
+      "example": "Who supports this stub zone?",
+      "exampleZh": "谁支持这个存根区域？",
+      "category": "it"
+    },
+    {
+      "word": "secondary zone",
+      "phonetic": "/ˈsekəndri zəʊn/",
+      "meaning": "辅助区域",
+      "example": "Please review the secondary zone after the patch.",
+      "exampleZh": "打补丁后请审阅这个辅助区域。",
+      "category": "it"
+    },
+    {
+      "word": "primary zone",
+      "phonetic": "/ˈpraɪməri zəʊn/",
+      "meaning": "主要区域",
+      "example": "Who supports this primary zone?",
+      "exampleZh": "谁支持这个主要区域？",
+      "category": "it"
+    },
+    {
+      "word": "AD-integrated zone",
+      "phonetic": "/eɪ ˈdiː ˈɪntɪɡreɪtɪd zəʊn/",
+      "meaning": "目录集成区域",
+      "example": "Who supports this AD-integrated zone?",
+      "exampleZh": "谁支持这个目录集成区域？",
+      "category": "it"
+    }
+  ]
+}

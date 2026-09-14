@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-19",
+  "words": [
+    {
+      "word": "workload",
+      "phonetic": "/ˈwɜːkləʊd/",
+      "meaning": "工作量",
+      "example": "I updated the workload this morning.",
+      "exampleZh": "我今天早上更新了这个工作量。",
+      "category": "office"
+    },
+    {
+      "word": "work-life balance",
+      "phonetic": "/wɜːk laɪf ˈbæləns/",
+      "meaning": "工作生活平衡",
+      "example": "The work-life balance is ready for review.",
+      "exampleZh": "这个工作生活平衡已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "burnout",
+      "phonetic": "/ˈbɜːnaʊt/",
+      "meaning": "过劳倦怠",
+      "example": "The burnout is ready for review.",
+      "exampleZh": "这个过劳倦怠已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "coverage plan",
+      "phonetic": "/ˈkʌvərɪdʒ plæn/",
+      "meaning": "顶班计划",
+      "example": "Please review the coverage plan.",
+      "exampleZh": "请审阅一下这个顶班计划。",
+      "category": "office"
+    },
+    {
+      "word": "backup person",
+      "phonetic": "/ˈbækʌp ˈpɜːsn/",
+      "meaning": "替补人员",
+      "example": "The backup person is ready for review.",
+      "exampleZh": "这个替补人员已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "orphan process",
+      "phonetic": "/ˈɔːfn ˈprəʊses/",
+      "meaning": "孤儿进程",
+      "example": "We need the orphan process before go-live.",
+      "exampleZh": "上线前我们需要这个孤儿进程。",
+      "category": "it"
+    },
+    {
+      "word": "daemon",
+      "phonetic": "/ˈdiːmən/",
+      "meaning": "守护进程",
+      "example": "Who supports this daemon?",
+      "exampleZh": "谁支持这个守护进程？",
+      "category": "it"
+    },
+    {
+      "word": "cron job",
+      "phonetic": "/krɒn dʒɒb/",
+      "meaning": "定时任务",
+      "example": "Who supports this cron job?",
+      "exampleZh": "谁支持这个定时任务？",
+      "category": "it"
+    },
+    {
+      "word": "scheduled task",
+      "phonetic": "/ˈʃedjuːld tɑːsk/",
+      "meaning": "计划任务",
+      "example": "Please review the scheduled task after the patch.",
+      "exampleZh": "打补丁后请审阅这个计划任务。",
+      "category": "it"
+    },
+    {
+      "word": "Windows service",
+      "phonetic": "/ˈwɪndəʊz ˈsɜːvɪs/",
+      "meaning": "Windows服务",
+      "example": "The Windows service is in production.",
+      "exampleZh": "这个Windows服务已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

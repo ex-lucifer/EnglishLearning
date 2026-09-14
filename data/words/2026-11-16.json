@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-16",
+  "words": [
+    {
+      "word": "consulted",
+      "phonetic": "/kənˈsʌltɪd/",
+      "meaning": "需征询的",
+      "example": "Stay consulted in the meeting.",
+      "exampleZh": "会上请保持需征询的。",
+      "category": "office"
+    },
+    {
+      "word": "informed",
+      "phonetic": "/ɪnˈfɔːmd/",
+      "meaning": "需知会的",
+      "example": "This request is informed.",
+      "exampleZh": "这个请求是需知会的的。",
+      "category": "office"
+    },
+    {
+      "word": "due date",
+      "phonetic": "/djuː deɪt/",
+      "meaning": "到期日",
+      "example": "Please share the due date after the meeting.",
+      "exampleZh": "会后请分享这个到期日。",
+      "category": "office"
+    },
+    {
+      "word": "extension",
+      "phonetic": "/ɪkˈstenʃn/",
+      "meaning": "延期",
+      "example": "Please review the extension.",
+      "exampleZh": "请审阅一下这个延期。",
+      "category": "office"
+    },
+    {
+      "word": "overdue",
+      "phonetic": "/ˌəʊvəˈdjuː/",
+      "meaning": "已逾期",
+      "example": "This request is overdue.",
+      "exampleZh": "这个请求是已逾期的。",
+      "category": "office"
+    },
+    {
+      "word": "hot backup",
+      "phonetic": "/hɒt ˈbækʌp/",
+      "meaning": "热备份",
+      "example": "The hot backup is in production.",
+      "exampleZh": "这个热备份已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "incremental backup",
+      "phonetic": "/ˌɪŋkrɪˈmentl ˈbækʌp/",
+      "meaning": "增量备份",
+      "example": "Please review the incremental backup after the patch.",
+      "exampleZh": "打补丁后请审阅这个增量备份。",
+      "category": "it"
+    },
+    {
+      "word": "full backup",
+      "phonetic": "/fʊl ˈbækʌp/",
+      "meaning": "全量备份",
+      "example": "Who supports this full backup?",
+      "exampleZh": "谁支持这个全量备份？",
+      "category": "it"
+    },
+    {
+      "word": "differential backup",
+      "phonetic": "/ˌdɪfəˈrenʃl ˈbækʌp/",
+      "meaning": "差异备份",
+      "example": "Who supports this differential backup?",
+      "exampleZh": "谁支持这个差异备份？",
+      "category": "it"
+    },
+    {
+      "word": "disaster recovery",
+      "phonetic": "/dɪˈzɑːstə rɪˈkʌvəri/",
+      "meaning": "灾难恢复",
+      "example": "Please review the disaster recovery after the patch.",
+      "exampleZh": "打补丁后请审阅这个灾难恢复。",
+      "category": "it"
+    }
+  ]
+}

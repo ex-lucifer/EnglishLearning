@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-10",
+  "words": [
+    {
+      "word": "for completeness",
+      "phonetic": "/fə kəmˈpliːtnəs/",
+      "meaning": "为求完整",
+      "example": "I attach the log for completeness.",
+      "exampleZh": "为求完整，我附上日志。",
+      "category": "office"
+    },
+    {
+      "word": "at your earliest convenience",
+      "phonetic": "/ət jɔːr ˈɜːliɪst kənˈviːniəns/",
+      "meaning": "请尽快方便时",
+      "example": "Please reply at your earliest convenience.",
+      "exampleZh": "请在方便时尽快回复。",
+      "category": "office"
+    },
+    {
+      "word": "by close of business",
+      "phonetic": "/baɪ kləʊz əv ˈbɪznəs/",
+      "meaning": "营业结束前",
+      "example": "Send the list by close of business.",
+      "exampleZh": "请在下班前把名单发来。",
+      "category": "office"
+    },
+    {
+      "word": "end of day",
+      "phonetic": "/end əv deɪ/",
+      "meaning": "当天结束前",
+      "example": "Who is handling the end of day?",
+      "exampleZh": "谁在处理这个当天结束前？",
+      "category": "office"
+    },
+    {
+      "word": "start of day",
+      "phonetic": "/stɑːt əv deɪ/",
+      "meaning": "当天开始时",
+      "example": "Who is handling the start of day?",
+      "exampleZh": "谁在处理这个当天开始时？",
+      "category": "office"
+    },
+    {
+      "word": "control plane",
+      "phonetic": "/kənˈtrəʊl pleɪn/",
+      "meaning": "控制平面",
+      "example": "Who supports this control plane?",
+      "exampleZh": "谁支持这个控制平面？",
+      "category": "it"
+    },
+    {
+      "word": "worker node",
+      "phonetic": "/ˈwɜːkə nəʊd/",
+      "meaning": "工作节点",
+      "example": "Please review the worker node after the patch.",
+      "exampleZh": "打补丁后请审阅这个工作节点。",
+      "category": "it"
+    },
+    {
+      "word": "etcd",
+      "phonetic": "/ˈetsidiː/",
+      "meaning": "集群键值库",
+      "example": "We need the etcd before go-live.",
+      "exampleZh": "上线前我们需要这个集群键值库。",
+      "category": "it"
+    },
+    {
+      "word": "scheduler",
+      "phonetic": "/ˈʃedjuːlə/",
+      "meaning": "调度器",
+      "example": "The scheduler is in production.",
+      "exampleZh": "这个调度器已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "kubelet",
+      "phonetic": "/ˈkjuːbəlet/",
+      "meaning": "节点代理",
+      "example": "We need the kubelet before go-live.",
+      "exampleZh": "上线前我们需要这个节点代理。",
+      "category": "it"
+    }
+  ]
+}

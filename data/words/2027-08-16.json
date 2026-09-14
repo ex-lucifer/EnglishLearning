@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-16",
+  "words": [
+    {
+      "word": "I see",
+      "phonetic": "/aɪ siː/",
+      "meaning": "明白了",
+      "example": "I see, we will change the time.",
+      "exampleZh": "明白了，我们改时间。",
+      "category": "office"
+    },
+    {
+      "word": "got it",
+      "phonetic": "/ɡɒt ɪt/",
+      "meaning": "收到",
+      "example": "Got it, I will print ten copies.",
+      "exampleZh": "收到，我会打印十份。",
+      "category": "office"
+    },
+    {
+      "word": "makes sense",
+      "phonetic": "/meɪks sens/",
+      "meaning": "说得通",
+      "example": "That makes sense, let's do it.",
+      "exampleZh": "说得通，那就这么做。",
+      "category": "office"
+    },
+    {
+      "word": "fair enough",
+      "phonetic": "/feə ɪˈnʌf/",
+      "meaning": "可以理解",
+      "example": "Fair enough, we can wait one day.",
+      "exampleZh": "可以理解，我们可以再等一天。",
+      "category": "office"
+    },
+    {
+      "word": "no problem",
+      "phonetic": "/nəʊ ˈprɒbləm/",
+      "meaning": "没问题",
+      "example": "No problem, I can cover Thursday.",
+      "exampleZh": "没问题，周四我可以顶班。",
+      "category": "office"
+    },
+    {
+      "word": "multicast",
+      "phonetic": "/ˈmʌltikɑːst/",
+      "meaning": "组播",
+      "example": "Please check the multicast.",
+      "exampleZh": "请检查一下这个组播。",
+      "category": "it"
+    },
+    {
+      "word": "broadcast",
+      "phonetic": "/ˈbrɔːdkɑːst/",
+      "meaning": "广播",
+      "example": "Who supports this broadcast?",
+      "exampleZh": "谁支持这个广播？",
+      "category": "it"
+    },
+    {
+      "word": "IGMP",
+      "phonetic": "/ˌaɪ dʒiː em ˈpiː/",
+      "meaning": "组播管理协议",
+      "example": "The IGMP is slow this morning.",
+      "exampleZh": "今天早上 IGMP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "protocol independent multicast",
+      "phonetic": "/ˈprəʊtəkɒl ˌɪndɪˈpendənt ˈmʌltikɑːst/",
+      "meaning": "协议无关组播",
+      "example": "Please check the protocol independent multicast.",
+      "exampleZh": "请检查一下这个协议无关组播。",
+      "category": "it"
+    },
+    {
+      "word": "mDNS",
+      "phonetic": "/ˌem diː en ˈes/",
+      "meaning": "组播域名",
+      "example": "The mDNS is slow this morning.",
+      "exampleZh": "今天早上 mDNS 很慢。",
+      "category": "it"
+    }
+  ]
+}

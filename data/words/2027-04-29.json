@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-29",
+  "words": [
+    {
+      "word": "reachable",
+      "phonetic": "/ˈriːtʃəbl/",
+      "meaning": "能联系到的",
+      "example": "Please keep this reachable.",
+      "exampleZh": "请保持能联系到的。",
+      "category": "office"
+    },
+    {
+      "word": "unreachable",
+      "phonetic": "/ʌnˈriːtʃəbl/",
+      "meaning": "联系不上的",
+      "example": "This request is unreachable.",
+      "exampleZh": "这个请求是联系不上的的。",
+      "category": "office"
+    },
+    {
+      "word": "in a meeting",
+      "phonetic": "/ɪn ə ˈmiːtɪŋ/",
+      "meaning": "正在开会",
+      "example": "She is in a meeting until eleven.",
+      "exampleZh": "她开会开到十一点。",
+      "category": "office"
+    },
+    {
+      "word": "on leave",
+      "phonetic": "/ɒn liːv/",
+      "meaning": "在休假",
+      "example": "He is on leave this week.",
+      "exampleZh": "他这周休假。",
+      "category": "office"
+    },
+    {
+      "word": "working from home",
+      "phonetic": "/ˈwɜːkɪŋ frəm həʊm/",
+      "meaning": "在家办公",
+      "example": "I am working from home on Thursday.",
+      "exampleZh": "周四我在家办公。",
+      "category": "office"
+    },
+    {
+      "word": "sunset date",
+      "phonetic": "/ˈsʌnset deɪt/",
+      "meaning": "下线日期",
+      "example": "Please check the sunset date.",
+      "exampleZh": "请检查一下这个下线日期。",
+      "category": "it"
+    },
+    {
+      "word": "feature toggle",
+      "phonetic": "/ˈfiːtʃə ˈtɒɡl/",
+      "meaning": "功能开关",
+      "example": "Please review the feature toggle after the patch.",
+      "exampleZh": "打补丁后请审阅这个功能开关。",
+      "category": "it"
+    },
+    {
+      "word": "dark launch",
+      "phonetic": "/dɑːk lɔːntʃ/",
+      "meaning": "暗发布",
+      "example": "Please review the dark launch after the patch.",
+      "exampleZh": "打补丁后请审阅这个暗发布。",
+      "category": "it"
+    },
+    {
+      "word": "canary host",
+      "phonetic": "/ˈkænəri həʊst/",
+      "meaning": "金丝雀主机",
+      "example": "We need the canary host before go-live.",
+      "exampleZh": "上线前我们需要这个金丝雀主机。",
+      "category": "it"
+    },
+    {
+      "word": "blue environment",
+      "phonetic": "/bluː ɪnˈvaɪrənmənt/",
+      "meaning": "蓝色环境",
+      "example": "Please review the blue environment after the patch.",
+      "exampleZh": "打补丁后请审阅这个蓝色环境。",
+      "category": "it"
+    }
+  ]
+}

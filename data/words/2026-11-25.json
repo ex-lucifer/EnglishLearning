@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-25",
+  "words": [
+    {
+      "word": "copy in",
+      "phonetic": "/ˈkɒpi ɪn/",
+      "meaning": "抄送进去",
+      "example": "Copy in the department secretary.",
+      "exampleZh": "请把科室秘书抄送进去。",
+      "category": "office"
+    },
+    {
+      "word": "leave out",
+      "phonetic": "/liːv aʊt/",
+      "meaning": "漏掉",
+      "example": "Do not leave out the date field.",
+      "exampleZh": "不要漏掉日期栏。",
+      "category": "office"
+    },
+    {
+      "word": "point out",
+      "phonetic": "/pɔɪnt aʊt/",
+      "meaning": "指出",
+      "example": "She pointed out a missing stamp.",
+      "exampleZh": "她指出少了一个章。",
+      "category": "office"
+    },
+    {
+      "word": "set up",
+      "phonetic": "/set ʌp/",
+      "meaning": "安排好",
+      "example": "Please set up a room for ten people.",
+      "exampleZh": "请安排一间十人的房间。",
+      "category": "office"
+    },
+    {
+      "word": "tear down",
+      "phonetic": "/teə daʊn/",
+      "meaning": "撤场",
+      "example": "Tear down the booth after five.",
+      "exampleZh": "五点后请撤展位。",
+      "category": "office"
+    },
+    {
+      "word": "monitoring alert",
+      "phonetic": "/ˈmɒnɪtərɪŋ əˈlɜːt/",
+      "meaning": "监控告警",
+      "example": "Who supports this monitoring alert?",
+      "exampleZh": "谁支持这个监控告警？",
+      "category": "it"
+    },
+    {
+      "word": "log aggregation",
+      "phonetic": "/lɒɡ ˌæɡrɪˈɡeɪʃn/",
+      "meaning": "日志汇聚",
+      "example": "Who supports this log aggregation?",
+      "exampleZh": "谁支持这个日志汇聚？",
+      "category": "it"
+    },
+    {
+      "word": "SIEM",
+      "phonetic": "/siːm/",
+      "meaning": "安全信息事件管理",
+      "example": "The SIEM is slow this morning.",
+      "exampleZh": "今天早上 SIEM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SOC",
+      "phonetic": "/sɒk/",
+      "meaning": "安全运营中心",
+      "example": "The SOC is slow this morning.",
+      "exampleZh": "今天早上 SOC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "MFA",
+      "phonetic": "/ˌem ef ˈeɪ/",
+      "meaning": "多因素认证",
+      "example": "The MFA is slow this morning.",
+      "exampleZh": "今天早上 MFA 很慢。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-21",
+  "words": [
+    {
+      "word": "urgent",
+      "phonetic": "/ˈɜːdʒənt/",
+      "meaning": "紧急的",
+      "example": "Please keep this urgent.",
+      "exampleZh": "请保持紧急的。",
+      "category": "office"
+    },
+    {
+      "word": "template",
+      "phonetic": "/ˈtemplɪt/",
+      "meaning": "模板",
+      "example": "I updated the template this morning.",
+      "exampleZh": "我今天早上更新了这个模板。",
+      "category": "office"
+    },
+    {
+      "word": "checklist",
+      "phonetic": "/ˈtʃeklɪst/",
+      "meaning": "核对清单",
+      "example": "The checklist is ready for review.",
+      "exampleZh": "这个核对清单已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "SOP",
+      "phonetic": "/ˌes əʊ ˈpiː/",
+      "meaning": "标准作业程序",
+      "example": "Please put SOP on the email.",
+      "exampleZh": "请在邮件里注明 SOP。",
+      "category": "office"
+    },
+    {
+      "word": "policy",
+      "phonetic": "/ˈpɒləsi/",
+      "meaning": "制度",
+      "example": "I updated the policy this morning.",
+      "exampleZh": "我今天早上更新了这个制度。",
+      "category": "office"
+    },
+    {
+      "word": "kiosk",
+      "phonetic": "/ˈkiːɒsk/",
+      "meaning": "自助终端",
+      "example": "Please check the kiosk.",
+      "exampleZh": "请检查一下这个自助终端。",
+      "category": "it"
+    },
+    {
+      "word": "bedside terminal",
+      "phonetic": "/ˈbedsaɪd ˈtɜːmɪnl/",
+      "meaning": "床旁终端",
+      "example": "Please check the bedside terminal.",
+      "exampleZh": "请检查一下这个床旁终端。",
+      "category": "it"
+    },
+    {
+      "word": "computer on wheels",
+      "phonetic": "/kəmˈpjuːtə ɒn wiːlz/",
+      "meaning": "移动查房电脑",
+      "example": "Who supports this computer on wheels?",
+      "exampleZh": "谁支持这个移动查房电脑？",
+      "category": "it"
+    },
+    {
+      "word": "workstation on wheels",
+      "phonetic": "/ˈwɜːksteɪʃn ɒn wiːlz/",
+      "meaning": "移动护理工作站",
+      "example": "Please check the workstation on wheels.",
+      "exampleZh": "请检查一下这个移动护理工作站。",
+      "category": "it"
+    },
+    {
+      "word": "medication cart PC",
+      "phonetic": "/ˌmedɪˈkeɪʃn kɑːt piː siː/",
+      "meaning": "发药车电脑",
+      "example": "Please check the medication cart PC.",
+      "exampleZh": "请检查一下这个发药车电脑。",
+      "category": "it"
+    }
+  ]
+}

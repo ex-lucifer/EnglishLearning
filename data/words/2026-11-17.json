@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-17",
+  "words": [
+    {
+      "word": "pending",
+      "phonetic": "/ˈpendɪŋ/",
+      "meaning": "待处理",
+      "example": "Stay pending in the meeting.",
+      "exampleZh": "会上请保持待处理。",
+      "category": "office"
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meaning": "完成",
+      "example": "Please complete this before noon.",
+      "exampleZh": "请在中午前完成这个。",
+      "category": "office"
+    },
+    {
+      "word": "assign",
+      "phonetic": "/əˈsaɪn/",
+      "meaning": "指派",
+      "example": "Please assign this before noon.",
+      "exampleZh": "请在中午前指派这个。",
+      "category": "office"
+    },
+    {
+      "word": "reassign",
+      "phonetic": "/ˌriːəˈsaɪn/",
+      "meaning": "改派",
+      "example": "Let's reassign this first.",
+      "exampleZh": "我们先改派这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "reopen",
+      "phonetic": "/ˌriːˈəʊpən/",
+      "meaning": "重新打开",
+      "example": "Let's reopen this first.",
+      "exampleZh": "我们先重新打开这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "business continuity",
+      "phonetic": "/ˈbɪznəs ˌkɒntɪˈnjuːəti/",
+      "meaning": "业务连续性",
+      "example": "We need the business continuity before go-live.",
+      "exampleZh": "上线前我们需要这个业务连续性。",
+      "category": "it"
+    },
+    {
+      "word": "high availability",
+      "phonetic": "/haɪ əˌveɪləˈbɪləti/",
+      "meaning": "高可用",
+      "example": "We need the high availability before go-live.",
+      "exampleZh": "上线前我们需要这个高可用。",
+      "category": "it"
+    },
+    {
+      "word": "failover cluster",
+      "phonetic": "/ˈfeɪləʊvə ˈklʌstə/",
+      "meaning": "故障转移集群",
+      "example": "We need the failover cluster before go-live.",
+      "exampleZh": "上线前我们需要这个故障转移集群。",
+      "category": "it"
+    },
+    {
+      "word": "load balancer",
+      "phonetic": "/ləʊd ˈbælənsə/",
+      "meaning": "负载均衡器",
+      "example": "Who supports this load balancer?",
+      "exampleZh": "谁支持这个负载均衡器？",
+      "category": "it"
+    },
+    {
+      "word": "reverse proxy",
+      "phonetic": "/rɪˈvɜːs ˈprɒksi/",
+      "meaning": "反向代理",
+      "example": "The reverse proxy is in production.",
+      "exampleZh": "这个反向代理已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

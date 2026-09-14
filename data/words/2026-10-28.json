@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-28",
+  "words": [
+    {
+      "word": "EOD",
+      "phonetic": "/ˌiː əʊ ˈdiː/",
+      "meaning": "下班前",
+      "example": "Please put EOD on the email.",
+      "exampleZh": "请在邮件里注明 EOD。",
+      "category": "office"
+    },
+    {
+      "word": "ASAP",
+      "phonetic": "/ˌeɪ es eɪ ˈpiː/",
+      "meaning": "尽快",
+      "example": "Please handle this ASAP.",
+      "exampleZh": "请尽快处理这件事。",
+      "category": "office"
+    },
+    {
+      "word": "reply-all",
+      "phonetic": "/rɪˈplaɪ ɔːl/",
+      "meaning": "全部回复",
+      "example": "Can you reply-all it today?",
+      "exampleZh": "你今天能全部回复一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "forward",
+      "phonetic": "/ˈfɔːwəd/",
+      "meaning": "转发",
+      "example": "Can you forward it today?",
+      "exampleZh": "你今天能转发一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "signature",
+      "phonetic": "/ˈsɪɡnətʃə/",
+      "meaning": "签名档",
+      "example": "The signature is ready for review.",
+      "exampleZh": "这个签名档已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "lab result",
+      "phonetic": "/læb rɪˈzʌlt/",
+      "meaning": "检验结果",
+      "example": "We need the lab result before go-live.",
+      "exampleZh": "上线前我们需要这个检验结果。",
+      "category": "it"
+    },
+    {
+      "word": "critical result",
+      "phonetic": "/ˈkrɪtɪkl rɪˈzʌlt/",
+      "meaning": "危急值",
+      "example": "Who supports this critical result?",
+      "exampleZh": "谁支持这个危急值？",
+      "category": "it"
+    },
+    {
+      "word": "panic value",
+      "phonetic": "/ˈpænɪk ˈvæljuː/",
+      "meaning": "危急值结果",
+      "example": "Please review the panic value after the patch.",
+      "exampleZh": "打补丁后请审阅这个危急值结果。",
+      "category": "it"
+    },
+    {
+      "word": "result acknowledgement",
+      "phonetic": "/rɪˈzʌlt əkˈnɒlɪdʒmənt/",
+      "meaning": "结果确认",
+      "example": "The result acknowledgement is in production.",
+      "exampleZh": "这个结果确认已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "specimen tracking",
+      "phonetic": "/ˈspesɪmən ˈtrækɪŋ/",
+      "meaning": "标本追踪",
+      "example": "Who supports this specimen tracking?",
+      "exampleZh": "谁支持这个标本追踪？",
+      "category": "it"
+    }
+  ]
+}

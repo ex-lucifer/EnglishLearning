@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-06",
+  "words": [
+    {
+      "word": "as discussed",
+      "phonetic": "/æz dɪˈskʌst/",
+      "meaning": "按所讨论",
+      "example": "As discussed, we start at nine.",
+      "exampleZh": "按所讨论，我们九点开始。",
+      "category": "office"
+    },
+    {
+      "word": "as agreed",
+      "phonetic": "/æz əˈɡriːd/",
+      "meaning": "按约定",
+      "example": "Please send it as agreed.",
+      "exampleZh": "请按约定发过来。",
+      "category": "office"
+    },
+    {
+      "word": "per our call",
+      "phonetic": "/pɜːr ˈaʊə kɔːl/",
+      "meaning": "按电话沟通",
+      "example": "Per our call, the date is Thursday.",
+      "exampleZh": "按电话沟通，日期定在周四。",
+      "category": "office"
+    },
+    {
+      "word": "with reference to",
+      "phonetic": "/wɪð ˈrefrəns tu/",
+      "meaning": "关于",
+      "example": "With reference to your email yesterday.",
+      "exampleZh": "关于你昨天的邮件。",
+      "category": "office"
+    },
+    {
+      "word": "in light of",
+      "phonetic": "/ɪn laɪt əv/",
+      "meaning": "鉴于",
+      "example": "In light of the delay, we will wait.",
+      "exampleZh": "鉴于延误，我们先等一等。",
+      "category": "office"
+    },
+    {
+      "word": "volume mount",
+      "phonetic": "/ˈvɒljuːm maʊnt/",
+      "meaning": "卷挂载",
+      "example": "Please check the volume mount.",
+      "exampleZh": "请检查一下这个卷挂载。",
+      "category": "it"
+    },
+    {
+      "word": "persistent volume",
+      "phonetic": "/pəˈsɪstənt ˈvɒljuːm/",
+      "meaning": "持久卷",
+      "example": "Please review the persistent volume after the patch.",
+      "exampleZh": "打补丁后请审阅这个持久卷。",
+      "category": "it"
+    },
+    {
+      "word": "storage class",
+      "phonetic": "/ˈstɔːrɪdʒ klɑːs/",
+      "meaning": "存储类",
+      "example": "Please check the storage class.",
+      "exampleZh": "请检查一下这个存储类。",
+      "category": "it"
+    },
+    {
+      "word": "node pool",
+      "phonetic": "/nəʊd puːl/",
+      "meaning": "节点池",
+      "example": "Please check the node pool.",
+      "exampleZh": "请检查一下这个节点池。",
+      "category": "it"
+    },
+    {
+      "word": "cluster",
+      "phonetic": "/ˈklʌstə/",
+      "meaning": "集群",
+      "example": "Please review the cluster after the patch.",
+      "exampleZh": "打补丁后请审阅这个集群。",
+      "category": "it"
+    }
+  ]
+}

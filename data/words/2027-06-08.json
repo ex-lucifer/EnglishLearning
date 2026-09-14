@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-08",
+  "words": [
+    {
+      "word": "waiting area",
+      "phonetic": "/ˈweɪtɪŋ ˈeəriə/",
+      "meaning": "等候区",
+      "example": "Please share the waiting area after the meeting.",
+      "exampleZh": "会后请分享这个等候区。",
+      "category": "office"
+    },
+    {
+      "word": "reception log",
+      "phonetic": "/rɪˈsepʃn lɒɡ/",
+      "meaning": "接待登记",
+      "example": "Who is handling the reception log?",
+      "exampleZh": "谁在处理这个接待登记？",
+      "category": "office"
+    },
+    {
+      "word": "visitor log",
+      "phonetic": "/ˈvɪzɪtə lɒɡ/",
+      "meaning": "访客登记",
+      "example": "Please share the visitor log after the meeting.",
+      "exampleZh": "会后请分享这个访客登记。",
+      "category": "office"
+    },
+    {
+      "word": "badge return",
+      "phonetic": "/bædʒ rɪˈtɜːn/",
+      "meaning": "工牌归还",
+      "example": "The badge return is ready for review.",
+      "exampleZh": "这个工牌归还已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "key register",
+      "phonetic": "/kiː ˈredʒɪstə/",
+      "meaning": "钥匙登记",
+      "example": "Please share the key register after the meeting.",
+      "exampleZh": "会后请分享这个钥匙登记。",
+      "category": "office"
+    },
+    {
+      "word": "cumulative update",
+      "phonetic": "/ˈkjuːmjələtɪv ˌʌpˈdeɪt/",
+      "meaning": "累积更新",
+      "example": "The cumulative update is in production.",
+      "exampleZh": "这个累积更新已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "security bulletin",
+      "phonetic": "/sɪˈkjʊərəti ˈbʊlətɪn/",
+      "meaning": "安全公告",
+      "example": "Please review the security bulletin after the patch.",
+      "exampleZh": "打补丁后请审阅这个安全公告。",
+      "category": "it"
+    },
+    {
+      "word": "KB number",
+      "phonetic": "/keɪ ˈbiː ˈnʌmbə/",
+      "meaning": "知识库编号",
+      "example": "Please review the KB number after the patch.",
+      "exampleZh": "打补丁后请审阅这个知识库编号。",
+      "category": "it"
+    },
+    {
+      "word": "reboot pending",
+      "phonetic": "/ˌriːˈbuːt ˈpendɪŋ/",
+      "meaning": "等待重启",
+      "example": "Please check the reboot pending.",
+      "exampleZh": "请检查一下这个等待重启。",
+      "category": "it"
+    },
+    {
+      "word": "pending reboot",
+      "phonetic": "/ˈpendɪŋ ˌriːˈbuːt/",
+      "meaning": "待重启",
+      "example": "The pending reboot is in production.",
+      "exampleZh": "这个待重启已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-26",
+  "words": [
+    {
+      "word": "cooling-off",
+      "phonetic": "/ˈkuːlɪŋ ɒf/",
+      "meaning": "冷静期",
+      "example": "I updated the cooling-off this morning.",
+      "exampleZh": "我今天早上更新了这个冷静期。",
+      "category": "office"
+    },
+    {
+      "word": "blackout period",
+      "phonetic": "/ˈblækaʊt ˈpɪəriəd/",
+      "meaning": "冻结期",
+      "example": "The blackout period is ready for review.",
+      "exampleZh": "这个冻结期已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "peak hours",
+      "phonetic": "/piːk ˈaʊəz/",
+      "meaning": "高峰时段",
+      "example": "Who is handling the peak hours?",
+      "exampleZh": "谁在处理这个高峰时段？",
+      "category": "office"
+    },
+    {
+      "word": "off-peak",
+      "phonetic": "/ɒf piːk/",
+      "meaning": "低峰时段",
+      "example": "Please review the off-peak.",
+      "exampleZh": "请审阅一下这个低峰时段。",
+      "category": "office"
+    },
+    {
+      "word": "rush hour",
+      "phonetic": "/rʌʃ ˈaʊə/",
+      "meaning": "高峰时间",
+      "example": "The rush hour is ready for review.",
+      "exampleZh": "这个高峰时间已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "key exchange",
+      "phonetic": "/kiː ɪksˈtʃeɪndʒ/",
+      "meaning": "密钥交换",
+      "example": "Please review the key exchange after the patch.",
+      "exampleZh": "打补丁后请审阅这个密钥交换。",
+      "category": "it"
+    },
+    {
+      "word": "session key",
+      "phonetic": "/ˈseʃn kiː/",
+      "meaning": "会话密钥",
+      "example": "Please check the session key.",
+      "exampleZh": "请检查一下这个会话密钥。",
+      "category": "it"
+    },
+    {
+      "word": "token expiry",
+      "phonetic": "/ˈtəʊkən ɪkˈspaɪəri/",
+      "meaning": "令牌到期",
+      "example": "We need the token expiry before go-live.",
+      "exampleZh": "上线前我们需要这个令牌到期。",
+      "category": "it"
+    },
+    {
+      "word": "refresh token",
+      "phonetic": "/rɪˈfreʃ ˈtəʊkən/",
+      "meaning": "刷新令牌",
+      "example": "Who supports this refresh token?",
+      "exampleZh": "谁支持这个刷新令牌？",
+      "category": "it"
+    },
+    {
+      "word": "access token",
+      "phonetic": "/ˈækses ˈtəʊkən/",
+      "meaning": "访问令牌",
+      "example": "We need the access token before go-live.",
+      "exampleZh": "上线前我们需要这个访问令牌。",
+      "category": "it"
+    }
+  ]
+}

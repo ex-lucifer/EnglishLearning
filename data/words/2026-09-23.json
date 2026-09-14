@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-23",
+  "words": [
+    {
+      "word": "screen share",
+      "phonetic": "/skriːn ʃeə/",
+      "meaning": "屏幕共享",
+      "example": "I updated the screen share this morning.",
+      "exampleZh": "我今天早上更新了这个屏幕共享。",
+      "category": "office"
+    },
+    {
+      "word": "timeslot",
+      "phonetic": "/ˈtaɪmslɒt/",
+      "meaning": "时间段",
+      "example": "I updated the timeslot this morning.",
+      "exampleZh": "我今天早上更新了这个时间段。",
+      "category": "office"
+    },
+    {
+      "word": "RSVP",
+      "phonetic": "/ˌɑːr es viː ˈpiː/",
+      "meaning": "回复出席",
+      "example": "Please put RSVP on the email.",
+      "exampleZh": "请在邮件里注明 RSVP。",
+      "category": "office"
+    },
+    {
+      "word": "calendar",
+      "phonetic": "/ˈkælɪndə/",
+      "meaning": "日历",
+      "example": "The calendar is ready for review.",
+      "exampleZh": "这个日历已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "invitation",
+      "phonetic": "/ˌɪnvɪˈteɪʃn/",
+      "meaning": "邀请",
+      "example": "I updated the invitation this morning.",
+      "exampleZh": "我今天早上更新了这个邀请。",
+      "category": "office"
+    },
+    {
+      "word": "interface engine",
+      "phonetic": "/ˈɪntəfeɪs ˈendʒɪn/",
+      "meaning": "接口引擎",
+      "example": "Who supports this interface engine?",
+      "exampleZh": "谁支持这个接口引擎？",
+      "category": "it"
+    },
+    {
+      "word": "middleware",
+      "phonetic": "/ˈmɪdlweə/",
+      "meaning": "中间件",
+      "example": "Who supports this middleware?",
+      "exampleZh": "谁支持这个中间件？",
+      "category": "it"
+    },
+    {
+      "word": "worklist",
+      "phonetic": "/ˈwɜːklɪst/",
+      "meaning": "工作列表",
+      "example": "Please review the worklist after the patch.",
+      "exampleZh": "打补丁后请审阅这个工作列表。",
+      "category": "it"
+    },
+    {
+      "word": "accession number",
+      "phonetic": "/əkˈseʃn ˈnʌmbə/",
+      "meaning": "检查号",
+      "example": "Who supports this accession number?",
+      "exampleZh": "谁支持这个检查号？",
+      "category": "it"
+    },
+    {
+      "word": "study UID",
+      "phonetic": "/ˈstʌdi juː aɪ ˈdiː/",
+      "meaning": "检查唯一号",
+      "example": "Who supports this study UID?",
+      "exampleZh": "谁支持这个检查唯一号？",
+      "category": "it"
+    }
+  ]
+}

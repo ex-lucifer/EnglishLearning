@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-08",
+  "words": [
+    {
+      "word": "translate",
+      "phonetic": "/trænsˈleɪt/",
+      "meaning": "翻译",
+      "example": "I will translate it after the meeting.",
+      "exampleZh": "会后我会翻译它。",
+      "category": "office"
+    },
+    {
+      "word": "explain",
+      "phonetic": "/ɪkˈspleɪn/",
+      "meaning": "解释",
+      "example": "We need to explain this by Friday.",
+      "exampleZh": "我们周五前需要解释这个。",
+      "category": "office"
+    },
+    {
+      "word": "describe",
+      "phonetic": "/dɪˈskraɪb/",
+      "meaning": "描述",
+      "example": "Can you describe it today?",
+      "exampleZh": "你今天能描述一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "define",
+      "phonetic": "/dɪˈfaɪn/",
+      "meaning": "界定",
+      "example": "Let's define this first.",
+      "exampleZh": "我们先界定这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "specify",
+      "phonetic": "/ˈspesɪfaɪ/",
+      "meaning": "明确",
+      "example": "Can you specify it today?",
+      "exampleZh": "你今天能明确一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "CNAME",
+      "phonetic": "/ˈsiːneɪm/",
+      "meaning": "别名记录",
+      "example": "The CNAME is slow this morning.",
+      "exampleZh": "今天早上 CNAME 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "A record",
+      "phonetic": "/eɪ ˈrekɔːd/",
+      "meaning": "地址记录",
+      "example": "Who supports this A record?",
+      "exampleZh": "谁支持这个地址记录？",
+      "category": "it"
+    },
+    {
+      "word": "MX record",
+      "phonetic": "/em eks ˈrekɔːd/",
+      "meaning": "邮件交换记录",
+      "example": "Please check the MX record.",
+      "exampleZh": "请检查一下这个邮件交换记录。",
+      "category": "it"
+    },
+    {
+      "word": "TTL",
+      "phonetic": "/ˌtiː tiː ˈel/",
+      "meaning": "生存时间",
+      "example": "The TTL is slow this morning.",
+      "exampleZh": "今天早上 TTL 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "DHCP reservation",
+      "phonetic": "/ˌdiː eɪtʃ siː ˈpiː ˌrezəˈveɪʃn/",
+      "meaning": "地址保留",
+      "example": "We need the DHCP reservation before go-live.",
+      "exampleZh": "上线前我们需要这个地址保留。",
+      "category": "it"
+    }
+  ]
+}

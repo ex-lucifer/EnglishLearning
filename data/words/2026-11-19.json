@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-19",
+  "words": [
+    {
+      "word": "block time",
+      "phonetic": "/blɒk taɪm/",
+      "meaning": "预留时间",
+      "example": "Please block time for the drill.",
+      "exampleZh": "请为演练预留时间。",
+      "category": "office"
+    },
+    {
+      "word": "push back",
+      "phonetic": "/pʊʃ bæk/",
+      "meaning": "往后推",
+      "example": "Can we push back the start time?",
+      "exampleZh": "开始时间能往后推吗？",
+      "category": "office"
+    },
+    {
+      "word": "bring forward",
+      "phonetic": "/brɪŋ ˈfɔːwəd/",
+      "meaning": "提前",
+      "example": "Please bring forward the briefing.",
+      "exampleZh": "请把简报提前。",
+      "category": "office"
+    },
+    {
+      "word": "call off",
+      "phonetic": "/kɔːl ɒf/",
+      "meaning": "取消活动",
+      "example": "We had to call off the visit.",
+      "exampleZh": "我们不得不取消这次参观。",
+      "category": "office"
+    },
+    {
+      "word": "sit in",
+      "phonetic": "/sɪt ɪn/",
+      "meaning": "列席",
+      "example": "Can you sit in for me at nine?",
+      "exampleZh": "九点你能替我列席一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "CI pipeline",
+      "phonetic": "/ˌsiː ˈaɪ ˈpaɪplaɪn/",
+      "meaning": "持续集成流水线",
+      "example": "Please check the CI pipeline.",
+      "exampleZh": "请检查一下这个持续集成流水线。",
+      "category": "it"
+    },
+    {
+      "word": "CD pipeline",
+      "phonetic": "/ˌsiː ˈdiː ˈpaɪplaɪn/",
+      "meaning": "持续交付流水线",
+      "example": "Please check the CD pipeline.",
+      "exampleZh": "请检查一下这个持续交付流水线。",
+      "category": "it"
+    },
+    {
+      "word": "git repository",
+      "phonetic": "/ɡɪt rɪˈpɒzətri/",
+      "meaning": "代码仓库",
+      "example": "Please review the git repository after the patch.",
+      "exampleZh": "打补丁后请审阅这个代码仓库。",
+      "category": "it"
+    },
+    {
+      "word": "merge conflict",
+      "phonetic": "/mɜːdʒ ˈkɒnflɪkt/",
+      "meaning": "合并冲突",
+      "example": "We need the merge conflict before go-live.",
+      "exampleZh": "上线前我们需要这个合并冲突。",
+      "category": "it"
+    },
+    {
+      "word": "pull request",
+      "phonetic": "/pʊl rɪˈkwest/",
+      "meaning": "合并请求",
+      "example": "The pull request is in production.",
+      "exampleZh": "这个合并请求已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

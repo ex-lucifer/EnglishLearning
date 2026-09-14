@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-24",
+  "words": [
+    {
+      "word": "call back",
+      "phonetic": "/kɔːl bæk/",
+      "meaning": "回电话",
+      "example": "I will call back after the huddle.",
+      "exampleZh": "短会后我回电话。",
+      "category": "office"
+    },
+    {
+      "word": "hang up",
+      "phonetic": "/hæŋ ʌp/",
+      "meaning": "挂断",
+      "example": "Do not hang up during the briefing.",
+      "exampleZh": "简报过程中不要挂断。",
+      "category": "office"
+    },
+    {
+      "word": "speak up",
+      "phonetic": "/spiːk ʌp/",
+      "meaning": "大声说",
+      "example": "Please speak up, the line is weak.",
+      "exampleZh": "请大声一点，线路不太好。",
+      "category": "office"
+    },
+    {
+      "word": "slow down",
+      "phonetic": "/sləʊ daʊn/",
+      "meaning": "说慢一点",
+      "example": "Please slow down for the minutes.",
+      "exampleZh": "请说慢一点，方便记纪要。",
+      "category": "office"
+    },
+    {
+      "word": "admission",
+      "phonetic": "/ədˈmɪʃn/",
+      "meaning": "入院",
+      "example": "I updated the admission this morning.",
+      "exampleZh": "我今天早上更新了这个入院。",
+      "category": "office"
+    },
+    {
+      "word": "sandbox environment",
+      "phonetic": "/ˈsændbɒks ɪnˈvaɪrənmənt/",
+      "meaning": "沙箱环境",
+      "example": "We need the sandbox environment before go-live.",
+      "exampleZh": "上线前我们需要这个沙箱环境。",
+      "category": "it"
+    },
+    {
+      "word": "dev environment",
+      "phonetic": "/dev ɪnˈvaɪrənmənt/",
+      "meaning": "开发环境",
+      "example": "Please review the dev environment after the patch.",
+      "exampleZh": "打补丁后请审阅这个开发环境。",
+      "category": "it"
+    },
+    {
+      "word": "test environment",
+      "phonetic": "/test ɪnˈvaɪrənmənt/",
+      "meaning": "测试环境",
+      "example": "Please check the test environment.",
+      "exampleZh": "请检查一下这个测试环境。",
+      "category": "it"
+    },
+    {
+      "word": "DR site",
+      "phonetic": "/ˌdiː ˈɑː saɪt/",
+      "meaning": "灾备站点",
+      "example": "Please check the DR site.",
+      "exampleZh": "请检查一下这个灾备站点。",
+      "category": "it"
+    },
+    {
+      "word": "primary site",
+      "phonetic": "/ˈpraɪməri saɪt/",
+      "meaning": "主站点",
+      "example": "We need the primary site before go-live.",
+      "exampleZh": "上线前我们需要这个主站点。",
+      "category": "it"
+    }
+  ]
+}

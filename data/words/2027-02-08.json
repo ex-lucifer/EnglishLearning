@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-08",
+  "words": [
+    {
+      "word": "hard copy",
+      "phonetic": "/hɑːd ˈkɒpi/",
+      "meaning": "纸质件",
+      "example": "Who is handling the hard copy?",
+      "exampleZh": "谁在处理这个纸质件？",
+      "category": "office"
+    },
+    {
+      "word": "soft copy",
+      "phonetic": "/sɒft ˈkɒpi/",
+      "meaning": "电子件",
+      "example": "Please review the soft copy.",
+      "exampleZh": "请审阅一下这个电子件。",
+      "category": "office"
+    },
+    {
+      "word": "original",
+      "phonetic": "/əˈrɪdʒənl/",
+      "meaning": "原件",
+      "example": "Who is handling the original?",
+      "exampleZh": "谁在处理这个原件？",
+      "category": "office"
+    },
+    {
+      "word": "duplicate",
+      "phonetic": "/ˈdjuːplɪkət/",
+      "meaning": "副本",
+      "example": "Please share the duplicate after the meeting.",
+      "exampleZh": "会后请分享这个副本。",
+      "category": "office"
+    },
+    {
+      "word": "photocopy",
+      "phonetic": "/ˈfəʊtəʊkɒpi/",
+      "meaning": "复印件",
+      "example": "The photocopy is ready for review.",
+      "exampleZh": "这个复印件已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "commit log",
+      "phonetic": "/kəˈmɪt lɒɡ/",
+      "meaning": "提交日志",
+      "example": "Please check the commit log.",
+      "exampleZh": "请检查一下这个提交日志。",
+      "category": "it"
+    },
+    {
+      "word": "rollback segment",
+      "phonetic": "/ˈrəʊlbæk ˈseɡmənt/",
+      "meaning": "回滚段",
+      "example": "Who supports this rollback segment?",
+      "exampleZh": "谁支持这个回滚段？",
+      "category": "it"
+    },
+    {
+      "word": "tempdb",
+      "phonetic": "/ˈtempdiːbiː/",
+      "meaning": "临时库",
+      "example": "We need the tempdb before go-live.",
+      "exampleZh": "上线前我们需要这个临时库。",
+      "category": "it"
+    },
+    {
+      "word": "backup compression",
+      "phonetic": "/ˈbækʌp kəmˈpreʃn/",
+      "meaning": "备份压缩",
+      "example": "The backup compression is in production.",
+      "exampleZh": "这个备份压缩已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "restore test",
+      "phonetic": "/rɪˈstɔː test/",
+      "meaning": "恢复演练",
+      "example": "Who supports this restore test?",
+      "exampleZh": "谁支持这个恢复演练？",
+      "category": "it"
+    }
+  ]
+}

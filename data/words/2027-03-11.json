@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-11",
+  "words": [
+    {
+      "word": "delay",
+      "phonetic": "/dɪˈleɪ/",
+      "meaning": "延误",
+      "example": "We need to delay this by Friday.",
+      "exampleZh": "我们周五前需要延误这个。",
+      "category": "office"
+    },
+    {
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "meaning": "加快",
+      "example": "Can you accelerate it today?",
+      "exampleZh": "你今天能加快一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "expedite",
+      "phonetic": "/ˈekspədaɪt/",
+      "meaning": "加急办理",
+      "example": "Let's expedite this first.",
+      "exampleZh": "我们先加急办理这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "omit",
+      "phonetic": "/əˈmɪt/",
+      "meaning": "省略",
+      "example": "Can you omit it today?",
+      "exampleZh": "你今天能省略一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "include",
+      "phonetic": "/ɪnˈkluːd/",
+      "meaning": "纳入",
+      "example": "I will include it after the meeting.",
+      "exampleZh": "会后我会纳入它。",
+      "category": "office"
+    },
+    {
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meaning": "中继链路",
+      "example": "Please review the trunk after the patch.",
+      "exampleZh": "打补丁后请审阅这个中继链路。",
+      "category": "it"
+    },
+    {
+      "word": "access port",
+      "phonetic": "/ˈækses pɔːt/",
+      "meaning": "接入端口",
+      "example": "The access port is in production.",
+      "exampleZh": "这个接入端口已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "uplink",
+      "phonetic": "/ˈʌplɪŋk/",
+      "meaning": "上联口",
+      "example": "Please review the uplink after the patch.",
+      "exampleZh": "打补丁后请审阅这个上联口。",
+      "category": "it"
+    },
+    {
+      "word": "core switch",
+      "phonetic": "/kɔː swɪtʃ/",
+      "meaning": "核心交换机",
+      "example": "Please review the core switch after the patch.",
+      "exampleZh": "打补丁后请审阅这个核心交换机。",
+      "category": "it"
+    },
+    {
+      "word": "distribution switch",
+      "phonetic": "/ˌdɪstrɪˈbjuːʃn swɪtʃ/",
+      "meaning": "汇聚交换机",
+      "example": "Please check the distribution switch.",
+      "exampleZh": "请检查一下这个汇聚交换机。",
+      "category": "it"
+    }
+  ]
+}

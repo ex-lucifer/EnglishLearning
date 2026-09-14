@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-16",
+  "words": [
+    {
+      "word": "measure",
+      "phonetic": "/ˈmeʒə/",
+      "meaning": "衡量",
+      "example": "Can you measure it today?",
+      "exampleZh": "你今天能衡量一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "evaluate",
+      "phonetic": "/ɪˈvæljueɪt/",
+      "meaning": "评估",
+      "example": "I will evaluate it after the meeting.",
+      "exampleZh": "会后我会评估它。",
+      "category": "office"
+    },
+    {
+      "word": "assess",
+      "phonetic": "/əˈses/",
+      "meaning": "评定",
+      "example": "I will assess it after the meeting.",
+      "exampleZh": "会后我会评定它。",
+      "category": "office"
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meaning": "培训",
+      "example": "We need to train this by Friday.",
+      "exampleZh": "我们周五前需要培训这个。",
+      "category": "office"
+    },
+    {
+      "word": "coach",
+      "phonetic": "/kəʊtʃ/",
+      "meaning": "辅导",
+      "example": "Please coach this before noon.",
+      "exampleZh": "请在中午前辅导这个。",
+      "category": "office"
+    },
+    {
+      "word": "generator",
+      "phonetic": "/ˈdʒenəreɪtə/",
+      "meaning": "发电机",
+      "example": "Who supports this generator?",
+      "exampleZh": "谁支持这个发电机？",
+      "category": "it"
+    },
+    {
+      "word": "cooling",
+      "phonetic": "/ˈkuːlɪŋ/",
+      "meaning": "机房制冷",
+      "example": "We need the cooling before go-live.",
+      "exampleZh": "上线前我们需要这个机房制冷。",
+      "category": "it"
+    },
+    {
+      "word": "CRAC",
+      "phonetic": "/kræk/",
+      "meaning": "机房空调",
+      "example": "The CRAC is slow this morning.",
+      "exampleZh": "今天早上 CRAC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "raised floor",
+      "phonetic": "/reɪzd flɔː/",
+      "meaning": "架空地板",
+      "example": "Please check the raised floor.",
+      "exampleZh": "请检查一下这个架空地板。",
+      "category": "it"
+    },
+    {
+      "word": "rack",
+      "phonetic": "/ræk/",
+      "meaning": "机柜",
+      "example": "The rack is in production.",
+      "exampleZh": "这个机柜已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-01",
+  "words": [
+    {
+      "word": "archive folder",
+      "phonetic": "/ˈɑːkaɪv ˈfəʊldə/",
+      "meaning": "归档文件夹",
+      "example": "The archive folder is ready for review.",
+      "exampleZh": "这个归档文件夹已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "shared mailbox",
+      "phonetic": "/ʃeəd ˈmeɪlbɒks/",
+      "meaning": "共享邮箱",
+      "example": "Who is handling the shared mailbox?",
+      "exampleZh": "谁在处理这个共享邮箱？",
+      "category": "office"
+    },
+    {
+      "word": "group email",
+      "phonetic": "/ɡruːp ˈiːmeɪl/",
+      "meaning": "组邮箱",
+      "example": "Please share the group email after the meeting.",
+      "exampleZh": "会后请分享这个组邮箱。",
+      "category": "office"
+    },
+    {
+      "word": "email etiquette",
+      "phonetic": "/ˈiːmeɪl ˈetɪket/",
+      "meaning": "邮件礼仪",
+      "example": "Please review the email etiquette.",
+      "exampleZh": "请审阅一下这个邮件礼仪。",
+      "category": "office"
+    },
+    {
+      "word": "plain language",
+      "phonetic": "/pleɪn ˈlæŋɡwɪdʒ/",
+      "meaning": "通俗表达",
+      "example": "Please review the plain language.",
+      "exampleZh": "请审阅一下这个通俗表达。",
+      "category": "office"
+    },
+    {
+      "word": "circuit ID",
+      "phonetic": "/ˈsɜːkɪt aɪ ˈdiː/",
+      "meaning": "专线编号",
+      "example": "The circuit ID is in production.",
+      "exampleZh": "这个专线编号已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "carrier",
+      "phonetic": "/ˈkæriə/",
+      "meaning": "运营商",
+      "example": "Who supports this carrier?",
+      "exampleZh": "谁支持这个运营商？",
+      "category": "it"
+    },
+    {
+      "word": "BGP",
+      "phonetic": "/ˌbiː dʒiː ˈpiː/",
+      "meaning": "边界网关协议",
+      "example": "The BGP is slow this morning.",
+      "exampleZh": "今天早上 BGP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "OSPF",
+      "phonetic": "/ˌəʊ es piː ˈef/",
+      "meaning": "开放最短路径优先",
+      "example": "The OSPF is slow this morning.",
+      "exampleZh": "今天早上 OSPF 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "static route",
+      "phonetic": "/ˈstætɪk ruːt/",
+      "meaning": "静态路由",
+      "example": "Please review the static route after the patch.",
+      "exampleZh": "打补丁后请审阅这个静态路由。",
+      "category": "it"
+    }
+  ]
+}

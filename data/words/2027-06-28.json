@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-28",
+  "words": [
+    {
+      "word": "clearance form",
+      "phonetic": "/ˈklɪərəns fɔːm/",
+      "meaning": "离职清算单",
+      "example": "Please share the clearance form after the meeting.",
+      "exampleZh": "会后请分享这个离职清算单。",
+      "category": "office"
+    },
+    {
+      "word": "last day",
+      "phonetic": "/lɑːst deɪ/",
+      "meaning": "最后工作日",
+      "example": "Please share the last day after the meeting.",
+      "exampleZh": "会后请分享这个最后工作日。",
+      "category": "office"
+    },
+    {
+      "word": "notice to leave",
+      "phonetic": "/ˈnəʊtɪs tə liːv/",
+      "meaning": "离职通知",
+      "example": "Who is handling the notice to leave?",
+      "exampleZh": "谁在处理这个离职通知？",
+      "category": "office"
+    },
+    {
+      "word": "reference letter",
+      "phonetic": "/ˈrefrəns ˈletə/",
+      "meaning": "推荐信",
+      "example": "The reference letter is ready for review.",
+      "exampleZh": "这个推荐信已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "employment letter",
+      "phonetic": "/ɪmˈplɔɪmənt ˈletə/",
+      "meaning": "在职证明",
+      "example": "The employment letter is ready for review.",
+      "exampleZh": "这个在职证明已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "exploit protection",
+      "phonetic": "/ˈeksplɔɪt prəˈtekʃn/",
+      "meaning": "漏洞利用防护",
+      "example": "The exploit protection is in production.",
+      "exampleZh": "这个漏洞利用防护已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "DEP",
+      "phonetic": "/dep/",
+      "meaning": "数据执行保护",
+      "example": "The DEP is slow this morning.",
+      "exampleZh": "今天早上 DEP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "ASLR",
+      "phonetic": "/ˌeɪ es el ˈɑː/",
+      "meaning": "地址随机化",
+      "example": "The ASLR is slow this morning.",
+      "exampleZh": "今天早上 ASLR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "Control Flow Guard",
+      "phonetic": "/kənˈtrəʊl fləʊ ɡɑːd/",
+      "meaning": "控制流防护",
+      "example": "We need the Control Flow Guard before go-live.",
+      "exampleZh": "上线前我们需要这个控制流防护。",
+      "category": "it"
+    },
+    {
+      "word": "WDAC",
+      "phonetic": "/ˈdʌbljuː dæk/",
+      "meaning": "应用控制",
+      "example": "The WDAC is slow this morning.",
+      "exampleZh": "今天早上 WDAC 很慢。",
+      "category": "it"
+    }
+  ]
+}

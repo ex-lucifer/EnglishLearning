@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-02",
+  "words": [
+    {
+      "word": "parking permit",
+      "phonetic": "/ˈpɑːkɪŋ ˈpɜːmɪt/",
+      "meaning": "停车许可",
+      "example": "The parking permit is ready for review.",
+      "exampleZh": "这个停车许可已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "canteen",
+      "phonetic": "/kænˈtiːn/",
+      "meaning": "食堂",
+      "example": "Who is handling the canteen?",
+      "exampleZh": "谁在处理这个食堂？",
+      "category": "office"
+    },
+    {
+      "word": "locker",
+      "phonetic": "/ˈlɒkə/",
+      "meaning": "储物柜",
+      "example": "Please review the locker.",
+      "exampleZh": "请审阅一下这个储物柜。",
+      "category": "office"
+    },
+    {
+      "word": "uniform",
+      "phonetic": "/ˈjuːnɪfɔːm/",
+      "meaning": "工装",
+      "example": "Please share the uniform after the meeting.",
+      "exampleZh": "会后请分享这个工装。",
+      "category": "office"
+    },
+    {
+      "word": "notice board",
+      "phonetic": "/ˈnəʊtɪs bɔːd/",
+      "meaning": "公告栏",
+      "example": "I updated the notice board this morning.",
+      "exampleZh": "我今天早上更新了这个公告栏。",
+      "category": "office"
+    },
+    {
+      "word": "statistics update",
+      "phonetic": "/stəˈtɪstɪks ˌʌpˈdeɪt/",
+      "meaning": "统计信息更新",
+      "example": "The statistics update is in production.",
+      "exampleZh": "这个统计信息更新已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "DBA",
+      "phonetic": "/ˌdiː biː ˈeɪ/",
+      "meaning": "数据库管理员",
+      "example": "The DBA is slow this morning.",
+      "exampleZh": "今天早上 DBA 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "schema",
+      "phonetic": "/ˈskiːmə/",
+      "meaning": "数据库结构",
+      "example": "Please check the schema.",
+      "exampleZh": "请检查一下这个数据库结构。",
+      "category": "it"
+    },
+    {
+      "word": "table",
+      "phonetic": "/ˈteɪbl/",
+      "meaning": "数据表",
+      "example": "Please check the table.",
+      "exampleZh": "请检查一下这个数据表。",
+      "category": "it"
+    },
+    {
+      "word": "view",
+      "phonetic": "/vjuː/",
+      "meaning": "视图",
+      "example": "Who supports this view?",
+      "exampleZh": "谁支持这个视图？",
+      "category": "it"
+    }
+  ]
+}

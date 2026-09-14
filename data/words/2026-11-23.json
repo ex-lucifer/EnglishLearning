@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-23",
+  "words": [
+    {
+      "word": "stand in",
+      "phonetic": "/stænd ɪn/",
+      "meaning": "顶替",
+      "example": "She will stand in while I am on leave.",
+      "exampleZh": "我请假期间由她顶替。",
+      "category": "office"
+    },
+    {
+      "word": "hand off",
+      "phonetic": "/hænd ɒf/",
+      "meaning": "转交",
+      "example": "Please hand off the file to night shift.",
+      "exampleZh": "请把档案转交给夜班。",
+      "category": "office"
+    },
+    {
+      "word": "sign in",
+      "phonetic": "/saɪn ɪn/",
+      "meaning": "签到",
+      "example": "Please sign in at the front desk.",
+      "exampleZh": "请在前台签到。",
+      "category": "office"
+    },
+    {
+      "word": "sign out",
+      "phonetic": "/saɪn aʊt/",
+      "meaning": "签退",
+      "example": "Remember to sign out before you leave.",
+      "exampleZh": "离开前记得签退。",
+      "category": "office"
+    },
+    {
+      "word": "check in",
+      "phonetic": "/tʃek ɪn/",
+      "meaning": "报到",
+      "example": "Please check in with the clerk first.",
+      "exampleZh": "请先向文员报到。",
+      "category": "office"
+    },
+    {
+      "word": "release notes",
+      "phonetic": "/rɪˈliːs nəʊts/",
+      "meaning": "发布说明",
+      "example": "The release notes is in production.",
+      "exampleZh": "这个发布说明已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "change window",
+      "phonetic": "/tʃeɪndʒ ˈwɪndəʊ/",
+      "meaning": "变更窗口",
+      "example": "The change window is in production.",
+      "exampleZh": "这个变更窗口已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "maintenance freeze",
+      "phonetic": "/ˈmeɪntənəns friːz/",
+      "meaning": "维护冻结",
+      "example": "Who supports this maintenance freeze?",
+      "exampleZh": "谁支持这个维护冻结？",
+      "category": "it"
+    },
+    {
+      "word": "incident severity",
+      "phonetic": "/ˈɪnsɪdənt səˈverəti/",
+      "meaning": "事件级别",
+      "example": "Who supports this incident severity?",
+      "exampleZh": "谁支持这个事件级别？",
+      "category": "it"
+    },
+    {
+      "word": "root-cause analysis",
+      "phonetic": "/ruːt kɔːz əˈnæləsɪs/",
+      "meaning": "根因分析",
+      "example": "The root-cause analysis is in production.",
+      "exampleZh": "这个根因分析已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

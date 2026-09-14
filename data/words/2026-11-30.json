@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-30",
+  "words": [
+    {
+      "word": "heads-up",
+      "phonetic": "/hedz ʌp/",
+      "meaning": "事先提醒",
+      "example": "Please share the heads-up after the meeting.",
+      "exampleZh": "会后请分享这个事先提醒。",
+      "category": "office"
+    },
+    {
+      "word": "green light",
+      "phonetic": "/ɡriːn laɪt/",
+      "meaning": "放行批准",
+      "example": "Please review the green light.",
+      "exampleZh": "请审阅一下这个放行批准。",
+      "category": "office"
+    },
+    {
+      "word": "red flag",
+      "phonetic": "/red flæɡ/",
+      "meaning": "警示信号",
+      "example": "I updated the red flag this morning.",
+      "exampleZh": "我今天早上更新了这个警示信号。",
+      "category": "office"
+    },
+    {
+      "word": "gray area",
+      "phonetic": "/ɡreɪ ˈeəriə/",
+      "meaning": "模糊地带",
+      "example": "The gray area is ready for review.",
+      "exampleZh": "这个模糊地带已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "chain of command",
+      "phonetic": "/tʃeɪn əv kəˈmɑːnd/",
+      "meaning": "汇报链条",
+      "example": "The chain of command is ready for review.",
+      "exampleZh": "这个汇报链条已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "least privilege",
+      "phonetic": "/liːst ˈprɪvəlɪdʒ/",
+      "meaning": "最小权限",
+      "example": "Please check the least privilege.",
+      "exampleZh": "请检查一下这个最小权限。",
+      "category": "it"
+    },
+    {
+      "word": "privileged access",
+      "phonetic": "/ˈprɪvəlɪdʒd ˈækses/",
+      "meaning": "特权访问",
+      "example": "Please check the privileged access.",
+      "exampleZh": "请检查一下这个特权访问。",
+      "category": "it"
+    },
+    {
+      "word": "session timeout",
+      "phonetic": "/ˈseʃn ˈtaɪmaʊt/",
+      "meaning": "会话超时",
+      "example": "Please review the session timeout after the patch.",
+      "exampleZh": "打补丁后请审阅这个会话超时。",
+      "category": "it"
+    },
+    {
+      "word": "idle timeout",
+      "phonetic": "/ˈaɪdl ˈtaɪmaʊt/",
+      "meaning": "空闲超时",
+      "example": "We need the idle timeout before go-live.",
+      "exampleZh": "上线前我们需要这个空闲超时。",
+      "category": "it"
+    },
+    {
+      "word": "account expiry",
+      "phonetic": "/əˈkaʊnt ɪkˈspaɪəri/",
+      "meaning": "账号到期",
+      "example": "Who supports this account expiry?",
+      "exampleZh": "谁支持这个账号到期？",
+      "category": "it"
+    }
+  ]
+}

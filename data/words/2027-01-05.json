@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-05",
+  "words": [
+    {
+      "word": "nurse station",
+      "phonetic": "/nɜːs ˈsteɪʃn/",
+      "meaning": "护士站",
+      "example": "I updated the nurse station this morning.",
+      "exampleZh": "我今天早上更新了这个护士站。",
+      "category": "office"
+    },
+    {
+      "word": "information desk",
+      "phonetic": "/ˌɪnfəˈmeɪʃn desk/",
+      "meaning": "问询台",
+      "example": "Please share the information desk after the meeting.",
+      "exampleZh": "会后请分享这个问询台。",
+      "category": "office"
+    },
+    {
+      "word": "duty",
+      "phonetic": "/ˈdjuːti/",
+      "meaning": "值班职责",
+      "example": "Please share the duty after the meeting.",
+      "exampleZh": "会后请分享这个值班职责。",
+      "category": "office"
+    },
+    {
+      "word": "assignment",
+      "phonetic": "/əˈsaɪnmənt/",
+      "meaning": "任务分配",
+      "example": "Who is handling the assignment?",
+      "exampleZh": "谁在处理这个任务分配？",
+      "category": "office"
+    },
+    {
+      "word": "department head",
+      "phonetic": "/dɪˈpɑːtmənt hed/",
+      "meaning": "科室主任",
+      "example": "The department head is ready for review.",
+      "exampleZh": "这个科室主任已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "VLAN",
+      "phonetic": "/ˈviːlæn/",
+      "meaning": "虚拟局域网",
+      "example": "The VLAN is slow this morning.",
+      "exampleZh": "今天早上 VLAN 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "subnet",
+      "phonetic": "/ˈsʌbnet/",
+      "meaning": "子网",
+      "example": "The subnet is in production.",
+      "exampleZh": "这个子网已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "gateway",
+      "phonetic": "/ˈɡeɪtweɪ/",
+      "meaning": "网关",
+      "example": "Who supports this gateway?",
+      "exampleZh": "谁支持这个网关？",
+      "category": "it"
+    },
+    {
+      "word": "router",
+      "phonetic": "/ˈruːtə/",
+      "meaning": "路由器",
+      "example": "Who supports this router?",
+      "exampleZh": "谁支持这个路由器？",
+      "category": "it"
+    },
+    {
+      "word": "switch",
+      "phonetic": "/swɪtʃ/",
+      "meaning": "交换机",
+      "example": "Who supports this switch?",
+      "exampleZh": "谁支持这个交换机？",
+      "category": "it"
+    }
+  ]
+}

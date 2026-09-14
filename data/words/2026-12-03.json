@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-03",
+  "words": [
+    {
+      "word": "annual leave",
+      "phonetic": "/ˈænjuəl liːv/",
+      "meaning": "年假",
+      "example": "Who is handling the annual leave?",
+      "exampleZh": "谁在处理这个年假？",
+      "category": "office"
+    },
+    {
+      "word": "compensatory leave",
+      "phonetic": "/kəmˈpensətəri liːv/",
+      "meaning": "调休",
+      "example": "I updated the compensatory leave this morning.",
+      "exampleZh": "我今天早上更新了这个调休。",
+      "category": "office"
+    },
+    {
+      "word": "public holiday",
+      "phonetic": "/ˈpʌblɪk ˈhɒlədeɪ/",
+      "meaning": "公共假期",
+      "example": "Please review the public holiday.",
+      "exampleZh": "请审阅一下这个公共假期。",
+      "category": "office"
+    },
+    {
+      "word": "time off",
+      "phonetic": "/taɪm ɒf/",
+      "meaning": "休假时间",
+      "example": "Who is handling the time off?",
+      "exampleZh": "谁在处理这个休假时间？",
+      "category": "office"
+    },
+    {
+      "word": "flex time",
+      "phonetic": "/fleks taɪm/",
+      "meaning": "弹性工时",
+      "example": "I updated the flex time this morning.",
+      "exampleZh": "我今天早上更新了这个弹性工时。",
+      "category": "office"
+    },
+    {
+      "word": "SAML",
+      "phonetic": "/ˈsæml/",
+      "meaning": "安全断言标记",
+      "example": "The SAML is slow this morning.",
+      "exampleZh": "今天早上 SAML 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "OpenID",
+      "phonetic": "/ˈəʊpən aɪ ˈdiː/",
+      "meaning": "开放身份",
+      "example": "The OpenID is slow this morning.",
+      "exampleZh": "今天早上 OpenID 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "JSON payload",
+      "phonetic": "/ˈdʒeɪsən ˈpeɪləʊd/",
+      "meaning": "JSON报文",
+      "example": "Please review the JSON payload after the patch.",
+      "exampleZh": "打补丁后请审阅这个JSON报文。",
+      "category": "it"
+    },
+    {
+      "word": "XML message",
+      "phonetic": "/ˌeks em ˈel ˈmesɪdʒ/",
+      "meaning": "XML报文",
+      "example": "Who supports this XML message?",
+      "exampleZh": "谁支持这个XML报文？",
+      "category": "it"
+    },
+    {
+      "word": "SOAP service",
+      "phonetic": "/səʊp ˈsɜːvɪs/",
+      "meaning": "SOAP服务",
+      "example": "Please review the SOAP service after the patch.",
+      "exampleZh": "打补丁后请审阅这个SOAP服务。",
+      "category": "it"
+    }
+  ]
+}

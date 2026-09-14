@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-13",
+  "words": [
+    {
+      "word": "incident report",
+      "phonetic": "/ˈɪnsɪdənt rɪˈpɔːt/",
+      "meaning": "不良事件报告",
+      "example": "Please review the incident report.",
+      "exampleZh": "请审阅一下这个不良事件报告。",
+      "category": "office"
+    },
+    {
+      "word": "near miss",
+      "phonetic": "/nɪə mɪs/",
+      "meaning": "未遂事件",
+      "example": "The near miss is ready for review.",
+      "exampleZh": "这个未遂事件已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "root cause",
+      "phonetic": "/ruːt kɔːz/",
+      "meaning": "根本原因",
+      "example": "The root cause is ready for review.",
+      "exampleZh": "这个根本原因已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "corrective action",
+      "phonetic": "/kəˈrektɪv ˈækʃn/",
+      "meaning": "纠正措施",
+      "example": "Who is handling the corrective action?",
+      "exampleZh": "谁在处理这个纠正措施？",
+      "category": "office"
+    },
+    {
+      "word": "preventive action",
+      "phonetic": "/prɪˈventɪv ˈækʃn/",
+      "meaning": "预防措施",
+      "example": "I updated the preventive action this morning.",
+      "exampleZh": "我今天早上更新了这个预防措施。",
+      "category": "office"
+    },
+    {
+      "word": "local admin",
+      "phonetic": "/ˈləʊkl ˈædmɪn/",
+      "meaning": "本地管理员",
+      "example": "Who supports this local admin?",
+      "exampleZh": "谁支持这个本地管理员？",
+      "category": "it"
+    },
+    {
+      "word": "domain admin",
+      "phonetic": "/dəˈmeɪn ˈædmɪn/",
+      "meaning": "域管理员",
+      "example": "The domain admin is in production.",
+      "exampleZh": "这个域管理员已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "service desk",
+      "phonetic": "/ˈsɜːvɪs desk/",
+      "meaning": "服务台",
+      "example": "The service desk is in production.",
+      "exampleZh": "这个服务台已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "helpdesk",
+      "phonetic": "/ˈhelpdesk/",
+      "meaning": "技术支持台",
+      "example": "We need the helpdesk before go-live.",
+      "exampleZh": "上线前我们需要这个技术支持台。",
+      "category": "it"
+    },
+    {
+      "word": "L1 support",
+      "phonetic": "/el wʌn səˈpɔːt/",
+      "meaning": "一线支持",
+      "example": "The L1 support is in production.",
+      "exampleZh": "这个一线支持已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

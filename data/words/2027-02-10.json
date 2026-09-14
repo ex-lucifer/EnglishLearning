@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-10",
+  "words": [
+    {
+      "word": "acknowledge receipt",
+      "phonetic": "/əkˈnɒlɪdʒ rɪˈsiːt/",
+      "meaning": "确认收悉",
+      "example": "Please acknowledge receipt of this memo.",
+      "exampleZh": "请确认已收到这份备忘。",
+      "category": "office"
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "退回",
+      "example": "We need to return this by Friday.",
+      "exampleZh": "我们周五前需要退回这个。",
+      "category": "office"
+    },
+    {
+      "word": "revise",
+      "phonetic": "/rɪˈvaɪz/",
+      "meaning": "修订",
+      "example": "Let's revise this first.",
+      "exampleZh": "我们先修订这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "amend",
+      "phonetic": "/əˈmend/",
+      "meaning": "修改",
+      "example": "We need to amend this by Friday.",
+      "exampleZh": "我们周五前需要修改这个。",
+      "category": "office"
+    },
+    {
+      "word": "finalize",
+      "phonetic": "/ˈfaɪnəlaɪz/",
+      "meaning": "定稿",
+      "example": "Please finalize this before noon.",
+      "exampleZh": "请在中午前定稿这个。",
+      "category": "office"
+    },
+    {
+      "word": "jump host",
+      "phonetic": "/dʒʌmp həʊst/",
+      "meaning": "跳板机",
+      "example": "Please check the jump host.",
+      "exampleZh": "请检查一下这个跳板机。",
+      "category": "it"
+    },
+    {
+      "word": "bastion",
+      "phonetic": "/ˈbæstiən/",
+      "meaning": "堡垒机",
+      "example": "The bastion is in production.",
+      "exampleZh": "这个堡垒机已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "privileged session",
+      "phonetic": "/ˈprɪvəlɪdʒd ˈseʃn/",
+      "meaning": "特权会话",
+      "example": "Who supports this privileged session?",
+      "exampleZh": "谁支持这个特权会话？",
+      "category": "it"
+    },
+    {
+      "word": "session recording",
+      "phonetic": "/ˈseʃn rɪˈkɔːdɪŋ/",
+      "meaning": "会话录像",
+      "example": "Please review the session recording after the patch.",
+      "exampleZh": "打补丁后请审阅这个会话录像。",
+      "category": "it"
+    },
+    {
+      "word": "command filter",
+      "phonetic": "/kəˈmɑːnd ˈfɪltə/",
+      "meaning": "命令过滤",
+      "example": "We need the command filter before go-live.",
+      "exampleZh": "上线前我们需要这个命令过滤。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-12",
+  "words": [
+    {
+      "word": "one moment",
+      "phonetic": "/wʌn ˈməʊmənt/",
+      "meaning": "稍等片刻",
+      "example": "One moment, I am checking the roster.",
+      "exampleZh": "稍等，我在查排班。",
+      "category": "office"
+    },
+    {
+      "word": "right away",
+      "phonetic": "/raɪt əˈweɪ/",
+      "meaning": "马上",
+      "example": "I will send it right away.",
+      "exampleZh": "我马上发。",
+      "category": "office"
+    },
+    {
+      "word": "as soon as possible",
+      "phonetic": "/æz suːn æz ˈpɒsəbl/",
+      "meaning": "尽快",
+      "example": "Please send the list as soon as possible.",
+      "exampleZh": "请尽快把名单发来。",
+      "category": "office"
+    },
+    {
+      "word": "no rush",
+      "phonetic": "/nəʊ rʌʃ/",
+      "meaning": "不着急",
+      "example": "No rush, tomorrow is fine.",
+      "exampleZh": "不着急，明天也可以。",
+      "category": "office"
+    },
+    {
+      "word": "take your time",
+      "phonetic": "/teɪk jɔː taɪm/",
+      "meaning": "不着急慢慢来",
+      "example": "Take your time with the minutes.",
+      "exampleZh": "纪要不着急，慢慢写。",
+      "category": "office"
+    },
+    {
+      "word": "east-west traffic",
+      "phonetic": "/iːst west ˈtræfɪk/",
+      "meaning": "东西向流量",
+      "example": "Please review the east-west traffic after the patch.",
+      "exampleZh": "打补丁后请审阅这个东西向流量。",
+      "category": "it"
+    },
+    {
+      "word": "north-south traffic",
+      "phonetic": "/nɔːθ saʊθ ˈtræfɪk/",
+      "meaning": "南北向流量",
+      "example": "The north-south traffic is in production.",
+      "exampleZh": "这个南北向流量已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "hairpin",
+      "phonetic": "/ˈheəpɪn/",
+      "meaning": "回流转发",
+      "example": "Please check the hairpin.",
+      "exampleZh": "请检查一下这个回流转发。",
+      "category": "it"
+    },
+    {
+      "word": "anycast",
+      "phonetic": "/ˈenikɑːst/",
+      "meaning": "任播",
+      "example": "Please check the anycast.",
+      "exampleZh": "请检查一下这个任播。",
+      "category": "it"
+    },
+    {
+      "word": "unicast",
+      "phonetic": "/ˈjuːnɪkɑːst/",
+      "meaning": "单播",
+      "example": "Please check the unicast.",
+      "exampleZh": "请检查一下这个单播。",
+      "category": "it"
+    }
+  ]
+}

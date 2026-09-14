@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-02",
+  "words": [
+    {
+      "word": "silent agreement",
+      "phonetic": "/ˈsaɪlənt əˈɡriːmənt/",
+      "meaning": "默许",
+      "example": "Who is handling the silent agreement?",
+      "exampleZh": "谁在处理这个默许？",
+      "category": "office"
+    },
+    {
+      "word": "spoken agreement",
+      "phonetic": "/ˈspəʊkən əˈɡriːmənt/",
+      "meaning": "口头约定",
+      "example": "Who is handling the spoken agreement?",
+      "exampleZh": "谁在处理这个口头约定？",
+      "category": "office"
+    },
+    {
+      "word": "written agreement",
+      "phonetic": "/ˈrɪtn əˈɡriːmənt/",
+      "meaning": "书面约定",
+      "example": "Please share the written agreement after the meeting.",
+      "exampleZh": "会后请分享这个书面约定。",
+      "category": "office"
+    },
+    {
+      "word": "gentle reminder",
+      "phonetic": "/ˈdʒentl rɪˈmaɪndə/",
+      "meaning": "温和提醒",
+      "example": "Please share the gentle reminder after the meeting.",
+      "exampleZh": "会后请分享这个温和提醒。",
+      "category": "office"
+    },
+    {
+      "word": "final reminder",
+      "phonetic": "/ˈfaɪnl rɪˈmaɪndə/",
+      "meaning": "最后提醒",
+      "example": "Who is handling the final reminder?",
+      "exampleZh": "谁在处理这个最后提醒？",
+      "category": "office"
+    },
+    {
+      "word": "concurrent license",
+      "phonetic": "/kənˈkʌrənt ˈlaɪsns/",
+      "meaning": "并发授权",
+      "example": "We need the concurrent license before go-live.",
+      "exampleZh": "上线前我们需要这个并发授权。",
+      "category": "it"
+    },
+    {
+      "word": "named user",
+      "phonetic": "/neɪmd ˈjuːzə/",
+      "meaning": "指定用户",
+      "example": "Please check the named user.",
+      "exampleZh": "请检查一下这个指定用户。",
+      "category": "it"
+    },
+    {
+      "word": "floating license",
+      "phonetic": "/ˈfləʊtɪŋ ˈlaɪsns/",
+      "meaning": "浮动授权",
+      "example": "Please check the floating license.",
+      "exampleZh": "请检查一下这个浮动授权。",
+      "category": "it"
+    },
+    {
+      "word": "license compliance",
+      "phonetic": "/ˈlaɪsns kəmˈplaɪəns/",
+      "meaning": "授权合规",
+      "example": "Please check the license compliance.",
+      "exampleZh": "请检查一下这个授权合规。",
+      "category": "it"
+    },
+    {
+      "word": "true-up",
+      "phonetic": "/truː ʌp/",
+      "meaning": "授权对账",
+      "example": "Who supports this true-up?",
+      "exampleZh": "谁支持这个授权对账？",
+      "category": "it"
+    }
+  ]
+}

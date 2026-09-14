@@ -1,0 +1,299 @@
+agenda|/əˈdʒendə/|议程|n
+follow-up|/ˈfɒləʊ ʌp/|跟进|n
+handover|/ˈhændəʊvə/|交接|n
+deadline|/ˈdedlaɪn/|截止日期|n
+briefing|/ˈbriːfɪŋ/|简报|n
+clarify|/ˈklærɪfaɪ/|澄清|v
+postpone|/pəʊstˈpəʊn/|推迟|v
+minutes|/ˈmɪnɪts/|会议纪要|n
+owner|/ˈəʊnə/|负责人|n
+update|/ʌpˈdeɪt/|更新|n
+attendee|/əˌtenˈdiː/|参会人|n
+quorum|/ˈkwɔːrəm/|法定人数|n
+adjourn|/əˈdʒɜːn/|休会|v
+chairperson|/ˈtʃeəpɜːsn/|主持人|n
+facilitator|/fəˈsɪlɪteɪtə/|引导人|n
+kickoff|/ˈkɪkɒf/|启动会|n
+wrap-up|/ˈræp ʌp/|收尾|n
+recap|/ˈriːkæp/|回顾摘要|n
+takeaway|/ˈteɪkəweɪ/|会议要点|n
+action item|/ˈækʃn ˈaɪtəm/|待办事项|n
+talking point|/ˈtɔːkɪŋ pɔɪnt/|讨论要点|n
+parking lot|/ˈpɑːkɪŋ lɒt/|待议事项|n
+workshop|/ˈwɜːkʃɒp/|研讨会|n
+offsite|/ˈɒfsaɪt/|外出研讨|n
+town hall|/taʊn hɔːl/|全员大会|n
+webinar|/ˈwebɪnɑː/|网络研讨会|n
+conference call|/ˈkɒnfərəns kɔːl/|电话会议|n
+dial-in|/ˈdaɪəl ɪn/|拨入号|n
+mute|/mjuːt/|静音|v
+unmute|/ʌnˈmjuːt/|取消静音|v
+screen share|/skriːn ʃeə/|屏幕共享|n
+timeslot|/ˈtaɪmslɒt/|时间段|n
+RSVP|/ˌɑːr es viː ˈpiː/|回复出席|acr
+calendar|/ˈkælɪndə/|日历|n
+invitation|/ˌɪnvɪˈteɪʃn/|邀请|n
+decline|/dɪˈklaɪn/|拒绝|v
+accept|/əkˈsept/|接受|v
+tentative|/ˈtentətɪv/|暂定的|adj
+availability|/əˌveɪləˈbɪləti/|可出席时间|n
+reschedule|/ˌriːˈʃedjuːl/|改期|v
+cancel|/ˈkænsl/|取消|v
+confirm|/kənˈfɜːm/|确认|v
+reminder|/rɪˈmaɪndə/|提醒|n
+announcement|/əˈnaʊnsmənt/|通知|n
+memo|/ˈmeməʊ/|内部备忘|n
+notice|/ˈnəʊtɪs/|通告|n
+circular|/ˈsɜːkjələ/|传阅文件|n
+newsletter|/ˈnjuːzletə/|简讯|n
+one-pager|/wʌn ˈpeɪdʒə/|一页摘要|n
+slide deck|/slaɪd dek/|幻灯片稿|n
+appendix|/əˈpendɪks/|附录|n
+summary|/ˈsʌməri/|摘要|n
+overview|/ˈəʊvəvjuː/|概览|n
+outline|/ˈaʊtlaɪn/|提纲|n
+proposal|/prəˈpəʊzl/|提案|n
+pitch|/pɪtʃ/|方案陈述|n
+quotation|/kwəʊˈteɪʃn/|报价|n
+bid|/bɪd/|投标|n
+contract|/ˈkɒntrækt/|合同|n
+vendor|/ˈvendə/|供应商|n
+procurement|/prəˈkjʊəmənt/|采购|n
+invoice|/ˈɪnvɔɪs/|发票|n
+reimbursement|/ˌriːɪmˈbɜːsmənt/|报销|n
+itinerary|/aɪˈtɪnərəri/|行程|n
+logistics|/ləˈdʒɪstɪks/|后勤安排|n
+onboard|/ˌɒnˈbɔːd/|入职对接|v
+offboard|/ˌɒfˈbɔːd/|离职交接|v
+probation|/prəˈbeɪʃn/|试用期|n
+appraisal|/əˈpreɪzl/|绩效考核|n
+overtime|/ˈəʊvətaɪm/|加班|n
+shift|/ʃɪft/|班次|n
+roster|/ˈrɒstə/|排班表|n
+coverage|/ˈkʌvərɪdʒ/|顶班安排|n
+deputy|/ˈdepjuti/|代理人|n
+proxy|/ˈprɒksi/|授权代表|n
+delegate|/ˈdelɪɡeɪt/|委派|v
+authorize|/ˈɔːθəraɪz/|授权|v
+headcount|/ˈhedkaʊnt/|编制人数|n
+vacancy|/ˈveɪkənsi/|空缺岗位|n
+interview|/ˈɪntəvjuː/|面试|n
+offer|/ˈɒfə/|录用通知|n
+milestone|/ˈmaɪlstəʊn/|里程碑|n
+deliverable|/dɪˈlɪvərəbl/|交付物|n
+scope|/skəʊp/|范围|n
+stakeholder|/ˈsteɪkhəʊldə/|相关方|n
+sponsor|/ˈspɒnsə/|发起人|n
+timeline|/ˈtaɪmlaɪn/|时间线|n
+backlog|/ˈbæklɒɡ/|待办积压|n
+blocker|/ˈblɒkə/|阻塞项|n
+dependency|/dɪˈpendənsi/|依赖项|n
+risk|/rɪsk/|风险|n
+mitigation|/ˌmɪtɪˈɡeɪʃn/|缓解措施|n
+contingency|/kənˈtɪndʒənsi/|应急预案|n
+escalate|/ˈeskəleɪt/|升级上报|v
+bottleneck|/ˈbɒtlnek/|瓶颈|n
+bandwidth|/ˈbændwɪdθ/|可用精力|n
+capacity|/kəˈpæsəti/|承载能力|n
+allocation|/ˌæləˈkeɪʃn/|资源分配|n
+estimate|/ˈestɪmət/|估算|n
+KPI|/ˌkeɪ piː ˈaɪ/|关键绩效指标|acr
+metric|/ˈmetrɪk/|衡量指标|n
+sign-off|/ˈsaɪn ɒf/|签字确认|n
+approval|/əˈpruːvl/|审批|n
+phase|/feɪz/|阶段|n
+prioritize|/praɪˈɒrɪtaɪz/|排出优先级|v
+negotiate|/nɪˈɡəʊʃieɪt/|协商|v
+compromise|/ˈkɒmprəmaɪz/|折中|n
+consensus|/kənˈsensəs/|共识|n
+feedback|/ˈfiːdbæk/|反馈|n
+confidential|/ˌkɒnfɪˈdenʃl/|保密的|adj
+urgent|/ˈɜːdʒənt/|紧急的|adj
+template|/ˈtemplɪt/|模板|n
+checklist|/ˈtʃeklɪst/|核对清单|n
+SOP|/ˌes əʊ ˈpiː/|标准作业程序|acr
+policy|/ˈpɒləsi/|制度|n
+guideline|/ˈɡaɪdlaɪn/|指引|n
+procedure|/prəˈsiːdʒə/|流程步骤|n
+workflow|/ˈwɜːkfləʊ/|工作流程|n
+compliance|/kəmˈplaɪəns/|合规|n
+audit|/ˈɔːdɪt/|审计|n
+archive|/ˈɑːkaɪv/|归档|v
+revision|/rɪˈvɪʒn/|修订版|n
+draft|/drɑːft/|草稿|n
+CC|/ˌsiː ˈsiː/|抄送|acr
+BCC|/ˌbiː siː ˈsiː/|密送|acr
+subject line|/ˈsʌbdʒɪkt laɪn/|邮件主题|n
+attachment|/əˈtætʃmənt/|附件|n
+thread|/θred/|邮件串|n
+inbox|/ˈɪnbɒks/|收件箱|n
+FYI|/ˌef waɪ ˈaɪ/|仅供参考|acr
+EOD|/ˌiː əʊ ˈdiː/|下班前|acr
+ASAP|/ˌeɪ es eɪ ˈpiː/|尽快|adv
+reply-all|/rɪˈplaɪ ɔːl/|全部回复|v
+forward|/ˈfɔːwəd/|转发|v
+signature|/ˈsɪɡnətʃə/|签名档|n
+acknowledge|/əkˈnɒlɪdʒ/|确认收到|v
+align|/əˈlaɪn/|对齐共识|v
+sync|/sɪŋk/|同步沟通|v
+catch-up|/ˈkætʃ ʌp/|补会沟通|n
+ping|/pɪŋ/|快速提醒|v
+nudge|/nʌdʒ/|催一下|v
+circulate|/ˈsɜːkjəleɪt/|传阅|v
+loop in|/luːp ɪn/|拉进沟通|phr|Please loop in the ward clerk.|请把病区文员拉进沟通。
+out of office|/aʊt əv ˈɒfɪs/|不在办公室|phr|I am out of office until Thursday.|我周四前不在办公室。
+in progress|/ɪn ˈprəʊɡres/|进行中|phr|The request is still in progress.|这个请求还在处理中。
+on hold|/ɒn həʊld/|暂缓|phr|We put the purchase on hold.|我们把采购先暂缓了。
+next steps|/nekst steps/|下一步|n
+status update|/ˈsteɪtəs ˌʌpdeɪt/|进展通报|n
+weekly report|/ˈwiːkli rɪˈpɔːt/|周报|n
+monthly report|/ˈmʌnθli rɪˈpɔːt/|月报|n
+quarterly review|/ˈkwɔːtəli rɪˈvjuː/|季度回顾|n
+annual review|/ˈænjuəl rɪˈvjuː/|年度回顾|n
+performance review|/pəˈfɔːməns rɪˈvjuː/|绩效面谈|n
+project plan|/ˈprɒdʒekt plæn/|项目计划|n
+work plan|/wɜːk plæn/|工作计划|n
+meeting invite|/ˈmiːtɪŋ ɪnˈvaɪt/|会议邀请|n
+calendar invite|/ˈkælɪndə ɪnˈvaɪt/|日历邀请|n
+standing meeting|/ˈstændɪŋ ˈmiːtɪŋ/|例会|n
+ad hoc|/æd ˈhɒk/|临时安排|adj
+one-on-one|/wʌn ɒn wʌn/|一对一面谈|n
+skip-level|/skɪp ˈlevl/|越级沟通|n
+all-hands|/ɔːl hændz/|全员会|n
+brown-bag|/braʊn bæɡ/|午餐分享会|n
+icebreaker|/ˈaɪsbreɪkə/|破冰环节|n
+roundtable|/ˈraʊndteɪbl/|圆桌讨论|n
+brainstorm|/ˈbreɪnstɔːm/|头脑风暴|n
+whiteboard|/ˈwaɪtbɔːd/|白板|n
+flipchart|/ˈflɪptʃɑːt/|挂纸板|n
+handout|/ˈhændaʊt/|会发材料|n
+attendance|/əˈtendəns/|出席情况|n
+regrets|/rɪˈɡrets/|请假缺席|n
+latecomer|/ˈleɪtkʌmə/|迟到者|n
+timekeeper|/ˈtaɪmkiːpə/|计时员|n
+scribe|/skraɪb/|会议记录员|n
+ground rules|/ɡraʊnd ruːlz/|会议规则|n
+parking-lot item|/ˈpɑːkɪŋ lɒt ˈaɪtəm/|暂记事项|n
+decision log|/dɪˈsɪʒn lɒɡ/|决策记录|n
+RACI|/ˈreɪsi/|权责矩阵|acr
+responsible|/rɪˈspɒnsəbl/|负责执行的|adj
+accountable|/əˈkaʊntəbl/|最终负责的|adj
+consulted|/kənˈsʌltɪd/|需征询的|adj
+informed|/ɪnˈfɔːmd/|需知会的|adj
+due date|/djuː deɪt/|到期日|n
+extension|/ɪkˈstenʃn/|延期|n
+overdue|/ˌəʊvəˈdjuː/|已逾期|adj
+pending|/ˈpendɪŋ/|待处理|adj
+complete|/kəmˈpliːt/|完成|v
+assign|/əˈsaɪn/|指派|v
+reassign|/ˌriːəˈsaɪn/|改派|v
+reopen|/ˌriːˈəʊpən/|重新打开|v
+close out|/kləʊz aʊt/|收口结项|phr|Please close out this request today.|请今天把这个请求收口。
+walk through|/wɔːk θruː/|逐步讲解|phr|Can you walk through the new form?|你能把新表格逐步讲一遍吗？
+touch base|/tʌtʃ beɪs/|快速对接|phr|Let's touch base after lunch.|午饭后我们快速对接一下。
+circle back|/ˈsɜːkl bæk/|回头再谈|phr|I will circle back this afternoon.|我今天下午再回头找你。
+pencil in|/ˈpensl ɪn/|暂定写入|phr|Please pencil in Friday at ten.|请先暂定周五十点。
+block time|/blɒk taɪm/|预留时间|phr|Please block time for the drill.|请为演练预留时间。
+push back|/pʊʃ bæk/|往后推|phr|Can we push back the start time?|开始时间能往后推吗？
+bring forward|/brɪŋ ˈfɔːwəd/|提前|phr|Please bring forward the briefing.|请把简报提前。
+call off|/kɔːl ɒf/|取消活动|phr|We had to call off the visit.|我们不得不取消这次参观。
+sit in|/sɪt ɪn/|列席|phr|Can you sit in for me at nine?|九点你能替我列席一下吗？
+stand in|/stænd ɪn/|顶替|phr|She will stand in while I am on leave.|我请假期间由她顶替。
+hand off|/hænd ɒf/|转交|phr|Please hand off the file to night shift.|请把档案转交给夜班。
+sign in|/saɪn ɪn/|签到|phr|Please sign in at the front desk.|请在前台签到。
+sign out|/saɪn aʊt/|签退|phr|Remember to sign out before you leave.|离开前记得签退。
+check in|/tʃek ɪn/|报到|phr|Please check in with the clerk first.|请先向文员报到。
+check out|/tʃek aʊt/|核对离开|phr|Check out the keys before handover.|交接前请核对钥匙。
+fill in|/fɪl ɪn/|填写|phr|Please fill in the leave form.|请填写请假单。
+fill out|/fɪl aʊt/|填完|phr|Fill out the visitor log completely.|请把访客登记表填完整。
+print out|/prɪnt aʊt/|打印出来|phr|Please print out two copies.|请打印两份。
+pass on|/pɑːs ɒn/|转告|phr|Please pass on this note to the team.|请把这条留言转告团队。
+copy in|/ˈkɒpi ɪn/|抄送进去|phr|Copy in the department secretary.|请把科室秘书抄送进去。
+leave out|/liːv aʊt/|漏掉|phr|Do not leave out the date field.|不要漏掉日期栏。
+point out|/pɔɪnt aʊt/|指出|phr|She pointed out a missing stamp.|她指出少了一个章。
+set up|/set ʌp/|安排好|phr|Please set up a room for ten people.|请安排一间十人的房间。
+tear down|/teə daʊn/|撤场|phr|Tear down the booth after five.|五点后请撤展位。
+follow through|/ˈfɒləʊ θruː/|做到底|phr|Please follow through on the promise.|请把承诺做到底。
+keep posted|/kiːp ˈpəʊstɪd/|随时告知|phr|Keep me posted on the delay.|延误情况请随时告诉我。
+for the record|/fə ðə ˈrekɔːd/|特此备案|phr|For the record, I objected.|特此备案，我当时反对。
+on the same page|/ɒn ðə seɪm peɪdʒ/|达成一致|phr|Are we on the same page now?|我们现在一致了吗？
+bottom line|/ˈbɒtəm laɪn/|关键结论|n
+heads-up|/hedz ʌp/|事先提醒|n
+green light|/ɡriːn laɪt/|放行批准|n
+red flag|/red flæɡ/|警示信号|n
+gray area|/ɡreɪ ˈeəriə/|模糊地带|n
+chain of command|/tʃeɪn əv kəˈmɑːnd/|汇报链条|n
+org chart|/ɔːɡ tʃɑːt/|组织架构图|n
+job description|/dʒɒb dɪˈskrɪpʃn/|岗位说明书|n
+duty roster|/ˈdjuːti ˈrɒstə/|值班表|n
+on-call|/ɒn kɔːl/|值班待命|adj
+standby|/ˈstændbaɪ/|待命|n
+night shift|/naɪt ʃɪft/|夜班|n
+day shift|/deɪ ʃɪft/|白班|n
+weekend cover|/ˈwiːkend ˈkʌvə/|周末顶班|n
+leave request|/liːv rɪˈkwest/|请假申请|n
+sick leave|/sɪk liːv/|病假|n
+annual leave|/ˈænjuəl liːv/|年假|n
+compensatory leave|/kəmˈpensətəri liːv/|调休|n
+public holiday|/ˈpʌblɪk ˈhɒlədeɪ/|公共假期|n
+time off|/taɪm ɒf/|休假时间|n
+flex time|/fleks taɪm/|弹性工时|n
+core hours|/kɔː kˈaʊəz/|核心工时|n
+clock in|/klɒk ɪn/|上班打卡|phr|Please clock in at the side door.|请在侧门打卡上班。
+clock out|/klɒk aʊt/|下班打卡|phr|Don't forget to clock out.|下班别忘了打卡。
+overtime pay|/ˈəʊvətaɪm peɪ/|加班费|n
+meal break|/miːl breɪk/|用餐休息|n
+handover note|/ˈhændəʊvə nəʊt/|交接说明|n
+duty log|/ˈdjuːti lɒɡ/|值班日志|n
+secondment|/sɪˈkɒndmənt/|借调|n
+rotation|/rəʊˈteɪʃn/|轮岗|n
+intern|/ˈɪntɜːn/|实习生|n
+mentor|/ˈmentɔː/|导师|n
+buddy|/ˈbʌdi/|带教搭档|n
+orientation|/ˌɔːriənˈteɪʃn/|入职介绍|n
+induction|/ɪnˈdʌkʃn/|入职培训|n
+training plan|/ˈtreɪnɪŋ plæn/|培训计划|n
+refresher|/rɪˈfreʃə/|复习培训|n
+certificate|/səˈtɪfɪkət/|证书|n
+license|/ˈlaɪsns/|执照|n
+credential|/krəˈdenʃl/|资质证明|n
+badge|/bædʒ/|工牌|n
+access card|/ˈækses kɑːd/|门禁卡|n
+visitor pass|/ˈvɪzɪtə pɑːs/|访客证|n
+escort|/ˈeskɔːt/|陪同|n
+lobby|/ˈlɒbi/|大厅|n
+conference room|/ˈkɒnfərəns ruːm/|会议室|n
+huddle room|/ˈhʌdl ruːm/|小讨论室|n
+training room|/ˈtreɪnɪŋ ruːm/|培训室|n
+front desk|/frʌnt desk/|前台|n
+mailroom|/ˈmeɪlruːm/|收发室|n
+stationery|/ˈsteɪʃənri/|文具|n
+letterhead|/ˈletəhed/|公文抬头纸|n
+stamp|/stæmp/|公章|n
+seal|/siːl/|印章|n
+watermark|/ˈwɔːtəmɑːk/|水印|n
+binder|/ˈbaɪndə/|文件夹|n
+filing|/ˈfaɪlɪŋ/|归档装订|n
+folder|/ˈfəʊldə/|文件夹目录|n
+version|/ˈvɜːʃn/|版本|n
+final copy|/ˈfaɪnl ˈkɒpi/|终稿|n
+tracked changes|/trækt ˈtʃeɪndʒɪz/|修订痕迹|n
+comment|/ˈkɒment/|批注|n
+footnote|/ˈfʊtnəʊt/|脚注|n
+header|/ˈhedə/|页眉|n
+footer|/ˈfʊtə/|页脚|n
+page number|/peɪdʒ ˈnʌmbə/|页码|n
+distribution list|/ˌdɪstrɪˈbjuːʃn lɪst/|分发名单|n
+mailing list|/ˈmeɪlɪŋ lɪst/|邮件名单|n
+contact list|/ˈkɒntækt lɪst/|联系人名单|n
+org directory|/ɔːɡ dəˈrektəri/|通讯录|n
+extension number|/ɪkˈstenʃn ˈnʌmbə/|分机号|n
+switchboard|/ˈswɪtʃbɔːd/|总机|n
+voicemail|/ˈvɔɪsmeɪl/|语音留言|n
+callback|/ˈkɔːlbæk/|回拨|n
+hold the line|/həʊld ðə laɪn/|请别挂|phr|Please hold the line for a minute.|请稍等，别挂电话。
+put through|/pʊt θruː/|转接|phr|Can you put me through to billing?|能帮我转到收费处吗？
+call back|/kɔːl bæk/|回电话|phr|I will call back after the huddle.|短会后我回电话。
+hang up|/hæŋ ʌp/|挂断|phr|Do not hang up during the briefing.|简报过程中不要挂断。
+speak up|/spiːk ʌp/|大声说|phr|Please speak up, the line is weak.|请大声一点，线路不太好。
+slow down|/sləʊ daʊn/|说慢一点|phr|Please slow down for the minutes.|请说慢一点，方便记纪要。

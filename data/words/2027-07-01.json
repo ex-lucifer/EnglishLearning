@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-01",
+  "words": [
+    {
+      "word": "housing allowance",
+      "phonetic": "/ˈhaʊzɪŋ əˈlaʊəns/",
+      "meaning": "住房补贴",
+      "example": "The housing allowance is ready for review.",
+      "exampleZh": "这个住房补贴已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "uniform allowance",
+      "phonetic": "/ˈjuːnɪfɔːm əˈlaʊəns/",
+      "meaning": "工装补贴",
+      "example": "Who is handling the uniform allowance?",
+      "exampleZh": "谁在处理这个工装补贴？",
+      "category": "office"
+    },
+    {
+      "word": "training allowance",
+      "phonetic": "/ˈtreɪnɪŋ əˈlaʊəns/",
+      "meaning": "培训补贴",
+      "example": "Please share the training allowance after the meeting.",
+      "exampleZh": "会后请分享这个培训补贴。",
+      "category": "office"
+    },
+    {
+      "word": "exam leave",
+      "phonetic": "/ɪɡˈzæm liːv/",
+      "meaning": "考试假",
+      "example": "Please share the exam leave after the meeting.",
+      "exampleZh": "会后请分享这个考试假。",
+      "category": "office"
+    },
+    {
+      "word": "marriage leave",
+      "phonetic": "/ˈmærɪdʒ liːv/",
+      "meaning": "婚假",
+      "example": "Please review the marriage leave.",
+      "exampleZh": "请审阅一下这个婚假。",
+      "category": "office"
+    },
+    {
+      "word": "recovery key",
+      "phonetic": "/rɪˈkʌvəri kiː/",
+      "meaning": "恢复密钥",
+      "example": "The recovery key is in production.",
+      "exampleZh": "这个恢复密钥已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "TPM owner",
+      "phonetic": "/ˌtiː piː ˈem ˈəʊnə/",
+      "meaning": "可信模块属主",
+      "example": "Please review the TPM owner after the patch.",
+      "exampleZh": "打补丁后请审阅这个可信模块属主。",
+      "category": "it"
+    },
+    {
+      "word": "escrow",
+      "phonetic": "/ˈeskrəʊ/",
+      "meaning": "密钥托管",
+      "example": "Please review the escrow after the patch.",
+      "exampleZh": "打补丁后请审阅这个密钥托管。",
+      "category": "it"
+    },
+    {
+      "word": "MBAM",
+      "phonetic": "/ˈembæm/",
+      "meaning": "磁盘加密管理",
+      "example": "The MBAM is slow this morning.",
+      "exampleZh": "今天早上 MBAM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "disk unlock",
+      "phonetic": "/dɪsk ʌnˈlɒk/",
+      "meaning": "磁盘解锁",
+      "example": "Please review the disk unlock after the patch.",
+      "exampleZh": "打补丁后请审阅这个磁盘解锁。",
+      "category": "it"
+    }
+  ]
+}

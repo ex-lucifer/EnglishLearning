@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-30",
+  "words": [
+    {
+      "word": "read receipt",
+      "phonetic": "/riːd rɪˈsiːt/",
+      "meaning": "已读回执",
+      "example": "Please share the read receipt after the meeting.",
+      "exampleZh": "会后请分享这个已读回执。",
+      "category": "office"
+    },
+    {
+      "word": "delivery failure",
+      "phonetic": "/dɪˈlɪvəri ˈfeɪljə/",
+      "meaning": "发送失败",
+      "example": "Please review the delivery failure.",
+      "exampleZh": "请审阅一下这个发送失败。",
+      "category": "office"
+    },
+    {
+      "word": "bounce",
+      "phonetic": "/baʊns/",
+      "meaning": "退信",
+      "example": "I updated the bounce this morning.",
+      "exampleZh": "我今天早上更新了这个退信。",
+      "category": "office"
+    },
+    {
+      "word": "outbox",
+      "phonetic": "/ˈaʊtbɒks/",
+      "meaning": "发件箱",
+      "example": "Who is handling the outbox?",
+      "exampleZh": "谁在处理这个发件箱？",
+      "category": "office"
+    },
+    {
+      "word": "drafts folder",
+      "phonetic": "/drɑːfts ˈfəʊldə/",
+      "meaning": "草稿箱",
+      "example": "The drafts folder is ready for review.",
+      "exampleZh": "这个草稿箱已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "DSCP",
+      "phonetic": "/ˌdiː es siː ˈpiː/",
+      "meaning": "差分服务标记",
+      "example": "The DSCP is slow this morning.",
+      "exampleZh": "今天早上 DSCP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "traffic shaping",
+      "phonetic": "/ˈtræfɪk ˈʃeɪpɪŋ/",
+      "meaning": "流量整形",
+      "example": "The traffic shaping is in production.",
+      "exampleZh": "这个流量整形已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "bandwidth cap",
+      "phonetic": "/ˈbændwɪdθ kæp/",
+      "meaning": "带宽上限",
+      "example": "We need the bandwidth cap before go-live.",
+      "exampleZh": "上线前我们需要这个带宽上限。",
+      "category": "it"
+    },
+    {
+      "word": "WAN",
+      "phonetic": "/wæn/",
+      "meaning": "广域网",
+      "example": "The WAN is slow this morning.",
+      "exampleZh": "今天早上 WAN 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "LAN",
+      "phonetic": "/læn/",
+      "meaning": "局域网",
+      "example": "The LAN is slow this morning.",
+      "exampleZh": "今天早上 LAN 很慢。",
+      "category": "it"
+    }
+  ]
+}

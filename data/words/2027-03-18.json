@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-18",
+  "words": [
+    {
+      "word": "relocate",
+      "phonetic": "/ˌriːləʊˈkeɪt/",
+      "meaning": "调岗搬迁",
+      "example": "Can you relocate it today?",
+      "exampleZh": "你今天能调岗搬迁一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "handover meeting",
+      "phonetic": "/ˈhændəʊvə ˈmiːtɪŋ/",
+      "meaning": "交接会",
+      "example": "I updated the handover meeting this morning.",
+      "exampleZh": "我今天早上更新了这个交接会。",
+      "category": "office"
+    },
+    {
+      "word": "kick-off memo",
+      "phonetic": "/ˈkɪk ɒf ˈmeməʊ/",
+      "meaning": "启动备忘",
+      "example": "Please share the kick-off memo after the meeting.",
+      "exampleZh": "会后请分享这个启动备忘。",
+      "category": "office"
+    },
+    {
+      "word": "closing remarks",
+      "phonetic": "/ˈkləʊzɪŋ rɪˈmɑːks/",
+      "meaning": "结束讲话",
+      "example": "Please review the closing remarks.",
+      "exampleZh": "请审阅一下这个结束讲话。",
+      "category": "office"
+    },
+    {
+      "word": "opening remarks",
+      "phonetic": "/ˈəʊpnɪŋ rɪˈmɑːks/",
+      "meaning": "开场讲话",
+      "example": "Who is handling the opening remarks?",
+      "exampleZh": "谁在处理这个开场讲话？",
+      "category": "office"
+    },
+    {
+      "word": "iLO",
+      "phonetic": "/ˈaɪləʊ/",
+      "meaning": "远程管理口",
+      "example": "The iLO is slow this morning.",
+      "exampleZh": "今天早上 iLO 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "iDRAC",
+      "phonetic": "/ˈaɪdræk/",
+      "meaning": "远程管理卡",
+      "example": "The iDRAC is slow this morning.",
+      "exampleZh": "今天早上 iDRAC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "BMC",
+      "phonetic": "/ˌbiː em ˈsiː/",
+      "meaning": "基板管理控制器",
+      "example": "The BMC is slow this morning.",
+      "exampleZh": "今天早上 BMC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "firmware update",
+      "phonetic": "/ˈfɜːmweə ˌʌpˈdeɪt/",
+      "meaning": "固件更新",
+      "example": "Who supports this firmware update?",
+      "exampleZh": "谁支持这个固件更新？",
+      "category": "it"
+    },
+    {
+      "word": "BIOS update",
+      "phonetic": "/ˈbaɪɒs ˌʌpˈdeɪt/",
+      "meaning": "主板固件更新",
+      "example": "Who supports this BIOS update?",
+      "exampleZh": "谁支持这个主板固件更新？",
+      "category": "it"
+    }
+  ]
+}

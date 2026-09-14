@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-21",
+  "words": [
+    {
+      "word": "comment",
+      "phonetic": "/ˈkɒment/",
+      "meaning": "批注",
+      "example": "Please share the comment after the meeting.",
+      "exampleZh": "会后请分享这个批注。",
+      "category": "office"
+    },
+    {
+      "word": "footnote",
+      "phonetic": "/ˈfʊtnəʊt/",
+      "meaning": "脚注",
+      "example": "I updated the footnote this morning.",
+      "exampleZh": "我今天早上更新了这个脚注。",
+      "category": "office"
+    },
+    {
+      "word": "header",
+      "phonetic": "/ˈhedə/",
+      "meaning": "页眉",
+      "example": "The header is ready for review.",
+      "exampleZh": "这个页眉已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "footer",
+      "phonetic": "/ˈfʊtə/",
+      "meaning": "页脚",
+      "example": "Please review the footer.",
+      "exampleZh": "请审阅一下这个页脚。",
+      "category": "office"
+    },
+    {
+      "word": "page number",
+      "phonetic": "/peɪdʒ ˈnʌmbə/",
+      "meaning": "页码",
+      "example": "I updated the page number this morning.",
+      "exampleZh": "我今天早上更新了这个页码。",
+      "category": "office"
+    },
+    {
+      "word": "rebase",
+      "phonetic": "/ˈriːbeɪs/",
+      "meaning": "变基",
+      "example": "Can you rebase it today?",
+      "exampleZh": "你今天能变基一下吗？",
+      "category": "it"
+    },
+    {
+      "word": "checkout",
+      "phonetic": "/ˈtʃekaʊt/",
+      "meaning": "检出代码",
+      "example": "I will checkout it after the meeting.",
+      "exampleZh": "会后我会检出代码它。",
+      "category": "it"
+    },
+    {
+      "word": "clone",
+      "phonetic": "/kləʊn/",
+      "meaning": "克隆仓库",
+      "example": "Let's clone this first.",
+      "exampleZh": "我们先克隆仓库这个吧。",
+      "category": "it"
+    },
+    {
+      "word": "fork",
+      "phonetic": "/fɔːk/",
+      "meaning": "派生仓库",
+      "example": "Please review the fork after the patch.",
+      "exampleZh": "打补丁后请审阅这个派生仓库。",
+      "category": "it"
+    },
+    {
+      "word": "pipeline",
+      "phonetic": "/ˈpaɪplaɪn/",
+      "meaning": "流水线",
+      "example": "Please check the pipeline.",
+      "exampleZh": "请检查一下这个流水线。",
+      "category": "it"
+    }
+  ]
+}

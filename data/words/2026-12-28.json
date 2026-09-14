@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-28",
+  "words": [
+    {
+      "word": "discharge",
+      "phonetic": "/ˈdɪstʃɑːdʒ/",
+      "meaning": "出院",
+      "example": "Please share the discharge after the meeting.",
+      "exampleZh": "会后请分享这个出院。",
+      "category": "office"
+    },
+    {
+      "word": "transfer",
+      "phonetic": "/ˈtrænsfɜː/",
+      "meaning": "转科转院",
+      "example": "The transfer is ready for review.",
+      "exampleZh": "这个转科转院已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "referral",
+      "phonetic": "/rɪˈfɜːrəl/",
+      "meaning": "转诊",
+      "example": "Please review the referral.",
+      "exampleZh": "请审阅一下这个转诊。",
+      "category": "office"
+    },
+    {
+      "word": "appointment",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "meaning": "预约",
+      "example": "Please share the appointment after the meeting.",
+      "exampleZh": "会后请分享这个预约。",
+      "category": "office"
+    },
+    {
+      "word": "registration",
+      "phonetic": "/ˌredʒɪˈstreɪʃn/",
+      "meaning": "挂号登记",
+      "example": "Who is handling the registration?",
+      "exampleZh": "谁在处理这个挂号登记？",
+      "category": "office"
+    },
+    {
+      "word": "secondary site",
+      "phonetic": "/ˈsekəndri saɪt/",
+      "meaning": "备站点",
+      "example": "The secondary site is in production.",
+      "exampleZh": "这个备站点已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "RTO",
+      "phonetic": "/ˌɑː tiː ˈəʊ/",
+      "meaning": "恢复时间目标",
+      "example": "The RTO is slow this morning.",
+      "exampleZh": "今天早上 RTO 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "RPO",
+      "phonetic": "/ˌɑː piː ˈəʊ/",
+      "meaning": "恢复点目标",
+      "example": "The RPO is slow this morning.",
+      "exampleZh": "今天早上 RPO 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "failover",
+      "phonetic": "/ˈfeɪləʊvə/",
+      "meaning": "故障切换",
+      "example": "The failover is in production.",
+      "exampleZh": "这个故障切换已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "failback",
+      "phonetic": "/ˈfeɪlbæk/",
+      "meaning": "故障切回",
+      "example": "Please review the failback after the patch.",
+      "exampleZh": "打补丁后请审阅这个故障切回。",
+      "category": "it"
+    }
+  ]
+}

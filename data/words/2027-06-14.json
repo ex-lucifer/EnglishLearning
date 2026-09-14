@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-14",
+  "words": [
+    {
+      "word": "housekeeping",
+      "phonetic": "/ˈhaʊskiːpɪŋ/",
+      "meaning": "会务杂务",
+      "example": "Please review the housekeeping.",
+      "exampleZh": "请审阅一下这个会务杂务。",
+      "category": "office"
+    },
+    {
+      "word": "AV check",
+      "phonetic": "/ˌeɪ ˈviː tʃek/",
+      "meaning": "音视频检查",
+      "example": "Please share the AV check after the meeting.",
+      "exampleZh": "会后请分享这个音视频检查。",
+      "category": "office"
+    },
+    {
+      "word": "microphone",
+      "phonetic": "/ˈmaɪkrəfəʊn/",
+      "meaning": "麦克风",
+      "example": "Who is handling the microphone?",
+      "exampleZh": "谁在处理这个麦克风？",
+      "category": "office"
+    },
+    {
+      "word": "speakerphone",
+      "phonetic": "/ˈspiːkəfəʊn/",
+      "meaning": "免提电话",
+      "example": "Who is handling the speakerphone?",
+      "exampleZh": "谁在处理这个免提电话？",
+      "category": "office"
+    },
+    {
+      "word": "projector",
+      "phonetic": "/prəˈdʒektə/",
+      "meaning": "投影仪",
+      "example": "Please review the projector.",
+      "exampleZh": "请审阅一下这个投影仪。",
+      "category": "office"
+    },
+    {
+      "word": "distribution point",
+      "phonetic": "/ˌdɪstrɪˈbjuːʃn pɔɪnt/",
+      "meaning": "分发点",
+      "example": "We need the distribution point before go-live.",
+      "exampleZh": "上线前我们需要这个分发点。",
+      "category": "it"
+    },
+    {
+      "word": "management point",
+      "phonetic": "/ˈmænɪdʒmənt pɔɪnt/",
+      "meaning": "管理点",
+      "example": "Please check the management point.",
+      "exampleZh": "请检查一下这个管理点。",
+      "category": "it"
+    },
+    {
+      "word": "client agent",
+      "phonetic": "/ˈklaɪənt ˈeɪdʒənt/",
+      "meaning": "客户端代理",
+      "example": "The client agent is in production.",
+      "exampleZh": "这个客户端代理已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "heartbeat interval",
+      "phonetic": "/ˈhɑːtbiːt ˈɪntəvl/",
+      "meaning": "心跳间隔",
+      "example": "Please check the heartbeat interval.",
+      "exampleZh": "请检查一下这个心跳间隔。",
+      "category": "it"
+    },
+    {
+      "word": "policy refresh",
+      "phonetic": "/ˈpɒləsi rɪˈfreʃ/",
+      "meaning": "策略刷新",
+      "example": "Who supports this policy refresh?",
+      "exampleZh": "谁支持这个策略刷新？",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-11",
+  "words": [
+    {
+      "word": "this way",
+      "phonetic": "/ðɪs weɪ/",
+      "meaning": "请这边走",
+      "example": "This way to the conference room.",
+      "exampleZh": "会议室请这边走。",
+      "category": "office"
+    },
+    {
+      "word": "after you",
+      "phonetic": "/ˈɑːftə ju/",
+      "meaning": "您先请",
+      "example": "After you at the lift.",
+      "exampleZh": "电梯您先请。",
+      "category": "office"
+    },
+    {
+      "word": "watch your step",
+      "phonetic": "/wɒtʃ jɔː step/",
+      "meaning": "小心脚下",
+      "example": "Watch your step, the floor is wet.",
+      "exampleZh": "小心脚下，地是湿的。",
+      "category": "office"
+    },
+    {
+      "word": "mind the door",
+      "phonetic": "/maɪnd ðə dɔː/",
+      "meaning": "小心门",
+      "example": "Mind the door, it closes fast.",
+      "exampleZh": "小心门，它关得很快。",
+      "category": "office"
+    },
+    {
+      "word": "please wait",
+      "phonetic": "/pliːz weɪt/",
+      "meaning": "请稍等",
+      "example": "Please wait, I will print the form.",
+      "exampleZh": "请稍等，我去打印表格。",
+      "category": "office"
+    },
+    {
+      "word": "failover order",
+      "phonetic": "/ˈfeɪləʊvə ˈɔːdə/",
+      "meaning": "故障切换顺序",
+      "example": "The failover order is in production.",
+      "exampleZh": "这个故障切换顺序已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "beacon probing",
+      "phonetic": "/ˈbiːkən ˈprəʊbɪŋ/",
+      "meaning": "信标探测",
+      "example": "Please check the beacon probing.",
+      "exampleZh": "请检查一下这个信标探测。",
+      "category": "it"
+    },
+    {
+      "word": "network isolation",
+      "phonetic": "/ˈnetwɜːk ˌaɪsəˈleɪʃn/",
+      "meaning": "网络隔离",
+      "example": "We need the network isolation before go-live.",
+      "exampleZh": "上线前我们需要这个网络隔离。",
+      "category": "it"
+    },
+    {
+      "word": "microsegmentation",
+      "phonetic": "/ˈmaɪkrəʊˌseɡmənˈteɪʃn/",
+      "meaning": "微分段",
+      "example": "We need the microsegmentation before go-live.",
+      "exampleZh": "上线前我们需要这个微分段。",
+      "category": "it"
+    },
+    {
+      "word": "distributed firewall",
+      "phonetic": "/dɪˈstrɪbjuːtɪd ˈfaɪəwɔːl/",
+      "meaning": "分布式防火墙",
+      "example": "We need the distributed firewall before go-live.",
+      "exampleZh": "上线前我们需要这个分布式防火墙。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-06",
+  "words": [
+    {
+      "word": "director",
+      "phonetic": "/dəˈrektə/",
+      "meaning": "主任",
+      "example": "The director is ready for review.",
+      "exampleZh": "这个主任已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "secretary",
+      "phonetic": "/ˈsekrəteri/",
+      "meaning": "秘书",
+      "example": "Please share the secretary after the meeting.",
+      "exampleZh": "会后请分享这个秘书。",
+      "category": "office"
+    },
+    {
+      "word": "clerk",
+      "phonetic": "/klɑːk/",
+      "meaning": "文员",
+      "example": "Please share the clerk after the meeting.",
+      "exampleZh": "会后请分享这个文员。",
+      "category": "office"
+    },
+    {
+      "word": "coordinator",
+      "phonetic": "/kəʊˈɔːdɪneɪtə/",
+      "meaning": "协调员",
+      "example": "Please review the coordinator.",
+      "exampleZh": "请审阅一下这个协调员。",
+      "category": "office"
+    },
+    {
+      "word": "liaison",
+      "phonetic": "/liˈeɪzn/",
+      "meaning": "联络人",
+      "example": "Who is handling the liaison?",
+      "exampleZh": "谁在处理这个联络人？",
+      "category": "office"
+    },
+    {
+      "word": "PoE",
+      "phonetic": "/ˌpiː əʊ ˈiː/",
+      "meaning": "以太网供电",
+      "example": "The PoE is slow this morning.",
+      "exampleZh": "今天早上 PoE 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "access point",
+      "phonetic": "/ˈækses pɔɪnt/",
+      "meaning": "无线接入点",
+      "example": "Please check the access point.",
+      "exampleZh": "请检查一下这个无线接入点。",
+      "category": "it"
+    },
+    {
+      "word": "SSID",
+      "phonetic": "/ˌes es aɪ ˈdiː/",
+      "meaning": "无线网络名",
+      "example": "The SSID is slow this morning.",
+      "exampleZh": "今天早上 SSID 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "Wi-Fi",
+      "phonetic": "/ˈwaɪ faɪ/",
+      "meaning": "无线网",
+      "example": "The Wi-Fi is in production.",
+      "exampleZh": "这个无线网已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "5G",
+      "phonetic": "/faɪv dʒiː/",
+      "meaning": "第五代移动网",
+      "example": "Please review the 5G after the patch.",
+      "exampleZh": "打补丁后请审阅这个第五代移动网。",
+      "category": "it"
+    }
+  ]
+}

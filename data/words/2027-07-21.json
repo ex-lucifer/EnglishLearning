@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-21",
+  "words": [
+    {
+      "word": "call in sick",
+      "phonetic": "/kɔːl ɪn sɪk/",
+      "meaning": "请病假",
+      "example": "Please call in sick before seven.",
+      "exampleZh": "七点前请打电话请病假。",
+      "category": "office"
+    },
+    {
+      "word": "no-pay day",
+      "phonetic": "/nəʊ peɪ deɪ/",
+      "meaning": "无薪缺勤日",
+      "example": "The no-pay day is ready for review.",
+      "exampleZh": "这个无薪缺勤日已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "tardiness",
+      "phonetic": "/ˈtɑːdinəs/",
+      "meaning": "迟到记录",
+      "example": "Who is handling the tardiness?",
+      "exampleZh": "谁在处理这个迟到记录？",
+      "category": "office"
+    },
+    {
+      "word": "absenteeism",
+      "phonetic": "/ˌæbsənˈtiːɪzəm/",
+      "meaning": "缺勤",
+      "example": "Who is handling the absenteeism?",
+      "exampleZh": "谁在处理这个缺勤？",
+      "category": "office"
+    },
+    {
+      "word": "attendance record",
+      "phonetic": "/əˈtendəns ˈrekɔːd/",
+      "meaning": "出勤记录",
+      "example": "Please review the attendance record.",
+      "exampleZh": "请审阅一下这个出勤记录。",
+      "category": "office"
+    },
+    {
+      "word": "write cache",
+      "phonetic": "/raɪt kæʃ/",
+      "meaning": "写缓存",
+      "example": "Please review the write cache after the patch.",
+      "exampleZh": "打补丁后请审阅这个写缓存。",
+      "category": "it"
+    },
+    {
+      "word": "read cache",
+      "phonetic": "/riːd kæʃ/",
+      "meaning": "读缓存",
+      "example": "The read cache is in production.",
+      "exampleZh": "这个读缓存已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "cache battery",
+      "phonetic": "/kæʃ ˈbætri/",
+      "meaning": "缓存电池",
+      "example": "Who supports this cache battery?",
+      "exampleZh": "谁支持这个缓存电池？",
+      "category": "it"
+    },
+    {
+      "word": "write-through",
+      "phonetic": "/raɪt θruː/",
+      "meaning": "直写",
+      "example": "Who supports this write-through?",
+      "exampleZh": "谁支持这个直写？",
+      "category": "it"
+    },
+    {
+      "word": "write-back",
+      "phonetic": "/raɪt bæk/",
+      "meaning": "回写",
+      "example": "Who supports this write-back?",
+      "exampleZh": "谁支持这个回写？",
+      "category": "it"
+    }
+  ]
+}

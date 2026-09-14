@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-12",
+  "words": [
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfə/",
+      "meaning": "录用通知",
+      "example": "Please review the offer.",
+      "exampleZh": "请审阅一下这个录用通知。",
+      "category": "office"
+    },
+    {
+      "word": "milestone",
+      "phonetic": "/ˈmaɪlstəʊn/",
+      "meaning": "里程碑",
+      "example": "I updated the milestone this morning.",
+      "exampleZh": "我今天早上更新了这个里程碑。",
+      "category": "office"
+    },
+    {
+      "word": "deliverable",
+      "phonetic": "/dɪˈlɪvərəbl/",
+      "meaning": "交付物",
+      "example": "Who is handling the deliverable?",
+      "exampleZh": "谁在处理这个交付物？",
+      "category": "office"
+    },
+    {
+      "word": "scope",
+      "phonetic": "/skəʊp/",
+      "meaning": "范围",
+      "example": "Who is handling the scope?",
+      "exampleZh": "谁在处理这个范围？",
+      "category": "office"
+    },
+    {
+      "word": "stakeholder",
+      "phonetic": "/ˈsteɪkhəʊldə/",
+      "meaning": "相关方",
+      "example": "Who is handling the stakeholder?",
+      "exampleZh": "谁在处理这个相关方？",
+      "category": "office"
+    },
+    {
+      "word": "malware",
+      "phonetic": "/ˈmælweə/",
+      "meaning": "恶意软件",
+      "example": "The malware is in production.",
+      "exampleZh": "这个恶意软件已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "ransomware",
+      "phonetic": "/ˈrænsəmweə/",
+      "meaning": "勒索软件",
+      "example": "The ransomware is in production.",
+      "exampleZh": "这个勒索软件已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "phishing",
+      "phonetic": "/ˈfɪʃɪŋ/",
+      "meaning": "钓鱼攻击",
+      "example": "Please review the phishing after the patch.",
+      "exampleZh": "打补丁后请审阅这个钓鱼攻击。",
+      "category": "it"
+    },
+    {
+      "word": "spam filter",
+      "phonetic": "/spæm ˈfɪltə/",
+      "meaning": "垃圾过滤",
+      "example": "Please check the spam filter.",
+      "exampleZh": "请检查一下这个垃圾过滤。",
+      "category": "it"
+    },
+    {
+      "word": "sandbox",
+      "phonetic": "/ˈsændbɒks/",
+      "meaning": "沙箱",
+      "example": "The sandbox is in production.",
+      "exampleZh": "这个沙箱已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

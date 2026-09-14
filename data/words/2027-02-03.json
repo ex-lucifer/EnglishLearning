@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-03",
+  "words": [
+    {
+      "word": "suggestion box",
+      "phonetic": "/səˈdʒestʃn bɒks/",
+      "meaning": "意见箱",
+      "example": "Please share the suggestion box after the meeting.",
+      "exampleZh": "会后请分享这个意见箱。",
+      "category": "office"
+    },
+    {
+      "word": "complaint",
+      "phonetic": "/kəmˈpleɪnt/",
+      "meaning": "投诉",
+      "example": "Please share the complaint after the meeting.",
+      "exampleZh": "会后请分享这个投诉。",
+      "category": "office"
+    },
+    {
+      "word": "compliment",
+      "phonetic": "/ˈkɒmplɪmənt/",
+      "meaning": "表扬",
+      "example": "The compliment is ready for review.",
+      "exampleZh": "这个表扬已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "patient feedback",
+      "phonetic": "/ˈpeɪʃnt ˈfiːdbæk/",
+      "meaning": "患者反馈",
+      "example": "Please share the patient feedback after the meeting.",
+      "exampleZh": "会后请分享这个患者反馈。",
+      "category": "office"
+    },
+    {
+      "word": "service recovery",
+      "phonetic": "/ˈsɜːvɪs rɪˈkʌvəri/",
+      "meaning": "服务补救",
+      "example": "Please review the service recovery.",
+      "exampleZh": "请审阅一下这个服务补救。",
+      "category": "office"
+    },
+    {
+      "word": "trigger",
+      "phonetic": "/ˈtrɪɡə/",
+      "meaning": "触发器",
+      "example": "The trigger is in production.",
+      "exampleZh": "这个触发器已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "constraint",
+      "phonetic": "/kənˈstreɪnt/",
+      "meaning": "约束",
+      "example": "Who supports this constraint?",
+      "exampleZh": "谁支持这个约束？",
+      "category": "it"
+    },
+    {
+      "word": "foreign key",
+      "phonetic": "/ˈfɒrən kiː/",
+      "meaning": "外键",
+      "example": "The foreign key is in production.",
+      "exampleZh": "这个外键已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "primary key",
+      "phonetic": "/ˈpraɪməri kiː/",
+      "meaning": "主键",
+      "example": "The primary key is in production.",
+      "exampleZh": "这个主键已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "unique index",
+      "phonetic": "/juˈniːk ˈɪndeks/",
+      "meaning": "唯一索引",
+      "example": "Please check the unique index.",
+      "exampleZh": "请检查一下这个唯一索引。",
+      "category": "it"
+    }
+  ]
+}

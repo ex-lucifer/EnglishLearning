@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-14",
+  "words": [
+    {
+      "word": "lesson learned",
+      "phonetic": "/ˈlesn lɜːnd/",
+      "meaning": "经验教训",
+      "example": "Please share the lesson learned after the meeting.",
+      "exampleZh": "会后请分享这个经验教训。",
+      "category": "office"
+    },
+    {
+      "word": "best practice",
+      "phonetic": "/best ˈpræktɪs/",
+      "meaning": "最佳实践",
+      "example": "Please share the best practice after the meeting.",
+      "exampleZh": "会后请分享这个最佳实践。",
+      "category": "office"
+    },
+    {
+      "word": "standard",
+      "phonetic": "/ˈstændəd/",
+      "meaning": "标准",
+      "example": "Who is handling the standard?",
+      "exampleZh": "谁在处理这个标准？",
+      "category": "office"
+    },
+    {
+      "word": "protocol",
+      "phonetic": "/ˈprəʊtəkɒl/",
+      "meaning": "规程",
+      "example": "I updated the protocol this morning.",
+      "exampleZh": "我今天早上更新了这个规程。",
+      "category": "office"
+    },
+    {
+      "word": "pathway",
+      "phonetic": "/ˈpɑːθweɪ/",
+      "meaning": "路径",
+      "example": "Who is handling the pathway?",
+      "exampleZh": "谁在处理这个路径？",
+      "category": "office"
+    },
+    {
+      "word": "L2 support",
+      "phonetic": "/el tuː səˈpɔːt/",
+      "meaning": "二线支持",
+      "example": "Please review the L2 support after the patch.",
+      "exampleZh": "打补丁后请审阅这个二线支持。",
+      "category": "it"
+    },
+    {
+      "word": "L3 support",
+      "phonetic": "/el θriː səˈpɔːt/",
+      "meaning": "三线支持",
+      "example": "The L3 support is in production.",
+      "exampleZh": "这个三线支持已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "on-site engineer",
+      "phonetic": "/ɒn saɪt ˌendʒɪˈnɪə/",
+      "meaning": "现场工程师",
+      "example": "Please review the on-site engineer after the patch.",
+      "exampleZh": "打补丁后请审阅这个现场工程师。",
+      "category": "it"
+    },
+    {
+      "word": "remote support",
+      "phonetic": "/rɪˈməʊt səˈpɔːt/",
+      "meaning": "远程支持",
+      "example": "Who supports this remote support?",
+      "exampleZh": "谁支持这个远程支持？",
+      "category": "it"
+    },
+    {
+      "word": "screen control",
+      "phonetic": "/skriːn kənˈtrəʊl/",
+      "meaning": "远程控屏",
+      "example": "Please review the screen control after the patch.",
+      "exampleZh": "打补丁后请审阅这个远程控屏。",
+      "category": "it"
+    }
+  ]
+}

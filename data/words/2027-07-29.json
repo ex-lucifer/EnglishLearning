@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-29",
+  "words": [
+    {
+      "word": "building",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "meaning": "楼宇",
+      "example": "Please share the building after the meeting.",
+      "exampleZh": "会后请分享这个楼宇。",
+      "category": "office"
+    },
+    {
+      "word": "wing",
+      "phonetic": "/wɪŋ/",
+      "meaning": "楼翼",
+      "example": "The wing is ready for review.",
+      "exampleZh": "这个楼翼已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "ward",
+      "phonetic": "/wɔːd/",
+      "meaning": "病区",
+      "example": "Please review the ward.",
+      "exampleZh": "请审阅一下这个病区。",
+      "category": "office"
+    },
+    {
+      "word": "unit",
+      "phonetic": "/ˈjuːnɪt/",
+      "meaning": "单元",
+      "example": "Who is handling the unit?",
+      "exampleZh": "谁在处理这个单元？",
+      "category": "office"
+    },
+    {
+      "word": "bay",
+      "phonetic": "/beɪ/",
+      "meaning": "床位区",
+      "example": "I updated the bay this morning.",
+      "exampleZh": "我今天早上更新了这个床位区。",
+      "category": "office"
+    },
+    {
+      "word": "instant clone",
+      "phonetic": "/ˈɪnstənt kləʊn/",
+      "meaning": "即时克隆",
+      "example": "We need the instant clone before go-live.",
+      "exampleZh": "上线前我们需要这个即时克隆。",
+      "category": "it"
+    },
+    {
+      "word": "vMotion",
+      "phonetic": "/viː ˈməʊʃn/",
+      "meaning": "在线迁移",
+      "example": "Please review the vMotion after the patch.",
+      "exampleZh": "打补丁后请审阅这个在线迁移。",
+      "category": "it"
+    },
+    {
+      "word": "storage vMotion",
+      "phonetic": "/ˈstɔːrɪdʒ viː ˈməʊʃn/",
+      "meaning": "存储在线迁移",
+      "example": "Please review the storage vMotion after the patch.",
+      "exampleZh": "打补丁后请审阅这个存储在线迁移。",
+      "category": "it"
+    },
+    {
+      "word": "HA cluster",
+      "phonetic": "/eɪtʃ eɪ ˈklʌstə/",
+      "meaning": "高可用集群",
+      "example": "The HA cluster is in production.",
+      "exampleZh": "这个高可用集群已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "DRS",
+      "phonetic": "/ˌdiː ɑːr ˈes/",
+      "meaning": "动态资源调度",
+      "example": "The DRS is slow this morning.",
+      "exampleZh": "今天早上 DRS 很慢。",
+      "category": "it"
+    }
+  ]
+}

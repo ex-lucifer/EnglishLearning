@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-15",
+  "words": [
+    {
+      "word": "town-hall Q&A",
+      "phonetic": "/taʊn hɔːl kjuː ənd eɪ/",
+      "meaning": "全员问答",
+      "example": "I updated the town-hall Q&A this morning.",
+      "exampleZh": "我今天早上更新了这个全员问答。",
+      "category": "office"
+    },
+    {
+      "word": "open floor",
+      "phonetic": "/ˈəʊpən flɔː/",
+      "meaning": "自由发言",
+      "example": "I updated the open floor this morning.",
+      "exampleZh": "我今天早上更新了这个自由发言。",
+      "category": "office"
+    },
+    {
+      "word": "time-box",
+      "phonetic": "/taɪm bɒks/",
+      "meaning": "限时讨论",
+      "example": "Please time-box this before noon.",
+      "exampleZh": "请在中午前限时讨论这个。",
+      "category": "office"
+    },
+    {
+      "word": "park it",
+      "phonetic": "/pɑːk ɪt/",
+      "meaning": "先记下",
+      "example": "Let's park it and move on.",
+      "exampleZh": "先记下来，继续往下。",
+      "category": "office"
+    },
+    {
+      "word": "take offline",
+      "phonetic": "/teɪk ˈɒflaɪn/",
+      "meaning": "会下再谈",
+      "example": "Let's take this offline after the call.",
+      "exampleZh": "会后我们再单独谈。",
+      "category": "office"
+    },
+    {
+      "word": "GUID",
+      "phonetic": "/ɡuːɪd/",
+      "meaning": "全局唯一标识",
+      "example": "The GUID is slow this morning.",
+      "exampleZh": "今天早上 GUID 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "UPN",
+      "phonetic": "/ˌjuː piː ˈen/",
+      "meaning": "用户主体名称",
+      "example": "The UPN is slow this morning.",
+      "exampleZh": "今天早上 UPN 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "sAMAccountName",
+      "phonetic": "/sæm əˈkaʊnt neɪm/",
+      "meaning": "登录名",
+      "example": "Please review the sAMAccountName after the patch.",
+      "exampleZh": "打补丁后请审阅这个登录名。",
+      "category": "it"
+    },
+    {
+      "word": "password hash",
+      "phonetic": "/ˈpɑːswɜːd hæʃ/",
+      "meaning": "密码哈希",
+      "example": "The password hash is in production.",
+      "exampleZh": "这个密码哈希已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "salt",
+      "phonetic": "/sɔːlt/",
+      "meaning": "加盐",
+      "example": "We need the salt before go-live.",
+      "exampleZh": "上线前我们需要这个加盐。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-31",
+  "words": [
+    {
+      "word": "light day",
+      "phonetic": "/laɪt deɪ/",
+      "meaning": "轻松的一天",
+      "example": "Please review the light day.",
+      "exampleZh": "请审阅一下这个轻松的一天。",
+      "category": "office"
+    },
+    {
+      "word": "typical day",
+      "phonetic": "/ˈtɪpɪkl deɪ/",
+      "meaning": "平常的一天",
+      "example": "The typical day is ready for review.",
+      "exampleZh": "这个平常的一天已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "unusual request",
+      "phonetic": "/ʌnˈjuːʒuəl rɪˈkwest/",
+      "meaning": "少见的请求",
+      "example": "Who is handling the unusual request?",
+      "exampleZh": "谁在处理这个少见的请求？",
+      "category": "office"
+    },
+    {
+      "word": "routine request",
+      "phonetic": "/ruːˈtiːn rɪˈkwest/",
+      "meaning": "常规请求",
+      "example": "The routine request is ready for review.",
+      "exampleZh": "这个常规请求已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "special request",
+      "phonetic": "/ˈspeʃl rɪˈkwest/",
+      "meaning": "特殊请求",
+      "example": "I updated the special request this morning.",
+      "exampleZh": "我今天早上更新了这个特殊请求。",
+      "category": "office"
+    },
+    {
+      "word": "DKIM",
+      "phonetic": "/ˈdiːkɪm/",
+      "meaning": "邮件签名",
+      "example": "The DKIM is slow this morning.",
+      "exampleZh": "今天早上 DKIM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "DMARC",
+      "phonetic": "/ˈdiːmɑːk/",
+      "meaning": "邮件认证报告",
+      "example": "The DMARC is slow this morning.",
+      "exampleZh": "今天早上 DMARC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "MX failover",
+      "phonetic": "/em eks ˈfeɪləʊvə/",
+      "meaning": "邮件交换切换",
+      "example": "Who supports this MX failover?",
+      "exampleZh": "谁支持这个邮件交换切换？",
+      "category": "it"
+    },
+    {
+      "word": "smarthost",
+      "phonetic": "/ˈsmɑːthəʊst/",
+      "meaning": "智能中继",
+      "example": "The smarthost is in production.",
+      "exampleZh": "这个智能中继已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "relay",
+      "phonetic": "/ˈriːleɪ/",
+      "meaning": "邮件中继",
+      "example": "We need the relay before go-live.",
+      "exampleZh": "上线前我们需要这个邮件中继。",
+      "category": "it"
+    }
+  ]
+}

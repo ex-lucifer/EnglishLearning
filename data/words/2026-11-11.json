@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-11",
+  "words": [
+    {
+      "word": "regrets",
+      "phonetic": "/rɪˈɡrets/",
+      "meaning": "请假缺席",
+      "example": "Please review the regrets.",
+      "exampleZh": "请审阅一下这个请假缺席。",
+      "category": "office"
+    },
+    {
+      "word": "latecomer",
+      "phonetic": "/ˈleɪtkʌmə/",
+      "meaning": "迟到者",
+      "example": "Please share the latecomer after the meeting.",
+      "exampleZh": "会后请分享这个迟到者。",
+      "category": "office"
+    },
+    {
+      "word": "timekeeper",
+      "phonetic": "/ˈtaɪmkiːpə/",
+      "meaning": "计时员",
+      "example": "I updated the timekeeper this morning.",
+      "exampleZh": "我今天早上更新了这个计时员。",
+      "category": "office"
+    },
+    {
+      "word": "scribe",
+      "phonetic": "/skraɪb/",
+      "meaning": "会议记录员",
+      "example": "The scribe is ready for review.",
+      "exampleZh": "这个会议记录员已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "ground rules",
+      "phonetic": "/ɡraʊnd ruːlz/",
+      "meaning": "会议规则",
+      "example": "I updated the ground rules this morning.",
+      "exampleZh": "我今天早上更新了这个会议规则。",
+      "category": "office"
+    },
+    {
+      "word": "domain controller",
+      "phonetic": "/dəˈmeɪn kənˈtrəʊlə/",
+      "meaning": "域控制器",
+      "example": "Please review the domain controller after the patch.",
+      "exampleZh": "打补丁后请审阅这个域控制器。",
+      "category": "it"
+    },
+    {
+      "word": "file server",
+      "phonetic": "/faɪl ˈsɜːvə/",
+      "meaning": "文件服务器",
+      "example": "Who supports this file server?",
+      "exampleZh": "谁支持这个文件服务器？",
+      "category": "it"
+    },
+    {
+      "word": "app server",
+      "phonetic": "/æp ˈsɜːvə/",
+      "meaning": "应用服务器",
+      "example": "Who supports this app server?",
+      "exampleZh": "谁支持这个应用服务器？",
+      "category": "it"
+    },
+    {
+      "word": "web server",
+      "phonetic": "/web ˈsɜːvə/",
+      "meaning": "网页服务器",
+      "example": "Who supports this web server?",
+      "exampleZh": "谁支持这个网页服务器？",
+      "category": "it"
+    },
+    {
+      "word": "mail server",
+      "phonetic": "/meɪl ˈsɜːvə/",
+      "meaning": "邮件服务器",
+      "example": "Who supports this mail server?",
+      "exampleZh": "谁支持这个邮件服务器？",
+      "category": "it"
+    }
+  ]
+}

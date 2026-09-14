@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-13",
+  "words": [
+    {
+      "word": "training schedule",
+      "phonetic": "/ˈtreɪnɪŋ ˈʃedjuːl/",
+      "meaning": "培训日程",
+      "example": "Who is handling the training schedule?",
+      "exampleZh": "谁在处理这个培训日程？",
+      "category": "office"
+    },
+    {
+      "word": "competency",
+      "phonetic": "/kəmˈpetənsi/",
+      "meaning": "能力要求",
+      "example": "I updated the competency this morning.",
+      "exampleZh": "我今天早上更新了这个能力要求。",
+      "category": "office"
+    },
+    {
+      "word": "skill matrix",
+      "phonetic": "/skɪl ˈmeɪtrɪks/",
+      "meaning": "技能矩阵",
+      "example": "The skill matrix is ready for review.",
+      "exampleZh": "这个技能矩阵已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "job grade",
+      "phonetic": "/dʒɒb ɡreɪd/",
+      "meaning": "职级",
+      "example": "The job grade is ready for review.",
+      "exampleZh": "这个职级已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "pay band",
+      "phonetic": "/peɪ bænd/",
+      "meaning": "薪级",
+      "example": "Please share the pay band after the meeting.",
+      "exampleZh": "会后请分享这个薪级。",
+      "category": "office"
+    },
+    {
+      "word": "DoD wipe",
+      "phonetic": "/ˌdiː əʊ ˈdiː waɪp/",
+      "meaning": "国防部擦除",
+      "example": "Who supports this DoD wipe?",
+      "exampleZh": "谁支持这个国防部擦除？",
+      "category": "it"
+    },
+    {
+      "word": "spare disk",
+      "phonetic": "/speə dɪsk/",
+      "meaning": "备用磁盘",
+      "example": "The spare disk is in production.",
+      "exampleZh": "这个备用磁盘已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "hot spare",
+      "phonetic": "/hɒt speə/",
+      "meaning": "热备盘",
+      "example": "Please check the hot spare.",
+      "exampleZh": "请检查一下这个热备盘。",
+      "category": "it"
+    },
+    {
+      "word": "cold spare",
+      "phonetic": "/kəʊld speə/",
+      "meaning": "冷备盘",
+      "example": "Please check the cold spare.",
+      "exampleZh": "请检查一下这个冷备盘。",
+      "category": "it"
+    },
+    {
+      "word": "rebuild time",
+      "phonetic": "/ˌriːˈbɪld taɪm/",
+      "meaning": "重建时间",
+      "example": "Please review the rebuild time after the patch.",
+      "exampleZh": "打补丁后请审阅这个重建时间。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-09-06",
+  "words": [
+    {
+      "word": "unsigned",
+      "phonetic": "/ˌʌnˈsaɪnd/",
+      "meaning": "未签字的",
+      "example": "Please keep this unsigned.",
+      "exampleZh": "请保持未签字的。",
+      "category": "office"
+    },
+    {
+      "word": "unstamped",
+      "phonetic": "/ˌʌnˈstæmpt/",
+      "meaning": "未盖章的",
+      "example": "Please keep this unstamped.",
+      "exampleZh": "请保持未盖章的。",
+      "category": "office"
+    },
+    {
+      "word": "outdated",
+      "phonetic": "/ˌaʊtˈdeɪtɪd/",
+      "meaning": "过时的",
+      "example": "This request is outdated.",
+      "exampleZh": "这个请求是过时的的。",
+      "category": "office"
+    },
+    {
+      "word": "superseded",
+      "phonetic": "/ˌsuːpəˈsiːdɪd/",
+      "meaning": "已被替代的",
+      "example": "The timeline looks superseded.",
+      "exampleZh": "时间看起来已被替代的。",
+      "category": "office"
+    },
+    {
+      "word": "current version",
+      "phonetic": "/ˈkʌrənt ˈvɜːʃn/",
+      "meaning": "当前版本",
+      "example": "Who is handling the current version?",
+      "exampleZh": "谁在处理这个当前版本？",
+      "category": "office"
+    },
+    {
+      "word": "eDiscovery",
+      "phonetic": "/iː dɪsˈkʌvəri/",
+      "meaning": "电子取证",
+      "example": "The eDiscovery is in production.",
+      "exampleZh": "这个电子取证已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "journaling",
+      "phonetic": "/ˈdʒɜːnəlɪŋ/",
+      "meaning": "邮件日志",
+      "example": "Please review the journaling after the patch.",
+      "exampleZh": "打补丁后请审阅这个邮件日志。",
+      "category": "it"
+    },
+    {
+      "word": "transport rule",
+      "phonetic": "/ˈtrænspɔːt ruːl/",
+      "meaning": "传输规则",
+      "example": "Please review the transport rule after the patch.",
+      "exampleZh": "打补丁后请审阅这个传输规则。",
+      "category": "it"
+    },
+    {
+      "word": "mail flow",
+      "phonetic": "/meɪl fləʊ/",
+      "meaning": "邮件流",
+      "example": "Who supports this mail flow?",
+      "exampleZh": "谁支持这个邮件流？",
+      "category": "it"
+    },
+    {
+      "word": "connector",
+      "phonetic": "/kəˈnektə/",
+      "meaning": "连接器",
+      "example": "Who supports this connector?",
+      "exampleZh": "谁支持这个连接器？",
+      "category": "it"
+    }
+  ]
+}

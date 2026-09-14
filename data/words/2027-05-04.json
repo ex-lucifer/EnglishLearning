@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-04",
+  "words": [
+    {
+      "word": "catch you later",
+      "phonetic": "/kætʃ ju ˈleɪtə/",
+      "meaning": "回头再聊",
+      "example": "Catch you later after the round.",
+      "exampleZh": "查房后回头再聊。",
+      "category": "office"
+    },
+    {
+      "word": "talk soon",
+      "phonetic": "/tɔːk suːn/",
+      "meaning": "稍后联系",
+      "example": "Talk soon, I have a visitor.",
+      "exampleZh": "稍后联系，我这边有访客。",
+      "category": "office"
+    },
+    {
+      "word": "kind regards",
+      "phonetic": "/kaɪnd rɪˈɡɑːdz/",
+      "meaning": "此致敬礼",
+      "example": "Kind regards at the end of the email.",
+      "exampleZh": "邮件结尾写上此致敬礼。",
+      "category": "office"
+    },
+    {
+      "word": "best regards",
+      "phonetic": "/best rɪˈɡɑːdz/",
+      "meaning": "顺祝商祺",
+      "example": "Close with best regards.",
+      "exampleZh": "结尾用顺祝商祺。",
+      "category": "office"
+    },
+    {
+      "word": "please advise",
+      "phonetic": "/pliːz ədˈvaɪz/",
+      "meaning": "请指示",
+      "example": "Please advise how we should proceed.",
+      "exampleZh": "请指示我们接下来怎么做。",
+      "category": "office"
+    },
+    {
+      "word": "drain node",
+      "phonetic": "/dreɪn nəʊd/",
+      "meaning": "排空节点",
+      "example": "I will drain node it after the meeting.",
+      "exampleZh": "会后我会排空节点它。",
+      "category": "it"
+    },
+    {
+      "word": "cordon",
+      "phonetic": "/ˈkɔːdn/",
+      "meaning": "封锁节点",
+      "example": "Please cordon this before noon.",
+      "exampleZh": "请在中午前封锁节点这个。",
+      "category": "it"
+    },
+    {
+      "word": "pod",
+      "phonetic": "/pɒd/",
+      "meaning": "容器组",
+      "example": "Who supports this pod?",
+      "exampleZh": "谁支持这个容器组？",
+      "category": "it"
+    },
+    {
+      "word": "namespace",
+      "phonetic": "/ˈneɪmspeɪs/",
+      "meaning": "命名空间",
+      "example": "Who supports this namespace?",
+      "exampleZh": "谁支持这个命名空间？",
+      "category": "it"
+    },
+    {
+      "word": "ingress",
+      "phonetic": "/ˈɪŋɡres/",
+      "meaning": "入口路由",
+      "example": "We need the ingress before go-live.",
+      "exampleZh": "上线前我们需要这个入口路由。",
+      "category": "it"
+    }
+  ]
+}

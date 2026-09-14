@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-26",
+  "words": [
+    {
+      "word": "stock",
+      "phonetic": "/stɒk/",
+      "meaning": "库存",
+      "example": "Who is handling the stock?",
+      "exampleZh": "谁在处理这个库存？",
+      "category": "office"
+    },
+    {
+      "word": "inventory",
+      "phonetic": "/ˈɪnvəntri/",
+      "meaning": "盘点库存",
+      "example": "I updated the inventory this morning.",
+      "exampleZh": "我今天早上更新了这个盘点库存。",
+      "category": "office"
+    },
+    {
+      "word": "shortage",
+      "phonetic": "/ˈʃɔːtɪdʒ/",
+      "meaning": "短缺",
+      "example": "Who is handling the shortage?",
+      "exampleZh": "谁在处理这个短缺？",
+      "category": "office"
+    },
+    {
+      "word": "surplus",
+      "phonetic": "/ˈsɜːpləs/",
+      "meaning": "多余",
+      "example": "Please share the surplus after the meeting.",
+      "exampleZh": "会后请分享这个多余。",
+      "category": "office"
+    },
+    {
+      "word": "consumable",
+      "phonetic": "/kənˈsjuːməbl/",
+      "meaning": "耗材",
+      "example": "Please review the consumable.",
+      "exampleZh": "请审阅一下这个耗材。",
+      "category": "office"
+    },
+    {
+      "word": "alert threshold",
+      "phonetic": "/əˈlɜːt ˈθreʃhəʊld/",
+      "meaning": "告警阈值",
+      "example": "Who supports this alert threshold?",
+      "exampleZh": "谁支持这个告警阈值？",
+      "category": "it"
+    },
+    {
+      "word": "alert storm",
+      "phonetic": "/əˈlɜːt stɔːm/",
+      "meaning": "告警风暴",
+      "example": "Please check the alert storm.",
+      "exampleZh": "请检查一下这个告警风暴。",
+      "category": "it"
+    },
+    {
+      "word": "false positive",
+      "phonetic": "/fɔːls ˈpɒzətɪv/",
+      "meaning": "误报",
+      "example": "We need the false positive before go-live.",
+      "exampleZh": "上线前我们需要这个误报。",
+      "category": "it"
+    },
+    {
+      "word": "false negative",
+      "phonetic": "/fɔːls ˈneɡətɪv/",
+      "meaning": "漏报",
+      "example": "Please review the false negative after the patch.",
+      "exampleZh": "打补丁后请审阅这个漏报。",
+      "category": "it"
+    },
+    {
+      "word": "dashboard widget",
+      "phonetic": "/ˈdæʃbɔːd ˈwɪdʒɪt/",
+      "meaning": "看板控件",
+      "example": "Please review the dashboard widget after the patch.",
+      "exampleZh": "打补丁后请审阅这个看板控件。",
+      "category": "it"
+    }
+  ]
+}

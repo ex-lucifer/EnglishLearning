@@ -1,0 +1,85 @@
+{
+  "date": "2027-01-20",
+  "words": [
+    {
+      "word": "mock survey",
+      "phonetic": "/mɒk ˈsɜːveɪ/",
+      "meaning": "模拟评审",
+      "example": "The mock survey is ready for review.",
+      "exampleZh": "这个模拟评审已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "scorecard",
+      "phonetic": "/ˈskɔːkɑːd/",
+      "meaning": "计分卡",
+      "example": "I updated the scorecard this morning.",
+      "exampleZh": "我今天早上更新了这个计分卡。",
+      "category": "office"
+    },
+    {
+      "word": "dashboard review",
+      "phonetic": "/ˈdæʃbɔːd rɪˈvjuː/",
+      "meaning": "看板回顾",
+      "example": "Who is handling the dashboard review?",
+      "exampleZh": "谁在处理这个看板回顾？",
+      "category": "office"
+    },
+    {
+      "word": "target",
+      "phonetic": "/ˈtɑːɡɪt/",
+      "meaning": "目标",
+      "example": "The target is ready for review.",
+      "exampleZh": "这个目标已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "baseline",
+      "phonetic": "/ˈbeɪslaɪn/",
+      "meaning": "基线",
+      "example": "The baseline is ready for review.",
+      "exampleZh": "这个基线已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "MTTR",
+      "phonetic": "/ˌem tiː tiː ˈɑː/",
+      "meaning": "平均修复时间",
+      "example": "The MTTR is slow this morning.",
+      "exampleZh": "今天早上 MTTR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "MTBF",
+      "phonetic": "/ˌem tiː biː ˈef/",
+      "meaning": "平均无故障时间",
+      "example": "The MTBF is slow this morning.",
+      "exampleZh": "今天早上 MTBF 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "service availability",
+      "phonetic": "/ˈsɜːvɪs əˌveɪləˈbɪləti/",
+      "meaning": "服务可用性",
+      "example": "Please review the service availability after the patch.",
+      "exampleZh": "打补丁后请审阅这个服务可用性。",
+      "category": "it"
+    },
+    {
+      "word": "error log",
+      "phonetic": "/ˈerə lɒɡ/",
+      "meaning": "错误日志",
+      "example": "The error log is in production.",
+      "exampleZh": "这个错误日志已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "event log",
+      "phonetic": "/ɪˈvent lɒɡ/",
+      "meaning": "事件日志",
+      "example": "We need the event log before go-live.",
+      "exampleZh": "上线前我们需要这个事件日志。",
+      "category": "it"
+    }
+  ]
+}

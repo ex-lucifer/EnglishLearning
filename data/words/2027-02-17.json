@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-17",
+  "words": [
+    {
+      "word": "distribute",
+      "phonetic": "/dɪˈstrɪbjuːt/",
+      "meaning": "分发",
+      "example": "Please distribute this before noon.",
+      "exampleZh": "请在中午前分发这个。",
+      "category": "office"
+    },
+    {
+      "word": "notify",
+      "phonetic": "/ˈnəʊtɪfaɪ/",
+      "meaning": "通知",
+      "example": "Please notify this before noon.",
+      "exampleZh": "请在中午前通知这个。",
+      "category": "office"
+    },
+    {
+      "word": "inform",
+      "phonetic": "/ɪnˈfɔːm/",
+      "meaning": "告知",
+      "example": "Can you inform it today?",
+      "exampleZh": "你今天能告知一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "request",
+      "phonetic": "/rɪˈkwest/",
+      "meaning": "申请",
+      "example": "I will request it after the meeting.",
+      "exampleZh": "会后我会申请它。",
+      "category": "office"
+    },
+    {
+      "word": "submit",
+      "phonetic": "/səbˈmɪt/",
+      "meaning": "提交",
+      "example": "Please submit this before noon.",
+      "exampleZh": "请在中午前提交这个。",
+      "category": "office"
+    },
+    {
+      "word": "emergency change",
+      "phonetic": "/ɪˈmɜːdʒənsi tʃeɪndʒ/",
+      "meaning": "紧急变更",
+      "example": "We need the emergency change before go-live.",
+      "exampleZh": "上线前我们需要这个紧急变更。",
+      "category": "it"
+    },
+    {
+      "word": "standard change",
+      "phonetic": "/ˈstændəd tʃeɪndʒ/",
+      "meaning": "标准变更",
+      "example": "Who supports this standard change?",
+      "exampleZh": "谁支持这个标准变更？",
+      "category": "it"
+    },
+    {
+      "word": "normal change",
+      "phonetic": "/ˈnɔːml tʃeɪndʒ/",
+      "meaning": "常规变更",
+      "example": "Please check the normal change.",
+      "exampleZh": "请检查一下这个常规变更。",
+      "category": "it"
+    },
+    {
+      "word": "change freeze",
+      "phonetic": "/tʃeɪndʒ friːz/",
+      "meaning": "变更冻结",
+      "example": "Please review the change freeze after the patch.",
+      "exampleZh": "打补丁后请审阅这个变更冻结。",
+      "category": "it"
+    },
+    {
+      "word": "release train",
+      "phonetic": "/rɪˈliːs treɪn/",
+      "meaning": "发布列车",
+      "example": "We need the release train before go-live.",
+      "exampleZh": "上线前我们需要这个发布列车。",
+      "category": "it"
+    }
+  ]
+}

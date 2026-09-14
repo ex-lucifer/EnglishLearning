@@ -1,0 +1,85 @@
+{
+  "date": "2027-04-13",
+  "words": [
+    {
+      "word": "lessons log",
+      "phonetic": "/ˈlesnz lɒɡ/",
+      "meaning": "经验台账",
+      "example": "I updated the lessons log this morning.",
+      "exampleZh": "我今天早上更新了这个经验台账。",
+      "category": "office"
+    },
+    {
+      "word": "project charter",
+      "phonetic": "/ˈprɒdʒekt ˈtʃɑːtə/",
+      "meaning": "项目章程",
+      "example": "Who is handling the project charter?",
+      "exampleZh": "谁在处理这个项目章程？",
+      "category": "office"
+    },
+    {
+      "word": "business case",
+      "phonetic": "/ˈbɪznəs keɪs/",
+      "meaning": "立项论证",
+      "example": "Who is handling the business case?",
+      "exampleZh": "谁在处理这个立项论证？",
+      "category": "office"
+    },
+    {
+      "word": "feasibility",
+      "phonetic": "/ˌfiːzəˈbɪləti/",
+      "meaning": "可行性",
+      "example": "Please share the feasibility after the meeting.",
+      "exampleZh": "会后请分享这个可行性。",
+      "category": "office"
+    },
+    {
+      "word": "go-live plan",
+      "phonetic": "/ɡəʊ laɪv plæn/",
+      "meaning": "上线计划",
+      "example": "I updated the go-live plan this morning.",
+      "exampleZh": "我今天早上更新了这个上线计划。",
+      "category": "office"
+    },
+    {
+      "word": "ticket-granting",
+      "phonetic": "/ˈtɪkɪt ˈɡrɑːntɪŋ/",
+      "meaning": "票据授予",
+      "example": "We need the ticket-granting before go-live.",
+      "exampleZh": "上线前我们需要这个票据授予。",
+      "category": "it"
+    },
+    {
+      "word": "service principal",
+      "phonetic": "/ˈsɜːvɪs ˈprɪnsəpl/",
+      "meaning": "服务主体",
+      "example": "The service principal is in production.",
+      "exampleZh": "这个服务主体已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "SPN",
+      "phonetic": "/ˌes piː ˈen/",
+      "meaning": "服务主体名称",
+      "example": "The SPN is slow this morning.",
+      "exampleZh": "今天早上 SPN 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "GPO",
+      "phonetic": "/ˌdʒiː piː ˈəʊ/",
+      "meaning": "组策略对象",
+      "example": "The GPO is slow this morning.",
+      "exampleZh": "今天早上 GPO 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "OU",
+      "phonetic": "/ˌəʊ ˈjuː/",
+      "meaning": "组织单元",
+      "example": "The OU is slow this morning.",
+      "exampleZh": "今天早上 OU 很慢。",
+      "category": "it"
+    }
+  ]
+}

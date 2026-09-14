@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-17",
+  "words": [
+    {
+      "word": "keynote",
+      "phonetic": "/ˈkiːnəʊt/",
+      "meaning": "主旨发言",
+      "example": "Please review the keynote.",
+      "exampleZh": "请审阅一下这个主旨发言。",
+      "category": "office"
+    },
+    {
+      "word": "panel",
+      "phonetic": "/ˈpænl/",
+      "meaning": "专题小组",
+      "example": "Who is handling the panel?",
+      "exampleZh": "谁在处理这个专题小组？",
+      "category": "office"
+    },
+    {
+      "word": "moderator",
+      "phonetic": "/ˈmɒdəreɪtə/",
+      "meaning": "主持人",
+      "example": "I updated the moderator this morning.",
+      "exampleZh": "我今天早上更新了这个主持人。",
+      "category": "office"
+    },
+    {
+      "word": "rapporteur",
+      "phonetic": "/ˌræpɔːˈtɜː/",
+      "meaning": "报告人",
+      "example": "I updated the rapporteur this morning.",
+      "exampleZh": "我今天早上更新了这个报告人。",
+      "category": "office"
+    },
+    {
+      "word": "time-out",
+      "phonetic": "/taɪm aʊt/",
+      "meaning": "暂停讨论",
+      "example": "Please review the time-out.",
+      "exampleZh": "请审阅一下这个暂停讨论。",
+      "category": "office"
+    },
+    {
+      "word": "privileged logon",
+      "phonetic": "/ˈprɪvəlɪdʒd ˈlɒɡɒn/",
+      "meaning": "特权登录",
+      "example": "The privileged logon is in production.",
+      "exampleZh": "这个特权登录已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "explicit creds",
+      "phonetic": "/ɪkˈsplɪsɪt kredz/",
+      "meaning": "显式凭据",
+      "example": "Who supports this explicit creds?",
+      "exampleZh": "谁支持这个显式凭据？",
+      "category": "it"
+    },
+    {
+      "word": "pass-the-hash",
+      "phonetic": "/pɑːs ðə hæʃ/",
+      "meaning": "哈希传递",
+      "example": "The pass-the-hash is in production.",
+      "exampleZh": "这个哈希传递已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "kerberoasting",
+      "phonetic": "/ˈkɜːbərəʊstɪŋ/",
+      "meaning": "票据攻击手法",
+      "example": "Who supports this kerberoasting?",
+      "exampleZh": "谁支持这个票据攻击手法？",
+      "category": "it"
+    },
+    {
+      "word": "lateral movement",
+      "phonetic": "/ˈlætərəl ˈmuːvmənt/",
+      "meaning": "横向移动",
+      "example": "Please check the lateral movement.",
+      "exampleZh": "请检查一下这个横向移动。",
+      "category": "it"
+    }
+  ]
+}

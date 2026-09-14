@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-24",
+  "words": [
+    {
+      "word": "check out",
+      "phonetic": "/tʃek aʊt/",
+      "meaning": "核对离开",
+      "example": "Check out the keys before handover.",
+      "exampleZh": "交接前请核对钥匙。",
+      "category": "office"
+    },
+    {
+      "word": "fill in",
+      "phonetic": "/fɪl ɪn/",
+      "meaning": "填写",
+      "example": "Please fill in the leave form.",
+      "exampleZh": "请填写请假单。",
+      "category": "office"
+    },
+    {
+      "word": "fill out",
+      "phonetic": "/fɪl aʊt/",
+      "meaning": "填完",
+      "example": "Fill out the visitor log completely.",
+      "exampleZh": "请把访客登记表填完整。",
+      "category": "office"
+    },
+    {
+      "word": "print out",
+      "phonetic": "/prɪnt aʊt/",
+      "meaning": "打印出来",
+      "example": "Please print out two copies.",
+      "exampleZh": "请打印两份。",
+      "category": "office"
+    },
+    {
+      "word": "pass on",
+      "phonetic": "/pɑːs ɒn/",
+      "meaning": "转告",
+      "example": "Please pass on this note to the team.",
+      "exampleZh": "请把这条留言转告团队。",
+      "category": "office"
+    },
+    {
+      "word": "postmortem",
+      "phonetic": "/ˌpəʊstˈmɔːtəm/",
+      "meaning": "事后分析",
+      "example": "Please review the postmortem after the patch.",
+      "exampleZh": "打补丁后请审阅这个事后分析。",
+      "category": "it"
+    },
+    {
+      "word": "known error",
+      "phonetic": "/nəʊn ˈerə/",
+      "meaning": "已知错误",
+      "example": "We need the known error before go-live.",
+      "exampleZh": "上线前我们需要这个已知错误。",
+      "category": "it"
+    },
+    {
+      "word": "service catalog",
+      "phonetic": "/ˈsɜːvɪs ˈkætəlɒɡ/",
+      "meaning": "服务目录",
+      "example": "Please check the service catalog.",
+      "exampleZh": "请检查一下这个服务目录。",
+      "category": "it"
+    },
+    {
+      "word": "configuration item",
+      "phonetic": "/kənˌfɪɡəˈreɪʃn ˈaɪtəm/",
+      "meaning": "配置项",
+      "example": "We need the configuration item before go-live.",
+      "exampleZh": "上线前我们需要这个配置项。",
+      "category": "it"
+    },
+    {
+      "word": "CMDB",
+      "phonetic": "/ˌsiː em diː ˈbiː/",
+      "meaning": "配置管理库",
+      "example": "The CMDB is slow this morning.",
+      "exampleZh": "今天早上 CMDB 很慢。",
+      "category": "it"
+    }
+  ]
+}

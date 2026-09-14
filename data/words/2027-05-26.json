@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-26",
+  "words": [
+    {
+      "word": "minutes taker",
+      "phonetic": "/ˈmɪnɪts ˈteɪkə/",
+      "meaning": "纪要记录人",
+      "example": "I updated the minutes taker this morning.",
+      "exampleZh": "我今天早上更新了这个纪要记录人。",
+      "category": "office"
+    },
+    {
+      "word": "chair's notes",
+      "phonetic": "/tʃeəz nəʊts/",
+      "meaning": "主持备忘",
+      "example": "I updated the chair's notes this morning.",
+      "exampleZh": "我今天早上更新了这个主持备忘。",
+      "category": "office"
+    },
+    {
+      "word": "quorum call",
+      "phonetic": "/ˈkwɔːrəm kɔːl/",
+      "meaning": "人数确认",
+      "example": "Please share the quorum call after the meeting.",
+      "exampleZh": "会后请分享这个人数确认。",
+      "category": "office"
+    },
+    {
+      "word": "roll call",
+      "phonetic": "/rəʊl kɔːl/",
+      "meaning": "点名",
+      "example": "Who is handling the roll call?",
+      "exampleZh": "谁在处理这个点名？",
+      "category": "office"
+    },
+    {
+      "word": "apology for absence",
+      "phonetic": "/əˈpɒlədʒi fər ˈæbsəns/",
+      "meaning": "缺席致歉",
+      "example": "Please review the apology for absence.",
+      "exampleZh": "请审阅一下这个缺席致歉。",
+      "category": "office"
+    },
+    {
+      "word": "password manager",
+      "phonetic": "/ˈpɑːswɜːd ˈmænɪdʒə/",
+      "meaning": "密码管理器",
+      "example": "The password manager is in production.",
+      "exampleZh": "这个密码管理器已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "shared password",
+      "phonetic": "/ʃeəd ˈpɑːswɜːd/",
+      "meaning": "共享密码",
+      "example": "Who supports this shared password?",
+      "exampleZh": "谁支持这个共享密码？",
+      "category": "it"
+    },
+    {
+      "word": "default password",
+      "phonetic": "/dɪˈfɔːlt ˈpɑːswɜːd/",
+      "meaning": "默认密码",
+      "example": "We need the default password before go-live.",
+      "exampleZh": "上线前我们需要这个默认密码。",
+      "category": "it"
+    },
+    {
+      "word": "hard-coded password",
+      "phonetic": "/hɑːd kəʊdɪd ˈpɑːswɜːd/",
+      "meaning": "写死的密码",
+      "example": "We need the hard-coded password before go-live.",
+      "exampleZh": "上线前我们需要这个写死的密码。",
+      "category": "it"
+    },
+    {
+      "word": "secrets in code",
+      "phonetic": "/ˈsiːkrɪts ɪn kəʊd/",
+      "meaning": "代码中的密钥",
+      "example": "Who supports this secrets in code?",
+      "exampleZh": "谁支持这个代码中的密钥？",
+      "category": "it"
+    }
+  ]
+}

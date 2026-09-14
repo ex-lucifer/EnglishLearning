@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-16",
+  "words": [
+    {
+      "word": "attendee",
+      "phonetic": "/əˌtenˈdiː/",
+      "meaning": "参会人",
+      "example": "I updated the attendee this morning.",
+      "exampleZh": "我今天早上更新了这个参会人。",
+      "category": "office"
+    },
+    {
+      "word": "quorum",
+      "phonetic": "/ˈkwɔːrəm/",
+      "meaning": "法定人数",
+      "example": "I updated the quorum this morning.",
+      "exampleZh": "我今天早上更新了这个法定人数。",
+      "category": "office"
+    },
+    {
+      "word": "adjourn",
+      "phonetic": "/əˈdʒɜːn/",
+      "meaning": "休会",
+      "example": "Please adjourn this before noon.",
+      "exampleZh": "请在中午前休会这个。",
+      "category": "office"
+    },
+    {
+      "word": "chairperson",
+      "phonetic": "/ˈtʃeəpɜːsn/",
+      "meaning": "主持人",
+      "example": "I updated the chairperson this morning.",
+      "exampleZh": "我今天早上更新了这个主持人。",
+      "category": "office"
+    },
+    {
+      "word": "facilitator",
+      "phonetic": "/fəˈsɪlɪteɪtə/",
+      "meaning": "引导人",
+      "example": "I updated the facilitator this morning.",
+      "exampleZh": "我今天早上更新了这个引导人。",
+      "category": "office"
+    },
+    {
+      "word": "PACS",
+      "phonetic": "/pæks/",
+      "meaning": "医学影像系统",
+      "example": "The PACS is slow this morning.",
+      "exampleZh": "今天早上 PACS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "LIS",
+      "phonetic": "/ˌel aɪ ˈes/",
+      "meaning": "检验信息系统",
+      "example": "The LIS is slow this morning.",
+      "exampleZh": "今天早上 LIS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "RIS",
+      "phonetic": "/ˌɑːr aɪ ˈes/",
+      "meaning": "放射信息系统",
+      "example": "The RIS is slow this morning.",
+      "exampleZh": "今天早上 RIS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "CIS",
+      "phonetic": "/ˌsiː aɪ ˈes/",
+      "meaning": "临床信息系统",
+      "example": "The CIS is slow this morning.",
+      "exampleZh": "今天早上 CIS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "NIS",
+      "phonetic": "/ˌen aɪ ˈes/",
+      "meaning": "护理信息系统",
+      "example": "The NIS is slow this morning.",
+      "exampleZh": "今天早上 NIS 很慢。",
+      "category": "it"
+    }
+  ]
+}

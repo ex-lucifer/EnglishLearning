@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-26",
+  "words": [
+    {
+      "word": "follow through",
+      "phonetic": "/ˈfɒləʊ θruː/",
+      "meaning": "做到底",
+      "example": "Please follow through on the promise.",
+      "exampleZh": "请把承诺做到底。",
+      "category": "office"
+    },
+    {
+      "word": "keep posted",
+      "phonetic": "/kiːp ˈpəʊstɪd/",
+      "meaning": "随时告知",
+      "example": "Keep me posted on the delay.",
+      "exampleZh": "延误情况请随时告诉我。",
+      "category": "office"
+    },
+    {
+      "word": "for the record",
+      "phonetic": "/fə ðə ˈrekɔːd/",
+      "meaning": "特此备案",
+      "example": "For the record, I objected.",
+      "exampleZh": "特此备案，我当时反对。",
+      "category": "office"
+    },
+    {
+      "word": "on the same page",
+      "phonetic": "/ɒn ðə seɪm peɪdʒ/",
+      "meaning": "达成一致",
+      "example": "Are we on the same page now?",
+      "exampleZh": "我们现在一致了吗？",
+      "category": "office"
+    },
+    {
+      "word": "bottom line",
+      "phonetic": "/ˈbɒtəm laɪn/",
+      "meaning": "关键结论",
+      "example": "I updated the bottom line this morning.",
+      "exampleZh": "我今天早上更新了这个关键结论。",
+      "category": "office"
+    },
+    {
+      "word": "SSO",
+      "phonetic": "/ˌes es ˈəʊ/",
+      "meaning": "单点登录",
+      "example": "The SSO is slow this morning.",
+      "exampleZh": "今天早上 SSO 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "LDAP",
+      "phonetic": "/ˈeldæp/",
+      "meaning": "目录访问协议",
+      "example": "The LDAP is slow this morning.",
+      "exampleZh": "今天早上 LDAP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "Active Directory",
+      "phonetic": "/ˈæktɪv dəˈrektəri/",
+      "meaning": "活动目录",
+      "example": "The Active Directory is in production.",
+      "exampleZh": "这个活动目录已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "RBAC",
+      "phonetic": "/ˈɑːbæk/",
+      "meaning": "基于角色的权限",
+      "example": "The RBAC is slow this morning.",
+      "exampleZh": "今天早上 RBAC 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "ACL",
+      "phonetic": "/ˌeɪ siː ˈel/",
+      "meaning": "访问控制列表",
+      "example": "The ACL is slow this morning.",
+      "exampleZh": "今天早上 ACL 很慢。",
+      "category": "it"
+    }
+  ]
+}

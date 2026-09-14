@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-07",
+  "words": [
+    {
+      "word": "courtesy visit",
+      "phonetic": "/ˈkɜːtəsi ˈvɪzɪt/",
+      "meaning": "礼节拜访",
+      "example": "Please share the courtesy visit after the meeting.",
+      "exampleZh": "会后请分享这个礼节拜访。",
+      "category": "office"
+    },
+    {
+      "word": "site visit",
+      "phonetic": "/saɪt ˈvɪzɪt/",
+      "meaning": "现场走访",
+      "example": "Please share the site visit after the meeting.",
+      "exampleZh": "会后请分享这个现场走访。",
+      "category": "office"
+    },
+    {
+      "word": "walk-in",
+      "phonetic": "/wɔːk ɪn/",
+      "meaning": "未预约来访",
+      "example": "I updated the walk-in this morning.",
+      "exampleZh": "我今天早上更新了这个未预约来访。",
+      "category": "office"
+    },
+    {
+      "word": "drop-in",
+      "phonetic": "/drɒp ɪn/",
+      "meaning": "顺便来访",
+      "example": "I updated the drop-in this morning.",
+      "exampleZh": "我今天早上更新了这个顺便来访。",
+      "category": "office"
+    },
+    {
+      "word": "by appointment",
+      "phonetic": "/baɪ əˈpɔɪntmənt/",
+      "meaning": "需预约",
+      "example": "The director sees people by appointment.",
+      "exampleZh": "主任只见预约来访。",
+      "category": "office"
+    },
+    {
+      "word": "repair install",
+      "phonetic": "/rɪˈpeə ɪnˈstɔːl/",
+      "meaning": "修复安装",
+      "example": "Please check the repair install.",
+      "exampleZh": "请检查一下这个修复安装。",
+      "category": "it"
+    },
+    {
+      "word": "msi package",
+      "phonetic": "/ˌem es ˈaɪ ˈpækɪdʒ/",
+      "meaning": "安装包",
+      "example": "Please review the msi package after the patch.",
+      "exampleZh": "打补丁后请审阅这个安装包。",
+      "category": "it"
+    },
+    {
+      "word": "exe installer",
+      "phonetic": "/ˌiː eks ˈiː ɪnˈstɔːlə/",
+      "meaning": "可执行安装程序",
+      "example": "We need the exe installer before go-live.",
+      "exampleZh": "上线前我们需要这个可执行安装程序。",
+      "category": "it"
+    },
+    {
+      "word": "patch file",
+      "phonetic": "/pætʃ faɪl/",
+      "meaning": "补丁文件",
+      "example": "Who supports this patch file?",
+      "exampleZh": "谁支持这个补丁文件？",
+      "category": "it"
+    },
+    {
+      "word": "hotfix rollup",
+      "phonetic": "/ˈhɒtfɪks ˈrəʊlʌp/",
+      "meaning": "累积热修复",
+      "example": "Please check the hotfix rollup.",
+      "exampleZh": "请检查一下这个累积热修复。",
+      "category": "it"
+    }
+  ]
+}

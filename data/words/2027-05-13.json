@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-13",
+  "words": [
+    {
+      "word": "POC",
+      "phonetic": "/ˌpiː əʊ ˈsiː/",
+      "meaning": "对接人",
+      "example": "Please put POC on the email.",
+      "exampleZh": "请在邮件里注明 POC。",
+      "category": "office"
+    },
+    {
+      "word": "SME",
+      "phonetic": "/ˌes em ˈiː/",
+      "meaning": "业务专家",
+      "example": "Please put SME on the email.",
+      "exampleZh": "请在邮件里注明 SME。",
+      "category": "office"
+    },
+    {
+      "word": "PMO",
+      "phonetic": "/ˌpiː em ˈəʊ/",
+      "meaning": "项目管理办公室",
+      "example": "Please put PMO on the email.",
+      "exampleZh": "请在邮件里注明 PMO。",
+      "category": "office"
+    },
+    {
+      "word": "SLA",
+      "phonetic": "/ˌes el ˈeɪ/",
+      "meaning": "服务级别协议",
+      "example": "Please put SLA on the email.",
+      "exampleZh": "请在邮件里注明 SLA。",
+      "category": "office"
+    },
+    {
+      "word": "OLA",
+      "phonetic": "/ˌəʊ el ˈeɪ/",
+      "meaning": "运营级别协议",
+      "example": "Please put OLA on the email.",
+      "exampleZh": "请在邮件里注明 OLA。",
+      "category": "office"
+    },
+    {
+      "word": "seccomp",
+      "phonetic": "/ˈsekkɒmp/",
+      "meaning": "系统调用过滤",
+      "example": "The seccomp is in production.",
+      "exampleZh": "这个系统调用过滤已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "AppArmor",
+      "phonetic": "/ˈæpəmɔː/",
+      "meaning": "应用防护",
+      "example": "The AppArmor is in production.",
+      "exampleZh": "这个应用防护已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "SELinux",
+      "phonetic": "/ˌes iː ˈlɪnəks/",
+      "meaning": "强制访问控制",
+      "example": "Who supports this SELinux?",
+      "exampleZh": "谁支持这个强制访问控制？",
+      "category": "it"
+    },
+    {
+      "word": "capabilities",
+      "phonetic": "/ˌkeɪpəˈbɪlətiz/",
+      "meaning": "权限能力",
+      "example": "Please review the capabilities after the patch.",
+      "exampleZh": "打补丁后请审阅这个权限能力。",
+      "category": "it"
+    },
+    {
+      "word": "sysctl",
+      "phonetic": "/ˈsɪskəntəʊl/",
+      "meaning": "内核参数",
+      "example": "Please review the sysctl after the patch.",
+      "exampleZh": "打补丁后请审阅这个内核参数。",
+      "category": "it"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-01",
+  "words": [
+    {
+      "word": "enforce",
+      "phonetic": "/ɪnˈfɔːs/",
+      "meaning": "执行落实",
+      "example": "We need to enforce this by Friday.",
+      "exampleZh": "我们周五前需要执行落实这个。",
+      "category": "office"
+    },
+    {
+      "word": "comply",
+      "phonetic": "/kəmˈplaɪ/",
+      "meaning": "遵守",
+      "example": "Please comply this before noon.",
+      "exampleZh": "请在中午前遵守这个。",
+      "category": "office"
+    },
+    {
+      "word": "waive",
+      "phonetic": "/weɪv/",
+      "meaning": "豁免",
+      "example": "Please waive this before noon.",
+      "exampleZh": "请在中午前豁免这个。",
+      "category": "office"
+    },
+    {
+      "word": "grant",
+      "phonetic": "/ɡrɑːnt/",
+      "meaning": "批准给予",
+      "example": "Please grant this before noon.",
+      "exampleZh": "请在中午前批准给予这个。",
+      "category": "office"
+    },
+    {
+      "word": "deny",
+      "phonetic": "/dɪˈnaɪ/",
+      "meaning": "拒绝批准",
+      "example": "We need to deny this by Friday.",
+      "exampleZh": "我们周五前需要拒绝批准这个。",
+      "category": "office"
+    },
+    {
+      "word": "CPU saturation",
+      "phonetic": "/ˌsiː piː ˈjuː ˌsætʃəˈreɪʃn/",
+      "meaning": "处理器打满",
+      "example": "Please check the CPU saturation.",
+      "exampleZh": "请检查一下这个处理器打满。",
+      "category": "it"
+    },
+    {
+      "word": "disk full",
+      "phonetic": "/dɪsk fʊl/",
+      "meaning": "磁盘已满",
+      "example": "Please review the disk full after the patch.",
+      "exampleZh": "打补丁后请审阅这个磁盘已满。",
+      "category": "it"
+    },
+    {
+      "word": "inode",
+      "phonetic": "/ˈaɪnəʊd/",
+      "meaning": "文件节点",
+      "example": "The inode is in production.",
+      "exampleZh": "这个文件节点已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "file handle",
+      "phonetic": "/faɪl ˈhændl/",
+      "meaning": "文件句柄",
+      "example": "Please check the file handle.",
+      "exampleZh": "请检查一下这个文件句柄。",
+      "category": "it"
+    },
+    {
+      "word": "port conflict",
+      "phonetic": "/pɔːt ˈkɒnflɪkt/",
+      "meaning": "端口冲突",
+      "example": "We need the port conflict before go-live.",
+      "exampleZh": "上线前我们需要这个端口冲突。",
+      "category": "it"
+    }
+  ]
+}

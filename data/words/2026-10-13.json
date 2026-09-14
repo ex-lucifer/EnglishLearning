@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-13",
+  "words": [
+    {
+      "word": "sponsor",
+      "phonetic": "/ˈspɒnsə/",
+      "meaning": "发起人",
+      "example": "Please share the sponsor after the meeting.",
+      "exampleZh": "会后请分享这个发起人。",
+      "category": "office"
+    },
+    {
+      "word": "timeline",
+      "phonetic": "/ˈtaɪmlaɪn/",
+      "meaning": "时间线",
+      "example": "Please review the timeline.",
+      "exampleZh": "请审阅一下这个时间线。",
+      "category": "office"
+    },
+    {
+      "word": "backlog",
+      "phonetic": "/ˈbæklɒɡ/",
+      "meaning": "待办积压",
+      "example": "Who is handling the backlog?",
+      "exampleZh": "谁在处理这个待办积压？",
+      "category": "office"
+    },
+    {
+      "word": "blocker",
+      "phonetic": "/ˈblɒkə/",
+      "meaning": "阻塞项",
+      "example": "Who is handling the blocker?",
+      "exampleZh": "谁在处理这个阻塞项？",
+      "category": "office"
+    },
+    {
+      "word": "dependency",
+      "phonetic": "/dɪˈpendənsi/",
+      "meaning": "依赖项",
+      "example": "Please review the dependency.",
+      "exampleZh": "请审阅一下这个依赖项。",
+      "category": "office"
+    },
+    {
+      "word": "allowlist",
+      "phonetic": "/ˈəlaʊlɪst/",
+      "meaning": "允许名单",
+      "example": "Please check the allowlist.",
+      "exampleZh": "请检查一下这个允许名单。",
+      "category": "it"
+    },
+    {
+      "word": "blocklist",
+      "phonetic": "/ˈblɒklɪst/",
+      "meaning": "拦截名单",
+      "example": "We need the blocklist before go-live.",
+      "exampleZh": "上线前我们需要这个拦截名单。",
+      "category": "it"
+    },
+    {
+      "word": "IDS",
+      "phonetic": "/ˌaɪ diː ˈes/",
+      "meaning": "入侵检测系统",
+      "example": "The IDS is slow this morning.",
+      "exampleZh": "今天早上 IDS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "IPS",
+      "phonetic": "/ˌaɪ piː ˈes/",
+      "meaning": "入侵防护系统",
+      "example": "The IPS is slow this morning.",
+      "exampleZh": "今天早上 IPS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "WAF",
+      "phonetic": "/wæf/",
+      "meaning": "Web应用防火墙",
+      "example": "The WAF is slow this morning.",
+      "exampleZh": "今天早上 WAF 很慢。",
+      "category": "it"
+    }
+  ]
+}

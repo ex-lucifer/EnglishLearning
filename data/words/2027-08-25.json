@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-25",
+  "words": [
+    {
+      "word": "last item",
+      "phonetic": "/lɑːst ˈaɪtəm/",
+      "meaning": "最后一项",
+      "example": "The last item is ready for review.",
+      "exampleZh": "这个最后一项已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "that's all",
+      "phonetic": "/ðæts ɔːl/",
+      "meaning": "就这些",
+      "example": "That's all from my side.",
+      "exampleZh": "我这边就这些。",
+      "category": "office"
+    },
+    {
+      "word": "meeting adjourned",
+      "phonetic": "/ˈmiːtɪŋ əˈdʒɜːnd/",
+      "meaning": "会议结束",
+      "example": "Meeting adjourned, thank you all.",
+      "exampleZh": "会议结束，谢谢大家。",
+      "category": "office"
+    },
+    {
+      "word": "see you tomorrow",
+      "phonetic": "/siː ju təˈmɒrəʊ/",
+      "meaning": "明天见",
+      "example": "See you tomorrow at the huddle.",
+      "exampleZh": "明天晨会见。",
+      "category": "office"
+    },
+    {
+      "word": "have a good day",
+      "phonetic": "/hæv ə ɡʊd deɪ/",
+      "meaning": "祝你顺利",
+      "example": "Have a good day at the desk.",
+      "exampleZh": "前台今天顺利。",
+      "category": "office"
+    },
+    {
+      "word": "recursion",
+      "phonetic": "/rɪˈkɜːʃn/",
+      "meaning": "递归查询",
+      "example": "Please check the recursion.",
+      "exampleZh": "请检查一下这个递归查询。",
+      "category": "it"
+    },
+    {
+      "word": "iterative query",
+      "phonetic": "/ˈɪtərətɪv ˈkwɪəri/",
+      "meaning": "迭代查询",
+      "example": "The iterative query is in production.",
+      "exampleZh": "这个迭代查询已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "cache poisoning",
+      "phonetic": "/kæʃ ˈpɔɪznɪŋ/",
+      "meaning": "缓存投毒",
+      "example": "The cache poisoning is in production.",
+      "exampleZh": "这个缓存投毒已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "DNS tunneling",
+      "phonetic": "/ˌdiː en ˈes ˈtʌnlɪŋ/",
+      "meaning": "域名隧道",
+      "example": "Please check the DNS tunneling.",
+      "exampleZh": "请检查一下这个域名隧道。",
+      "category": "it"
+    },
+    {
+      "word": "DoH",
+      "phonetic": "/dɒ/",
+      "meaning": "加密域名查询",
+      "example": "The DoH is slow this morning.",
+      "exampleZh": "今天早上 DoH 很慢。",
+      "category": "it"
+    }
+  ]
+}

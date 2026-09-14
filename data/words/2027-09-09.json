@@ -1,0 +1,85 @@
+{
+  "date": "2027-09-09",
+  "words": [
+    {
+      "word": "shred",
+      "phonetic": "/ʃred/",
+      "meaning": "粉碎销毁",
+      "example": "Let's shred this first.",
+      "exampleZh": "我们先粉碎销毁这个吧。",
+      "category": "office"
+    },
+    {
+      "word": "confidential bin",
+      "phonetic": "/ˌkɒnfɪˈdenʃl bɪn/",
+      "meaning": "保密回收桶",
+      "example": "Please review the confidential bin.",
+      "exampleZh": "请审阅一下这个保密回收桶。",
+      "category": "office"
+    },
+    {
+      "word": "locked cabinet",
+      "phonetic": "/lɒkt ˈkæbɪnət/",
+      "meaning": "上锁柜",
+      "example": "The locked cabinet is ready for review.",
+      "exampleZh": "这个上锁柜已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "key control",
+      "phonetic": "/kiː kənˈtrəʊl/",
+      "meaning": "钥匙管理",
+      "example": "Please review the key control.",
+      "exampleZh": "请审阅一下这个钥匙管理。",
+      "category": "office"
+    },
+    {
+      "word": "access log",
+      "phonetic": "/ˈækses lɒɡ/",
+      "meaning": "进出记录",
+      "example": "Who is handling the access log?",
+      "exampleZh": "谁在处理这个进出记录？",
+      "category": "office"
+    },
+    {
+      "word": "online mode",
+      "phonetic": "/ˈɒnlaɪn məʊd/",
+      "meaning": "在线模式",
+      "example": "The online mode is in production.",
+      "exampleZh": "这个在线模式已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "mailbox move",
+      "phonetic": "/ˈmeɪlbɒks muːv/",
+      "meaning": "邮箱迁移",
+      "example": "We need the mailbox move before go-live.",
+      "exampleZh": "上线前我们需要这个邮箱迁移。",
+      "category": "it"
+    },
+    {
+      "word": "hybrid mail",
+      "phonetic": "/ˈhaɪbrɪd meɪl/",
+      "meaning": "混合邮件",
+      "example": "Who supports this hybrid mail?",
+      "exampleZh": "谁支持这个混合邮件？",
+      "category": "it"
+    },
+    {
+      "word": "exchange",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
+      "meaning": "邮件系统",
+      "example": "Who supports this exchange?",
+      "exampleZh": "谁支持这个邮件系统？",
+      "category": "it"
+    },
+    {
+      "word": "calendar free-busy",
+      "phonetic": "/ˈkælɪndə friː ˈbɪzi/",
+      "meaning": "忙闲状态",
+      "example": "Please check the calendar free-busy.",
+      "exampleZh": "请检查一下这个忙闲状态。",
+      "category": "it"
+    }
+  ]
+}

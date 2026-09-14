@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-01",
+  "words": [
+    {
+      "word": "travel claim",
+      "phonetic": "/ˈtrævl kleɪm/",
+      "meaning": "差旅报销",
+      "example": "The travel claim is ready for review.",
+      "exampleZh": "这个差旅报销已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "per diem",
+      "phonetic": "/pɜː ˈdiːem/",
+      "meaning": "每日补贴",
+      "example": "Please review the per diem.",
+      "exampleZh": "请审阅一下这个每日补贴。",
+      "category": "office"
+    },
+    {
+      "word": "accommodation",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "meaning": "住宿",
+      "example": "Who is handling the accommodation?",
+      "exampleZh": "谁在处理这个住宿？",
+      "category": "office"
+    },
+    {
+      "word": "transport",
+      "phonetic": "/ˈtrænspɔːt/",
+      "meaning": "交通",
+      "example": "Please share the transport after the meeting.",
+      "exampleZh": "会后请分享这个交通。",
+      "category": "office"
+    },
+    {
+      "word": "taxi voucher",
+      "phonetic": "/ˈtæksi ˈvaʊtʃə/",
+      "meaning": "出租车凭证",
+      "example": "Please share the taxi voucher after the meeting.",
+      "exampleZh": "会后请分享这个出租车凭证。",
+      "category": "office"
+    },
+    {
+      "word": "table lock",
+      "phonetic": "/ˈteɪbl lɒk/",
+      "meaning": "表锁",
+      "example": "Please review the table lock after the patch.",
+      "exampleZh": "打补丁后请审阅这个表锁。",
+      "category": "it"
+    },
+    {
+      "word": "row lock",
+      "phonetic": "/rəʊ lɒk/",
+      "meaning": "行锁",
+      "example": "Who supports this row lock?",
+      "exampleZh": "谁支持这个行锁？",
+      "category": "it"
+    },
+    {
+      "word": "index scan",
+      "phonetic": "/ˈɪndeks skæn/",
+      "meaning": "索引扫描",
+      "example": "Who supports this index scan?",
+      "exampleZh": "谁支持这个索引扫描？",
+      "category": "it"
+    },
+    {
+      "word": "full table scan",
+      "phonetic": "/fʊl ˈteɪbl skæn/",
+      "meaning": "全表扫描",
+      "example": "We need the full table scan before go-live.",
+      "exampleZh": "上线前我们需要这个全表扫描。",
+      "category": "it"
+    },
+    {
+      "word": "query plan",
+      "phonetic": "/ˈkwɪəri plæn/",
+      "meaning": "执行计划",
+      "example": "Who supports this query plan?",
+      "exampleZh": "谁支持这个执行计划？",
+      "category": "it"
+    }
+  ]
+}

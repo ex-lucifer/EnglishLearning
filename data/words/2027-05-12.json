@@ -1,0 +1,85 @@
+{
+  "date": "2027-05-12",
+  "words": [
+    {
+      "word": "ETD",
+      "phonetic": "/ˌiː tiː ˈdiː/",
+      "meaning": "预计出发时间",
+      "example": "Please put ETD on the email.",
+      "exampleZh": "请在邮件里注明 ETD。",
+      "category": "office"
+    },
+    {
+      "word": "TBA",
+      "phonetic": "/ˌtiː biː ˈeɪ/",
+      "meaning": "待公布",
+      "example": "Please put TBA on the email.",
+      "exampleZh": "请在邮件里注明 TBA。",
+      "category": "office"
+    },
+    {
+      "word": "TBD",
+      "phonetic": "/ˌtiː biː ˈdiː/",
+      "meaning": "待确定",
+      "example": "Please put TBD on the email.",
+      "exampleZh": "请在邮件里注明 TBD。",
+      "category": "office"
+    },
+    {
+      "word": "N/A",
+      "phonetic": "/en ˈeɪ/",
+      "meaning": "不适用",
+      "example": "Please put N/A on the email.",
+      "exampleZh": "请在邮件里注明 N/A。",
+      "category": "office"
+    },
+    {
+      "word": "WIP",
+      "phonetic": "/ˌdʌbljuː aɪ ˈpiː/",
+      "meaning": "进行中工作",
+      "example": "Please put WIP on the email.",
+      "exampleZh": "请在邮件里注明 WIP。",
+      "category": "office"
+    },
+    {
+      "word": "vulnerability CVE",
+      "phonetic": "/ˌvʌlnərəˈbɪləti ˌsiː viː ˈiː/",
+      "meaning": "镜像漏洞编号",
+      "example": "Please check the vulnerability CVE.",
+      "exampleZh": "请检查一下这个镜像漏洞编号。",
+      "category": "it"
+    },
+    {
+      "word": "base image",
+      "phonetic": "/beɪs ˈɪmɪdʒ/",
+      "meaning": "基础镜像",
+      "example": "Please check the base image.",
+      "exampleZh": "请检查一下这个基础镜像。",
+      "category": "it"
+    },
+    {
+      "word": "distroless",
+      "phonetic": "/ˈdɪstrəʊləs/",
+      "meaning": "精简镜像",
+      "example": "Who supports this distroless?",
+      "exampleZh": "谁支持这个精简镜像？",
+      "category": "it"
+    },
+    {
+      "word": "rootless",
+      "phonetic": "/ˈruːtləs/",
+      "meaning": "非特权运行",
+      "example": "Stay rootless in the meeting.",
+      "exampleZh": "会上请保持非特权运行。",
+      "category": "it"
+    },
+    {
+      "word": "read-only root",
+      "phonetic": "/riːd ˈəʊnli ruːt/",
+      "meaning": "只读根文件系统",
+      "example": "The read-only root is in production.",
+      "exampleZh": "这个只读根文件系统已在生产环境。",
+      "category": "it"
+    }
+  ]
+}

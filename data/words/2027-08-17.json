@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-17",
+  "words": [
+    {
+      "word": "happy to help",
+      "phonetic": "/ˈhæpi tə help/",
+      "meaning": "乐意帮忙",
+      "example": "Happy to help with the packing.",
+      "exampleZh": "打包我乐意帮忙。",
+      "category": "office"
+    },
+    {
+      "word": "leave it with me",
+      "phonetic": "/liːv ɪt wɪð mi/",
+      "meaning": "交给我吧",
+      "example": "Leave it with me, I will chase it.",
+      "exampleZh": "交给我吧，我去催。",
+      "category": "office"
+    },
+    {
+      "word": "I'll take it",
+      "phonetic": "/aɪl teɪk ɪt/",
+      "meaning": "我来负责",
+      "example": "I'll take it from here.",
+      "exampleZh": "从这里开始我来负责。",
+      "category": "office"
+    },
+    {
+      "word": "over to you",
+      "phonetic": "/ˈəʊvə tə ju/",
+      "meaning": "交给你了",
+      "example": "The file is over to you now.",
+      "exampleZh": "这份档案现在交给你了。",
+      "category": "office"
+    },
+    {
+      "word": "your call",
+      "phonetic": "/jɔː kɔːl/",
+      "meaning": "由你决定",
+      "example": "It's your call on the room size.",
+      "exampleZh": "房间大小由你决定。",
+      "category": "office"
+    },
+    {
+      "word": "LLMNR",
+      "phonetic": "/ˌel el em en ˈɑː/",
+      "meaning": "本地链路名称解析",
+      "example": "The LLMNR is slow this morning.",
+      "exampleZh": "今天早上 LLMNR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "NetBIOS",
+      "phonetic": "/net ˈbaɪɒs/",
+      "meaning": "网上基本输入输出",
+      "example": "Please check the NetBIOS.",
+      "exampleZh": "请检查一下这个网上基本输入输出。",
+      "category": "it"
+    },
+    {
+      "word": "WINS",
+      "phonetic": "/wɪnz/",
+      "meaning": "Windows名称服务",
+      "example": "The WINS is slow this morning.",
+      "exampleZh": "今天早上 WINS 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "name resolution",
+      "phonetic": "/neɪm ˌrezəˈluːʃn/",
+      "meaning": "名称解析",
+      "example": "We need the name resolution before go-live.",
+      "exampleZh": "上线前我们需要这个名称解析。",
+      "category": "it"
+    },
+    {
+      "word": "split-brain DNS",
+      "phonetic": "/splɪt breɪn ˌdiː en ˈes/",
+      "meaning": "脑裂域名",
+      "example": "We need the split-brain DNS before go-live.",
+      "exampleZh": "上线前我们需要这个脑裂域名。",
+      "category": "it"
+    }
+  ]
+}

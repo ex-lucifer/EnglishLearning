@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-05",
+  "words": [
+    {
+      "word": "meeting invite",
+      "phonetic": "/ˈmiːtɪŋ ɪnˈvaɪt/",
+      "meaning": "会议邀请",
+      "example": "Who is handling the meeting invite?",
+      "exampleZh": "谁在处理这个会议邀请？",
+      "category": "office"
+    },
+    {
+      "word": "calendar invite",
+      "phonetic": "/ˈkælɪndə ɪnˈvaɪt/",
+      "meaning": "日历邀请",
+      "example": "Please share the calendar invite after the meeting.",
+      "exampleZh": "会后请分享这个日历邀请。",
+      "category": "office"
+    },
+    {
+      "word": "standing meeting",
+      "phonetic": "/ˈstændɪŋ ˈmiːtɪŋ/",
+      "meaning": "例会",
+      "example": "Please review the standing meeting.",
+      "exampleZh": "请审阅一下这个例会。",
+      "category": "office"
+    },
+    {
+      "word": "ad hoc",
+      "phonetic": "/æd ˈhɒk/",
+      "meaning": "临时安排",
+      "example": "Stay ad hoc in the meeting.",
+      "exampleZh": "会上请保持临时安排。",
+      "category": "office"
+    },
+    {
+      "word": "one-on-one",
+      "phonetic": "/wʌn ɒn wʌn/",
+      "meaning": "一对一面谈",
+      "example": "Please share the one-on-one after the meeting.",
+      "exampleZh": "会后请分享这个一对一面谈。",
+      "category": "office"
+    },
+    {
+      "word": "mapped drive",
+      "phonetic": "/mæpt draɪv/",
+      "meaning": "映射盘符",
+      "example": "Please check the mapped drive.",
+      "exampleZh": "请检查一下这个映射盘符。",
+      "category": "it"
+    },
+    {
+      "word": "print queue",
+      "phonetic": "/prɪnt kjuː/",
+      "meaning": "打印队列",
+      "example": "The print queue is in production.",
+      "exampleZh": "这个打印队列已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "default gateway",
+      "phonetic": "/dɪˈfɔːlt ˈɡeɪtweɪ/",
+      "meaning": "默认网关",
+      "example": "We need the default gateway before go-live.",
+      "exampleZh": "上线前我们需要这个默认网关。",
+      "category": "it"
+    },
+    {
+      "word": "IP address",
+      "phonetic": "/aɪ ˈpiː əˈdres/",
+      "meaning": "IP地址",
+      "example": "We need the IP address before go-live.",
+      "exampleZh": "上线前我们需要这个IP地址。",
+      "category": "it"
+    },
+    {
+      "word": "MAC address",
+      "phonetic": "/mæk əˈdres/",
+      "meaning": "网卡地址",
+      "example": "Who supports this MAC address?",
+      "exampleZh": "谁支持这个网卡地址？",
+      "category": "it"
+    }
+  ]
+}

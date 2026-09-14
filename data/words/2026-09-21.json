@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-21",
+  "words": [
+    {
+      "word": "talking point",
+      "phonetic": "/ˈtɔːkɪŋ pɔɪnt/",
+      "meaning": "讨论要点",
+      "example": "The talking point is ready for review.",
+      "exampleZh": "这个讨论要点已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "parking lot",
+      "phonetic": "/ˈpɑːkɪŋ lɒt/",
+      "meaning": "待议事项",
+      "example": "Please share the parking lot after the meeting.",
+      "exampleZh": "会后请分享这个待议事项。",
+      "category": "office"
+    },
+    {
+      "word": "workshop",
+      "phonetic": "/ˈwɜːkʃɒp/",
+      "meaning": "研讨会",
+      "example": "The workshop is ready for review.",
+      "exampleZh": "这个研讨会已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "offsite",
+      "phonetic": "/ˈɒfsaɪt/",
+      "meaning": "外出研讨",
+      "example": "Please share the offsite after the meeting.",
+      "exampleZh": "会后请分享这个外出研讨。",
+      "category": "office"
+    },
+    {
+      "word": "town hall",
+      "phonetic": "/taʊn hɔːl/",
+      "meaning": "全员大会",
+      "example": "Please share the town hall after the meeting.",
+      "exampleZh": "会后请分享这个全员大会。",
+      "category": "office"
+    },
+    {
+      "word": "PHR",
+      "phonetic": "/ˌpiː eɪtʃ ˈɑː/",
+      "meaning": "个人健康档案",
+      "example": "The PHR is slow this morning.",
+      "exampleZh": "今天早上 PHR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "DICOM",
+      "phonetic": "/ˈdaɪkɒm/",
+      "meaning": "医学影像标准",
+      "example": "The DICOM is slow this morning.",
+      "exampleZh": "今天早上 DICOM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "HL7",
+      "phonetic": "/eɪtʃ el ˈsevn/",
+      "meaning": "医疗信息交换标准",
+      "example": "The HL7 is slow this morning.",
+      "exampleZh": "今天早上 HL7 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "FHIR",
+      "phonetic": "/ˈfaɪə/",
+      "meaning": "快速医疗互操作资源",
+      "example": "The FHIR is slow this morning.",
+      "exampleZh": "今天早上 FHIR 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "IHE",
+      "phonetic": "/ˌaɪ eɪtʃ ˈiː/",
+      "meaning": "医疗集成规范",
+      "example": "The IHE is slow this morning.",
+      "exampleZh": "今天早上 IHE 很慢。",
+      "category": "it"
+    }
+  ]
+}

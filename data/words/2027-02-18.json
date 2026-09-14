@@ -1,0 +1,85 @@
+{
+  "date": "2027-02-18",
+  "words": [
+    {
+      "word": "review",
+      "phonetic": "/rɪˈvjuː/",
+      "meaning": "审阅",
+      "example": "I will review it after the meeting.",
+      "exampleZh": "会后我会审阅它。",
+      "category": "office"
+    },
+    {
+      "word": "approve",
+      "phonetic": "/əˈpruːv/",
+      "meaning": "批准",
+      "example": "Please approve this before noon.",
+      "exampleZh": "请在中午前批准这个。",
+      "category": "office"
+    },
+    {
+      "word": "reject",
+      "phonetic": "/rɪˈdʒekt/",
+      "meaning": "驳回",
+      "example": "We need to reject this by Friday.",
+      "exampleZh": "我们周五前需要驳回这个。",
+      "category": "office"
+    },
+    {
+      "word": "schedule",
+      "phonetic": "/ˈʃedjuːl/",
+      "meaning": "安排时间",
+      "example": "I will schedule it after the meeting.",
+      "exampleZh": "会后我会安排时间它。",
+      "category": "office"
+    },
+    {
+      "word": "coordinate",
+      "phonetic": "/kəʊˈɔːdɪneɪt/",
+      "meaning": "协调",
+      "example": "We need to coordinate this by Friday.",
+      "exampleZh": "我们周五前需要协调这个。",
+      "category": "office"
+    },
+    {
+      "word": "cutover",
+      "phonetic": "/ˈkʌtəʊvə/",
+      "meaning": "切换上线",
+      "example": "Please check the cutover.",
+      "exampleZh": "请检查一下这个切换上线。",
+      "category": "it"
+    },
+    {
+      "word": "backout",
+      "phonetic": "/ˈbækaʊt/",
+      "meaning": "退出回退",
+      "example": "Please check the backout.",
+      "exampleZh": "请检查一下这个退出回退。",
+      "category": "it"
+    },
+    {
+      "word": "smoke after release",
+      "phonetic": "/sməʊk ˈɑːftə rɪˈliːs/",
+      "meaning": "发布后冒烟",
+      "example": "The smoke after release is in production.",
+      "exampleZh": "这个发布后冒烟已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "health check job",
+      "phonetic": "/helθ tʃek dʒɒb/",
+      "meaning": "健康检查任务",
+      "example": "We need the health check job before go-live.",
+      "exampleZh": "上线前我们需要这个健康检查任务。",
+      "category": "it"
+    },
+    {
+      "word": "synthetic monitor",
+      "phonetic": "/sɪnˈθetɪk ˈmɒnɪtə/",
+      "meaning": "模拟拨测",
+      "example": "Please check the synthetic monitor.",
+      "exampleZh": "请检查一下这个模拟拨测。",
+      "category": "it"
+    }
+  ]
+}

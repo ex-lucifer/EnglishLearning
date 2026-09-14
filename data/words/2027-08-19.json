@@ -1,0 +1,85 @@
+{
+  "date": "2027-08-19",
+  "words": [
+    {
+      "word": "may I add",
+      "phonetic": "/meɪ aɪ æd/",
+      "meaning": "我补充一句",
+      "example": "May I add one point on staffing?",
+      "exampleZh": "我能补充一句人手的事吗？",
+      "category": "office"
+    },
+    {
+      "word": "go ahead",
+      "phonetic": "/ɡəʊ əˈhed/",
+      "meaning": "请讲",
+      "example": "Go ahead, we are listening.",
+      "exampleZh": "请讲，我们在听。",
+      "category": "office"
+    },
+    {
+      "word": "please continue",
+      "phonetic": "/pliːz kənˈtɪnjuː/",
+      "meaning": "请继续",
+      "example": "Please continue from the last slide.",
+      "exampleZh": "请从上一页继续。",
+      "category": "office"
+    },
+    {
+      "word": "any questions",
+      "phonetic": "/ˈeni ˈkwestʃənz/",
+      "meaning": "有问题吗",
+      "example": "Any questions before we close?",
+      "exampleZh": "结束前还有问题吗？",
+      "category": "office"
+    },
+    {
+      "word": "any comments",
+      "phonetic": "/ˈeni ˈkɒments/",
+      "meaning": "有意见吗",
+      "example": "Any comments on the draft?",
+      "exampleZh": "对草稿有意见吗？",
+      "category": "office"
+    },
+    {
+      "word": "scavenging",
+      "phonetic": "/ˈskævɪndʒɪŋ/",
+      "meaning": "过期记录清理",
+      "example": "We need the scavenging before go-live.",
+      "exampleZh": "上线前我们需要这个过期记录清理。",
+      "category": "it"
+    },
+    {
+      "word": "aging",
+      "phonetic": "/ˈeɪdʒɪŋ/",
+      "meaning": "记录老化",
+      "example": "Who supports this aging?",
+      "exampleZh": "谁支持这个记录老化？",
+      "category": "it"
+    },
+    {
+      "word": "dynamic update",
+      "phonetic": "/daɪˈnæmɪk ˌʌpˈdeɪt/",
+      "meaning": "动态更新",
+      "example": "Please review the dynamic update after the patch.",
+      "exampleZh": "打补丁后请审阅这个动态更新。",
+      "category": "it"
+    },
+    {
+      "word": "secure update",
+      "phonetic": "/sɪˈkjʊə ˌʌpˈdeɪt/",
+      "meaning": "安全更新",
+      "example": "Who supports this secure update?",
+      "exampleZh": "谁支持这个安全更新？",
+      "category": "it"
+    },
+    {
+      "word": "zone transfer",
+      "phonetic": "/zəʊn ˈtrænsfɜː/",
+      "meaning": "区域传送",
+      "example": "Please check the zone transfer.",
+      "exampleZh": "请检查一下这个区域传送。",
+      "category": "it"
+    }
+  ]
+}

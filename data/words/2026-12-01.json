@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-01",
+  "words": [
+    {
+      "word": "org chart",
+      "phonetic": "/ɔːɡ tʃɑːt/",
+      "meaning": "组织架构图",
+      "example": "I updated the org chart this morning.",
+      "exampleZh": "我今天早上更新了这个组织架构图。",
+      "category": "office"
+    },
+    {
+      "word": "job description",
+      "phonetic": "/dʒɒb dɪˈskrɪpʃn/",
+      "meaning": "岗位说明书",
+      "example": "I updated the job description this morning.",
+      "exampleZh": "我今天早上更新了这个岗位说明书。",
+      "category": "office"
+    },
+    {
+      "word": "duty roster",
+      "phonetic": "/ˈdjuːti ˈrɒstə/",
+      "meaning": "值班表",
+      "example": "Please review the duty roster.",
+      "exampleZh": "请审阅一下这个值班表。",
+      "category": "office"
+    },
+    {
+      "word": "on-call",
+      "phonetic": "/ɒn kɔːl/",
+      "meaning": "值班待命",
+      "example": "This request is on-call.",
+      "exampleZh": "这个请求是值班待命的。",
+      "category": "office"
+    },
+    {
+      "word": "standby",
+      "phonetic": "/ˈstændbaɪ/",
+      "meaning": "待命",
+      "example": "Who is handling the standby?",
+      "exampleZh": "谁在处理这个待命？",
+      "category": "office"
+    },
+    {
+      "word": "password policy",
+      "phonetic": "/ˈpɑːswɜːd ˈpɒləsi/",
+      "meaning": "密码策略",
+      "example": "Please check the password policy.",
+      "exampleZh": "请检查一下这个密码策略。",
+      "category": "it"
+    },
+    {
+      "word": "encryption at rest",
+      "phonetic": "/ɪnˈkrɪpʃn ət rest/",
+      "meaning": "静态加密",
+      "example": "The encryption at rest is in production.",
+      "exampleZh": "这个静态加密已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "encryption in transit",
+      "phonetic": "/ɪnˈkrɪpʃn ɪn ˈtrænzɪt/",
+      "meaning": "传输加密",
+      "example": "The encryption in transit is in production.",
+      "exampleZh": "这个传输加密已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "TLS handshake",
+      "phonetic": "/ˌtiː el ˈes ˈhændʃeɪk/",
+      "meaning": "加密握手",
+      "example": "The TLS handshake is in production.",
+      "exampleZh": "这个加密握手已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "certificate expiry",
+      "phonetic": "/səˈtɪfɪkət ɪkˈspaɪəri/",
+      "meaning": "证书到期",
+      "example": "Please check the certificate expiry.",
+      "exampleZh": "请检查一下这个证书到期。",
+      "category": "it"
+    }
+  ]
+}

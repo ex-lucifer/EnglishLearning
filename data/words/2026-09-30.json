@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-30",
+  "words": [
+    {
+      "word": "appendix",
+      "phonetic": "/əˈpendɪks/",
+      "meaning": "附录",
+      "example": "The appendix is ready for review.",
+      "exampleZh": "这个附录已经可以审阅了。",
+      "category": "office"
+    },
+    {
+      "word": "summary",
+      "phonetic": "/ˈsʌməri/",
+      "meaning": "摘要",
+      "example": "Who is handling the summary?",
+      "exampleZh": "谁在处理这个摘要？",
+      "category": "office"
+    },
+    {
+      "word": "overview",
+      "phonetic": "/ˈəʊvəvjuː/",
+      "meaning": "概览",
+      "example": "I updated the overview this morning.",
+      "exampleZh": "我今天早上更新了这个概览。",
+      "category": "office"
+    },
+    {
+      "word": "outline",
+      "phonetic": "/ˈaʊtlaɪn/",
+      "meaning": "提纲",
+      "example": "Please review the outline.",
+      "exampleZh": "请审阅一下这个提纲。",
+      "category": "office"
+    },
+    {
+      "word": "proposal",
+      "phonetic": "/prəˈpəʊzl/",
+      "meaning": "提案",
+      "example": "Please share the proposal after the meeting.",
+      "exampleZh": "会后请分享这个提案。",
+      "category": "office"
+    },
+    {
+      "word": "order message",
+      "phonetic": "/ˈɔːdə ˈmesɪdʒ/",
+      "meaning": "医嘱消息",
+      "example": "We need the order message before go-live.",
+      "exampleZh": "上线前我们需要这个医嘱消息。",
+      "category": "it"
+    },
+    {
+      "word": "result message",
+      "phonetic": "/rɪˈzʌlt ˈmesɪdʒ/",
+      "meaning": "结果消息",
+      "example": "The result message is in production.",
+      "exampleZh": "这个结果消息已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "ORM",
+      "phonetic": "/ˌəʊ ɑː ˈem/",
+      "meaning": "医嘱消息类型",
+      "example": "The ORM is slow this morning.",
+      "exampleZh": "今天早上 ORM 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "ORU",
+      "phonetic": "/ˌəʊ ɑː ˈjuː/",
+      "meaning": "结果消息类型",
+      "example": "The ORU is slow this morning.",
+      "exampleZh": "今天早上 ORU 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "ACK",
+      "phonetic": "/æk/",
+      "meaning": "确认应答",
+      "example": "The ACK is slow this morning.",
+      "exampleZh": "今天早上 ACK 很慢。",
+      "category": "it"
+    }
+  ]
+}

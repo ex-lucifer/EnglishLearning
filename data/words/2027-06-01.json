@@ -1,0 +1,85 @@
+{
+  "date": "2027-06-01",
+  "words": [
+    {
+      "word": "dissent",
+      "phonetic": "/dɪˈsent/",
+      "meaning": "异议",
+      "example": "I updated the dissent this morning.",
+      "exampleZh": "我今天早上更新了这个异议。",
+      "category": "office"
+    },
+    {
+      "word": "abstain",
+      "phonetic": "/əbˈsteɪn/",
+      "meaning": "弃权",
+      "example": "I will abstain it after the meeting.",
+      "exampleZh": "会后我会弃权它。",
+      "category": "office"
+    },
+    {
+      "word": "vote",
+      "phonetic": "/vəʊt/",
+      "meaning": "表决",
+      "example": "Can you vote it today?",
+      "exampleZh": "你今天能表决一下吗？",
+      "category": "office"
+    },
+    {
+      "word": "ballot",
+      "phonetic": "/ˈbælət/",
+      "meaning": "无记名票",
+      "example": "Who is handling the ballot?",
+      "exampleZh": "谁在处理这个无记名票？",
+      "category": "office"
+    },
+    {
+      "word": "show of hands",
+      "phonetic": "/ʃəʊ əv hændz/",
+      "meaning": "举手表决",
+      "example": "Please review the show of hands.",
+      "exampleZh": "请审阅一下这个举手表决。",
+      "category": "office"
+    },
+    {
+      "word": "license server",
+      "phonetic": "/ˈlaɪsns ˈsɜːvə/",
+      "meaning": "授权服务器",
+      "example": "The license server is in production.",
+      "exampleZh": "这个授权服务器已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "license key",
+      "phonetic": "/ˈlaɪsns kiː/",
+      "meaning": "授权密钥",
+      "example": "We need the license key before go-live.",
+      "exampleZh": "上线前我们需要这个授权密钥。",
+      "category": "it"
+    },
+    {
+      "word": "trial license",
+      "phonetic": "/ˈtraɪəl ˈlaɪsns/",
+      "meaning": "试用授权",
+      "example": "The trial license is in production.",
+      "exampleZh": "这个试用授权已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "perpetual license",
+      "phonetic": "/pəˈpetʃuəl ˈlaɪsns/",
+      "meaning": "永久授权",
+      "example": "Please review the perpetual license after the patch.",
+      "exampleZh": "打补丁后请审阅这个永久授权。",
+      "category": "it"
+    },
+    {
+      "word": "subscription license",
+      "phonetic": "/səbˈskrɪpʃn ˈlaɪsns/",
+      "meaning": "订阅授权",
+      "example": "Please check the subscription license.",
+      "exampleZh": "请检查一下这个订阅授权。",
+      "category": "it"
+    }
+  ]
+}

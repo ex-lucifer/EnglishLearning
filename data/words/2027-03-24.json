@@ -1,0 +1,85 @@
+{
+  "date": "2027-03-24",
+  "words": [
+    {
+      "word": "privacy notice",
+      "phonetic": "/ˈprɪvəsi ˈnəʊtɪs/",
+      "meaning": "隐私告知",
+      "example": "Please share the privacy notice after the meeting.",
+      "exampleZh": "会后请分享这个隐私告知。",
+      "category": "office"
+    },
+    {
+      "word": "data request",
+      "phonetic": "/ˈdeɪtə rɪˈkwest/",
+      "meaning": "数据申请",
+      "example": "Please review the data request.",
+      "exampleZh": "请审阅一下这个数据申请。",
+      "category": "office"
+    },
+    {
+      "word": "access request",
+      "phonetic": "/ˈækses rɪˈkwest/",
+      "meaning": "权限申请",
+      "example": "Please review the access request.",
+      "exampleZh": "请审阅一下这个权限申请。",
+      "category": "office"
+    },
+    {
+      "word": "change request",
+      "phonetic": "/tʃeɪndʒ rɪˈkwest/",
+      "meaning": "变更申请",
+      "example": "I updated the change request this morning.",
+      "exampleZh": "我今天早上更新了这个变更申请。",
+      "category": "office"
+    },
+    {
+      "word": "service request",
+      "phonetic": "/ˈsɜːvɪs rɪˈkwest/",
+      "meaning": "服务申请",
+      "example": "Who is handling the service request?",
+      "exampleZh": "谁在处理这个服务申请？",
+      "category": "office"
+    },
+    {
+      "word": "tablet",
+      "phonetic": "/ˈtæblɪt/",
+      "meaning": "平板",
+      "example": "We need the tablet before go-live.",
+      "exampleZh": "上线前我们需要这个平板。",
+      "category": "it"
+    },
+    {
+      "word": "smartphone",
+      "phonetic": "/ˈsmɑːtfəʊn/",
+      "meaning": "智能手机",
+      "example": "Please review the smartphone after the patch.",
+      "exampleZh": "打补丁后请审阅这个智能手机。",
+      "category": "it"
+    },
+    {
+      "word": "pager",
+      "phonetic": "/ˈpeɪdʒə/",
+      "meaning": "传呼机",
+      "example": "The pager is in production.",
+      "exampleZh": "这个传呼机已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "VoIP",
+      "phonetic": "/vɔɪp/",
+      "meaning": "网络电话",
+      "example": "The VoIP is slow this morning.",
+      "exampleZh": "今天早上 VoIP 很慢。",
+      "category": "it"
+    },
+    {
+      "word": "SIP",
+      "phonetic": "/sɪp/",
+      "meaning": "会话启动协议",
+      "example": "The SIP is slow this morning.",
+      "exampleZh": "今天早上 SIP 很慢。",
+      "category": "it"
+    }
+  ]
+}

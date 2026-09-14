@@ -1,0 +1,85 @@
+{
+  "date": "2027-07-15",
+  "words": [
+    {
+      "word": "acting",
+      "phonetic": "/ˈæktɪŋ/",
+      "meaning": "代理的",
+      "example": "This request is acting.",
+      "exampleZh": "这个请求是代理的的。",
+      "category": "office"
+    },
+    {
+      "word": "interim",
+      "phonetic": "/ˈɪntərɪm/",
+      "meaning": "临时的",
+      "example": "This request is interim.",
+      "exampleZh": "这个请求是临时的的。",
+      "category": "office"
+    },
+    {
+      "word": "permanent",
+      "phonetic": "/ˈpɜːmənənt/",
+      "meaning": "正式的",
+      "example": "The timeline looks permanent.",
+      "exampleZh": "时间看起来正式的。",
+      "category": "office"
+    },
+    {
+      "word": "temporary",
+      "phonetic": "/ˈtemprəri/",
+      "meaning": "临时的",
+      "example": "Please keep this temporary.",
+      "exampleZh": "请保持临时的。",
+      "category": "office"
+    },
+    {
+      "word": "full-time",
+      "phonetic": "/fʊl taɪm/",
+      "meaning": "全职的",
+      "example": "Stay full-time in the meeting.",
+      "exampleZh": "会上请保持全职的。",
+      "category": "office"
+    },
+    {
+      "word": "uncorrectable error",
+      "phonetic": "/ˌʌnkəˈrektəbl ˈerə/",
+      "meaning": "不可纠正错误",
+      "example": "We need the uncorrectable error before go-live.",
+      "exampleZh": "上线前我们需要这个不可纠正错误。",
+      "category": "it"
+    },
+    {
+      "word": "reallocated sector",
+      "phonetic": "/ˌriːˈæləkeɪtɪd ˈsektə/",
+      "meaning": "重映射扇区",
+      "example": "Please check the reallocated sector.",
+      "exampleZh": "请检查一下这个重映射扇区。",
+      "category": "it"
+    },
+    {
+      "word": "spin-up",
+      "phonetic": "/spɪn ʌp/",
+      "meaning": "磁盘启动",
+      "example": "The spin-up is in production.",
+      "exampleZh": "这个磁盘启动已在生产环境。",
+      "category": "it"
+    },
+    {
+      "word": "head crash",
+      "phonetic": "/hed kræʃ/",
+      "meaning": "磁头损坏",
+      "example": "We need the head crash before go-live.",
+      "exampleZh": "上线前我们需要这个磁头损坏。",
+      "category": "it"
+    },
+    {
+      "word": "SSD",
+      "phonetic": "/ˌes es ˈdiː/",
+      "meaning": "固态硬盘",
+      "example": "The SSD is slow this morning.",
+      "exampleZh": "今天早上 SSD 很慢。",
+      "category": "it"
+    }
+  ]
+}
