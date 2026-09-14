@@ -20,7 +20,7 @@ docker compose up -d --build
 
 ## 时区说明
 
-业务逻辑使用 `Asia/Shanghai`，不依赖主机 `TZ` 环境变量。如需容器日志显示本地时间，可可选设置 `TZ=Asia/Shanghai`。
+业务逻辑使用 `Asia/Shanghai`，不依赖主机 `TZ` 环境变量。如需容器日志显示本地时间，可设置 `TZ=Asia/Shanghai`。
 
 ## 词库范围
 
