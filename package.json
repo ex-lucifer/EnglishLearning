@@ -1,0 +1,11 @@
+{
+  "name": "hospital-it-daily-english",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test tests/**/*.test.js",
+    "validate:words": "node scripts/validate-word-bank.mjs"
+  }
+}
