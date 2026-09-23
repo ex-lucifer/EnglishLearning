@@ -20,16 +20,17 @@ test('Monday 9:00 learn with words', () => {
   assert.equal(payload.error, null);
 });
 
-test('Tuesday 8:00 recite Monday words, learn still closed', () => {
+test('Tuesday 8:00 recite Monday words, learn already open', () => {
   const now = shanghaiInstant(2026, 9, 15, 8, 0);
-  const recite = buildRecite(now, store);
-  const learn = buildLearn(now, store);
-  assert.equal(recite.mode, 'recite');
-  assert.equal(recite.date, '2026-09-14');
-  assert.equal(recite.heading, '今日抽背 · 10 词');
-  assert.equal(recite.words[0].word, 'agenda');
-  assert.equal(learn.mode, 'idle');
-  assert.equal(learn.message, '未到出词时间');
+  const today = buildToday(now, store);
+  assert.equal(today.defaultPane, 'recite');
+  assert.equal(today.recite.mode, 'recite');
+  assert.equal(today.recite.date, '2026-09-14');
+  assert.equal(today.recite.heading, '今日抽背 · 10 词');
+  assert.equal(today.recite.words[0].word, 'agenda');
+  assert.equal(today.learn.mode, 'learn');
+  assert.equal(today.learn.date, '2026-09-15');
+  assert.equal(today.learn.words[0].word, 'clarify');
 });
 
 test('Tuesday 9:00 keeps recite while showing new words', () => {
@@ -49,10 +50,13 @@ test('Tuesday 7:59 still recites Monday words', () => {
   assert.equal(payload.words[0].word, 'agenda');
 });
 
-test('Monday 8:59 learn idle not yet', () => {
-  const payload = buildLearn(shanghaiInstant(2026, 9, 14, 8, 59), store);
-  assert.equal(payload.mode, 'idle');
-  assert.equal(payload.message, '未到出词时间');
+test('Monday 0:00 learn with words, default recite', () => {
+  const now = shanghaiInstant(2026, 9, 14, 0, 0);
+  const today = buildToday(now, store);
+  assert.equal(today.defaultPane, 'recite');
+  assert.equal(today.learn.mode, 'learn');
+  assert.equal(today.learn.date, '2026-09-14');
+  assert.equal(today.learn.words.length, 10);
 });
 
 test('Saturday learn idle, recite last Thursday', () => {

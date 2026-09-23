@@ -1,11 +1,8 @@
-import { shanghaiParts } from './shanghaiTime.js';
 import { defaultPane, resolveLearn, resolveRecite } from './schedule.js';
 
 export const BANK_END = '2027-09-09';
 
-function learnIdleMessage(now) {
-  const { weekday, hour } = shanghaiParts(now);
-  if (weekday >= 1 && weekday <= 4 && hour < 9) return '未到出词时间';
+function learnIdleMessage() {
   return '今日无新词';
 }
 

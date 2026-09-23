@@ -18,8 +18,7 @@ export function previousLearningDate(isoDate) {
 
 export function resolveLearn(now = new Date()) {
   const parts = shanghaiParts(now);
-  const { weekday, hour } = parts;
-  if (weekday >= 1 && weekday <= 4 && hour >= 9) {
+  if (parts.weekday >= 1 && parts.weekday <= 4) {
     return { mode: 'learn', date: formatDate(parts) };
   }
   return { mode: 'idle', date: null };
@@ -31,6 +30,7 @@ export function resolveRecite(now = new Date()) {
 }
 
 export function defaultPane(now = new Date()) {
-  if (resolveLearn(now).mode === 'learn') return 'learn';
+  const { weekday, hour } = shanghaiParts(now);
+  if (weekday >= 1 && weekday <= 4 && hour >= 9) return 'learn';
   return 'recite';
 }

@@ -35,7 +35,7 @@ describe('Tuesday 8:00', () => {
     await new Promise((resolve) => server.close(resolve));
   });
 
-  test('GET /api/today defaults to recite and keeps learn idle', async () => {
+  test('GET /api/today defaults to recite while learn is already open', async () => {
     const res = await fetch(`${base}/api/today`);
     assert.equal(res.status, 200);
     const body = await res.json();
@@ -43,7 +43,8 @@ describe('Tuesday 8:00', () => {
     assert.equal(body.recite.mode, 'recite');
     assert.equal(body.recite.date, '2026-09-14');
     assert.equal(body.recite.words.length, 10);
-    assert.equal(body.learn.mode, 'idle');
+    assert.equal(body.learn.mode, 'learn');
+    assert.equal(body.learn.date, '2026-09-15');
   });
 
   test('GET /api/recite returns Monday words', async () => {
@@ -53,11 +54,11 @@ describe('Tuesday 8:00', () => {
     assert.equal(body.date, '2026-09-14');
   });
 
-  test('GET /api/learn is not ready yet', async () => {
+  test('GET /api/learn already has Tuesday words', async () => {
     const res = await fetch(`${base}/api/learn`);
     const body = await res.json();
-    assert.equal(body.mode, 'idle');
-    assert.equal(body.message, '未到出词时间');
+    assert.equal(body.mode, 'learn');
+    assert.equal(body.date, '2026-09-15');
   });
 
   test('GET /api/history is descending', async () => {

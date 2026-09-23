@@ -13,9 +13,16 @@ test('previousLearningDate skips Fri-Sun to last Mon-Thu', () => {
   assert.equal(previousLearningDate('2026-09-20'), '2026-09-17');
 });
 
-test('Monday 8:59: recite last Thursday, learn not ready', () => {
+test('Monday 0:00: new words ready, default still recite', () => {
+  const now = shanghaiInstant(2026, 9, 14, 0, 0);
+  assert.deepEqual(resolveLearn(now), { mode: 'learn', date: '2026-09-14' });
+  assert.deepEqual(resolveRecite(now), { mode: 'recite', date: '2026-09-10' });
+  assert.equal(defaultPane(now), 'recite');
+});
+
+test('Monday 8:59: new words ready, default still recite', () => {
   const now = shanghaiInstant(2026, 9, 14, 8, 59);
-  assert.deepEqual(resolveLearn(now), { mode: 'idle', date: null });
+  assert.deepEqual(resolveLearn(now), { mode: 'learn', date: '2026-09-14' });
   assert.deepEqual(resolveRecite(now), { mode: 'recite', date: '2026-09-10' });
   assert.equal(defaultPane(now), 'recite');
 });
@@ -27,17 +34,17 @@ test('Monday 9:00: default learn, recite still last Thursday', () => {
   assert.equal(defaultPane(now), 'learn');
 });
 
-test('Tuesday 7:59: recite Monday, no 8am gate', () => {
+test('Tuesday 7:59: recite Monday, new words already ready', () => {
   const now = shanghaiInstant(2026, 9, 15, 7, 59);
   assert.deepEqual(resolveRecite(now), { mode: 'recite', date: '2026-09-14' });
-  assert.deepEqual(resolveLearn(now), { mode: 'idle', date: null });
+  assert.deepEqual(resolveLearn(now), { mode: 'learn', date: '2026-09-15' });
   assert.equal(defaultPane(now), 'recite');
 });
 
-test('Tuesday 8:00: recite Monday, learn not yet', () => {
+test('Tuesday 8:00: recite Monday, new words ready, default recite', () => {
   const now = shanghaiInstant(2026, 9, 15, 8, 0);
   assert.deepEqual(resolveRecite(now), { mode: 'recite', date: '2026-09-14' });
-  assert.deepEqual(resolveLearn(now), { mode: 'idle', date: null });
+  assert.deepEqual(resolveLearn(now), { mode: 'learn', date: '2026-09-15' });
   assert.equal(defaultPane(now), 'recite');
 });
 
