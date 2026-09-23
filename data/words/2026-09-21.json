@@ -5,80 +5,80 @@
       "word": "talking point",
       "phonetic": "/ˈtɔːkɪŋ pɔɪnt/",
       "meaning": "讨论要点",
-      "example": "The talking point is ready for review.",
-      "exampleZh": "这个讨论要点已经可以审阅了。",
+      "example": "Please bring the talking point to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个讨论要点。",
       "category": "office"
     },
     {
       "word": "parking lot",
       "phonetic": "/ˈpɑːkɪŋ lɒt/",
       "meaning": "待议事项",
-      "example": "Please share the parking lot after the meeting.",
-      "exampleZh": "会后请分享这个待议事项。",
+      "example": "I put the parking lot on the shared drive.",
+      "exampleZh": "我把待议事项放到了共享盘。",
       "category": "office"
     },
     {
       "word": "workshop",
       "phonetic": "/ˈwɜːkʃɒp/",
       "meaning": "研讨会",
-      "example": "The workshop is ready for review.",
-      "exampleZh": "这个研讨会已经可以审阅了。",
+      "example": "We talked about the workshop with the department head.",
+      "exampleZh": "我们和科主任谈了这个研讨会。",
       "category": "office"
     },
     {
       "word": "offsite",
       "phonetic": "/ˈɒfsaɪt/",
       "meaning": "外出研讨",
-      "example": "Please share the offsite after the meeting.",
-      "exampleZh": "会后请分享这个外出研讨。",
+      "example": "Who will own the offsite this week?",
+      "exampleZh": "这周这个外出研讨谁来负责？",
       "category": "office"
     },
     {
       "word": "town hall",
       "phonetic": "/taʊn hɔːl/",
       "meaning": "全员大会",
-      "example": "Please share the town hall after the meeting.",
-      "exampleZh": "会后请分享这个全员大会。",
+      "example": "Please bring the town hall to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个全员大会。",
       "category": "office"
     },
     {
       "word": "PHR",
       "phonetic": "/ˌpiː eɪtʃ ˈɑː/",
-      "meaning": "个人健康档案",
-      "example": "The PHR is slow this morning.",
-      "exampleZh": "今天早上 PHR 很慢。",
+      "meaning": "个人健康档案（Personal Health Record）",
+      "example": "PHR stands for Personal Health Record. Check it before the clinic opens.",
+      "exampleZh": "PHR 的全称是 Personal Health Record。开诊前请先检查。",
       "category": "it"
     },
     {
       "word": "DICOM",
       "phonetic": "/ˈdaɪkɒm/",
-      "meaning": "医学影像标准",
-      "example": "The DICOM is slow this morning.",
-      "exampleZh": "今天早上 DICOM 很慢。",
+      "meaning": "医学影像标准（Digital Imaging and Communications in Medicine）",
+      "example": "Please confirm DICOM (Digital Imaging and Communications in Medicine) is allowed through the firewall.",
+      "exampleZh": "请确认防火墙放行 DICOM（Digital Imaging and Communications in Medicine）。",
       "category": "it"
     },
     {
       "word": "HL7",
       "phonetic": "/eɪtʃ el ˈsevn/",
-      "meaning": "医疗信息交换标准",
-      "example": "The HL7 is slow this morning.",
-      "exampleZh": "今天早上 HL7 很慢。",
+      "meaning": "医疗信息交换标准（Health Level Seven）",
+      "example": "Document HL7 (Health Level Seven) in the interface spec.",
+      "exampleZh": "接口说明里请写上 HL7（Health Level Seven）。",
       "category": "it"
     },
     {
       "word": "FHIR",
       "phonetic": "/ˈfaɪə/",
-      "meaning": "快速医疗互操作资源",
-      "example": "The FHIR is slow this morning.",
-      "exampleZh": "今天早上 FHIR 很慢。",
+      "meaning": "快速医疗互操作资源（Fast Healthcare Interoperability Resources）",
+      "example": "Document FHIR (Fast Healthcare Interoperability Resources) in the interface spec.",
+      "exampleZh": "接口说明里请写上 FHIR（Fast Healthcare Interoperability Resources）。",
       "category": "it"
     },
     {
       "word": "IHE",
       "phonetic": "/ˌaɪ eɪtʃ ˈiː/",
-      "meaning": "医疗集成规范",
-      "example": "The IHE is slow this morning.",
-      "exampleZh": "今天早上 IHE 很慢。",
+      "meaning": "医疗集成规范（Integrating the Healthcare Enterprise）",
+      "example": "We use IHE (Integrating the Healthcare Enterprise) for this integration.",
+      "exampleZh": "这条集成用的是 IHE（Integrating the Healthcare Enterprise）。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "discharge",
       "phonetic": "/ˈdɪstʃɑːdʒ/",
       "meaning": "出院",
-      "example": "Please share the discharge after the meeting.",
-      "exampleZh": "会后请分享这个出院。",
+      "example": "We talked about the discharge with the department head.",
+      "exampleZh": "我们和科主任谈了这个出院。",
       "category": "office"
     },
     {
       "word": "transfer",
       "phonetic": "/ˈtrænsfɜː/",
       "meaning": "转科转院",
-      "example": "The transfer is ready for review.",
-      "exampleZh": "这个转科转院已经可以审阅了。",
+      "example": "Who will own the transfer this week?",
+      "exampleZh": "这周这个转科转院谁来负责？",
       "category": "office"
     },
     {
       "word": "referral",
       "phonetic": "/rɪˈfɜːrəl/",
       "meaning": "转诊",
-      "example": "Please review the referral.",
-      "exampleZh": "请审阅一下这个转诊。",
+      "example": "I put the referral on the shared drive.",
+      "exampleZh": "我把转诊放到了共享盘。",
       "category": "office"
     },
     {
       "word": "appointment",
       "phonetic": "/əˈpɔɪntmənt/",
       "meaning": "预约",
-      "example": "Please share the appointment after the meeting.",
-      "exampleZh": "会后请分享这个预约。",
+      "example": "Please bring the appointment to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个预约。",
       "category": "office"
     },
     {
       "word": "registration",
       "phonetic": "/ˌredʒɪˈstreɪʃn/",
       "meaning": "挂号登记",
-      "example": "Who is handling the registration?",
-      "exampleZh": "谁在处理这个挂号登记？",
+      "example": "The registration still needs a decision today.",
+      "exampleZh": "这个挂号登记今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "secondary site",
       "phonetic": "/ˈsekəndri saɪt/",
       "meaning": "备站点",
-      "example": "The secondary site is in production.",
-      "exampleZh": "这个备站点已在生产环境。",
+      "example": "The vendor asked for a screenshot of the secondary site.",
+      "exampleZh": "厂商要一张这个备站点的截图。",
       "category": "it"
     },
     {
       "word": "RTO",
       "phonetic": "/ˌɑː tiː ˈəʊ/",
-      "meaning": "恢复时间目标",
-      "example": "The RTO is slow this morning.",
-      "exampleZh": "今天早上 RTO 很慢。",
+      "meaning": "恢复时间目标（Recovery Time Objective）",
+      "example": "We missed the RTO (Recovery Time Objective) last night.",
+      "exampleZh": "昨晚我们没达到 RTO（Recovery Time Objective）。",
       "category": "it"
     },
     {
       "word": "RPO",
       "phonetic": "/ˌɑː piː ˈəʊ/",
-      "meaning": "恢复点目标",
-      "example": "The RPO is slow this morning.",
-      "exampleZh": "今天早上 RPO 很慢。",
+      "meaning": "恢复点目标（Recovery Point Objective）",
+      "example": "We missed the RPO (Recovery Point Objective) last night.",
+      "exampleZh": "昨晚我们没达到 RPO（Recovery Point Objective）。",
       "category": "it"
     },
     {
       "word": "failover",
       "phonetic": "/ˈfeɪləʊvə/",
       "meaning": "故障切换",
-      "example": "The failover is in production.",
-      "exampleZh": "这个故障切换已在生产环境。",
+      "example": "Please test the failover on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个故障切换。",
       "category": "it"
     },
     {
       "word": "failback",
       "phonetic": "/ˈfeɪlbæk/",
       "meaning": "故障切回",
-      "example": "Please review the failback after the patch.",
-      "exampleZh": "打补丁后请审阅这个故障切回。",
+      "example": "The vendor asked for a screenshot of the failback.",
+      "exampleZh": "厂商要一张这个故障切回的截图。",
       "category": "it"
     }
   ]

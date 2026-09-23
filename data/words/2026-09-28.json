@@ -5,80 +5,80 @@
       "word": "cancel",
       "phonetic": "/ˈkænsl/",
       "meaning": "取消",
-      "example": "Let's cancel this first.",
-      "exampleZh": "我们先取消这个吧。",
+      "example": "Cancel the vendor visit if the computer room is locked.",
+      "exampleZh": "机房上锁的话就取消厂商上门。",
       "category": "office"
     },
     {
       "word": "confirm",
       "phonetic": "/kənˈfɜːm/",
       "meaning": "确认",
-      "example": "Let's confirm this first.",
-      "exampleZh": "我们先确认这个吧。",
+      "example": "Please confirm the downtime window with the duty nurse.",
+      "exampleZh": "请和值班护士确认停机窗口。",
       "category": "office"
     },
     {
       "word": "reminder",
       "phonetic": "/rɪˈmaɪndə/",
       "meaning": "提醒",
-      "example": "Who is handling the reminder?",
-      "exampleZh": "谁在处理这个提醒？",
+      "example": "Who will own the reminder this week?",
+      "exampleZh": "这周这个提醒谁来负责？",
       "category": "office"
     },
     {
       "word": "announcement",
       "phonetic": "/əˈnaʊnsmənt/",
       "meaning": "通知",
-      "example": "Please review the announcement.",
-      "exampleZh": "请审阅一下这个通知。",
+      "example": "Who will own the announcement this week?",
+      "exampleZh": "这周这个通知谁来负责？",
       "category": "office"
     },
     {
       "word": "memo",
       "phonetic": "/ˈmeməʊ/",
       "meaning": "内部备忘",
-      "example": "Please review the memo.",
-      "exampleZh": "请审阅一下这个内部备忘。",
+      "example": "I put the memo on the shared drive.",
+      "exampleZh": "我把内部备忘放到了共享盘。",
       "category": "office"
     },
     {
       "word": "infusion pump",
       "phonetic": "/ɪnˈfjuːʒn pʌmp/",
       "meaning": "输液泵",
-      "example": "Please check the infusion pump.",
-      "exampleZh": "请检查一下这个输液泵。",
+      "example": "I logged the infusion pump in today’s change ticket.",
+      "exampleZh": "我把这个输液泵记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "vital monitor",
       "phonetic": "/ˈvaɪtl ˈmɒnɪtə/",
       "meaning": "生命体征监护仪",
-      "example": "Please check the vital monitor.",
-      "exampleZh": "请检查一下这个生命体征监护仪。",
+      "example": "We will verify the vital monitor after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个生命体征监护仪。",
       "category": "it"
     },
     {
       "word": "barcode scanner",
       "phonetic": "/ˈbɑːkəʊd ˈskænə/",
       "meaning": "条码扫描枪",
-      "example": "The barcode scanner is in production.",
-      "exampleZh": "这个条码扫描枪已在生产环境。",
+      "example": "The vendor asked for a screenshot of the barcode scanner.",
+      "exampleZh": "厂商要一张这个条码扫描枪的截图。",
       "category": "it"
     },
     {
       "word": "RFID",
       "phonetic": "/ˌɑːr ef aɪ ˈdiː/",
-      "meaning": "射频识别",
-      "example": "The RFID is slow this morning.",
-      "exampleZh": "今天早上 RFID 很慢。",
+      "meaning": "射频识别（Radio Frequency Identification）",
+      "example": "Replace the RFID (Radio Frequency Identification) after hours.",
+      "exampleZh": "下班后再更换 RFID（Radio Frequency Identification）。",
       "category": "it"
     },
     {
       "word": "RTLS",
       "phonetic": "/ˌɑːr tiː el ˈes/",
-      "meaning": "实时定位系统",
-      "example": "The RTLS is slow this morning.",
-      "exampleZh": "今天早上 RTLS 很慢。",
+      "meaning": "实时定位系统（Real-Time Location System）",
+      "example": "The ward called because RTLS (Real-Time Location System) would not open.",
+      "exampleZh": "病区来电，说 RTLS（Real-Time Location System）打不开。",
       "category": "it"
     }
   ]

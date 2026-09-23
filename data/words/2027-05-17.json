@@ -4,81 +4,81 @@
     {
       "word": "KPI review",
       "phonetic": "/ˌkeɪ piː ˈaɪ rɪˈvjuː/",
-      "meaning": "指标回顾",
-      "example": "I updated the KPI review this morning.",
-      "exampleZh": "我今天早上更新了这个指标回顾。",
+      "meaning": "指标回顾（Key Performance Indicator）",
+      "example": "The KPI review still needs a decision today.",
+      "exampleZh": "这个指标回顾今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "RAG status",
       "phonetic": "/ræɡ ˈsteɪtəs/",
       "meaning": "红黄绿状态",
-      "example": "Who is handling the RAG status?",
-      "exampleZh": "谁在处理这个红黄绿状态？",
+      "example": "We talked about the RAG status with the department head.",
+      "exampleZh": "我们和科主任谈了这个红黄绿状态。",
       "category": "office"
     },
     {
       "word": "amber",
       "phonetic": "/ˈæmbə/",
       "meaning": "黄色预警",
-      "example": "Please share the amber after the meeting.",
-      "exampleZh": "会后请分享这个黄色预警。",
+      "example": "We talked about the amber with the department head.",
+      "exampleZh": "我们和科主任谈了这个黄色预警。",
       "category": "office"
     },
     {
       "word": "red status",
       "phonetic": "/red ˈsteɪtəs/",
       "meaning": "红色状态",
-      "example": "Please review the red status.",
-      "exampleZh": "请审阅一下这个红色状态。",
+      "example": "We talked about the red status with the department head.",
+      "exampleZh": "我们和科主任谈了这个红色状态。",
       "category": "office"
     },
     {
       "word": "green status",
       "phonetic": "/ɡriːn ˈsteɪtəs/",
       "meaning": "绿色正常",
-      "example": "I updated the green status this morning.",
-      "exampleZh": "我今天早上更新了这个绿色正常。",
+      "example": "The green status still needs a decision today.",
+      "exampleZh": "这个绿色正常今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "kernel panic",
       "phonetic": "/ˈkɜːnl ˈpænɪk/",
       "meaning": "内核崩溃",
-      "example": "Please check the kernel panic.",
-      "exampleZh": "请检查一下这个内核崩溃。",
+      "example": "The vendor asked for a screenshot of the kernel panic.",
+      "exampleZh": "厂商要一张这个内核崩溃的截图。",
       "category": "it"
     },
     {
       "word": "oops",
       "phonetic": "/uːps/",
       "meaning": "内核异常",
-      "example": "Please review the oops after the patch.",
-      "exampleZh": "打补丁后请审阅这个内核异常。",
+      "example": "We will verify the oops after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个内核异常。",
       "category": "it"
     },
     {
       "word": "watchdog",
       "phonetic": "/ˈwɒtʃdɒɡ/",
       "meaning": "看门狗",
-      "example": "We need the watchdog before go-live.",
-      "exampleZh": "上线前我们需要这个看门狗。",
+      "example": "We will verify the watchdog after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个看门狗。",
       "category": "it"
     },
     {
       "word": "kdump",
       "phonetic": "/ˈkeɪdʌmp/",
       "meaning": "内核转储",
-      "example": "Please check the kdump.",
-      "exampleZh": "请检查一下这个内核转储。",
+      "example": "We will verify the kdump after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个内核转储。",
       "category": "it"
     },
     {
       "word": "core pattern",
       "phonetic": "/kɔː ˈpætn/",
       "meaning": "转储路径",
-      "example": "Please check the core pattern.",
-      "exampleZh": "请检查一下这个转储路径。",
+      "example": "We will verify the core pattern after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个转储路径。",
       "category": "it"
     }
   ]

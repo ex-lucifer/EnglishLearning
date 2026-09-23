@@ -5,80 +5,80 @@
       "word": "elective",
       "phonetic": "/ɪˈlektɪv/",
       "meaning": "择期的",
-      "example": "Please keep this elective.",
-      "exampleZh": "请保持择期的。",
+      "example": "Move elective work off the peak hours.",
+      "exampleZh": "择期事项请避开高峰。",
       "category": "office"
     },
     {
       "word": "consent form",
       "phonetic": "/kənˈsent fɔːm/",
       "meaning": "知情同意书",
-      "example": "Please share the consent form after the meeting.",
-      "exampleZh": "会后请分享这个知情同意书。",
+      "example": "Could you send the consent form to the project group?",
+      "exampleZh": "你能把知情同意书发到项目群吗？",
       "category": "office"
     },
     {
       "word": "insurance",
       "phonetic": "/ɪnˈʃʊərəns/",
       "meaning": "医保保险",
-      "example": "Who is handling the insurance?",
-      "exampleZh": "谁在处理这个医保保险？",
+      "example": "Please bring the insurance to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个医保保险。",
       "category": "office"
     },
     {
       "word": "copay",
       "phonetic": "/ˈkəʊpeɪ/",
       "meaning": "自付费用",
-      "example": "Please review the copay.",
-      "exampleZh": "请审阅一下这个自付费用。",
+      "example": "The copay still needs a decision today.",
+      "exampleZh": "这个自付费用今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "billing",
       "phonetic": "/ˈbɪlɪŋ/",
       "meaning": "计费收费",
-      "example": "The billing is ready for review.",
-      "exampleZh": "这个计费收费已经可以审阅了。",
+      "example": "Who will own the billing this week?",
+      "exampleZh": "这周这个计费收费谁来负责？",
       "category": "office"
     },
     {
       "word": "snapshot replica",
       "phonetic": "/ˈsnæpʃɒt ˈreplɪkə/",
       "meaning": "快照副本",
-      "example": "Please review the snapshot replica after the patch.",
-      "exampleZh": "打补丁后请审阅这个快照副本。",
+      "example": "We will verify the snapshot replica after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个快照副本。",
       "category": "it"
     },
     {
       "word": "replication",
       "phonetic": "/ˌreplɪˈkeɪʃn/",
       "meaning": "数据复制",
-      "example": "Please check the replication.",
-      "exampleZh": "请检查一下这个数据复制。",
+      "example": "I logged the replication in today’s change ticket.",
+      "exampleZh": "我把这个数据复制记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "sync job",
       "phonetic": "/sɪŋk dʒɒb/",
       "meaning": "同步任务",
-      "example": "Please check the sync job.",
-      "exampleZh": "请检查一下这个同步任务。",
+      "example": "Please test the sync job on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个同步任务。",
       "category": "it"
     },
     {
       "word": "bandwidth usage",
       "phonetic": "/ˈbændwɪdθ ˈjuːsɪdʒ/",
       "meaning": "带宽占用",
-      "example": "Please check the bandwidth usage.",
-      "exampleZh": "请检查一下这个带宽占用。",
+      "example": "I logged the bandwidth usage in today’s change ticket.",
+      "exampleZh": "我把这个带宽占用记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "packet loss",
       "phonetic": "/ˈpækɪt lɒs/",
       "meaning": "丢包",
-      "example": "We need the packet loss before go-live.",
-      "exampleZh": "上线前我们需要这个丢包。",
+      "example": "We will verify the packet loss after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个丢包。",
       "category": "it"
     }
   ]

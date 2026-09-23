@@ -5,80 +5,80 @@
       "word": "meeting invite",
       "phonetic": "/ˈmiːtɪŋ ɪnˈvaɪt/",
       "meaning": "会议邀请",
-      "example": "Who is handling the meeting invite?",
-      "exampleZh": "谁在处理这个会议邀请？",
+      "example": "I put the meeting invite on the shared drive.",
+      "exampleZh": "我把会议邀请放到了共享盘。",
       "category": "office"
     },
     {
       "word": "calendar invite",
       "phonetic": "/ˈkælɪndə ɪnˈvaɪt/",
       "meaning": "日历邀请",
-      "example": "Please share the calendar invite after the meeting.",
-      "exampleZh": "会后请分享这个日历邀请。",
+      "example": "The calendar invite still needs a decision today.",
+      "exampleZh": "这个日历邀请今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "standing meeting",
       "phonetic": "/ˈstændɪŋ ˈmiːtɪŋ/",
       "meaning": "例会",
-      "example": "Please review the standing meeting.",
-      "exampleZh": "请审阅一下这个例会。",
+      "example": "I put the standing meeting on the shared drive.",
+      "exampleZh": "我把例会放到了共享盘。",
       "category": "office"
     },
     {
       "word": "ad hoc",
       "phonetic": "/æd ˈhɒk/",
       "meaning": "临时安排",
-      "example": "Stay ad hoc in the meeting.",
-      "exampleZh": "会上请保持临时安排。",
+      "example": "We added an ad hoc huddle after the outage.",
+      "exampleZh": "停机后又加了一场临时短会。",
       "category": "office"
     },
     {
       "word": "one-on-one",
       "phonetic": "/wʌn ɒn wʌn/",
       "meaning": "一对一面谈",
-      "example": "Please share the one-on-one after the meeting.",
-      "exampleZh": "会后请分享这个一对一面谈。",
+      "example": "Who will own the one-on-one this week?",
+      "exampleZh": "这周这个一对一面谈谁来负责？",
       "category": "office"
     },
     {
       "word": "mapped drive",
       "phonetic": "/mæpt draɪv/",
       "meaning": "映射盘符",
-      "example": "Please check the mapped drive.",
-      "exampleZh": "请检查一下这个映射盘符。",
+      "example": "Who is on call for the mapped drive this week?",
+      "exampleZh": "这周这个映射盘符谁值班？",
       "category": "it"
     },
     {
       "word": "print queue",
       "phonetic": "/prɪnt kjuː/",
       "meaning": "打印队列",
-      "example": "The print queue is in production.",
-      "exampleZh": "这个打印队列已在生产环境。",
+      "example": "Do not touch the print queue during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个打印队列。",
       "category": "it"
     },
     {
       "word": "default gateway",
       "phonetic": "/dɪˈfɔːlt ˈɡeɪtweɪ/",
       "meaning": "默认网关",
-      "example": "We need the default gateway before go-live.",
-      "exampleZh": "上线前我们需要这个默认网关。",
+      "example": "The vendor asked for a screenshot of the default gateway.",
+      "exampleZh": "厂商要一张这个默认网关的截图。",
       "category": "it"
     },
     {
       "word": "IP address",
       "phonetic": "/aɪ ˈpiː əˈdres/",
       "meaning": "IP地址",
-      "example": "We need the IP address before go-live.",
-      "exampleZh": "上线前我们需要这个IP地址。",
+      "example": "The ward asked us to check the IP address.",
+      "exampleZh": "病区让我们看一下这个IP地址。",
       "category": "it"
     },
     {
       "word": "MAC address",
       "phonetic": "/mæk əˈdres/",
       "meaning": "网卡地址",
-      "example": "Who supports this MAC address?",
-      "exampleZh": "谁支持这个网卡地址？",
+      "example": "The vendor asked for a screenshot of the MAC address.",
+      "exampleZh": "厂商要一张这个网卡地址的截图。",
       "category": "it"
     }
   ]

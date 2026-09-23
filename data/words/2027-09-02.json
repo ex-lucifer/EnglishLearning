@@ -5,80 +5,80 @@
       "word": "invalid request",
       "phonetic": "/ɪnˈvælɪd rɪˈkwest/",
       "meaning": "无效请求",
-      "example": "Please share the invalid request after the meeting.",
-      "exampleZh": "会后请分享这个无效请求。",
+      "example": "Who will own the invalid request this week?",
+      "exampleZh": "这周这个无效请求谁来负责？",
       "category": "office"
     },
     {
       "word": "incomplete form",
       "phonetic": "/ˌɪnkəmˈpliːt fɔːm/",
       "meaning": "不完整表格",
-      "example": "The incomplete form is ready for review.",
-      "exampleZh": "这个不完整表格已经可以审阅了。",
+      "example": "Could you send the incomplete form to the project group?",
+      "exampleZh": "你能把不完整表格发到项目群吗？",
       "category": "office"
     },
     {
       "word": "missing field",
       "phonetic": "/ˈmɪsɪŋ fiːld/",
       "meaning": "漏填字段",
-      "example": "Please share the missing field after the meeting.",
-      "exampleZh": "会后请分享这个漏填字段。",
+      "example": "The missing field still needs a decision today.",
+      "exampleZh": "这个漏填字段今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "wrong date",
       "phonetic": "/rɒŋ deɪt/",
       "meaning": "日期填错",
-      "example": "The wrong date is ready for review.",
-      "exampleZh": "这个日期填错已经可以审阅了。",
+      "example": "The wrong date still needs a decision today.",
+      "exampleZh": "这个日期填错今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "illegible",
       "phonetic": "/ɪˈledʒəbl/",
       "meaning": "字迹难认的",
-      "example": "Please keep this illegible.",
-      "exampleZh": "请保持字迹难认的。",
+      "example": "The signature is illegible; please write it again.",
+      "exampleZh": "签名看不清，请再写一次。",
       "category": "office"
     },
     {
       "word": "mailbox database",
       "phonetic": "/ˈmeɪlbɒks ˈdeɪtəbeɪs/",
       "meaning": "邮箱数据库",
-      "example": "The mailbox database is in production.",
-      "exampleZh": "这个邮箱数据库已在生产环境。",
+      "example": "Who is on call for the mailbox database this week?",
+      "exampleZh": "这周这个邮箱数据库谁值班？",
       "category": "it"
     },
     {
       "word": "mailbox quota",
       "phonetic": "/ˈmeɪlbɒks ˈkwəʊtə/",
       "meaning": "邮箱配额",
-      "example": "The mailbox quota is in production.",
-      "exampleZh": "这个邮箱配额已在生产环境。",
+      "example": "I logged the mailbox quota in today’s change ticket.",
+      "exampleZh": "我把这个邮箱配额记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "archive mailbox",
       "phonetic": "/ˈɑːkaɪv ˈmeɪlbɒks/",
       "meaning": "归档邮箱",
-      "example": "Please check the archive mailbox.",
-      "exampleZh": "请检查一下这个归档邮箱。",
+      "example": "The vendor asked for a screenshot of the archive mailbox.",
+      "exampleZh": "厂商要一张这个归档邮箱的截图。",
       "category": "it"
     },
     {
       "word": "litigation hold",
       "phonetic": "/ˌlɪtɪˈɡeɪʃn həʊld/",
       "meaning": "诉讼保留",
-      "example": "We need the litigation hold before go-live.",
-      "exampleZh": "上线前我们需要这个诉讼保留。",
+      "example": "I logged the litigation hold in today’s change ticket.",
+      "exampleZh": "我把这个诉讼保留记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "in-place hold",
       "phonetic": "/ɪn pleɪs həʊld/",
       "meaning": "就地保留",
-      "example": "Please review the in-place hold after the patch.",
-      "exampleZh": "打补丁后请审阅这个就地保留。",
+      "example": "The vendor asked for a screenshot of the in-place hold.",
+      "exampleZh": "厂商要一张这个就地保留的截图。",
       "category": "it"
     }
   ]

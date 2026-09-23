@@ -5,80 +5,80 @@
       "word": "facilitate",
       "phonetic": "/fəˈsɪlɪteɪt/",
       "meaning": "促成",
-      "example": "Please facilitate this before noon.",
-      "exampleZh": "请在中午前促成这个。",
+      "example": "We still need to facilitate this.",
+      "exampleZh": "这件事还得促成。",
       "category": "office"
     },
     {
       "word": "prepare",
       "phonetic": "/prɪˈpeə/",
       "meaning": "准备",
-      "example": "I will prepare it after the meeting.",
-      "exampleZh": "会后我会准备它。",
+      "example": "Can you prepare it today?",
+      "exampleZh": "你今天能把它准备吗？",
       "category": "office"
     },
     {
       "word": "arrange",
       "phonetic": "/əˈreɪndʒ/",
       "meaning": "安排",
-      "example": "I updated the arrange this morning.",
-      "exampleZh": "我今天早上更新了这个安排。",
+      "example": "Who will own the arrange this week?",
+      "exampleZh": "这周这个安排谁来负责？",
       "category": "office"
     },
     {
       "word": "organize",
       "phonetic": "/ˈɔːɡənaɪz/",
       "meaning": "组织",
-      "example": "I will organize it after the meeting.",
-      "exampleZh": "会后我会组织它。",
+      "example": "Can you organize it today?",
+      "exampleZh": "你今天能把它组织吗？",
       "category": "office"
     },
     {
       "word": "book",
       "phonetic": "/bʊk/",
       "meaning": "预订",
-      "example": "We need to book this by Friday.",
-      "exampleZh": "我们周五前需要预订这个。",
+      "example": "Who will book this after the huddle?",
+      "exampleZh": "晨会后谁来预订？",
       "category": "office"
     },
     {
       "word": "real-user monitor",
       "phonetic": "/rɪəl ˈjuːzə ˈmɒnɪtə/",
       "meaning": "真实用户监测",
-      "example": "Please check the real-user monitor.",
-      "exampleZh": "请检查一下这个真实用户监测。",
+      "example": "We will verify the real-user monitor after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个真实用户监测。",
       "category": "it"
     },
     {
       "word": "APM",
       "phonetic": "/ˌeɪ piː ˈem/",
-      "meaning": "应用性能监控",
-      "example": "The APM is slow this morning.",
-      "exampleZh": "今天早上 APM 很慢。",
+      "meaning": "应用性能监控（Application Performance Monitoring）",
+      "example": "APM stands for Application Performance Monitoring. Check it before the clinic opens.",
+      "exampleZh": "APM 的全称是 Application Performance Monitoring。开诊前请先检查。",
       "category": "it"
     },
     {
       "word": "trace ID",
       "phonetic": "/treɪs aɪ ˈdiː/",
       "meaning": "追踪编号",
-      "example": "Who supports this trace ID?",
-      "exampleZh": "谁支持这个追踪编号？",
+      "example": "Do not touch the trace ID during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个追踪编号。",
       "category": "it"
     },
     {
       "word": "span",
       "phonetic": "/spæn/",
       "meaning": "调用片段",
-      "example": "Please review the span after the patch.",
-      "exampleZh": "打补丁后请审阅这个调用片段。",
+      "example": "Do not touch the span during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个调用片段。",
       "category": "it"
     },
     {
       "word": "correlation ID",
       "phonetic": "/ˌkɒrəˈleɪʃn aɪ ˈdiː/",
       "meaning": "关联编号",
-      "example": "Please review the correlation ID after the patch.",
-      "exampleZh": "打补丁后请审阅这个关联编号。",
+      "example": "Who is on call for the correlation ID this week?",
+      "exampleZh": "这周这个关联编号谁值班？",
       "category": "it"
     }
   ]

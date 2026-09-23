@@ -45,40 +45,40 @@
       "word": "conditional forwarder",
       "phonetic": "/kənˈdɪʃənl ˈfɔːwədə/",
       "meaning": "条件转发",
-      "example": "The conditional forwarder is in production.",
-      "exampleZh": "这个条件转发已在生产环境。",
+      "example": "Please test the conditional forwarder on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个条件转发。",
       "category": "it"
     },
     {
       "word": "stub zone",
       "phonetic": "/stʌb zəʊn/",
       "meaning": "存根区域",
-      "example": "Who supports this stub zone?",
-      "exampleZh": "谁支持这个存根区域？",
+      "example": "Do not touch the stub zone during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个存根区域。",
       "category": "it"
     },
     {
       "word": "secondary zone",
       "phonetic": "/ˈsekəndri zəʊn/",
       "meaning": "辅助区域",
-      "example": "Please review the secondary zone after the patch.",
-      "exampleZh": "打补丁后请审阅这个辅助区域。",
+      "example": "Please test the secondary zone on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个辅助区域。",
       "category": "it"
     },
     {
       "word": "primary zone",
       "phonetic": "/ˈpraɪməri zəʊn/",
       "meaning": "主要区域",
-      "example": "Who supports this primary zone?",
-      "exampleZh": "谁支持这个主要区域？",
+      "example": "Do not touch the primary zone during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个主要区域。",
       "category": "it"
     },
     {
       "word": "AD-integrated zone",
       "phonetic": "/eɪ ˈdiː ˈɪntɪɡreɪtɪd zəʊn/",
       "meaning": "目录集成区域",
-      "example": "Who supports this AD-integrated zone?",
-      "exampleZh": "谁支持这个目录集成区域？",
+      "example": "The ward asked us to check the AD-integrated zone.",
+      "exampleZh": "病区让我们看一下这个目录集成区域。",
       "category": "it"
     }
   ]

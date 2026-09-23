@@ -5,80 +5,80 @@
       "word": "waiting area",
       "phonetic": "/ˈweɪtɪŋ ˈeəriə/",
       "meaning": "等候区",
-      "example": "Please share the waiting area after the meeting.",
-      "exampleZh": "会后请分享这个等候区。",
+      "example": "Please bring the waiting area to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个等候区。",
       "category": "office"
     },
     {
       "word": "reception log",
       "phonetic": "/rɪˈsepʃn lɒɡ/",
       "meaning": "接待登记",
-      "example": "Who is handling the reception log?",
-      "exampleZh": "谁在处理这个接待登记？",
+      "example": "Please add the reception log to today’s notes.",
+      "exampleZh": "请把接待登记写进今天的记录。",
       "category": "office"
     },
     {
       "word": "visitor log",
       "phonetic": "/ˈvɪzɪtə lɒɡ/",
       "meaning": "访客登记",
-      "example": "Please share the visitor log after the meeting.",
-      "exampleZh": "会后请分享这个访客登记。",
+      "example": "Please bring the visitor log to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个访客登记。",
       "category": "office"
     },
     {
       "word": "badge return",
       "phonetic": "/bædʒ rɪˈtɜːn/",
       "meaning": "工牌归还",
-      "example": "The badge return is ready for review.",
-      "exampleZh": "这个工牌归还已经可以审阅了。",
+      "example": "Who will own the badge return this week?",
+      "exampleZh": "这周这个工牌归还谁来负责？",
       "category": "office"
     },
     {
       "word": "key register",
       "phonetic": "/kiː ˈredʒɪstə/",
       "meaning": "钥匙登记",
-      "example": "Please share the key register after the meeting.",
-      "exampleZh": "会后请分享这个钥匙登记。",
+      "example": "We talked about the key register with the department head.",
+      "exampleZh": "我们和科主任谈了这个钥匙登记。",
       "category": "office"
     },
     {
       "word": "cumulative update",
       "phonetic": "/ˈkjuːmjələtɪv ˌʌpˈdeɪt/",
       "meaning": "累积更新",
-      "example": "The cumulative update is in production.",
-      "exampleZh": "这个累积更新已在生产环境。",
+      "example": "The ward asked us to check the cumulative update.",
+      "exampleZh": "病区让我们看一下这个累积更新。",
       "category": "it"
     },
     {
       "word": "security bulletin",
       "phonetic": "/sɪˈkjʊərəti ˈbʊlətɪn/",
       "meaning": "安全公告",
-      "example": "Please review the security bulletin after the patch.",
-      "exampleZh": "打补丁后请审阅这个安全公告。",
+      "example": "Who is on call for the security bulletin this week?",
+      "exampleZh": "这周这个安全公告谁值班？",
       "category": "it"
     },
     {
       "word": "KB number",
       "phonetic": "/keɪ ˈbiː ˈnʌmbə/",
       "meaning": "知识库编号",
-      "example": "Please review the KB number after the patch.",
-      "exampleZh": "打补丁后请审阅这个知识库编号。",
+      "example": "I logged the KB number in today’s change ticket.",
+      "exampleZh": "我把这个知识库编号记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "reboot pending",
       "phonetic": "/ˌriːˈbuːt ˈpendɪŋ/",
       "meaning": "等待重启",
-      "example": "Please check the reboot pending.",
-      "exampleZh": "请检查一下这个等待重启。",
+      "example": "Do not touch the reboot pending during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个等待重启。",
       "category": "it"
     },
     {
       "word": "pending reboot",
       "phonetic": "/ˈpendɪŋ ˌriːˈbuːt/",
       "meaning": "待重启",
-      "example": "The pending reboot is in production.",
-      "exampleZh": "这个待重启已在生产环境。",
+      "example": "Please test the pending reboot on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个待重启。",
       "category": "it"
     }
   ]

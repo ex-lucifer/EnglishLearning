@@ -5,80 +5,80 @@
       "word": "kickoff",
       "phonetic": "/ˈkɪkɒf/",
       "meaning": "启动会",
-      "example": "I updated the kickoff this morning.",
-      "exampleZh": "我今天早上更新了这个启动会。",
+      "example": "Please bring the kickoff to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个启动会。",
       "category": "office"
     },
     {
       "word": "wrap-up",
       "phonetic": "/ˈræp ʌp/",
       "meaning": "收尾",
-      "example": "I updated the wrap-up this morning.",
-      "exampleZh": "我今天早上更新了这个收尾。",
+      "example": "We talked about the wrap-up with the department head.",
+      "exampleZh": "我们和科主任谈了这个收尾。",
       "category": "office"
     },
     {
       "word": "recap",
       "phonetic": "/ˈriːkæp/",
       "meaning": "回顾摘要",
-      "example": "Who is handling the recap?",
-      "exampleZh": "谁在处理这个回顾摘要？",
+      "example": "The recap still needs a decision today.",
+      "exampleZh": "这个回顾摘要今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "takeaway",
       "phonetic": "/ˈteɪkəweɪ/",
       "meaning": "会议要点",
-      "example": "The takeaway is ready for review.",
-      "exampleZh": "这个会议要点已经可以审阅了。",
+      "example": "I put the takeaway on the shared drive.",
+      "exampleZh": "我把会议要点放到了共享盘。",
       "category": "office"
     },
     {
       "word": "action item",
       "phonetic": "/ˈækʃn ˈaɪtəm/",
       "meaning": "待办事项",
-      "example": "I updated the action item this morning.",
-      "exampleZh": "我今天早上更新了这个待办事项。",
+      "example": "The action item still needs a decision today.",
+      "exampleZh": "这个待办事项今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "CPOE",
       "phonetic": "/ˌsiː pəʊ ˈiː/",
-      "meaning": "医嘱录入",
-      "example": "The CPOE is slow this morning.",
-      "exampleZh": "今天早上 CPOE 很慢。",
+      "meaning": "医嘱录入（Computerized Physician Order Entry）",
+      "example": "Please write CPOE in full — Computerized Physician Order Entry — on the change form.",
+      "exampleZh": "变更单上请写全称：CPOE（Computerized Physician Order Entry）。",
       "category": "it"
     },
     {
       "word": "CDSS",
       "phonetic": "/ˌsiː diː es ˈes/",
-      "meaning": "临床决策支持",
-      "example": "The CDSS is slow this morning.",
-      "exampleZh": "今天早上 CDSS 很慢。",
+      "meaning": "临床决策支持（Clinical Decision Support System）",
+      "example": "CDSS stands for Clinical Decision Support System. Check it before the clinic opens.",
+      "exampleZh": "CDSS 的全称是 Clinical Decision Support System。开诊前请先检查。",
       "category": "it"
     },
     {
       "word": "ADT",
       "phonetic": "/ˌeɪ diː ˈtiː/",
-      "meaning": "出入院转科",
-      "example": "The ADT is slow this morning.",
-      "exampleZh": "今天早上 ADT 很慢。",
+      "meaning": "出入院转科（Admit Discharge Transfer）",
+      "example": "Do not restart ADT (Admit Discharge Transfer) during morning rounds.",
+      "exampleZh": "早交班时段不要重启 ADT（Admit Discharge Transfer）。",
       "category": "it"
     },
     {
       "word": "MPI",
       "phonetic": "/ˌem piː ˈaɪ/",
-      "meaning": "主患者索引",
-      "example": "The MPI is slow this morning.",
-      "exampleZh": "今天早上 MPI 很慢。",
+      "meaning": "主患者索引（Master Patient Index）",
+      "example": "We tested MPI (Master Patient Index) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 MPI（Master Patient Index）。",
       "category": "it"
     },
     {
       "word": "EHR",
       "phonetic": "/ˌiː eɪtʃ ˈɑː/",
-      "meaning": "电子健康档案",
-      "example": "The EHR is slow this morning.",
-      "exampleZh": "今天早上 EHR 很慢。",
+      "meaning": "电子健康档案（Electronic Health Record）",
+      "example": "Do not restart EHR (Electronic Health Record) during morning rounds.",
+      "exampleZh": "早交班时段不要重启 EHR（Electronic Health Record）。",
       "category": "it"
     }
   ]

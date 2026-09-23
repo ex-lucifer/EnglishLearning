@@ -4,81 +4,81 @@
     {
       "word": "POC",
       "phonetic": "/ˌpiː əʊ ˈsiː/",
-      "meaning": "对接人",
-      "example": "Please put POC on the email.",
-      "exampleZh": "请在邮件里注明 POC。",
+      "meaning": "对接人（Point of Contact）",
+      "example": "Who is the POC (point of contact) for this vendor?",
+      "exampleZh": "这个厂商的 POC（对接人）是谁？",
       "category": "office"
     },
     {
       "word": "SME",
       "phonetic": "/ˌes em ˈiː/",
-      "meaning": "业务专家",
-      "example": "Please put SME on the email.",
-      "exampleZh": "请在邮件里注明 SME。",
+      "meaning": "业务专家（Subject Matter Expert）",
+      "example": "Please ask the SME (subject matter expert) before we change the form.",
+      "exampleZh": "改表前请先问 SME（业务专家）。",
       "category": "office"
     },
     {
       "word": "PMO",
       "phonetic": "/ˌpiː em ˈəʊ/",
-      "meaning": "项目管理办公室",
-      "example": "Please put PMO on the email.",
-      "exampleZh": "请在邮件里注明 PMO。",
+      "meaning": "项目管理办公室（Project Management Office）",
+      "example": "Send the timeline to the PMO (project management office).",
+      "exampleZh": "请把时间线发给 PMO（项目管理办公室）。",
       "category": "office"
     },
     {
       "word": "SLA",
       "phonetic": "/ˌes el ˈeɪ/",
-      "meaning": "服务级别协议",
-      "example": "Please put SLA on the email.",
-      "exampleZh": "请在邮件里注明 SLA。",
+      "meaning": "服务级别协议（Service Level Agreement）",
+      "example": "This ticket has already missed the SLA (service level agreement).",
+      "exampleZh": "这张工单已经超了 SLA（服务级别协议）。",
       "category": "office"
     },
     {
       "word": "OLA",
       "phonetic": "/ˌəʊ el ˈeɪ/",
-      "meaning": "运营级别协议",
-      "example": "Please put OLA on the email.",
-      "exampleZh": "请在邮件里注明 OLA。",
+      "meaning": "运营级别协议（Operational Level Agreement）",
+      "example": "The OLA (operational level agreement) with the lab is two hours.",
+      "exampleZh": "和检验科的 OLA（运营级别协议）是两小时。",
       "category": "office"
     },
     {
       "word": "seccomp",
       "phonetic": "/ˈsekkɒmp/",
       "meaning": "系统调用过滤",
-      "example": "The seccomp is in production.",
-      "exampleZh": "这个系统调用过滤已在生产环境。",
+      "example": "Do not touch the seccomp during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个系统调用过滤。",
       "category": "it"
     },
     {
       "word": "AppArmor",
       "phonetic": "/ˈæpəmɔː/",
       "meaning": "应用防护",
-      "example": "The AppArmor is in production.",
-      "exampleZh": "这个应用防护已在生产环境。",
+      "example": "The vendor asked for a screenshot of the AppArmor.",
+      "exampleZh": "厂商要一张这个应用防护的截图。",
       "category": "it"
     },
     {
       "word": "SELinux",
       "phonetic": "/ˌes iː ˈlɪnəks/",
       "meaning": "强制访问控制",
-      "example": "Who supports this SELinux?",
-      "exampleZh": "谁支持这个强制访问控制？",
+      "example": "Please test the SELinux on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个强制访问控制。",
       "category": "it"
     },
     {
       "word": "capabilities",
       "phonetic": "/ˌkeɪpəˈbɪlətiz/",
       "meaning": "权限能力",
-      "example": "Please review the capabilities after the patch.",
-      "exampleZh": "打补丁后请审阅这个权限能力。",
+      "example": "Do not touch the capabilities during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个权限能力。",
       "category": "it"
     },
     {
       "word": "sysctl",
       "phonetic": "/ˈsɪskəntəʊl/",
       "meaning": "内核参数",
-      "example": "Please review the sysctl after the patch.",
-      "exampleZh": "打补丁后请审阅这个内核参数。",
+      "example": "Do not touch the sysctl during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个内核参数。",
       "category": "it"
     }
   ]

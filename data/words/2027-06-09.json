@@ -5,80 +5,80 @@
       "word": "room booking",
       "phonetic": "/ruːm ˈbʊkɪŋ/",
       "meaning": "会议室预订",
-      "example": "Please review the room booking.",
-      "exampleZh": "请审阅一下这个会议室预订。",
+      "example": "I put the room booking on the shared drive.",
+      "exampleZh": "我把会议室预订放到了共享盘。",
       "category": "office"
     },
     {
       "word": "room conflict",
       "phonetic": "/ruːm ˈkɒnflɪkt/",
       "meaning": "会议室冲突",
-      "example": "Who is handling the room conflict?",
-      "exampleZh": "谁在处理这个会议室冲突？",
+      "example": "We talked about the room conflict with the department head.",
+      "exampleZh": "我们和科主任谈了这个会议室冲突。",
       "category": "office"
     },
     {
       "word": "double booking",
       "phonetic": "/ˈdʌbl ˈbʊkɪŋ/",
       "meaning": "重复预订",
-      "example": "The double booking is ready for review.",
-      "exampleZh": "这个重复预订已经可以审阅了。",
+      "example": "We talked about the double booking with the department head.",
+      "exampleZh": "我们和科主任谈了这个重复预订。",
       "category": "office"
     },
     {
       "word": "no-show meeting",
       "phonetic": "/nəʊ ʃəʊ ˈmiːtɪŋ/",
       "meaning": "无人到会",
-      "example": "Please share the no-show meeting after the meeting.",
-      "exampleZh": "会后请分享这个无人到会。",
+      "example": "I put the no-show meeting on the shared drive.",
+      "exampleZh": "我把无人到会放到了共享盘。",
       "category": "office"
     },
     {
       "word": "empty room",
       "phonetic": "/ˈempti ruːm/",
       "meaning": "空会议室",
-      "example": "Who is handling the empty room?",
-      "exampleZh": "谁在处理这个空会议室？",
+      "example": "Could you send the empty room to the project group?",
+      "exampleZh": "你能把空会议室发到项目群吗？",
       "category": "office"
     },
     {
       "word": "WUAgent",
       "phonetic": "/ˈdʌbljuː juː ˈeɪdʒənt/",
       "meaning": "更新代理",
-      "example": "Please review the WUAgent after the patch.",
-      "exampleZh": "打补丁后请审阅这个更新代理。",
+      "example": "We will verify the WUAgent after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个更新代理。",
       "category": "it"
     },
     {
       "word": "WSUS",
       "phonetic": "/ˈwɪsəs/",
-      "meaning": "补丁分发服务器",
-      "example": "The WSUS is slow this morning.",
-      "exampleZh": "今天早上 WSUS 很慢。",
+      "meaning": "补丁分发服务器（Windows Server Update Services）",
+      "example": "Do not restart WSUS (Windows Server Update Services) during morning rounds.",
+      "exampleZh": "早交班时段不要重启 WSUS（Windows Server Update Services）。",
       "category": "it"
     },
     {
       "word": "catalog file",
       "phonetic": "/ˈkætəlɒɡ faɪl/",
       "meaning": "目录文件",
-      "example": "We need the catalog file before go-live.",
-      "exampleZh": "上线前我们需要这个目录文件。",
+      "example": "I logged the catalog file in today’s change ticket.",
+      "exampleZh": "我把这个目录文件记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "offline patch",
       "phonetic": "/ˈɒflaɪn pætʃ/",
       "meaning": "离线补丁",
-      "example": "Please check the offline patch.",
-      "exampleZh": "请检查一下这个离线补丁。",
+      "example": "I logged the offline patch in today’s change ticket.",
+      "exampleZh": "我把这个离线补丁记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "online update",
       "phonetic": "/ˈɒnlaɪn ˌʌpˈdeɪt/",
       "meaning": "在线更新",
-      "example": "Please review the online update after the patch.",
-      "exampleZh": "打补丁后请审阅这个在线更新。",
+      "example": "Who is on call for the online update this week?",
+      "exampleZh": "这周这个在线更新谁值班？",
       "category": "it"
     }
   ]

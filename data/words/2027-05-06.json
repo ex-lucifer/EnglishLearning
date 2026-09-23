@@ -45,40 +45,40 @@
       "word": "volume mount",
       "phonetic": "/ˈvɒljuːm maʊnt/",
       "meaning": "卷挂载",
-      "example": "Please check the volume mount.",
-      "exampleZh": "请检查一下这个卷挂载。",
+      "example": "I logged the volume mount in today’s change ticket.",
+      "exampleZh": "我把这个卷挂载记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "persistent volume",
       "phonetic": "/pəˈsɪstənt ˈvɒljuːm/",
       "meaning": "持久卷",
-      "example": "Please review the persistent volume after the patch.",
-      "exampleZh": "打补丁后请审阅这个持久卷。",
+      "example": "We will verify the persistent volume after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个持久卷。",
       "category": "it"
     },
     {
       "word": "storage class",
       "phonetic": "/ˈstɔːrɪdʒ klɑːs/",
       "meaning": "存储类",
-      "example": "Please check the storage class.",
-      "exampleZh": "请检查一下这个存储类。",
+      "example": "Please test the storage class on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个存储类。",
       "category": "it"
     },
     {
       "word": "node pool",
       "phonetic": "/nəʊd puːl/",
       "meaning": "节点池",
-      "example": "Please check the node pool.",
-      "exampleZh": "请检查一下这个节点池。",
+      "example": "I logged the node pool in today’s change ticket.",
+      "exampleZh": "我把这个节点池记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "cluster",
       "phonetic": "/ˈklʌstə/",
       "meaning": "集群",
-      "example": "Please review the cluster after the patch.",
-      "exampleZh": "打补丁后请审阅这个集群。",
+      "example": "The ward asked us to check the cluster.",
+      "exampleZh": "病区让我们看一下这个集群。",
       "category": "it"
     }
   ]

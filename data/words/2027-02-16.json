@@ -5,80 +5,80 @@
       "word": "debrief",
       "phonetic": "/ˌdiːˈbriːf/",
       "meaning": "复盘",
-      "example": "Please debrief this before noon.",
-      "exampleZh": "请在中午前复盘这个。",
+      "example": "Who will debrief this after the huddle?",
+      "exampleZh": "晨会后谁来复盘？",
       "category": "office"
     },
     {
       "word": "summarize",
       "phonetic": "/ˈsʌməraɪz/",
       "meaning": "总结",
-      "example": "Please summarize this before noon.",
-      "exampleZh": "请在中午前总结这个。",
+      "example": "Who will summarize this after the huddle?",
+      "exampleZh": "晨会后谁来总结？",
       "category": "office"
     },
     {
       "word": "highlight",
       "phonetic": "/ˈhaɪlaɪt/",
       "meaning": "标出重点",
-      "example": "Can you highlight it today?",
-      "exampleZh": "你今天能标出重点一下吗？",
+      "example": "We still need to highlight this.",
+      "exampleZh": "这件事还得标出重点。",
       "category": "office"
     },
     {
       "word": "emphasize",
       "phonetic": "/ˈemfəsaɪz/",
       "meaning": "强调",
-      "example": "I will emphasize it after the meeting.",
-      "exampleZh": "会后我会强调它。",
+      "example": "Please emphasize this before you leave.",
+      "exampleZh": "走之前请把这件事强调。",
       "category": "office"
     },
     {
       "word": "compile",
       "phonetic": "/kəmˈpaɪl/",
       "meaning": "汇总",
-      "example": "Let's compile this first.",
-      "exampleZh": "我们先汇总这个吧。",
+      "example": "Can you compile it today?",
+      "exampleZh": "你今天能把它汇总吗？",
       "category": "office"
     },
     {
       "word": "kernel",
       "phonetic": "/ˈkɜːnl/",
       "meaning": "内核",
-      "example": "We need the kernel before go-live.",
-      "exampleZh": "上线前我们需要这个内核。",
+      "example": "The vendor asked for a screenshot of the kernel.",
+      "exampleZh": "厂商要一张这个内核的截图。",
       "category": "it"
     },
     {
       "word": "patch Tuesday",
       "phonetic": "/pætʃ ˈtjuːzdeɪ/",
       "meaning": "补丁日",
-      "example": "Please review the patch Tuesday after the patch.",
-      "exampleZh": "打补丁后请审阅这个补丁日。",
+      "example": "The ward asked us to check the patch Tuesday.",
+      "exampleZh": "病区让我们看一下这个补丁日。",
       "category": "it"
     },
     {
       "word": "reboot window",
       "phonetic": "/ˌriːˈbuːt ˈwɪndəʊ/",
       "meaning": "重启窗口",
-      "example": "We need the reboot window before go-live.",
-      "exampleZh": "上线前我们需要这个重启窗口。",
+      "example": "Who is on call for the reboot window this week?",
+      "exampleZh": "这周这个重启窗口谁值班？",
       "category": "it"
     },
     {
       "word": "change advisory",
       "phonetic": "/tʃeɪndʒ ədˈvaɪzəri/",
       "meaning": "变更评审",
-      "example": "Please check the change advisory.",
-      "exampleZh": "请检查一下这个变更评审。",
+      "example": "The ward asked us to check the change advisory.",
+      "exampleZh": "病区让我们看一下这个变更评审。",
       "category": "it"
     },
     {
       "word": "CAB",
       "phonetic": "/kæb/",
-      "meaning": "变更顾问委员会",
-      "example": "The CAB is slow this morning.",
-      "exampleZh": "今天早上 CAB 很慢。",
+      "meaning": "变更顾问委员会（Change Advisory Board）",
+      "example": "Escalate to the CAB (Change Advisory Board) if it is still stuck.",
+      "exampleZh": "还卡住的话，升级给 CAB（Change Advisory Board）。",
       "category": "it"
     }
   ]

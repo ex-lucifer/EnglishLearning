@@ -44,41 +44,41 @@
     {
       "word": "AXFR",
       "phonetic": "/ˌeɪ eks ef ˈɑː/",
-      "meaning": "全量区域传送",
-      "example": "The AXFR is slow this morning.",
-      "exampleZh": "今天早上 AXFR 很慢。",
+      "meaning": "全量区域传送（Authoritative Zone Transfer）",
+      "example": "Document AXFR (Authoritative Zone Transfer) in the interface spec.",
+      "exampleZh": "接口说明里请写上 AXFR（Authoritative Zone Transfer）。",
       "category": "it"
     },
     {
       "word": "IXFR",
       "phonetic": "/ˌaɪ eks ef ˈɑː/",
-      "meaning": "增量区域传送",
-      "example": "The IXFR is slow this morning.",
-      "exampleZh": "今天早上 IXFR 很慢。",
+      "meaning": "增量区域传送（Incremental Zone Transfer）",
+      "example": "Document IXFR (Incremental Zone Transfer) in the interface spec.",
+      "exampleZh": "接口说明里请写上 IXFR（Incremental Zone Transfer）。",
       "category": "it"
     },
     {
       "word": "DNS notify",
       "phonetic": "/ˌdiː en ˈes ˈnəʊtɪfaɪ/",
       "meaning": "区域变更通知",
-      "example": "Who supports this DNS notify?",
-      "exampleZh": "谁支持这个区域变更通知？",
+      "example": "Please test the DNS notify on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个区域变更通知。",
       "category": "it"
     },
     {
       "word": "TSIG",
       "phonetic": "/ˈtiːsɪɡ/",
-      "meaning": "事务签名",
-      "example": "The TSIG is slow this morning.",
-      "exampleZh": "今天早上 TSIG 很慢。",
+      "meaning": "事务签名（Transaction Signature）",
+      "example": "Enable TSIG (Transaction Signature) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 TSIG（Transaction Signature）。",
       "category": "it"
     },
     {
       "word": "DNSSEC",
       "phonetic": "/ˈdɪnsek/",
-      "meaning": "域名安全扩展",
-      "example": "The DNSSEC is slow this morning.",
-      "exampleZh": "今天早上 DNSSEC 很慢。",
+      "meaning": "域名安全扩展（Domain Name System Security Extensions）",
+      "example": "Please confirm DNSSEC (Domain Name System Security Extensions) is allowed through the firewall.",
+      "exampleZh": "请确认防火墙放行 DNSSEC（Domain Name System Security Extensions）。",
       "category": "it"
     }
   ]

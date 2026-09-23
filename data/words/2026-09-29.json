@@ -5,80 +5,80 @@
       "word": "notice",
       "phonetic": "/ˈnəʊtɪs/",
       "meaning": "通告",
-      "example": "The notice is ready for review.",
-      "exampleZh": "这个通告已经可以审阅了。",
+      "example": "I put the notice on the shared drive.",
+      "exampleZh": "我把通告放到了共享盘。",
       "category": "office"
     },
     {
       "word": "circular",
       "phonetic": "/ˈsɜːkjələ/",
       "meaning": "传阅文件",
-      "example": "The circular is ready for review.",
-      "exampleZh": "这个传阅文件已经可以审阅了。",
+      "example": "Could you send the circular to the project group?",
+      "exampleZh": "你能把传阅文件发到项目群吗？",
       "category": "office"
     },
     {
       "word": "newsletter",
       "phonetic": "/ˈnjuːzletə/",
       "meaning": "简讯",
-      "example": "Who is handling the newsletter?",
-      "exampleZh": "谁在处理这个简讯？",
+      "example": "I put the newsletter on the shared drive.",
+      "exampleZh": "我把简讯放到了共享盘。",
       "category": "office"
     },
     {
       "word": "one-pager",
       "phonetic": "/wʌn ˈpeɪdʒə/",
       "meaning": "一页摘要",
-      "example": "I updated the one-pager this morning.",
-      "exampleZh": "我今天早上更新了这个一页摘要。",
+      "example": "Please bring the one-pager to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个一页摘要。",
       "category": "office"
     },
     {
       "word": "slide deck",
       "phonetic": "/slaɪd dek/",
       "meaning": "幻灯片稿",
-      "example": "Who is handling the slide deck?",
-      "exampleZh": "谁在处理这个幻灯片稿？",
+      "example": "Who will own the slide deck this week?",
+      "exampleZh": "这周这个幻灯片稿谁来负责？",
       "category": "office"
     },
     {
       "word": "asset tracking",
       "phonetic": "/ˈæset ˈtrækɪŋ/",
       "meaning": "资产定位",
-      "example": "We need the asset tracking before go-live.",
-      "exampleZh": "上线前我们需要这个资产定位。",
+      "example": "I logged the asset tracking in today’s change ticket.",
+      "exampleZh": "我把这个资产定位记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "CMMS",
       "phonetic": "/ˌsiː em em ˈes/",
-      "meaning": "设备维修系统",
-      "example": "The CMMS is slow this morning.",
-      "exampleZh": "今天早上 CMMS 很慢。",
+      "meaning": "设备维修系统（Computerized Maintenance Management System）",
+      "example": "The ward called because CMMS (Computerized Maintenance Management System) would not open.",
+      "exampleZh": "病区来电，说 CMMS（Computerized Maintenance Management System）打不开。",
       "category": "it"
     },
     {
       "word": "lab analyzer",
       "phonetic": "/læb ˈænəlaɪzə/",
       "meaning": "检验分析仪",
-      "example": "Please review the lab analyzer after the patch.",
-      "exampleZh": "打补丁后请审阅这个检验分析仪。",
+      "example": "Please test the lab analyzer on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个检验分析仪。",
       "category": "it"
     },
     {
       "word": "integration engine",
       "phonetic": "/ˌɪntɪˈɡreɪʃn ˈendʒɪn/",
       "meaning": "集成引擎",
-      "example": "We need the integration engine before go-live.",
-      "exampleZh": "上线前我们需要这个集成引擎。",
+      "example": "We will verify the integration engine after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个集成引擎。",
       "category": "it"
     },
     {
       "word": "ADT feed",
       "phonetic": "/ˌeɪ diː ˈtiː fiːd/",
-      "meaning": "出入院消息流",
-      "example": "Who supports this ADT feed?",
-      "exampleZh": "谁支持这个出入院消息流？",
+      "meaning": "出入院消息流（Admit Discharge Transfer）",
+      "example": "We will verify the ADT feed after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个出入院消息流。",
       "category": "it"
     }
   ]

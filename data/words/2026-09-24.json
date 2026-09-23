@@ -5,80 +5,80 @@
       "word": "decline",
       "phonetic": "/dɪˈklaɪn/",
       "meaning": "拒绝",
-      "example": "I will decline it after the meeting.",
-      "exampleZh": "会后我会拒绝它。",
+      "example": "I will decline the overlapping invite and keep the change window.",
+      "exampleZh": "这个冲突的邀请我会拒绝，先保住变更窗口。",
       "category": "office"
     },
     {
       "word": "accept",
       "phonetic": "/əkˈsept/",
       "meaning": "接受",
-      "example": "Let's accept this first.",
-      "exampleZh": "我们先接受这个吧。",
+      "example": "Please accept the meeting if you can join the walkthrough.",
+      "exampleZh": "如果能参加走查，请接受这个会议邀请。",
       "category": "office"
     },
     {
       "word": "tentative",
       "phonetic": "/ˈtentətɪv/",
       "meaning": "暂定的",
-      "example": "The timeline looks tentative.",
-      "exampleZh": "时间看起来暂定的。",
+      "example": "Mark Friday as tentative until the director confirms.",
+      "exampleZh": "主任确认前，周五先标成暂定。",
       "category": "office"
     },
     {
       "word": "availability",
       "phonetic": "/əˌveɪləˈbɪləti/",
       "meaning": "可出席时间",
-      "example": "The availability is ready for review.",
-      "exampleZh": "这个可出席时间已经可以审阅了。",
+      "example": "We talked about the availability with the department head.",
+      "exampleZh": "我们和科主任谈了这个可出席时间。",
       "category": "office"
     },
     {
       "word": "reschedule",
       "phonetic": "/ˌriːˈʃedjuːl/",
       "meaning": "改期",
-      "example": "We need to reschedule this by Friday.",
-      "exampleZh": "我们周五前需要改期这个。",
+      "example": "We need to reschedule the drill because the ward is busy.",
+      "exampleZh": "病区正忙，演练需要改期。",
       "category": "office"
     },
     {
       "word": "modality",
       "phonetic": "/məʊˈdæləti/",
       "meaning": "检查设备类型",
-      "example": "We need the modality before go-live.",
-      "exampleZh": "上线前我们需要这个检查设备类型。",
+      "example": "Please test the modality on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个检查设备类型。",
       "category": "it"
     },
     {
       "word": "PACS archive",
       "phonetic": "/pæks ˈɑːkaɪv/",
-      "meaning": "影像归档",
-      "example": "Who supports this PACS archive?",
-      "exampleZh": "谁支持这个影像归档？",
+      "meaning": "影像归档（Picture Archiving and Communication System）",
+      "example": "I logged the PACS archive in today’s change ticket.",
+      "exampleZh": "我把这个影像归档记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "diagnostic workstation",
       "phonetic": "/ˌdaɪəɡˈnɒstɪk ˈwɜːksteɪʃn/",
       "meaning": "诊断工作站",
-      "example": "Please review the diagnostic workstation after the patch.",
-      "exampleZh": "打补丁后请审阅这个诊断工作站。",
+      "example": "I logged the diagnostic workstation in today’s change ticket.",
+      "exampleZh": "我把这个诊断工作站记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "clinical workstation",
       "phonetic": "/ˈklɪnɪkl ˈwɜːksteɪʃn/",
       "meaning": "临床工作站",
-      "example": "Who supports this clinical workstation?",
-      "exampleZh": "谁支持这个临床工作站？",
+      "example": "Please test the clinical workstation on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个临床工作站。",
       "category": "it"
     },
     {
       "word": "nurse call",
       "phonetic": "/nɜːs kɔːl/",
       "meaning": "护士呼叫",
-      "example": "Who supports this nurse call?",
-      "exampleZh": "谁支持这个护士呼叫？",
+      "example": "I logged the nurse call in today’s change ticket.",
+      "exampleZh": "我把这个护士呼叫记进了今天的变更单。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "counterpart",
       "phonetic": "/ˈkaʊntəpɑːt/",
       "meaning": "对口同事",
-      "example": "Please review the counterpart.",
-      "exampleZh": "请审阅一下这个对口同事。",
+      "example": "Who will own the counterpart this week?",
+      "exampleZh": "这周这个对口同事谁来负责？",
       "category": "office"
     },
     {
       "word": "colleague",
       "phonetic": "/ˈkɒliːɡ/",
       "meaning": "同事",
-      "example": "The colleague is ready for review.",
-      "exampleZh": "这个同事已经可以审阅了。",
+      "example": "Please bring the colleague to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个同事。",
       "category": "office"
     },
     {
       "word": "supervisor",
       "phonetic": "/ˈsuːpəvaɪzə/",
       "meaning": "上级主管",
-      "example": "Please review the supervisor.",
-      "exampleZh": "请审阅一下这个上级主管。",
+      "example": "I put the supervisor on the shared drive.",
+      "exampleZh": "我把上级主管放到了共享盘。",
       "category": "office"
     },
     {
       "word": "manager",
       "phonetic": "/ˈmænɪdʒə/",
       "meaning": "经理",
-      "example": "Who is handling the manager?",
-      "exampleZh": "谁在处理这个经理？",
+      "example": "Who will own the manager this week?",
+      "exampleZh": "这周这个经理谁来负责？",
       "category": "office"
     },
     {
       "word": "team lead",
       "phonetic": "/tiːm liːd/",
       "meaning": "组长",
-      "example": "Please share the team lead after the meeting.",
-      "exampleZh": "会后请分享这个组长。",
+      "example": "We talked about the team lead with the department head.",
+      "exampleZh": "我们和科主任谈了这个组长。",
       "category": "office"
     },
     {
       "word": "Bluetooth",
       "phonetic": "/ˈbluːtuːθ/",
       "meaning": "蓝牙",
-      "example": "Who supports this Bluetooth?",
-      "exampleZh": "谁支持这个蓝牙？",
+      "example": "I logged the Bluetooth in today’s change ticket.",
+      "exampleZh": "我把这个蓝牙记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "VPN client",
       "phonetic": "/ˌviː piː ˈen ˈklaɪənt/",
       "meaning": "虚拟专网客户端",
-      "example": "Please check the VPN client.",
-      "exampleZh": "请检查一下这个虚拟专网客户端。",
+      "example": "I logged the VPN client in today’s change ticket.",
+      "exampleZh": "我把这个虚拟专网客户端记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "split tunnel",
       "phonetic": "/splɪt ˈtʌnl/",
       "meaning": "分流隧道",
-      "example": "Please check the split tunnel.",
-      "exampleZh": "请检查一下这个分流隧道。",
+      "example": "The vendor asked for a screenshot of the split tunnel.",
+      "exampleZh": "厂商要一张这个分流隧道的截图。",
       "category": "it"
     },
     {
       "word": "full tunnel",
       "phonetic": "/fʊl ˈtʌnl/",
       "meaning": "全流量隧道",
-      "example": "Please check the full tunnel.",
-      "exampleZh": "请检查一下这个全流量隧道。",
+      "example": "Do not touch the full tunnel during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个全流量隧道。",
       "category": "it"
     },
     {
       "word": "MFA prompt",
       "phonetic": "/ˌem ef ˈeɪ prɒmpt/",
-      "meaning": "二次验证提示",
-      "example": "We need the MFA prompt before go-live.",
-      "exampleZh": "上线前我们需要这个二次验证提示。",
+      "meaning": "二次验证提示（Multi-Factor Authentication）",
+      "example": "Do not touch the MFA prompt during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个二次验证提示。",
       "category": "it"
     }
   ]

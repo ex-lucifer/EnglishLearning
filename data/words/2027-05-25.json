@@ -5,48 +5,48 @@
       "word": "steering committee",
       "phonetic": "/ˈstɪərɪŋ kəˈmɪti/",
       "meaning": "指导委员会",
-      "example": "Please share the steering committee after the meeting.",
-      "exampleZh": "会后请分享这个指导委员会。",
+      "example": "The steering committee still needs a decision today.",
+      "exampleZh": "这个指导委员会今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "working group",
       "phonetic": "/ˈwɜːkɪŋ ɡruːp/",
       "meaning": "工作组",
-      "example": "Who is handling the working group?",
-      "exampleZh": "谁在处理这个工作组？",
+      "example": "The working group still needs a decision today.",
+      "exampleZh": "这个工作组今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "task force",
       "phonetic": "/tɑːsk fɔːs/",
       "meaning": "专项组",
-      "example": "Who is handling the task force?",
-      "exampleZh": "谁在处理这个专项组？",
+      "example": "Could you send the task force to the project group?",
+      "exampleZh": "你能把专项组发到项目群吗？",
       "category": "office"
     },
     {
       "word": "committee",
       "phonetic": "/kəˈmɪti/",
       "meaning": "委员会",
-      "example": "Please share the committee after the meeting.",
-      "exampleZh": "会后请分享这个委员会。",
+      "example": "Please bring the committee to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个委员会。",
       "category": "office"
     },
     {
       "word": "subcommittee",
       "phonetic": "/ˈsʌbkəmɪti/",
       "meaning": "分委会",
-      "example": "I updated the subcommittee this morning.",
-      "exampleZh": "我今天早上更新了这个分委会。",
+      "example": "I put the subcommittee on the shared drive.",
+      "exampleZh": "我把分委会放到了共享盘。",
       "category": "office"
     },
     {
       "word": "password expired",
       "phonetic": "/ˈpɑːswɜːd ɪkˈspaɪəd/",
       "meaning": "密码已过期",
-      "example": "We need the password expired before go-live.",
-      "exampleZh": "上线前我们需要这个密码已过期。",
+      "example": "Do not touch the password expired during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个密码已过期。",
       "category": "it"
     },
     {
@@ -69,16 +69,16 @@
       "word": "complex password",
       "phonetic": "/ˈkɒmpleks ˈpɑːswɜːd/",
       "meaning": "复杂密码",
-      "example": "Please check the complex password.",
-      "exampleZh": "请检查一下这个复杂密码。",
+      "example": "We will verify the complex password after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个复杂密码。",
       "category": "it"
     },
     {
       "word": "passphrase",
       "phonetic": "/ˈpɑːsfreɪz/",
       "meaning": "密码短语",
-      "example": "The passphrase is in production.",
-      "exampleZh": "这个密码短语已在生产环境。",
+      "example": "Please test the passphrase on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个密码短语。",
       "category": "it"
     }
   ]

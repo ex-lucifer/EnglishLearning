@@ -5,80 +5,80 @@
       "word": "cost center",
       "phonetic": "/kɒst ˈsentə/",
       "meaning": "成本中心",
-      "example": "Who is handling the cost center?",
-      "exampleZh": "谁在处理这个成本中心？",
+      "example": "Please add the cost center to today’s notes.",
+      "exampleZh": "请把成本中心写进今天的记录。",
       "category": "office"
     },
     {
       "word": "purchase order",
       "phonetic": "/ˈpɜːtʃəs ˈɔːdə/",
       "meaning": "采购订单",
-      "example": "Please review the purchase order.",
-      "exampleZh": "请审阅一下这个采购订单。",
+      "example": "Please add the purchase order to today’s notes.",
+      "exampleZh": "请把采购订单写进今天的记录。",
       "category": "office"
     },
     {
       "word": "requisition",
       "phonetic": "/ˌrekwɪˈzɪʃn/",
       "meaning": "请购单",
-      "example": "The requisition is ready for review.",
-      "exampleZh": "这个请购单已经可以审阅了。",
+      "example": "Please add the requisition to today’s notes.",
+      "exampleZh": "请把请购单写进今天的记录。",
       "category": "office"
     },
     {
       "word": "quote",
       "phonetic": "/kwəʊt/",
       "meaning": "询价报价",
-      "example": "Who is handling the quote?",
-      "exampleZh": "谁在处理这个询价报价？",
+      "example": "Please add the quote to today’s notes.",
+      "exampleZh": "请把询价报价写进今天的记录。",
       "category": "office"
     },
     {
       "word": "lead time",
       "phonetic": "/liːd taɪm/",
       "meaning": "供货周期",
-      "example": "Please review the lead time.",
-      "exampleZh": "请审阅一下这个供货周期。",
+      "example": "Please add the lead time to today’s notes.",
+      "exampleZh": "请把供货周期写进今天的记录。",
       "category": "office"
     },
     {
       "word": "stack trace",
       "phonetic": "/stæk treɪs/",
       "meaning": "堆栈跟踪",
-      "example": "The stack trace is in production.",
-      "exampleZh": "这个堆栈跟踪已在生产环境。",
+      "example": "Please test the stack trace on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个堆栈跟踪。",
       "category": "it"
     },
     {
       "word": "debug mode",
       "phonetic": "/diːˈbʌɡ məʊd/",
       "meaning": "调试模式",
-      "example": "Who supports this debug mode?",
-      "exampleZh": "谁支持这个调试模式？",
+      "example": "The ward asked us to check the debug mode.",
+      "exampleZh": "病区让我们看一下这个调试模式。",
       "category": "it"
     },
     {
       "word": "verbose logging",
       "phonetic": "/vɜːˈbəʊs ˈlɒɡɪŋ/",
       "meaning": "详细日志",
-      "example": "We need the verbose logging before go-live.",
-      "exampleZh": "上线前我们需要这个详细日志。",
+      "example": "Do not touch the verbose logging during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个详细日志。",
       "category": "it"
     },
     {
       "word": "log rotation",
       "phonetic": "/lɒɡ rəʊˈteɪʃn/",
       "meaning": "日志轮转",
-      "example": "Please check the log rotation.",
-      "exampleZh": "请检查一下这个日志轮转。",
+      "example": "Who is on call for the log rotation this week?",
+      "exampleZh": "这周这个日志轮转谁值班？",
       "category": "it"
     },
     {
       "word": "log retention",
       "phonetic": "/lɒɡ rɪˈtenʃn/",
       "meaning": "日志保存",
-      "example": "Please review the log retention after the patch.",
-      "exampleZh": "打补丁后请审阅这个日志保存。",
+      "example": "Do not touch the log retention during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个日志保存。",
       "category": "it"
     }
   ]

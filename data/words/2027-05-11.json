@@ -5,80 +5,80 @@
       "word": "mid-morning",
       "phonetic": "/mɪd ˈmɔːnɪŋ/",
       "meaning": "上午过半",
-      "example": "The mid-morning is ready for review.",
-      "exampleZh": "这个上午过半已经可以审阅了。",
+      "example": "We talked about the mid-morning with the department head.",
+      "exampleZh": "我们和科主任谈了这个上午过半。",
       "category": "office"
     },
     {
       "word": "mid-afternoon",
       "phonetic": "/mɪd ˌɑːftəˈnuːn/",
       "meaning": "下午过半",
-      "example": "The mid-afternoon is ready for review.",
-      "exampleZh": "这个下午过半已经可以审阅了。",
+      "example": "Who will own the mid-afternoon this week?",
+      "exampleZh": "这周这个下午过半谁来负责？",
       "category": "office"
     },
     {
       "word": "COB",
       "phonetic": "/ˌsiː əʊ ˈbiː/",
-      "meaning": "下班前",
-      "example": "Please put COB on the email.",
-      "exampleZh": "请在邮件里注明 COB。",
+      "meaning": "下班前（Close of Business）",
+      "example": "We need the sign-off by COB (close of business).",
+      "exampleZh": "请在 COB（下班前）完成签字。",
       "category": "office"
     },
     {
       "word": "EOB",
       "phonetic": "/ˌiː əʊ ˈbiː/",
-      "meaning": "业务结束前",
-      "example": "Please put EOB on the email.",
-      "exampleZh": "请在邮件里注明 EOB。",
+      "meaning": "业务结束前（End of Business）",
+      "example": "Please finish the claim by EOB (end of business).",
+      "exampleZh": "请在 EOB（业务结束前）把报销做完。",
       "category": "office"
     },
     {
       "word": "ETA",
       "phonetic": "/ˌiː tiː ˈeɪ/",
-      "meaning": "预计到达时间",
-      "example": "Please put ETA on the email.",
-      "exampleZh": "请在邮件里注明 ETA。",
+      "meaning": "预计到达时间（Estimated Time of Arrival）",
+      "example": "What is the vendor’s ETA (estimated time of arrival)?",
+      "exampleZh": "厂商的 ETA（预计到达时间）是几点？",
       "category": "office"
     },
     {
       "word": "container runtime",
       "phonetic": "/kənˈteɪnə ˈrʌntaɪm/",
       "meaning": "容器运行时",
-      "example": "Please review the container runtime after the patch.",
-      "exampleZh": "打补丁后请审阅这个容器运行时。",
+      "example": "We will verify the container runtime after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个容器运行时。",
       "category": "it"
     },
     {
       "word": "image pull",
       "phonetic": "/ˈɪmɪdʒ pʊl/",
       "meaning": "拉取镜像",
-      "example": "Please review the image pull after the patch.",
-      "exampleZh": "打补丁后请审阅这个拉取镜像。",
+      "example": "Do not touch the image pull during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个拉取镜像。",
       "category": "it"
     },
     {
       "word": "image registry",
       "phonetic": "/ˈɪmɪdʒ ˈredʒɪstri/",
       "meaning": "镜像仓库",
-      "example": "Who supports this image registry?",
-      "exampleZh": "谁支持这个镜像仓库？",
+      "example": "Please test the image registry on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个镜像仓库。",
       "category": "it"
     },
     {
       "word": "image tag",
       "phonetic": "/ˈɪmɪdʒ tæɡ/",
       "meaning": "镜像标签",
-      "example": "Please review the image tag after the patch.",
-      "exampleZh": "打补丁后请审阅这个镜像标签。",
+      "example": "The vendor asked for a screenshot of the image tag.",
+      "exampleZh": "厂商要一张这个镜像标签的截图。",
       "category": "it"
     },
     {
       "word": "digest",
       "phonetic": "/ˈdaɪdʒest/",
       "meaning": "镜像摘要",
-      "example": "Please check the digest.",
-      "exampleZh": "请检查一下这个镜像摘要。",
+      "example": "We will verify the digest after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个镜像摘要。",
       "category": "it"
     }
   ]

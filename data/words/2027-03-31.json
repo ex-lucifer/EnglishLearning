@@ -5,80 +5,80 @@
       "word": "junk mail",
       "phonetic": "/dʒʌŋk meɪl/",
       "meaning": "垃圾邮件",
-      "example": "Please share the junk mail after the meeting.",
-      "exampleZh": "会后请分享这个垃圾邮件。",
+      "example": "The junk mail still needs a decision today.",
+      "exampleZh": "这个垃圾邮件今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "recall",
       "phonetic": "/rɪˈkɔːl/",
       "meaning": "撤回邮件",
-      "example": "We need to recall this by Friday.",
-      "exampleZh": "我们周五前需要撤回邮件这个。",
+      "example": "Recall the email if it went to the wrong group.",
+      "exampleZh": "如果发错组，请撤回邮件。",
       "category": "office"
     },
     {
       "word": "unsubscribe",
       "phonetic": "/ˌʌnsəbˈskraɪb/",
       "meaning": "退订",
-      "example": "Can you unsubscribe it today?",
-      "exampleZh": "你今天能退订一下吗？",
+      "example": "Unsubscribe from that vendor list.",
+      "exampleZh": "请退订那个厂商名单。",
       "category": "office"
     },
     {
       "word": "flag",
       "phonetic": "/flæɡ/",
       "meaning": "标旗标记",
-      "example": "Please flag this before noon.",
-      "exampleZh": "请在中午前标旗标记这个。",
+      "example": "We still need to flag this.",
+      "exampleZh": "这件事还得标旗标记。",
       "category": "office"
     },
     {
       "word": "pin",
       "phonetic": "/pɪn/",
       "meaning": "置顶",
-      "example": "We need to pin this by Friday.",
-      "exampleZh": "我们周五前需要置顶这个。",
+      "example": "Who will pin this after the huddle?",
+      "exampleZh": "晨会后谁来置顶？",
       "category": "office"
     },
     {
       "word": "MAN",
       "phonetic": "/mæn/",
-      "meaning": "城域网",
-      "example": "The MAN is slow this morning.",
-      "exampleZh": "今天早上 MAN 很慢。",
+      "meaning": "城域网（Metropolitan Area Network）",
+      "example": "Check MAN (Metropolitan Area Network) connectivity from the ward.",
+      "exampleZh": "请从病区检查 MAN（Metropolitan Area Network）连通性。",
       "category": "it"
     },
     {
       "word": "MPLS",
       "phonetic": "/ˌem piː el ˈes/",
-      "meaning": "多协议标签交换",
-      "example": "The MPLS is slow this morning.",
-      "exampleZh": "今天早上 MPLS 很慢。",
+      "meaning": "多协议标签交换（Multiprotocol Label Switching）",
+      "example": "We use MPLS (Multiprotocol Label Switching) for this integration.",
+      "exampleZh": "这条集成用的是 MPLS（Multiprotocol Label Switching）。",
       "category": "it"
     },
     {
       "word": "SD-WAN",
       "phonetic": "/ˌes diː ˈwæn/",
-      "meaning": "软件定义广域网",
-      "example": "The SD-WAN is slow this morning.",
-      "exampleZh": "今天早上 SD-WAN 很慢。",
+      "meaning": "软件定义广域网（Software-Defined Wide Area Network）",
+      "example": "Please confirm SD-WAN (Software-Defined Wide Area Network) is allowed through the firewall.",
+      "exampleZh": "请确认防火墙放行 SD-WAN（Software-Defined Wide Area Network）。",
       "category": "it"
     },
     {
       "word": "dark fiber",
       "phonetic": "/dɑːk ˈfaɪbə/",
       "meaning": "裸光纤",
-      "example": "Please check the dark fiber.",
-      "exampleZh": "请检查一下这个裸光纤。",
+      "example": "The ward asked us to check the dark fiber.",
+      "exampleZh": "病区让我们看一下这个裸光纤。",
       "category": "it"
     },
     {
       "word": "last mile",
       "phonetic": "/lɑːst maɪl/",
       "meaning": "最后一公里",
-      "example": "Please review the last mile after the patch.",
-      "exampleZh": "打补丁后请审阅这个最后一公里。",
+      "example": "The vendor asked for a screenshot of the last mile.",
+      "exampleZh": "厂商要一张这个最后一公里的截图。",
       "category": "it"
     }
   ]

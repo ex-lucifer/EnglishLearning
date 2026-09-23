@@ -5,8 +5,8 @@
       "word": "core hours",
       "phonetic": "/kɔː kˈaʊəz/",
       "meaning": "核心工时",
-      "example": "Please review the core hours.",
-      "exampleZh": "请审阅一下这个核心工时。",
+      "example": "We talked about the core hours with the department head.",
+      "exampleZh": "我们和科主任谈了这个核心工时。",
       "category": "office"
     },
     {
@@ -29,56 +29,56 @@
       "word": "overtime pay",
       "phonetic": "/ˈəʊvətaɪm peɪ/",
       "meaning": "加班费",
-      "example": "The overtime pay is ready for review.",
-      "exampleZh": "这个加班费已经可以审阅了。",
+      "example": "Could you send the overtime pay to the project group?",
+      "exampleZh": "你能把加班费发到项目群吗？",
       "category": "office"
     },
     {
       "word": "meal break",
       "phonetic": "/miːl breɪk/",
       "meaning": "用餐休息",
-      "example": "Please review the meal break.",
-      "exampleZh": "请审阅一下这个用餐休息。",
+      "example": "Could you send the meal break to the project group?",
+      "exampleZh": "你能把用餐休息发到项目群吗？",
       "category": "office"
     },
     {
       "word": "REST API",
       "phonetic": "/rest ˌeɪ piː ˈaɪ/",
       "meaning": "REST接口",
-      "example": "Who supports this REST API?",
-      "exampleZh": "谁支持这个REST接口？",
+      "example": "The vendor asked for a screenshot of the REST API.",
+      "exampleZh": "厂商要一张这个REST接口的截图。",
       "category": "it"
     },
     {
       "word": "webhook",
       "phonetic": "/ˈwebhʊk/",
       "meaning": "回调接口",
-      "example": "We need the webhook before go-live.",
-      "exampleZh": "上线前我们需要这个回调接口。",
+      "example": "The ward asked us to check the webhook.",
+      "exampleZh": "病区让我们看一下这个回调接口。",
       "category": "it"
     },
     {
       "word": "endpoint",
       "phonetic": "/ˈendpɔɪnt/",
       "meaning": "接口地址",
-      "example": "Please check the endpoint.",
-      "exampleZh": "请检查一下这个接口地址。",
+      "example": "The ward asked us to check the endpoint.",
+      "exampleZh": "病区让我们看一下这个接口地址。",
       "category": "it"
     },
     {
       "word": "HTTP status",
       "phonetic": "/ˌeɪtʃ tiː tiː ˈpiː ˈsteɪtəs/",
-      "meaning": "网页状态码",
-      "example": "Who supports this HTTP status?",
-      "exampleZh": "谁支持这个网页状态码？",
+      "meaning": "网页状态码（Hypertext Transfer Protocol）",
+      "example": "The ward asked us to check the HTTP status.",
+      "exampleZh": "病区让我们看一下这个网页状态码。",
       "category": "it"
     },
     {
       "word": "timeout error",
       "phonetic": "/ˈtaɪmaʊt ˈerə/",
       "meaning": "超时错误",
-      "example": "The timeout error is in production.",
-      "exampleZh": "这个超时错误已在生产环境。",
+      "example": "The vendor asked for a screenshot of the timeout error.",
+      "exampleZh": "厂商要一张这个超时错误的截图。",
       "category": "it"
     }
   ]

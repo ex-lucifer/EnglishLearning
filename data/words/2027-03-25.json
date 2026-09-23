@@ -5,80 +5,80 @@
       "word": "work order",
       "phonetic": "/wɜːk ˈɔːdə/",
       "meaning": "派工单",
-      "example": "Please review the work order.",
-      "exampleZh": "请审阅一下这个派工单。",
+      "example": "I put the work order on the shared drive.",
+      "exampleZh": "我把派工单放到了共享盘。",
       "category": "office"
     },
     {
       "word": "priority",
       "phonetic": "/praɪˈɒrəti/",
       "meaning": "优先级",
-      "example": "The priority is ready for review.",
-      "exampleZh": "这个优先级已经可以审阅了。",
+      "example": "Could you send the priority to the project group?",
+      "exampleZh": "你能把优先级发到项目群吗？",
       "category": "office"
     },
     {
       "word": "severity",
       "phonetic": "/səˈverəti/",
       "meaning": "严重程度",
-      "example": "Who is handling the severity?",
-      "exampleZh": "谁在处理这个严重程度？",
+      "example": "The severity still needs a decision today.",
+      "exampleZh": "这个严重程度今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "impact",
       "phonetic": "/ˈɪmpækt/",
       "meaning": "影响",
-      "example": "Who is handling the impact?",
-      "exampleZh": "谁在处理这个影响？",
+      "example": "The impact still needs a decision today.",
+      "exampleZh": "这个影响今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "urgency",
       "phonetic": "/ˈɜːdʒənsi/",
       "meaning": "紧急程度",
-      "example": "I updated the urgency this morning.",
-      "exampleZh": "我今天早上更新了这个紧急程度。",
+      "example": "We talked about the urgency with the department head.",
+      "exampleZh": "我们和科主任谈了这个紧急程度。",
       "category": "office"
     },
     {
       "word": "PBX",
       "phonetic": "/ˌpiː biː ˈeks/",
-      "meaning": "程控交换机",
-      "example": "The PBX is slow this morning.",
-      "exampleZh": "今天早上 PBX 很慢。",
+      "meaning": "程控交换机（Private Branch Exchange）",
+      "example": "We tested PBX (Private Branch Exchange) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 PBX（Private Branch Exchange）。",
       "category": "it"
     },
     {
       "word": "softphone",
       "phonetic": "/ˈsɒftfəʊn/",
       "meaning": "软电话",
-      "example": "Who supports this softphone?",
-      "exampleZh": "谁支持这个软电话？",
+      "example": "I logged the softphone in today’s change ticket.",
+      "exampleZh": "我把这个软电话记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "call recording",
       "phonetic": "/kɔːl rɪˈkɔːdɪŋ/",
       "meaning": "通话录音",
-      "example": "Please review the call recording after the patch.",
-      "exampleZh": "打补丁后请审阅这个通话录音。",
+      "example": "Please test the call recording on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个通话录音。",
       "category": "it"
     },
     {
       "word": "IVR",
       "phonetic": "/ˌaɪ viː ˈɑː/",
-      "meaning": "语音导航",
-      "example": "The IVR is slow this morning.",
-      "exampleZh": "今天早上 IVR 很慢。",
+      "meaning": "语音导航（Interactive Voice Response）",
+      "example": "We tested IVR (Interactive Voice Response) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 IVR（Interactive Voice Response）。",
       "category": "it"
     },
     {
       "word": "ACD",
       "phonetic": "/ˌeɪ siː ˈdiː/",
-      "meaning": "自动呼叫分配",
-      "example": "The ACD is slow this morning.",
-      "exampleZh": "今天早上 ACD 很慢。",
+      "meaning": "自动呼叫分配（Automatic Call Distribution）",
+      "example": "We tested ACD (Automatic Call Distribution) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 ACD（Automatic Call Distribution）。",
       "category": "it"
     }
   ]

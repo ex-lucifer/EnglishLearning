@@ -5,80 +5,80 @@
       "word": "improve",
       "phonetic": "/ɪmˈpruːv/",
       "meaning": "改进",
-      "example": "I will improve it after the meeting.",
-      "exampleZh": "会后我会改进它。",
+      "example": "We still need to improve this.",
+      "exampleZh": "这件事还得改进。",
       "category": "office"
     },
     {
       "word": "streamline",
       "phonetic": "/ˈstriːmlaɪn/",
       "meaning": "精简",
-      "example": "Please streamline this before noon.",
-      "exampleZh": "请在中午前精简这个。",
+      "example": "We still need to streamline this.",
+      "exampleZh": "这件事还得精简。",
       "category": "office"
     },
     {
       "word": "simplify",
       "phonetic": "/ˈsɪmplɪfaɪ/",
       "meaning": "简化",
-      "example": "I will simplify it after the meeting.",
-      "exampleZh": "会后我会简化它。",
+      "example": "Who will simplify this after the huddle?",
+      "exampleZh": "晨会后谁来简化？",
       "category": "office"
     },
     {
       "word": "standardize",
       "phonetic": "/ˈstændədaɪz/",
       "meaning": "标准化",
-      "example": "We need to standardize this by Friday.",
-      "exampleZh": "我们周五前需要标准化这个。",
+      "example": "Can you standardize it today?",
+      "exampleZh": "你今天能把它标准化吗？",
       "category": "office"
     },
     {
       "word": "customize",
       "phonetic": "/ˈkʌstəmaɪz/",
       "meaning": "定制",
-      "example": "We need to customize this by Friday.",
-      "exampleZh": "我们周五前需要定制这个。",
+      "example": "Can you customize it today?",
+      "exampleZh": "你今天能把它定制吗？",
       "category": "office"
     },
     {
       "word": "port forward",
       "phonetic": "/pɔːt ˈfɔːwəd/",
       "meaning": "端口转发",
-      "example": "We need the port forward before go-live.",
-      "exampleZh": "上线前我们需要这个端口转发。",
+      "example": "The ward asked us to check the port forward.",
+      "exampleZh": "病区让我们看一下这个端口转发。",
       "category": "it"
     },
     {
       "word": "DMZ",
       "phonetic": "/ˌdiː em ˈzed/",
-      "meaning": "隔离区",
-      "example": "The DMZ is slow this morning.",
-      "exampleZh": "今天早上 DMZ 很慢。",
+      "meaning": "隔离区（Demilitarized Zone）",
+      "example": "Test DMZ (Demilitarized Zone) from the backup site first.",
+      "exampleZh": "请先从备站点测试 DMZ（Demilitarized Zone）。",
       "category": "it"
     },
     {
       "word": "intranet",
       "phonetic": "/ˈɪntrənet/",
       "meaning": "内网",
-      "example": "Who supports this intranet?",
-      "exampleZh": "谁支持这个内网？",
+      "example": "I logged the intranet in today’s change ticket.",
+      "exampleZh": "我把这个内网记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "extranet",
       "phonetic": "/ˈekstrənet/",
       "meaning": "外联网",
-      "example": "Who supports this extranet?",
-      "exampleZh": "谁支持这个外联网？",
+      "example": "Please test the extranet on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个外联网。",
       "category": "it"
     },
     {
       "word": "internet breakout",
       "phonetic": "/ˈɪntənet ˈbreɪkaʊt/",
       "meaning": "上网出口",
-      "example": "The internet breakout is in production.",
-      "exampleZh": "这个上网出口已在生产环境。",
+      "example": "The ward asked us to check the internet breakout.",
+      "exampleZh": "病区让我们看一下这个上网出口。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "cubicle",
       "phonetic": "/ˈkjuːbɪkl/",
       "meaning": "隔间",
-      "example": "I updated the cubicle this morning.",
-      "exampleZh": "我今天早上更新了这个隔间。",
+      "example": "The cubicle still needs a decision today.",
+      "exampleZh": "这个隔间今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "workstation area",
       "phonetic": "/ˈwɜːksteɪʃn ˈeəriə/",
       "meaning": "工位区",
-      "example": "Please review the workstation area.",
-      "exampleZh": "请审阅一下这个工位区。",
+      "example": "Please add the workstation area to today’s notes.",
+      "exampleZh": "请把工位区写进今天的记录。",
       "category": "office"
     },
     {
       "word": "quiet room",
       "phonetic": "/ˈkwaɪət ruːm/",
       "meaning": "安静室",
-      "example": "Please share the quiet room after the meeting.",
-      "exampleZh": "会后请分享这个安静室。",
+      "example": "Please add the quiet room to today’s notes.",
+      "exampleZh": "请把安静室写进今天的记录。",
       "category": "office"
     },
     {
       "word": "on-call room",
       "phonetic": "/ɒn kɔːl ruːm/",
       "meaning": "值班室",
-      "example": "Please review the on-call room.",
-      "exampleZh": "请审阅一下这个值班室。",
+      "example": "Could you send the on-call room to the project group?",
+      "exampleZh": "你能把值班室发到项目群吗？",
       "category": "office"
     },
     {
       "word": "duty room",
       "phonetic": "/ˈdjuːti ruːm/",
       "meaning": "值班房",
-      "example": "Please share the duty room after the meeting.",
-      "exampleZh": "会后请分享这个值班房。",
+      "example": "We talked about the duty room with the department head.",
+      "exampleZh": "我们和科主任谈了这个值班房。",
       "category": "office"
     },
     {
       "word": "affinity",
       "phonetic": "/əˈfɪnəti/",
       "meaning": "亲和性",
-      "example": "Please check the affinity.",
-      "exampleZh": "请检查一下这个亲和性。",
+      "example": "Who is on call for the affinity this week?",
+      "exampleZh": "这周这个亲和性谁值班？",
       "category": "it"
     },
     {
       "word": "anti-affinity",
       "phonetic": "/ˈænti əˈfɪnəti/",
       "meaning": "反亲和性",
-      "example": "Who supports this anti-affinity?",
-      "exampleZh": "谁支持这个反亲和性？",
+      "example": "Please test the anti-affinity on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个反亲和性。",
       "category": "it"
     },
     {
       "word": "resource pool",
       "phonetic": "/rɪˈsɔːs puːl/",
       "meaning": "资源池",
-      "example": "Please review the resource pool after the patch.",
-      "exampleZh": "打补丁后请审阅这个资源池。",
+      "example": "The ward asked us to check the resource pool.",
+      "exampleZh": "病区让我们看一下这个资源池。",
       "category": "it"
     },
     {
       "word": "reservation",
       "phonetic": "/ˌrezəˈveɪʃn/",
       "meaning": "资源预留",
-      "example": "We need the reservation before go-live.",
-      "exampleZh": "上线前我们需要这个资源预留。",
+      "example": "We will verify the reservation after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个资源预留。",
       "category": "it"
     },
     {
       "word": "limit",
       "phonetic": "/ˈlɪmɪt/",
       "meaning": "资源上限",
-      "example": "Who supports this limit?",
-      "exampleZh": "谁支持这个资源上限？",
+      "example": "We will verify the limit after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个资源上限。",
       "category": "it"
     }
   ]

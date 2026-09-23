@@ -45,40 +45,40 @@
       "word": "monitoring alert",
       "phonetic": "/ˈmɒnɪtərɪŋ əˈlɜːt/",
       "meaning": "监控告警",
-      "example": "Who supports this monitoring alert?",
-      "exampleZh": "谁支持这个监控告警？",
+      "example": "Do not touch the monitoring alert during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个监控告警。",
       "category": "it"
     },
     {
       "word": "log aggregation",
       "phonetic": "/lɒɡ ˌæɡrɪˈɡeɪʃn/",
       "meaning": "日志汇聚",
-      "example": "Who supports this log aggregation?",
-      "exampleZh": "谁支持这个日志汇聚？",
+      "example": "Please test the log aggregation on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个日志汇聚。",
       "category": "it"
     },
     {
       "word": "SIEM",
       "phonetic": "/siːm/",
-      "meaning": "安全信息事件管理",
-      "example": "The SIEM is slow this morning.",
-      "exampleZh": "今天早上 SIEM 很慢。",
+      "meaning": "安全信息事件管理（Security Information and Event Management）",
+      "example": "Please write SIEM in full — Security Information and Event Management — on the change form.",
+      "exampleZh": "变更单上请写全称：SIEM（Security Information and Event Management）。",
       "category": "it"
     },
     {
       "word": "SOC",
       "phonetic": "/sɒk/",
-      "meaning": "安全运营中心",
-      "example": "The SOC is slow this morning.",
-      "exampleZh": "今天早上 SOC 很慢。",
+      "meaning": "安全运营中心（Security Operations Center）",
+      "example": "Who is the SOC (Security Operations Center) this week?",
+      "exampleZh": "这周 SOC（Security Operations Center）是谁？",
       "category": "it"
     },
     {
       "word": "MFA",
       "phonetic": "/ˌem ef ˈeɪ/",
-      "meaning": "多因素认证",
-      "example": "The MFA is slow this morning.",
-      "exampleZh": "今天早上 MFA 很慢。",
+      "meaning": "多因素认证（Multi-Factor Authentication）",
+      "example": "Please write MFA in full — Multi-Factor Authentication — on the change form.",
+      "exampleZh": "变更单上请写全称：MFA（Multi-Factor Authentication）。",
       "category": "it"
     }
   ]

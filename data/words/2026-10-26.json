@@ -5,80 +5,80 @@
       "word": "archive",
       "phonetic": "/ˈɑːkaɪv/",
       "meaning": "归档",
-      "example": "I will archive it after the meeting.",
-      "exampleZh": "会后我会归档它。",
+      "example": "Archive last month’s change tickets before the audit.",
+      "exampleZh": "迎检前请把上个月的变更单归档。",
       "category": "office"
     },
     {
       "word": "revision",
       "phonetic": "/rɪˈvɪʒn/",
       "meaning": "修订版",
-      "example": "Who is handling the revision?",
-      "exampleZh": "谁在处理这个修订版？",
+      "example": "Who will own the revision this week?",
+      "exampleZh": "这周这个修订版谁来负责？",
       "category": "office"
     },
     {
       "word": "draft",
       "phonetic": "/drɑːft/",
       "meaning": "草稿",
-      "example": "Please share the draft after the meeting.",
-      "exampleZh": "会后请分享这个草稿。",
+      "example": "The draft still needs a decision today.",
+      "exampleZh": "这个草稿今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "CC",
       "phonetic": "/ˌsiː ˈsiː/",
-      "meaning": "抄送",
-      "example": "Please put CC on the email.",
-      "exampleZh": "请在邮件里注明 CC。",
+      "meaning": "抄送（Carbon Copy）",
+      "example": "Please CC (carbon copy) the duty nurse on this email.",
+      "exampleZh": "这封邮件请抄送（CC）值班护士。",
       "category": "office"
     },
     {
       "word": "BCC",
       "phonetic": "/ˌbiː siː ˈsiː/",
-      "meaning": "密送",
-      "example": "Please put BCC on the email.",
-      "exampleZh": "请在邮件里注明 BCC。",
+      "meaning": "密送（Blind Carbon Copy）",
+      "example": "BCC (blind carbon copy) the department head if they only need to watch.",
+      "exampleZh": "科主任只需知情的话，用密送（BCC）即可。",
       "category": "office"
     },
     {
       "word": "voice recognition",
       "phonetic": "/vɔɪs ˌrekəɡˈnɪʃn/",
       "meaning": "语音识别",
-      "example": "We need the voice recognition before go-live.",
-      "exampleZh": "上线前我们需要这个语音识别。",
+      "example": "The ward asked us to check the voice recognition.",
+      "exampleZh": "病区让我们看一下这个语音识别。",
       "category": "it"
     },
     {
       "word": "speech-to-text",
       "phonetic": "/spiːtʃ tə tekst/",
       "meaning": "语音转文字",
-      "example": "Please check the speech-to-text.",
-      "exampleZh": "请检查一下这个语音转文字。",
+      "example": "Do not touch the speech-to-text during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个语音转文字。",
       "category": "it"
     },
     {
       "word": "allergy alert",
       "phonetic": "/ˈælədʒi əˈlɜːt/",
       "meaning": "过敏警示",
-      "example": "Who supports this allergy alert?",
-      "exampleZh": "谁支持这个过敏警示？",
+      "example": "Please test the allergy alert on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个过敏警示。",
       "category": "it"
     },
     {
       "word": "drug interaction",
       "phonetic": "/drʌɡ ˌɪntərˈækʃn/",
       "meaning": "药物相互作用",
-      "example": "The drug interaction is in production.",
-      "exampleZh": "这个药物相互作用已在生产环境。",
+      "example": "Who is on call for the drug interaction this week?",
+      "exampleZh": "这周这个药物相互作用谁值班？",
       "category": "it"
     },
     {
       "word": "duplicate order",
       "phonetic": "/ˈdjuːplɪkət ˈɔːdə/",
       "meaning": "重复医嘱",
-      "example": "Please check the duplicate order.",
-      "exampleZh": "请检查一下这个重复医嘱。",
+      "example": "I logged the duplicate order in today’s change ticket.",
+      "exampleZh": "我把这个重复医嘱记进了今天的变更单。",
       "category": "it"
     }
   ]

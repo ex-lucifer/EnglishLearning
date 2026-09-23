@@ -5,80 +5,80 @@
       "word": "help window",
       "phonetic": "/help ˈwɪndəʊ/",
       "meaning": "服务窗口",
-      "example": "The help window is ready for review.",
-      "exampleZh": "这个服务窗口已经可以审阅了。",
+      "example": "The help window still needs a decision today.",
+      "exampleZh": "这个服务窗口今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "service counter",
       "phonetic": "/ˈsɜːvɪs ˈkaʊntə/",
       "meaning": "服务台",
-      "example": "The service counter is ready for review.",
-      "exampleZh": "这个服务台已经可以审阅了。",
+      "example": "Please bring the service counter to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个服务台。",
       "category": "office"
     },
     {
       "word": "ticket window",
       "phonetic": "/ˈtɪkɪt ˈwɪndəʊ/",
       "meaning": "窗口",
-      "example": "Please review the ticket window.",
-      "exampleZh": "请审阅一下这个窗口。",
+      "example": "We talked about the ticket window with the department head.",
+      "exampleZh": "我们和科主任谈了这个窗口。",
       "category": "office"
     },
     {
       "word": "queue number",
       "phonetic": "/kjuː ˈnʌmbə/",
       "meaning": "排队号",
-      "example": "I updated the queue number this morning.",
-      "exampleZh": "我今天早上更新了这个排队号。",
+      "example": "I put the queue number on the shared drive.",
+      "exampleZh": "我把排队号放到了共享盘。",
       "category": "office"
     },
     {
       "word": "calling system",
       "phonetic": "/ˈkɔːlɪŋ ˈsɪstəm/",
       "meaning": "叫号系统",
-      "example": "Who is handling the calling system?",
-      "exampleZh": "谁在处理这个叫号系统？",
+      "example": "Who will own the calling system this week?",
+      "exampleZh": "这周这个叫号系统谁来负责？",
       "category": "office"
     },
     {
       "word": "overcommit",
       "phonetic": "/ˌəʊvəˈkɒmɪt/",
       "meaning": "超分",
-      "example": "Let's overcommit this first.",
-      "exampleZh": "我们先超分这个吧。",
+      "example": "Do not overcommit memory on the PACS hosts.",
+      "exampleZh": "影像主机上不要超分内存。",
       "category": "it"
     },
     {
       "word": "storage pool",
       "phonetic": "/ˈstɔːrɪdʒ puːl/",
       "meaning": "存储池",
-      "example": "Please review the storage pool after the patch.",
-      "exampleZh": "打补丁后请审阅这个存储池。",
+      "example": "The ward asked us to check the storage pool.",
+      "exampleZh": "病区让我们看一下这个存储池。",
       "category": "it"
     },
     {
       "word": "datastore",
       "phonetic": "/ˈdeɪtəstɔː/",
       "meaning": "数据存储",
-      "example": "Please review the datastore after the patch.",
-      "exampleZh": "打补丁后请审阅这个数据存储。",
+      "example": "The vendor asked for a screenshot of the datastore.",
+      "exampleZh": "厂商要一张这个数据存储的截图。",
       "category": "it"
     },
     {
       "word": "VMDK",
       "phonetic": "/ˌviː em diː ˈkeɪ/",
-      "meaning": "虚拟磁盘文件",
-      "example": "The VMDK is slow this morning.",
-      "exampleZh": "今天早上 VMDK 很慢。",
+      "meaning": "虚拟磁盘文件（Virtual Machine Disk）",
+      "example": "Do not move the VMDK (Virtual Machine Disk) during outpatient hours.",
+      "exampleZh": "门诊时段不要挪动 VMDK（Virtual Machine Disk）。",
       "category": "it"
     },
     {
       "word": "VHD",
       "phonetic": "/ˌviː eɪtʃ ˈdiː/",
-      "meaning": "虚拟硬盘",
-      "example": "The VHD is slow this morning.",
-      "exampleZh": "今天早上 VHD 很慢。",
+      "meaning": "虚拟硬盘（Virtual Hard Disk）",
+      "example": "Do not move the VHD (Virtual Hard Disk) during outpatient hours.",
+      "exampleZh": "门诊时段不要挪动 VHD（Virtual Hard Disk）。",
       "category": "it"
     }
   ]

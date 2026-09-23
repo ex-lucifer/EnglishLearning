@@ -5,80 +5,80 @@
       "word": "parking permit",
       "phonetic": "/ˈpɑːkɪŋ ˈpɜːmɪt/",
       "meaning": "停车许可",
-      "example": "The parking permit is ready for review.",
-      "exampleZh": "这个停车许可已经可以审阅了。",
+      "example": "I put the parking permit on the shared drive.",
+      "exampleZh": "我把停车许可放到了共享盘。",
       "category": "office"
     },
     {
       "word": "canteen",
       "phonetic": "/kænˈtiːn/",
       "meaning": "食堂",
-      "example": "Who is handling the canteen?",
-      "exampleZh": "谁在处理这个食堂？",
+      "example": "Could you send the canteen to the project group?",
+      "exampleZh": "你能把食堂发到项目群吗？",
       "category": "office"
     },
     {
       "word": "locker",
       "phonetic": "/ˈlɒkə/",
       "meaning": "储物柜",
-      "example": "Please review the locker.",
-      "exampleZh": "请审阅一下这个储物柜。",
+      "example": "Could you send the locker to the project group?",
+      "exampleZh": "你能把储物柜发到项目群吗？",
       "category": "office"
     },
     {
       "word": "uniform",
       "phonetic": "/ˈjuːnɪfɔːm/",
       "meaning": "工装",
-      "example": "Please share the uniform after the meeting.",
-      "exampleZh": "会后请分享这个工装。",
+      "example": "Please bring the uniform to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个工装。",
       "category": "office"
     },
     {
       "word": "notice board",
       "phonetic": "/ˈnəʊtɪs bɔːd/",
       "meaning": "公告栏",
-      "example": "I updated the notice board this morning.",
-      "exampleZh": "我今天早上更新了这个公告栏。",
+      "example": "I put the notice board on the shared drive.",
+      "exampleZh": "我把公告栏放到了共享盘。",
       "category": "office"
     },
     {
       "word": "statistics update",
       "phonetic": "/stəˈtɪstɪks ˌʌpˈdeɪt/",
       "meaning": "统计信息更新",
-      "example": "The statistics update is in production.",
-      "exampleZh": "这个统计信息更新已在生产环境。",
+      "example": "I logged the statistics update in today’s change ticket.",
+      "exampleZh": "我把这个统计信息更新记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "DBA",
       "phonetic": "/ˌdiː biː ˈeɪ/",
-      "meaning": "数据库管理员",
-      "example": "The DBA is slow this morning.",
-      "exampleZh": "今天早上 DBA 很慢。",
+      "meaning": "数据库管理员（Database Administrator）",
+      "example": "Who is the DBA (Database Administrator) this week?",
+      "exampleZh": "这周 DBA（Database Administrator）是谁？",
       "category": "it"
     },
     {
       "word": "schema",
       "phonetic": "/ˈskiːmə/",
       "meaning": "数据库结构",
-      "example": "Please check the schema.",
-      "exampleZh": "请检查一下这个数据库结构。",
+      "example": "Who is on call for the schema this week?",
+      "exampleZh": "这周这个数据库结构谁值班？",
       "category": "it"
     },
     {
       "word": "table",
       "phonetic": "/ˈteɪbl/",
       "meaning": "数据表",
-      "example": "Please check the table.",
-      "exampleZh": "请检查一下这个数据表。",
+      "example": "The vendor asked for a screenshot of the table.",
+      "exampleZh": "厂商要一张这个数据表的截图。",
       "category": "it"
     },
     {
       "word": "view",
       "phonetic": "/vjuː/",
       "meaning": "视图",
-      "example": "Who supports this view?",
-      "exampleZh": "谁支持这个视图？",
+      "example": "I logged the view in today’s change ticket.",
+      "exampleZh": "我把这个视图记进了今天的变更单。",
       "category": "it"
     }
   ]

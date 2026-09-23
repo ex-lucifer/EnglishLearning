@@ -5,16 +5,16 @@
       "word": "nudge",
       "phonetic": "/nʌdʒ/",
       "meaning": "催一下",
-      "example": "Can you nudge it today?",
-      "exampleZh": "你今天能催一下一下吗？",
+      "example": "Nudge finance if the invoice is still pending.",
+      "exampleZh": "发票还没处理的话，催一下财务。",
       "category": "office"
     },
     {
       "word": "circulate",
       "phonetic": "/ˈsɜːkjəleɪt/",
       "meaning": "传阅",
-      "example": "Please circulate this before noon.",
-      "exampleZh": "请在中午前传阅这个。",
+      "example": "We still need to circulate this.",
+      "exampleZh": "这件事还得传阅。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "automated dispensing",
       "phonetic": "/ˈɔːtəmeɪtɪd dɪˈspensɪŋ/",
       "meaning": "自动发药柜",
-      "example": "We need the automated dispensing before go-live.",
-      "exampleZh": "上线前我们需要这个自动发药柜。",
+      "example": "The vendor asked for a screenshot of the automated dispensing.",
+      "exampleZh": "厂商要一张这个自动发药柜的截图。",
       "category": "it"
     },
     {
       "word": "ADC",
       "phonetic": "/ˌeɪ diː ˈsiː/",
-      "meaning": "自动发药柜",
-      "example": "The ADC is slow this morning.",
-      "exampleZh": "今天早上 ADC 很慢。",
+      "meaning": "自动发药柜（Automated Dispensing Cabinet）",
+      "example": "Check the ADC (Automated Dispensing Cabinet) in the computer room.",
+      "exampleZh": "请到机房检查 ADC（Automated Dispensing Cabinet）。",
       "category": "it"
     },
     {
       "word": "infusion library",
       "phonetic": "/ɪnˈfjuːʒn ˈlaɪbrəri/",
       "meaning": "输液泵药库",
-      "example": "Who supports this infusion library?",
-      "exampleZh": "谁支持这个输液泵药库？",
+      "example": "Please test the infusion library on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个输液泵药库。",
       "category": "it"
     },
     {
       "word": "device integration",
       "phonetic": "/dɪˈvaɪs ˌɪntɪˈɡreɪʃn/",
       "meaning": "设备集成",
-      "example": "We need the device integration before go-live.",
-      "exampleZh": "上线前我们需要这个设备集成。",
+      "example": "The vendor asked for a screenshot of the device integration.",
+      "exampleZh": "厂商要一张这个设备集成的截图。",
       "category": "it"
     },
     {
       "word": "NTP",
       "phonetic": "/ˌen tiː ˈpiː/",
-      "meaning": "网络时间协议",
-      "example": "The NTP is slow this morning.",
-      "exampleZh": "今天早上 NTP 很慢。",
+      "meaning": "网络时间协议（Network Time Protocol）",
+      "example": "We use NTP (Network Time Protocol) for this integration.",
+      "exampleZh": "这条集成用的是 NTP（Network Time Protocol）。",
       "category": "it"
     }
   ]

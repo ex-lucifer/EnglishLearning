@@ -5,80 +5,80 @@
       "word": "trend",
       "phonetic": "/trend/",
       "meaning": "趋势",
-      "example": "I updated the trend this morning.",
-      "exampleZh": "我今天早上更新了这个趋势。",
+      "example": "We talked about the trend with the department head.",
+      "exampleZh": "我们和科主任谈了这个趋势。",
       "category": "office"
     },
     {
       "word": "variance",
       "phonetic": "/ˈveəriəns/",
       "meaning": "偏差",
-      "example": "Please review the variance.",
-      "exampleZh": "请审阅一下这个偏差。",
+      "example": "Please add the variance to today’s notes.",
+      "exampleZh": "请把偏差写进今天的记录。",
       "category": "office"
     },
     {
       "word": "actuals",
       "phonetic": "/ˈæktʃuəlz/",
       "meaning": "实际数",
-      "example": "Please share the actuals after the meeting.",
-      "exampleZh": "会后请分享这个实际数。",
+      "example": "Please bring the actuals to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个实际数。",
       "category": "office"
     },
     {
       "word": "forecast",
       "phonetic": "/ˈfɔːkɑːst/",
       "meaning": "预测",
-      "example": "Who is handling the forecast?",
-      "exampleZh": "谁在处理这个预测？",
+      "example": "Who will own the forecast this week?",
+      "exampleZh": "这周这个预测谁来负责？",
       "category": "office"
     },
     {
       "word": "budget",
       "phonetic": "/ˈbʌdʒɪt/",
       "meaning": "预算",
-      "example": "Please review the budget.",
-      "exampleZh": "请审阅一下这个预算。",
+      "example": "Please add the budget to today’s notes.",
+      "exampleZh": "请把预算写进今天的记录。",
       "category": "office"
     },
     {
       "word": "syslog",
       "phonetic": "/ˈsɪslɒɡ/",
       "meaning": "系统日志",
-      "example": "Who supports this syslog?",
-      "exampleZh": "谁支持这个系统日志？",
+      "example": "Who is on call for the syslog this week?",
+      "exampleZh": "这周这个系统日志谁值班？",
       "category": "it"
     },
     {
       "word": "audit log",
       "phonetic": "/ˈɔːdɪt lɒɡ/",
       "meaning": "审计日志",
-      "example": "We need the audit log before go-live.",
-      "exampleZh": "上线前我们需要这个审计日志。",
+      "example": "Who is on call for the audit log this week?",
+      "exampleZh": "这周这个审计日志谁值班？",
       "category": "it"
     },
     {
       "word": "application log",
       "phonetic": "/ˌæplɪˈkeɪʃn lɒɡ/",
       "meaning": "应用日志",
-      "example": "Please review the application log after the patch.",
-      "exampleZh": "打补丁后请审阅这个应用日志。",
+      "example": "We will verify the application log after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个应用日志。",
       "category": "it"
     },
     {
       "word": "crash dump",
       "phonetic": "/kræʃ dʌmp/",
       "meaning": "崩溃转储",
-      "example": "We need the crash dump before go-live.",
-      "exampleZh": "上线前我们需要这个崩溃转储。",
+      "example": "I logged the crash dump in today’s change ticket.",
+      "exampleZh": "我把这个崩溃转储记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "core dump",
       "phonetic": "/kɔː dʌmp/",
       "meaning": "核心转储",
-      "example": "We need the core dump before go-live.",
-      "exampleZh": "上线前我们需要这个核心转储。",
+      "example": "Please test the core dump on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个核心转储。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "clearance form",
       "phonetic": "/ˈklɪərəns fɔːm/",
       "meaning": "离职清算单",
-      "example": "Please share the clearance form after the meeting.",
-      "exampleZh": "会后请分享这个离职清算单。",
+      "example": "I put the clearance form on the shared drive.",
+      "exampleZh": "我把离职清算单放到了共享盘。",
       "category": "office"
     },
     {
       "word": "last day",
       "phonetic": "/lɑːst deɪ/",
       "meaning": "最后工作日",
-      "example": "Please share the last day after the meeting.",
-      "exampleZh": "会后请分享这个最后工作日。",
+      "example": "I put the last day on the shared drive.",
+      "exampleZh": "我把最后工作日放到了共享盘。",
       "category": "office"
     },
     {
       "word": "notice to leave",
       "phonetic": "/ˈnəʊtɪs tə liːv/",
       "meaning": "离职通知",
-      "example": "Who is handling the notice to leave?",
-      "exampleZh": "谁在处理这个离职通知？",
+      "example": "We talked about the notice to leave with the department head.",
+      "exampleZh": "我们和科主任谈了这个离职通知。",
       "category": "office"
     },
     {
       "word": "reference letter",
       "phonetic": "/ˈrefrəns ˈletə/",
       "meaning": "推荐信",
-      "example": "The reference letter is ready for review.",
-      "exampleZh": "这个推荐信已经可以审阅了。",
+      "example": "We talked about the reference letter with the department head.",
+      "exampleZh": "我们和科主任谈了这个推荐信。",
       "category": "office"
     },
     {
       "word": "employment letter",
       "phonetic": "/ɪmˈplɔɪmənt ˈletə/",
       "meaning": "在职证明",
-      "example": "The employment letter is ready for review.",
-      "exampleZh": "这个在职证明已经可以审阅了。",
+      "example": "The employment letter still needs a decision today.",
+      "exampleZh": "这个在职证明今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "exploit protection",
       "phonetic": "/ˈeksplɔɪt prəˈtekʃn/",
       "meaning": "漏洞利用防护",
-      "example": "The exploit protection is in production.",
-      "exampleZh": "这个漏洞利用防护已在生产环境。",
+      "example": "Who is on call for the exploit protection this week?",
+      "exampleZh": "这周这个漏洞利用防护谁值班？",
       "category": "it"
     },
     {
       "word": "DEP",
       "phonetic": "/dep/",
-      "meaning": "数据执行保护",
-      "example": "The DEP is slow this morning.",
-      "exampleZh": "今天早上 DEP 很慢。",
+      "meaning": "数据执行保护（Data Execution Prevention）",
+      "example": "Confirm DEP (Data Execution Prevention) is in the change notes.",
+      "exampleZh": "请确认变更说明里写了 DEP（Data Execution Prevention）。",
       "category": "it"
     },
     {
       "word": "ASLR",
       "phonetic": "/ˌeɪ es el ˈɑː/",
-      "meaning": "地址随机化",
-      "example": "The ASLR is slow this morning.",
-      "exampleZh": "今天早上 ASLR 很慢。",
+      "meaning": "地址随机化（Address Space Layout Randomization）",
+      "example": "This device is not ASLR (Address Space Layout Randomization) approved.",
+      "exampleZh": "这台设备不符合 ASLR（Address Space Layout Randomization）。",
       "category": "it"
     },
     {
       "word": "Control Flow Guard",
       "phonetic": "/kənˈtrəʊl fləʊ ɡɑːd/",
       "meaning": "控制流防护",
-      "example": "We need the Control Flow Guard before go-live.",
-      "exampleZh": "上线前我们需要这个控制流防护。",
+      "example": "The vendor asked for a screenshot of the Control Flow Guard.",
+      "exampleZh": "厂商要一张这个控制流防护的截图。",
       "category": "it"
     },
     {
       "word": "WDAC",
       "phonetic": "/ˈdʌbljuː dæk/",
-      "meaning": "应用控制",
-      "example": "The WDAC is slow this morning.",
-      "exampleZh": "今天早上 WDAC 很慢。",
+      "meaning": "应用控制（Windows Defender Application Control）",
+      "example": "Confirm WDAC (Windows Defender Application Control) is in the change notes.",
+      "exampleZh": "请确认变更说明里写了 WDAC（Windows Defender Application Control）。",
       "category": "it"
     }
   ]

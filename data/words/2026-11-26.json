@@ -37,48 +37,48 @@
       "word": "bottom line",
       "phonetic": "/ˈbɒtəm laɪn/",
       "meaning": "关键结论",
-      "example": "I updated the bottom line this morning.",
-      "exampleZh": "我今天早上更新了这个关键结论。",
+      "example": "Who will own the bottom line this week?",
+      "exampleZh": "这周这个关键结论谁来负责？",
       "category": "office"
     },
     {
       "word": "SSO",
       "phonetic": "/ˌes es ˈəʊ/",
-      "meaning": "单点登录",
-      "example": "The SSO is slow this morning.",
-      "exampleZh": "今天早上 SSO 很慢。",
+      "meaning": "单点登录（Single Sign-On）",
+      "example": "We tested SSO (Single Sign-On) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 SSO（Single Sign-On）。",
       "category": "it"
     },
     {
       "word": "LDAP",
       "phonetic": "/ˈeldæp/",
-      "meaning": "目录访问协议",
-      "example": "The LDAP is slow this morning.",
-      "exampleZh": "今天早上 LDAP 很慢。",
+      "meaning": "目录访问协议（Lightweight Directory Access Protocol）",
+      "example": "Document LDAP (Lightweight Directory Access Protocol) in the interface spec.",
+      "exampleZh": "接口说明里请写上 LDAP（Lightweight Directory Access Protocol）。",
       "category": "it"
     },
     {
       "word": "Active Directory",
       "phonetic": "/ˈæktɪv dəˈrektəri/",
       "meaning": "活动目录",
-      "example": "The Active Directory is in production.",
-      "exampleZh": "这个活动目录已在生产环境。",
+      "example": "The ward asked us to check the Active Directory.",
+      "exampleZh": "病区让我们看一下这个活动目录。",
       "category": "it"
     },
     {
       "word": "RBAC",
       "phonetic": "/ˈɑːbæk/",
-      "meaning": "基于角色的权限",
-      "example": "The RBAC is slow this morning.",
-      "exampleZh": "今天早上 RBAC 很慢。",
+      "meaning": "基于角色的权限（Role-Based Access Control）",
+      "example": "Follow the RBAC (Role-Based Access Control) policy.",
+      "exampleZh": "请按 RBAC（Role-Based Access Control）的规定做。",
       "category": "it"
     },
     {
       "word": "ACL",
       "phonetic": "/ˌeɪ siː ˈel/",
-      "meaning": "访问控制列表",
-      "example": "The ACL is slow this morning.",
-      "exampleZh": "今天早上 ACL 很慢。",
+      "meaning": "访问控制列表（Access Control List）",
+      "example": "Follow the ACL (Access Control List) policy.",
+      "exampleZh": "请按 ACL（Access Control List）的规定做。",
       "category": "it"
     }
   ]

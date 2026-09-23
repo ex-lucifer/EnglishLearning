@@ -5,80 +5,80 @@
       "word": "lesson learned",
       "phonetic": "/ˈlesn lɜːnd/",
       "meaning": "经验教训",
-      "example": "Please share the lesson learned after the meeting.",
-      "exampleZh": "会后请分享这个经验教训。",
+      "example": "I put the lesson learned on the shared drive.",
+      "exampleZh": "我把经验教训放到了共享盘。",
       "category": "office"
     },
     {
       "word": "best practice",
       "phonetic": "/best ˈpræktɪs/",
       "meaning": "最佳实践",
-      "example": "Please share the best practice after the meeting.",
-      "exampleZh": "会后请分享这个最佳实践。",
+      "example": "I put the best practice on the shared drive.",
+      "exampleZh": "我把最佳实践放到了共享盘。",
       "category": "office"
     },
     {
       "word": "standard",
       "phonetic": "/ˈstændəd/",
       "meaning": "标准",
-      "example": "Who is handling the standard?",
-      "exampleZh": "谁在处理这个标准？",
+      "example": "Who will own the standard this week?",
+      "exampleZh": "这周这个标准谁来负责？",
       "category": "office"
     },
     {
       "word": "protocol",
       "phonetic": "/ˈprəʊtəkɒl/",
       "meaning": "规程",
-      "example": "I updated the protocol this morning.",
-      "exampleZh": "我今天早上更新了这个规程。",
+      "example": "We talked about the protocol with the department head.",
+      "exampleZh": "我们和科主任谈了这个规程。",
       "category": "office"
     },
     {
       "word": "pathway",
       "phonetic": "/ˈpɑːθweɪ/",
       "meaning": "路径",
-      "example": "Who is handling the pathway?",
-      "exampleZh": "谁在处理这个路径？",
+      "example": "Please bring the pathway to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个路径。",
       "category": "office"
     },
     {
       "word": "L2 support",
       "phonetic": "/el tuː səˈpɔːt/",
       "meaning": "二线支持",
-      "example": "Please review the L2 support after the patch.",
-      "exampleZh": "打补丁后请审阅这个二线支持。",
+      "example": "We will verify the L2 support after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个二线支持。",
       "category": "it"
     },
     {
       "word": "L3 support",
       "phonetic": "/el θriː səˈpɔːt/",
       "meaning": "三线支持",
-      "example": "The L3 support is in production.",
-      "exampleZh": "这个三线支持已在生产环境。",
+      "example": "The ward asked us to check the L3 support.",
+      "exampleZh": "病区让我们看一下这个三线支持。",
       "category": "it"
     },
     {
       "word": "on-site engineer",
       "phonetic": "/ɒn saɪt ˌendʒɪˈnɪə/",
       "meaning": "现场工程师",
-      "example": "Please review the on-site engineer after the patch.",
-      "exampleZh": "打补丁后请审阅这个现场工程师。",
+      "example": "Who is on call for the on-site engineer this week?",
+      "exampleZh": "这周这个现场工程师谁值班？",
       "category": "it"
     },
     {
       "word": "remote support",
       "phonetic": "/rɪˈməʊt səˈpɔːt/",
       "meaning": "远程支持",
-      "example": "Who supports this remote support?",
-      "exampleZh": "谁支持这个远程支持？",
+      "example": "Who is on call for the remote support this week?",
+      "exampleZh": "这周这个远程支持谁值班？",
       "category": "it"
     },
     {
       "word": "screen control",
       "phonetic": "/skriːn kənˈtrəʊl/",
       "meaning": "远程控屏",
-      "example": "Please review the screen control after the patch.",
-      "exampleZh": "打补丁后请审阅这个远程控屏。",
+      "example": "The ward asked us to check the screen control.",
+      "exampleZh": "病区让我们看一下这个远程控屏。",
       "category": "it"
     }
   ]

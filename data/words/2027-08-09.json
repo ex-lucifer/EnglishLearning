@@ -5,24 +5,24 @@
       "word": "informed consent",
       "phonetic": "/ɪnˈfɔːmd kənˈsent/",
       "meaning": "知情同意",
-      "example": "Please share the informed consent after the meeting.",
-      "exampleZh": "会后请分享这个知情同意。",
+      "example": "Who will own the informed consent this week?",
+      "exampleZh": "这周这个知情同意谁来负责？",
       "category": "office"
     },
     {
       "word": "patient rights",
       "phonetic": "/ˈpeɪʃnt raɪts/",
       "meaning": "患者权利",
-      "example": "I updated the patient rights this morning.",
-      "exampleZh": "我今天早上更新了这个患者权利。",
+      "example": "Could you send the patient rights to the project group?",
+      "exampleZh": "你能把患者权利发到项目群吗？",
       "category": "office"
     },
     {
       "word": "privacy screen",
       "phonetic": "/ˈprɪvəsi skriːn/",
       "meaning": "隐私屏",
-      "example": "The privacy screen is ready for review.",
-      "exampleZh": "这个隐私屏已经可以审阅了。",
+      "example": "I put the privacy screen on the shared drive.",
+      "exampleZh": "我把隐私屏放到了共享盘。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "duplicate MAC",
       "phonetic": "/ˈdjuːplɪkət mæk/",
       "meaning": "网卡地址重复",
-      "example": "Please review the duplicate MAC after the patch.",
-      "exampleZh": "打补丁后请审阅这个网卡地址重复。",
+      "example": "Do not touch the duplicate MAC during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个网卡地址重复。",
       "category": "it"
     },
     {
       "word": "promiscuous mode",
       "phonetic": "/prəˈmɪskjuəs məʊd/",
       "meaning": "混杂模式",
-      "example": "We need the promiscuous mode before go-live.",
-      "exampleZh": "上线前我们需要这个混杂模式。",
+      "example": "The ward asked us to check the promiscuous mode.",
+      "exampleZh": "病区让我们看一下这个混杂模式。",
       "category": "it"
     },
     {
       "word": "forged transmit",
       "phonetic": "/fɔːdʒd trænzˈmɪt/",
       "meaning": "伪造发送",
-      "example": "Please review the forged transmit after the patch.",
-      "exampleZh": "打补丁后请审阅这个伪造发送。",
+      "example": "Please test the forged transmit on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个伪造发送。",
       "category": "it"
     },
     {
       "word": "MAC change",
       "phonetic": "/mæk tʃeɪndʒ/",
       "meaning": "网卡地址更改",
-      "example": "Who supports this MAC change?",
-      "exampleZh": "谁支持这个网卡地址更改？",
+      "example": "Who is on call for the MAC change this week?",
+      "exampleZh": "这周这个网卡地址更改谁值班？",
       "category": "it"
     },
     {
       "word": "port group",
       "phonetic": "/pɔːt ɡruːp/",
       "meaning": "端口组",
-      "example": "Please review the port group after the patch.",
-      "exampleZh": "打补丁后请审阅这个端口组。",
+      "example": "Who is on call for the port group this week?",
+      "exampleZh": "这周这个端口组谁值班？",
       "category": "it"
     }
   ]

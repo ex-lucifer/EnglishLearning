@@ -5,80 +5,80 @@
       "word": "hire",
       "phonetic": "/ˈhaɪə/",
       "meaning": "招聘",
-      "example": "Let's hire this first.",
-      "exampleZh": "我们先招聘这个吧。",
+      "example": "We need to hire a weekend cover this month.",
+      "exampleZh": "这个月得招一个周末顶班。",
       "category": "office"
     },
     {
       "word": "recruit",
       "phonetic": "/rɪˈkruːt/",
       "meaning": "招募",
-      "example": "We need to recruit this by Friday.",
-      "exampleZh": "我们周五前需要招募这个。",
+      "example": "Please recruit two super users for the ward.",
+      "exampleZh": "请给病区招募两名骨干用户。",
       "category": "office"
     },
     {
       "word": "nominate",
       "phonetic": "/ˈnɒmɪneɪt/",
       "meaning": "提名",
-      "example": "Can you nominate it today?",
-      "exampleZh": "你今天能提名一下吗？",
+      "example": "Nominate one person from each unit.",
+      "exampleZh": "每个单元请提名一人。",
       "category": "office"
     },
     {
       "word": "appoint",
       "phonetic": "/əˈpɔɪnt/",
       "meaning": "任命",
-      "example": "I will appoint it after the meeting.",
-      "exampleZh": "会后我会任命它。",
+      "example": "The director will appoint an acting lead.",
+      "exampleZh": "主任会任命一位代理组长。",
       "category": "office"
     },
     {
       "word": "promote",
       "phonetic": "/prəˈməʊt/",
       "meaning": "晋升",
-      "example": "Can you promote it today?",
-      "exampleZh": "你今天能晋升一下吗？",
+      "example": "They will promote her after the review.",
+      "exampleZh": "考核后会晋升她。",
       "category": "office"
     },
     {
       "word": "U space",
       "phonetic": "/juː speɪs/",
       "meaning": "机柜高度单位",
-      "example": "Please review the U space after the patch.",
-      "exampleZh": "打补丁后请审阅这个机柜高度单位。",
+      "example": "We will verify the U space after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个机柜高度单位。",
       "category": "it"
     },
     {
       "word": "KVM",
       "phonetic": "/ˌkeɪ viː ˈem/",
-      "meaning": "键盘视频鼠标切换",
-      "example": "The KVM is slow this morning.",
-      "exampleZh": "今天早上 KVM 很慢。",
+      "meaning": "键盘视频鼠标切换（Keyboard Video Mouse）",
+      "example": "The KVM (Keyboard Video Mouse) alarm went off.",
+      "exampleZh": "KVM（Keyboard Video Mouse）告警响了。",
       "category": "it"
     },
     {
       "word": "console cable",
       "phonetic": "/ˈkɒnsəʊl ˈkeɪbl/",
       "meaning": "控制台线",
-      "example": "We need the console cable before go-live.",
-      "exampleZh": "上线前我们需要这个控制台线。",
+      "example": "The ward asked us to check the console cable.",
+      "exampleZh": "病区让我们看一下这个控制台线。",
       "category": "it"
     },
     {
       "word": "serial console",
       "phonetic": "/ˈsɪəriəl ˈkɒnsəʊl/",
       "meaning": "串口控制台",
-      "example": "The serial console is in production.",
-      "exampleZh": "这个串口控制台已在生产环境。",
+      "example": "Who is on call for the serial console this week?",
+      "exampleZh": "这周这个串口控制台谁值班？",
       "category": "it"
     },
     {
       "word": "IPMI",
       "phonetic": "/ˌaɪ piː em ˈaɪ/",
-      "meaning": "服务器底板管理",
-      "example": "The IPMI is slow this morning.",
-      "exampleZh": "今天早上 IPMI 很慢。",
+      "meaning": "服务器底板管理（Intelligent Platform Management Interface）",
+      "example": "Do not restart IPMI (Intelligent Platform Management Interface) during morning rounds.",
+      "exampleZh": "早交班时段不要重启 IPMI（Intelligent Platform Management Interface）。",
       "category": "it"
     }
   ]

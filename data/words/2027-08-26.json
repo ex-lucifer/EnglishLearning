@@ -44,41 +44,41 @@
     {
       "word": "DoT",
       "phonetic": "/dɒt/",
-      "meaning": "加密域名传输",
-      "example": "The DoT is slow this morning.",
-      "exampleZh": "今天早上 DoT 很慢。",
+      "meaning": "加密域名传输（DNS over TLS）",
+      "example": "Enable DoT (DNS over TLS) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 DoT（DNS over TLS）。",
       "category": "it"
     },
     {
       "word": "split DNS",
       "phonetic": "/splɪt ˌdiː en ˈes/",
       "meaning": "内外域名分离",
-      "example": "Please check the split DNS.",
-      "exampleZh": "请检查一下这个内外域名分离。",
+      "example": "The vendor asked for a screenshot of the split DNS.",
+      "exampleZh": "厂商要一张这个内外域名分离的截图。",
       "category": "it"
     },
     {
       "word": "internal zone",
       "phonetic": "/ɪnˈtɜːnl zəʊn/",
       "meaning": "内网区域",
-      "example": "Please check the internal zone.",
-      "exampleZh": "请检查一下这个内网区域。",
+      "example": "The ward asked us to check the internal zone.",
+      "exampleZh": "病区让我们看一下这个内网区域。",
       "category": "it"
     },
     {
       "word": "external zone",
       "phonetic": "/ɪkˈstɜːnl zəʊn/",
       "meaning": "外网区域",
-      "example": "Who supports this external zone?",
-      "exampleZh": "谁支持这个外网区域？",
+      "example": "We will verify the external zone after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个外网区域。",
       "category": "it"
     },
     {
       "word": "reverse zone",
       "phonetic": "/rɪˈvɜːs zəʊn/",
       "meaning": "反向区域",
-      "example": "Who supports this reverse zone?",
-      "exampleZh": "谁支持这个反向区域？",
+      "example": "Do not touch the reverse zone during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个反向区域。",
       "category": "it"
     }
   ]

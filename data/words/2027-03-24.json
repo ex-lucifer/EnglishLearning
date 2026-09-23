@@ -5,80 +5,80 @@
       "word": "privacy notice",
       "phonetic": "/ˈprɪvəsi ˈnəʊtɪs/",
       "meaning": "隐私告知",
-      "example": "Please share the privacy notice after the meeting.",
-      "exampleZh": "会后请分享这个隐私告知。",
+      "example": "Could you send the privacy notice to the project group?",
+      "exampleZh": "你能把隐私告知发到项目群吗？",
       "category": "office"
     },
     {
       "word": "data request",
       "phonetic": "/ˈdeɪtə rɪˈkwest/",
       "meaning": "数据申请",
-      "example": "Please review the data request.",
-      "exampleZh": "请审阅一下这个数据申请。",
+      "example": "Please add the data request to today’s notes.",
+      "exampleZh": "请把数据申请写进今天的记录。",
       "category": "office"
     },
     {
       "word": "access request",
       "phonetic": "/ˈækses rɪˈkwest/",
       "meaning": "权限申请",
-      "example": "Please review the access request.",
-      "exampleZh": "请审阅一下这个权限申请。",
+      "example": "I put the access request on the shared drive.",
+      "exampleZh": "我把权限申请放到了共享盘。",
       "category": "office"
     },
     {
       "word": "change request",
       "phonetic": "/tʃeɪndʒ rɪˈkwest/",
       "meaning": "变更申请",
-      "example": "I updated the change request this morning.",
-      "exampleZh": "我今天早上更新了这个变更申请。",
+      "example": "We talked about the change request with the department head.",
+      "exampleZh": "我们和科主任谈了这个变更申请。",
       "category": "office"
     },
     {
       "word": "service request",
       "phonetic": "/ˈsɜːvɪs rɪˈkwest/",
       "meaning": "服务申请",
-      "example": "Who is handling the service request?",
-      "exampleZh": "谁在处理这个服务申请？",
+      "example": "We talked about the service request with the department head.",
+      "exampleZh": "我们和科主任谈了这个服务申请。",
       "category": "office"
     },
     {
       "word": "tablet",
       "phonetic": "/ˈtæblɪt/",
       "meaning": "平板",
-      "example": "We need the tablet before go-live.",
-      "exampleZh": "上线前我们需要这个平板。",
+      "example": "I logged the tablet in today’s change ticket.",
+      "exampleZh": "我把这个平板记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "smartphone",
       "phonetic": "/ˈsmɑːtfəʊn/",
       "meaning": "智能手机",
-      "example": "Please review the smartphone after the patch.",
-      "exampleZh": "打补丁后请审阅这个智能手机。",
+      "example": "I logged the smartphone in today’s change ticket.",
+      "exampleZh": "我把这个智能手机记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "pager",
       "phonetic": "/ˈpeɪdʒə/",
       "meaning": "传呼机",
-      "example": "The pager is in production.",
-      "exampleZh": "这个传呼机已在生产环境。",
+      "example": "Please test the pager on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个传呼机。",
       "category": "it"
     },
     {
       "word": "VoIP",
       "phonetic": "/vɔɪp/",
-      "meaning": "网络电话",
-      "example": "The VoIP is slow this morning.",
-      "exampleZh": "今天早上 VoIP 很慢。",
+      "meaning": "网络电话（Voice over Internet Protocol）",
+      "example": "The ward called because VoIP (Voice over Internet Protocol) would not open.",
+      "exampleZh": "病区来电，说 VoIP（Voice over Internet Protocol）打不开。",
       "category": "it"
     },
     {
       "word": "SIP",
       "phonetic": "/sɪp/",
-      "meaning": "会话启动协议",
-      "example": "The SIP is slow this morning.",
-      "exampleZh": "今天早上 SIP 很慢。",
+      "meaning": "会话启动协议（Session Initiation Protocol）",
+      "example": "We use SIP (Session Initiation Protocol) for this integration.",
+      "exampleZh": "这条集成用的是 SIP（Session Initiation Protocol）。",
       "category": "it"
     }
   ]

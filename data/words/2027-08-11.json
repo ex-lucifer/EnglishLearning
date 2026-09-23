@@ -45,40 +45,40 @@
       "word": "failover order",
       "phonetic": "/ˈfeɪləʊvə ˈɔːdə/",
       "meaning": "故障切换顺序",
-      "example": "The failover order is in production.",
-      "exampleZh": "这个故障切换顺序已在生产环境。",
+      "example": "Please test the failover order on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个故障切换顺序。",
       "category": "it"
     },
     {
       "word": "beacon probing",
       "phonetic": "/ˈbiːkən ˈprəʊbɪŋ/",
       "meaning": "信标探测",
-      "example": "Please check the beacon probing.",
-      "exampleZh": "请检查一下这个信标探测。",
+      "example": "Who is on call for the beacon probing this week?",
+      "exampleZh": "这周这个信标探测谁值班？",
       "category": "it"
     },
     {
       "word": "network isolation",
       "phonetic": "/ˈnetwɜːk ˌaɪsəˈleɪʃn/",
       "meaning": "网络隔离",
-      "example": "We need the network isolation before go-live.",
-      "exampleZh": "上线前我们需要这个网络隔离。",
+      "example": "I logged the network isolation in today’s change ticket.",
+      "exampleZh": "我把这个网络隔离记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "microsegmentation",
       "phonetic": "/ˈmaɪkrəʊˌseɡmənˈteɪʃn/",
       "meaning": "微分段",
-      "example": "We need the microsegmentation before go-live.",
-      "exampleZh": "上线前我们需要这个微分段。",
+      "example": "The ward asked us to check the microsegmentation.",
+      "exampleZh": "病区让我们看一下这个微分段。",
       "category": "it"
     },
     {
       "word": "distributed firewall",
       "phonetic": "/dɪˈstrɪbjuːtɪd ˈfaɪəwɔːl/",
       "meaning": "分布式防火墙",
-      "example": "We need the distributed firewall before go-live.",
-      "exampleZh": "上线前我们需要这个分布式防火墙。",
+      "example": "The ward asked us to check the distributed firewall.",
+      "exampleZh": "病区让我们看一下这个分布式防火墙。",
       "category": "it"
     }
   ]

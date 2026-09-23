@@ -5,16 +5,16 @@
       "word": "reachable",
       "phonetic": "/ˈriːtʃəbl/",
       "meaning": "能联系到的",
-      "example": "Please keep this reachable.",
-      "exampleZh": "请保持能联系到的。",
+      "example": "Keep a reachable number on the duty log.",
+      "exampleZh": "值班日志上请留一个能打通的号码。",
       "category": "office"
     },
     {
       "word": "unreachable",
       "phonetic": "/ʌnˈriːtʃəbl/",
       "meaning": "联系不上的",
-      "example": "This request is unreachable.",
-      "exampleZh": "这个请求是联系不上的的。",
+      "example": "The vendor was unreachable after five.",
+      "exampleZh": "五点后厂商联系不上。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "sunset date",
       "phonetic": "/ˈsʌnset deɪt/",
       "meaning": "下线日期",
-      "example": "Please check the sunset date.",
-      "exampleZh": "请检查一下这个下线日期。",
+      "example": "The vendor asked for a screenshot of the sunset date.",
+      "exampleZh": "厂商要一张这个下线日期的截图。",
       "category": "it"
     },
     {
       "word": "feature toggle",
       "phonetic": "/ˈfiːtʃə ˈtɒɡl/",
       "meaning": "功能开关",
-      "example": "Please review the feature toggle after the patch.",
-      "exampleZh": "打补丁后请审阅这个功能开关。",
+      "example": "Do not touch the feature toggle during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个功能开关。",
       "category": "it"
     },
     {
       "word": "dark launch",
       "phonetic": "/dɑːk lɔːntʃ/",
       "meaning": "暗发布",
-      "example": "Please review the dark launch after the patch.",
-      "exampleZh": "打补丁后请审阅这个暗发布。",
+      "example": "We will verify the dark launch after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个暗发布。",
       "category": "it"
     },
     {
       "word": "canary host",
       "phonetic": "/ˈkænəri həʊst/",
       "meaning": "金丝雀主机",
-      "example": "We need the canary host before go-live.",
-      "exampleZh": "上线前我们需要这个金丝雀主机。",
+      "example": "Do not touch the canary host during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个金丝雀主机。",
       "category": "it"
     },
     {
       "word": "blue environment",
       "phonetic": "/bluː ɪnˈvaɪrənmənt/",
       "meaning": "蓝色环境",
-      "example": "Please review the blue environment after the patch.",
-      "exampleZh": "打补丁后请审阅这个蓝色环境。",
+      "example": "The vendor asked for a screenshot of the blue environment.",
+      "exampleZh": "厂商要一张这个蓝色环境的截图。",
       "category": "it"
     }
   ]

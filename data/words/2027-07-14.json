@@ -5,80 +5,80 @@
       "word": "title",
       "phonetic": "/ˈtaɪtl/",
       "meaning": "职务名称",
-      "example": "I updated the title this morning.",
-      "exampleZh": "我今天早上更新了这个职务名称。",
+      "example": "Could you send the title to the project group?",
+      "exampleZh": "你能把职务名称发到项目群吗？",
       "category": "office"
     },
     {
       "word": "reporting line",
       "phonetic": "/rɪˈpɔːtɪŋ laɪn/",
       "meaning": "汇报关系",
-      "example": "Please review the reporting line.",
-      "exampleZh": "请审阅一下这个汇报关系。",
+      "example": "We talked about the reporting line with the department head.",
+      "exampleZh": "我们和科主任谈了这个汇报关系。",
       "category": "office"
     },
     {
       "word": "dotted line",
       "phonetic": "/ˈdɒtɪd laɪn/",
       "meaning": "虚线汇报",
-      "example": "The dotted line is ready for review.",
-      "exampleZh": "这个虚线汇报已经可以审阅了。",
+      "example": "Could you send the dotted line to the project group?",
+      "exampleZh": "你能把虚线汇报发到项目群吗？",
       "category": "office"
     },
     {
       "word": "solid line",
       "phonetic": "/ˈsɒlɪd laɪn/",
       "meaning": "实线汇报",
-      "example": "Please share the solid line after the meeting.",
-      "exampleZh": "会后请分享这个实线汇报。",
+      "example": "I put the solid line on the shared drive.",
+      "exampleZh": "我把实线汇报放到了共享盘。",
       "category": "office"
     },
     {
       "word": "span of control",
       "phonetic": "/spæn əv kənˈtrəʊl/",
       "meaning": "管理幅度",
-      "example": "Please review the span of control.",
-      "exampleZh": "请审阅一下这个管理幅度。",
+      "example": "We talked about the span of control with the department head.",
+      "exampleZh": "我们和科主任谈了这个管理幅度。",
       "category": "office"
     },
     {
       "word": "degraded array",
       "phonetic": "/dɪˈɡreɪdɪd əˈreɪ/",
       "meaning": "降级阵列",
-      "example": "The degraded array is in production.",
-      "exampleZh": "这个降级阵列已在生产环境。",
+      "example": "Who is on call for the degraded array this week?",
+      "exampleZh": "这周这个降级阵列谁值班？",
       "category": "it"
     },
     {
       "word": "failed disk",
       "phonetic": "/feɪld dɪsk/",
       "meaning": "故障磁盘",
-      "example": "Who supports this failed disk?",
-      "exampleZh": "谁支持这个故障磁盘？",
+      "example": "Do not touch the failed disk during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个故障磁盘。",
       "category": "it"
     },
     {
       "word": "predictive failure",
       "phonetic": "/prɪˈdɪktɪv ˈfeɪljə/",
       "meaning": "预警故障",
-      "example": "The predictive failure is in production.",
-      "exampleZh": "这个预警故障已在生产环境。",
+      "example": "We will verify the predictive failure after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个预警故障。",
       "category": "it"
     },
     {
       "word": "SMART",
       "phonetic": "/smɑːt/",
-      "meaning": "磁盘健康监测",
-      "example": "The SMART is slow this morning.",
-      "exampleZh": "今天早上 SMART 很慢。",
+      "meaning": "磁盘健康监测（Self-Monitoring, Analysis and Reporting Technology）",
+      "example": "Do not move the SMART (Self-Monitoring, Analysis and Reporting Technology) during outpatient hours.",
+      "exampleZh": "门诊时段不要挪动 SMART（Self-Monitoring, Analysis and Reporting Technology）。",
       "category": "it"
     },
     {
       "word": "bad sector",
       "phonetic": "/bæd ˈsektə/",
       "meaning": "坏扇区",
-      "example": "Please check the bad sector.",
-      "exampleZh": "请检查一下这个坏扇区。",
+      "example": "Do not touch the bad sector during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个坏扇区。",
       "category": "it"
     }
   ]

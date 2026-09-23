@@ -44,41 +44,41 @@
     {
       "word": "LLMNR",
       "phonetic": "/ˌel el em en ˈɑː/",
-      "meaning": "本地链路名称解析",
-      "example": "The LLMNR is slow this morning.",
-      "exampleZh": "今天早上 LLMNR 很慢。",
+      "meaning": "本地链路名称解析（Link-Local Multicast Name Resolution）",
+      "example": "Enable LLMNR (Link-Local Multicast Name Resolution) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 LLMNR（Link-Local Multicast Name Resolution）。",
       "category": "it"
     },
     {
       "word": "NetBIOS",
       "phonetic": "/net ˈbaɪɒs/",
       "meaning": "网上基本输入输出",
-      "example": "Please check the NetBIOS.",
-      "exampleZh": "请检查一下这个网上基本输入输出。",
+      "example": "Please test the NetBIOS on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个网上基本输入输出。",
       "category": "it"
     },
     {
       "word": "WINS",
       "phonetic": "/wɪnz/",
-      "meaning": "Windows名称服务",
-      "example": "The WINS is slow this morning.",
-      "exampleZh": "今天早上 WINS 很慢。",
+      "meaning": "Windows名称服务（Windows Internet Name Service）",
+      "example": "Document WINS (Windows Internet Name Service) in the interface spec.",
+      "exampleZh": "接口说明里请写上 WINS（Windows Internet Name Service）。",
       "category": "it"
     },
     {
       "word": "name resolution",
       "phonetic": "/neɪm ˌrezəˈluːʃn/",
       "meaning": "名称解析",
-      "example": "We need the name resolution before go-live.",
-      "exampleZh": "上线前我们需要这个名称解析。",
+      "example": "Who is on call for the name resolution this week?",
+      "exampleZh": "这周这个名称解析谁值班？",
       "category": "it"
     },
     {
       "word": "split-brain DNS",
       "phonetic": "/splɪt breɪn ˌdiː en ˈes/",
       "meaning": "脑裂域名",
-      "example": "We need the split-brain DNS before go-live.",
-      "exampleZh": "上线前我们需要这个脑裂域名。",
+      "example": "We will verify the split-brain DNS after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个脑裂域名。",
       "category": "it"
     }
   ]

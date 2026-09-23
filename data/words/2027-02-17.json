@@ -5,80 +5,80 @@
       "word": "distribute",
       "phonetic": "/dɪˈstrɪbjuːt/",
       "meaning": "分发",
-      "example": "Please distribute this before noon.",
-      "exampleZh": "请在中午前分发这个。",
+      "example": "Who will distribute this after the huddle?",
+      "exampleZh": "晨会后谁来分发？",
       "category": "office"
     },
     {
       "word": "notify",
       "phonetic": "/ˈnəʊtɪfaɪ/",
       "meaning": "通知",
-      "example": "Please notify this before noon.",
-      "exampleZh": "请在中午前通知这个。",
+      "example": "Who will notify this after the huddle?",
+      "exampleZh": "晨会后谁来通知？",
       "category": "office"
     },
     {
       "word": "inform",
       "phonetic": "/ɪnˈfɔːm/",
       "meaning": "告知",
-      "example": "Can you inform it today?",
-      "exampleZh": "你今天能告知一下吗？",
+      "example": "Who will inform this after the huddle?",
+      "exampleZh": "晨会后谁来告知？",
       "category": "office"
     },
     {
       "word": "request",
       "phonetic": "/rɪˈkwest/",
       "meaning": "申请",
-      "example": "I will request it after the meeting.",
-      "exampleZh": "会后我会申请它。",
+      "example": "Can you request it today?",
+      "exampleZh": "你今天能把它申请吗？",
       "category": "office"
     },
     {
       "word": "submit",
       "phonetic": "/səbˈmɪt/",
       "meaning": "提交",
-      "example": "Please submit this before noon.",
-      "exampleZh": "请在中午前提交这个。",
+      "example": "We still need to submit this.",
+      "exampleZh": "这件事还得提交。",
       "category": "office"
     },
     {
       "word": "emergency change",
       "phonetic": "/ɪˈmɜːdʒənsi tʃeɪndʒ/",
       "meaning": "紧急变更",
-      "example": "We need the emergency change before go-live.",
-      "exampleZh": "上线前我们需要这个紧急变更。",
+      "example": "I logged the emergency change in today’s change ticket.",
+      "exampleZh": "我把这个紧急变更记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "standard change",
       "phonetic": "/ˈstændəd tʃeɪndʒ/",
       "meaning": "标准变更",
-      "example": "Who supports this standard change?",
-      "exampleZh": "谁支持这个标准变更？",
+      "example": "The ward asked us to check the standard change.",
+      "exampleZh": "病区让我们看一下这个标准变更。",
       "category": "it"
     },
     {
       "word": "normal change",
       "phonetic": "/ˈnɔːml tʃeɪndʒ/",
       "meaning": "常规变更",
-      "example": "Please check the normal change.",
-      "exampleZh": "请检查一下这个常规变更。",
+      "example": "The vendor asked for a screenshot of the normal change.",
+      "exampleZh": "厂商要一张这个常规变更的截图。",
       "category": "it"
     },
     {
       "word": "change freeze",
       "phonetic": "/tʃeɪndʒ friːz/",
       "meaning": "变更冻结",
-      "example": "Please review the change freeze after the patch.",
-      "exampleZh": "打补丁后请审阅这个变更冻结。",
+      "example": "The vendor asked for a screenshot of the change freeze.",
+      "exampleZh": "厂商要一张这个变更冻结的截图。",
       "category": "it"
     },
     {
       "word": "release train",
       "phonetic": "/rɪˈliːs treɪn/",
       "meaning": "发布列车",
-      "example": "We need the release train before go-live.",
-      "exampleZh": "上线前我们需要这个发布列车。",
+      "example": "Please test the release train on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个发布列车。",
       "category": "it"
     }
   ]

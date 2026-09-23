@@ -5,80 +5,80 @@
       "word": "filing",
       "phonetic": "/ˈfaɪlɪŋ/",
       "meaning": "归档装订",
-      "example": "Who is handling the filing?",
-      "exampleZh": "谁在处理这个归档装订？",
+      "example": "I put the filing on the shared drive.",
+      "exampleZh": "我把归档装订放到了共享盘。",
       "category": "office"
     },
     {
       "word": "folder",
       "phonetic": "/ˈfəʊldə/",
       "meaning": "文件夹目录",
-      "example": "I updated the folder this morning.",
-      "exampleZh": "我今天早上更新了这个文件夹目录。",
+      "example": "Please bring the folder to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个文件夹目录。",
       "category": "office"
     },
     {
       "word": "version",
       "phonetic": "/ˈvɜːʃn/",
       "meaning": "版本",
-      "example": "Please share the version after the meeting.",
-      "exampleZh": "会后请分享这个版本。",
+      "example": "Please add the version to today’s notes.",
+      "exampleZh": "请把版本写进今天的记录。",
       "category": "office"
     },
     {
       "word": "final copy",
       "phonetic": "/ˈfaɪnl ˈkɒpi/",
       "meaning": "终稿",
-      "example": "Please share the final copy after the meeting.",
-      "exampleZh": "会后请分享这个终稿。",
+      "example": "Please add the final copy to today’s notes.",
+      "exampleZh": "请把终稿写进今天的记录。",
       "category": "office"
     },
     {
       "word": "tracked changes",
       "phonetic": "/trækt ˈtʃeɪndʒɪz/",
       "meaning": "修订痕迹",
-      "example": "I updated the tracked changes this morning.",
-      "exampleZh": "我今天早上更新了这个修订痕迹。",
+      "example": "We talked about the tracked changes with the department head.",
+      "exampleZh": "我们和科主任谈了这个修订痕迹。",
       "category": "office"
     },
     {
       "word": "changelog",
       "phonetic": "/ˈtʃeɪndʒlɒɡ/",
       "meaning": "变更日志",
-      "example": "Please check the changelog.",
-      "exampleZh": "请检查一下这个变更日志。",
+      "example": "Do not touch the changelog during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个变更日志。",
       "category": "it"
     },
     {
       "word": "version tag",
       "phonetic": "/ˈvɜːʃn tæɡ/",
       "meaning": "版本标签",
-      "example": "Who supports this version tag?",
-      "exampleZh": "谁支持这个版本标签？",
+      "example": "Do not touch the version tag during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个版本标签。",
       "category": "it"
     },
     {
       "word": "branch",
       "phonetic": "/brɑːntʃ/",
       "meaning": "代码分支",
-      "example": "The branch is in production.",
-      "exampleZh": "这个代码分支已在生产环境。",
+      "example": "The vendor asked for a screenshot of the branch.",
+      "exampleZh": "厂商要一张这个代码分支的截图。",
       "category": "it"
     },
     {
       "word": "commit",
       "phonetic": "/kəˈmɪt/",
       "meaning": "提交记录",
-      "example": "Please review the commit after the patch.",
-      "exampleZh": "打补丁后请审阅这个提交记录。",
+      "example": "We will verify the commit after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个提交记录。",
       "category": "it"
     },
     {
       "word": "merge",
       "phonetic": "/mɜːdʒ/",
       "meaning": "合并代码",
-      "example": "I will merge it after the meeting.",
-      "exampleZh": "会后我会合并代码它。",
+      "example": "Please merge the hotfix after UAT passes.",
+      "exampleZh": "UAT 通过后再合并这个热修复。",
       "category": "it"
     }
   ]

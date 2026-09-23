@@ -5,80 +5,80 @@
       "word": "code of conduct",
       "phonetic": "/kəʊd əv ˈkɒndʌkt/",
       "meaning": "行为规范",
-      "example": "Who is handling the code of conduct?",
-      "exampleZh": "谁在处理这个行为规范？",
+      "example": "I put the code of conduct on the shared drive.",
+      "exampleZh": "我把行为规范放到了共享盘。",
       "category": "office"
     },
     {
       "word": "conflict of interest",
       "phonetic": "/ˈkɒnflɪkt əv ˈɪntrəst/",
       "meaning": "利益冲突",
-      "example": "Please share the conflict of interest after the meeting.",
-      "exampleZh": "会后请分享这个利益冲突。",
+      "example": "Please add the conflict of interest to today’s notes.",
+      "exampleZh": "请把利益冲突写进今天的记录。",
       "category": "office"
     },
     {
       "word": "declaration",
       "phonetic": "/ˌdekləˈreɪʃn/",
       "meaning": "申报声明",
-      "example": "The declaration is ready for review.",
-      "exampleZh": "这个申报声明已经可以审阅了。",
+      "example": "I put the declaration on the shared drive.",
+      "exampleZh": "我把申报声明放到了共享盘。",
       "category": "office"
     },
     {
       "word": "confidentiality",
       "phonetic": "/ˌkɒnfɪˌdenʃiˈæləti/",
       "meaning": "保密义务",
-      "example": "Please share the confidentiality after the meeting.",
-      "exampleZh": "会后请分享这个保密义务。",
+      "example": "The confidentiality still needs a decision today.",
+      "exampleZh": "这个保密义务今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "non-disclosure",
       "phonetic": "/nɒn dɪsˈkləʊʒə/",
       "meaning": "保密约定",
-      "example": "Please review the non-disclosure.",
-      "exampleZh": "请审阅一下这个保密约定。",
+      "example": "I put the non-disclosure on the shared drive.",
+      "exampleZh": "我把保密约定放到了共享盘。",
       "category": "office"
     },
     {
       "word": "SCCM",
       "phonetic": "/ˌes siː siː ˈem/",
-      "meaning": "系统中心配置管理",
-      "example": "The SCCM is slow this morning.",
-      "exampleZh": "今天早上 SCCM 很慢。",
+      "meaning": "系统中心配置管理（System Center Configuration Manager）",
+      "example": "Please write SCCM in full — System Center Configuration Manager — on the change form.",
+      "exampleZh": "变更单上请写全称：SCCM（System Center Configuration Manager）。",
       "category": "it"
     },
     {
       "word": "Intune",
       "phonetic": "/ˈɪntjuːn/",
       "meaning": "云端设备管理",
-      "example": "The Intune is in production.",
-      "exampleZh": "这个云端设备管理已在生产环境。",
+      "example": "We will verify the Intune after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个云端设备管理。",
       "category": "it"
     },
     {
       "word": "MDM",
       "phonetic": "/ˌem diː ˈem/",
-      "meaning": "移动设备管理",
-      "example": "The MDM is slow this morning.",
-      "exampleZh": "今天早上 MDM 很慢。",
+      "meaning": "移动设备管理（Mobile Device Management）",
+      "example": "Please write MDM in full — Mobile Device Management — on the change form.",
+      "exampleZh": "变更单上请写全称：MDM（Mobile Device Management）。",
       "category": "it"
     },
     {
       "word": "BYOD",
       "phonetic": "/ˌbiː waɪ əʊ ˈdiː/",
-      "meaning": "自带设备",
-      "example": "The BYOD is slow this morning.",
-      "exampleZh": "今天早上 BYOD 很慢。",
+      "meaning": "自带设备（Bring Your Own Device）",
+      "example": "This device is not BYOD (Bring Your Own Device) approved.",
+      "exampleZh": "这台设备不符合 BYOD（Bring Your Own Device）。",
       "category": "it"
     },
     {
       "word": "mobile device",
       "phonetic": "/ˈməʊbaɪl dɪˈvaɪs/",
       "meaning": "移动设备",
-      "example": "Please review the mobile device after the patch.",
-      "exampleZh": "打补丁后请审阅这个移动设备。",
+      "example": "Please test the mobile device on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个移动设备。",
       "category": "it"
     }
   ]

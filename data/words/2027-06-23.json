@@ -5,80 +5,80 @@
       "word": "citation",
       "phonetic": "/saɪˈteɪʃn/",
       "meaning": "嘉奖",
-      "example": "Who is handling the citation?",
-      "exampleZh": "谁在处理这个嘉奖？",
+      "example": "The citation still needs a decision today.",
+      "exampleZh": "这个嘉奖今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "warning letter",
       "phonetic": "/ˈwɔːnɪŋ ˈletə/",
       "meaning": "警告信",
-      "example": "I updated the warning letter this morning.",
-      "exampleZh": "我今天早上更新了这个警告信。",
+      "example": "Please bring the warning letter to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个警告信。",
       "category": "office"
     },
     {
       "word": "verbal warning",
       "phonetic": "/ˈvɜːbl ˈwɔːnɪŋ/",
       "meaning": "口头警告",
-      "example": "The verbal warning is ready for review.",
-      "exampleZh": "这个口头警告已经可以审阅了。",
+      "example": "Please add the verbal warning to today’s notes.",
+      "exampleZh": "请把口头警告写进今天的记录。",
       "category": "office"
     },
     {
       "word": "written warning",
       "phonetic": "/ˈrɪtn ˈwɔːnɪŋ/",
       "meaning": "书面警告",
-      "example": "I updated the written warning this morning.",
-      "exampleZh": "我今天早上更新了这个书面警告。",
+      "example": "I put the written warning on the shared drive.",
+      "exampleZh": "我把书面警告放到了共享盘。",
       "category": "office"
     },
     {
       "word": "counseling note",
       "phonetic": "/ˈkaʊnsəlɪŋ nəʊt/",
       "meaning": "约谈记录",
-      "example": "The counseling note is ready for review.",
-      "exampleZh": "这个约谈记录已经可以审阅了。",
+      "example": "I put the counseling note on the shared drive.",
+      "exampleZh": "我把约谈记录放到了共享盘。",
       "category": "office"
     },
     {
       "word": "allow exception",
       "phonetic": "/əˈlaʊ ɪkˈsepʃn/",
       "meaning": "放行例外",
-      "example": "Who supports this allow exception?",
-      "exampleZh": "谁支持这个放行例外？",
+      "example": "The ward asked us to check the allow exception.",
+      "exampleZh": "病区让我们看一下这个放行例外。",
       "category": "it"
     },
     {
       "word": "block hash",
       "phonetic": "/blɒk hæʃ/",
       "meaning": "按哈希拦截",
-      "example": "Who supports this block hash?",
-      "exampleZh": "谁支持这个按哈希拦截？",
+      "example": "Who is on call for the block hash this week?",
+      "exampleZh": "这周这个按哈希拦截谁值班？",
       "category": "it"
     },
     {
       "word": "block path",
       "phonetic": "/blɒk pɑːθ/",
       "meaning": "按路径拦截",
-      "example": "The block path is in production.",
-      "exampleZh": "这个按路径拦截已在生产环境。",
+      "example": "I logged the block path in today’s change ticket.",
+      "exampleZh": "我把这个按路径拦截记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "block publisher",
       "phonetic": "/blɒk ˈpʌblɪʃə/",
       "meaning": "按发布者拦截",
-      "example": "Please check the block publisher.",
-      "exampleZh": "请检查一下这个按发布者拦截。",
+      "example": "Who is on call for the block publisher this week?",
+      "exampleZh": "这周这个按发布者拦截谁值班？",
       "category": "it"
     },
     {
       "word": "code signing",
       "phonetic": "/kəʊd ˈsaɪnɪŋ/",
       "meaning": "代码签名",
-      "example": "Please review the code signing after the patch.",
-      "exampleZh": "打补丁后请审阅这个代码签名。",
+      "example": "Do not touch the code signing during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个代码签名。",
       "category": "it"
     }
   ]

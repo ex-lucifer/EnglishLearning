@@ -5,80 +5,80 @@
       "word": "webinar",
       "phonetic": "/ˈwebɪnɑː/",
       "meaning": "网络研讨会",
-      "example": "Please share the webinar after the meeting.",
-      "exampleZh": "会后请分享这个网络研讨会。",
+      "example": "The webinar still needs a decision today.",
+      "exampleZh": "这个网络研讨会今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "conference call",
       "phonetic": "/ˈkɒnfərəns kɔːl/",
       "meaning": "电话会议",
-      "example": "Who is handling the conference call?",
-      "exampleZh": "谁在处理这个电话会议？",
+      "example": "Who will own the conference call this week?",
+      "exampleZh": "这周这个电话会议谁来负责？",
       "category": "office"
     },
     {
       "word": "dial-in",
       "phonetic": "/ˈdaɪəl ɪn/",
       "meaning": "拨入号",
-      "example": "Please share the dial-in after the meeting.",
-      "exampleZh": "会后请分享这个拨入号。",
+      "example": "Could you send the dial-in to the project group?",
+      "exampleZh": "你能把拨入号发到项目群吗？",
       "category": "office"
     },
     {
       "word": "mute",
       "phonetic": "/mjuːt/",
       "meaning": "静音",
-      "example": "I will mute it after the meeting.",
-      "exampleZh": "会后我会静音它。",
+      "example": "Please mute your microphone during the webinar.",
+      "exampleZh": "开网络研讨会时请把麦克风静音。",
       "category": "office"
     },
     {
       "word": "unmute",
       "phonetic": "/ʌnˈmjuːt/",
       "meaning": "取消静音",
-      "example": "Please unmute this before noon.",
-      "exampleZh": "请在中午前取消静音这个。",
+      "example": "Unmute only when you need to speak.",
+      "exampleZh": "只有轮到你说话时再取消静音。",
       "category": "office"
     },
     {
       "word": "ICD-10",
       "phonetic": "/ˌaɪ siː diː ˈten/",
-      "meaning": "疾病分类编码",
-      "example": "The ICD-10 is slow this morning.",
-      "exampleZh": "今天早上 ICD-10 很慢。",
+      "meaning": "疾病分类编码（International Classification of Diseases, 10th Revision）",
+      "example": "Record the ICD-10 (International Classification of Diseases, 10th Revision) before you close the change.",
+      "exampleZh": "关变更前请记下 ICD-10（International Classification of Diseases, 10th Revision）。",
       "category": "it"
     },
     {
       "word": "SNOMED",
       "phonetic": "/ˈsnəʊmed/",
-      "meaning": "临床术语标准",
-      "example": "The SNOMED is slow this morning.",
-      "exampleZh": "今天早上 SNOMED 很慢。",
+      "meaning": "临床术语标准（Systematized Nomenclature of Medicine）",
+      "example": "The report is missing a SNOMED (Systematized Nomenclature of Medicine).",
+      "exampleZh": "这份报告少了 SNOMED（Systematized Nomenclature of Medicine）。",
       "category": "it"
     },
     {
       "word": "LOINC",
       "phonetic": "/lɔɪŋk/",
-      "meaning": "检验指标编码",
-      "example": "The LOINC is slow this morning.",
-      "exampleZh": "今天早上 LOINC 很慢。",
+      "meaning": "检验指标编码（Logical Observation Identifiers Names and Codes）",
+      "example": "Can you map this item to LOINC (Logical Observation Identifiers Names and Codes)?",
+      "exampleZh": "这条能否对照到 LOINC（Logical Observation Identifiers Names and Codes）？",
       "category": "it"
     },
     {
       "word": "CPT",
       "phonetic": "/ˌsiː piː ˈtiː/",
-      "meaning": "操作编码",
-      "example": "The CPT is slow this morning.",
-      "exampleZh": "今天早上 CPT 很慢。",
+      "meaning": "操作编码（Current Procedural Terminology）",
+      "example": "Can you map this item to CPT (Current Procedural Terminology)?",
+      "exampleZh": "这条能否对照到 CPT（Current Procedural Terminology）？",
       "category": "it"
     },
     {
       "word": "DRG",
       "phonetic": "/ˌdiː ɑː ˈdʒiː/",
-      "meaning": "疾病相关分组",
-      "example": "The DRG is slow this morning.",
-      "exampleZh": "今天早上 DRG 很慢。",
+      "meaning": "疾病相关分组（Diagnosis Related Group）",
+      "example": "Please look up the DRG (Diagnosis Related Group) on this ticket.",
+      "exampleZh": "请在这张工单上查一下 DRG（Diagnosis Related Group）。",
       "category": "it"
     }
   ]

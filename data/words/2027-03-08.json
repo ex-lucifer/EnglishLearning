@@ -5,16 +5,16 @@
       "word": "translate",
       "phonetic": "/trænsˈleɪt/",
       "meaning": "翻译",
-      "example": "I will translate it after the meeting.",
-      "exampleZh": "会后我会翻译它。",
+      "example": "Please translate this before you leave.",
+      "exampleZh": "走之前请把这件事翻译。",
       "category": "office"
     },
     {
       "word": "explain",
       "phonetic": "/ɪkˈspleɪn/",
       "meaning": "解释",
-      "example": "We need to explain this by Friday.",
-      "exampleZh": "我们周五前需要解释这个。",
+      "example": "Can you explain it today?",
+      "exampleZh": "你今天能把它解释吗？",
       "category": "office"
     },
     {
@@ -22,63 +22,63 @@
       "phonetic": "/dɪˈskraɪb/",
       "meaning": "描述",
       "example": "Can you describe it today?",
-      "exampleZh": "你今天能描述一下吗？",
+      "exampleZh": "你今天能把它描述吗？",
       "category": "office"
     },
     {
       "word": "define",
       "phonetic": "/dɪˈfaɪn/",
       "meaning": "界定",
-      "example": "Let's define this first.",
-      "exampleZh": "我们先界定这个吧。",
+      "example": "Can you define it today?",
+      "exampleZh": "你今天能把它界定吗？",
       "category": "office"
     },
     {
       "word": "specify",
       "phonetic": "/ˈspesɪfaɪ/",
       "meaning": "明确",
-      "example": "Can you specify it today?",
-      "exampleZh": "你今天能明确一下吗？",
+      "example": "Who will specify this after the huddle?",
+      "exampleZh": "晨会后谁来明确？",
       "category": "office"
     },
     {
       "word": "CNAME",
       "phonetic": "/ˈsiːneɪm/",
-      "meaning": "别名记录",
-      "example": "The CNAME is slow this morning.",
-      "exampleZh": "今天早上 CNAME 很慢。",
+      "meaning": "别名记录（Canonical Name）",
+      "example": "Record the CNAME (Canonical Name) before you close the change.",
+      "exampleZh": "关变更前请记下 CNAME（Canonical Name）。",
       "category": "it"
     },
     {
       "word": "A record",
       "phonetic": "/eɪ ˈrekɔːd/",
       "meaning": "地址记录",
-      "example": "Who supports this A record?",
-      "exampleZh": "谁支持这个地址记录？",
+      "example": "We will verify the A record after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个地址记录。",
       "category": "it"
     },
     {
       "word": "MX record",
       "phonetic": "/em eks ˈrekɔːd/",
       "meaning": "邮件交换记录",
-      "example": "Please check the MX record.",
-      "exampleZh": "请检查一下这个邮件交换记录。",
+      "example": "We will verify the MX record after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个邮件交换记录。",
       "category": "it"
     },
     {
       "word": "TTL",
       "phonetic": "/ˌtiː tiː ˈel/",
-      "meaning": "生存时间",
-      "example": "The TTL is slow this morning.",
-      "exampleZh": "今天早上 TTL 很慢。",
+      "meaning": "生存时间（Time To Live）",
+      "example": "The report is missing a TTL (Time To Live).",
+      "exampleZh": "这份报告少了 TTL（Time To Live）。",
       "category": "it"
     },
     {
       "word": "DHCP reservation",
       "phonetic": "/ˌdiː eɪtʃ siː ˈpiː ˌrezəˈveɪʃn/",
       "meaning": "地址保留",
-      "example": "We need the DHCP reservation before go-live.",
-      "exampleZh": "上线前我们需要这个地址保留。",
+      "example": "I logged the DHCP reservation in today’s change ticket.",
+      "exampleZh": "我把这个地址保留记进了今天的变更单。",
       "category": "it"
     }
   ]

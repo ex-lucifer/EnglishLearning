@@ -5,24 +5,24 @@
       "word": "switchboard",
       "phonetic": "/ˈswɪtʃbɔːd/",
       "meaning": "总机",
-      "example": "Who is handling the switchboard?",
-      "exampleZh": "谁在处理这个总机？",
+      "example": "We talked about the switchboard with the department head.",
+      "exampleZh": "我们和科主任谈了这个总机。",
       "category": "office"
     },
     {
       "word": "voicemail",
       "phonetic": "/ˈvɔɪsmeɪl/",
       "meaning": "语音留言",
-      "example": "Who is handling the voicemail?",
-      "exampleZh": "谁在处理这个语音留言？",
+      "example": "Could you send the voicemail to the project group?",
+      "exampleZh": "你能把语音留言发到项目群吗？",
       "category": "office"
     },
     {
       "word": "callback",
       "phonetic": "/ˈkɔːlbæk/",
       "meaning": "回拨",
-      "example": "Please share the callback after the meeting.",
-      "exampleZh": "会后请分享这个回拨。",
+      "example": "Please bring the callback to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个回拨。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "regression test",
       "phonetic": "/rɪˈɡreʃn test/",
       "meaning": "回归测试",
-      "example": "Please review the regression test after the patch.",
-      "exampleZh": "打补丁后请审阅这个回归测试。",
+      "example": "I logged the regression test in today’s change ticket.",
+      "exampleZh": "我把这个回归测试记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "user acceptance",
       "phonetic": "/ˈjuːzə əkˈseptəns/",
       "meaning": "用户验收",
-      "example": "The user acceptance is in production.",
-      "exampleZh": "这个用户验收已在生产环境。",
+      "example": "We will verify the user acceptance after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个用户验收。",
       "category": "it"
     },
     {
       "word": "UAT",
       "phonetic": "/ˌjuː eɪ ˈtiː/",
-      "meaning": "用户验收测试",
-      "example": "The UAT is slow this morning.",
-      "exampleZh": "今天早上 UAT 很慢。",
+      "meaning": "用户验收测试（User Acceptance Testing）",
+      "example": "This device is not UAT (User Acceptance Testing) approved.",
+      "exampleZh": "这台设备不符合 UAT（User Acceptance Testing）。",
       "category": "it"
     },
     {
       "word": "staging",
       "phonetic": "/ˈsteɪdʒɪŋ/",
       "meaning": "预发布环境",
-      "example": "Please check the staging.",
-      "exampleZh": "请检查一下这个预发布环境。",
+      "example": "We will verify the staging after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个预发布环境。",
       "category": "it"
     },
     {
       "word": "production",
       "phonetic": "/prəˈdʌkʃn/",
       "meaning": "生产环境",
-      "example": "Who supports this production?",
-      "exampleZh": "谁支持这个生产环境？",
+      "example": "Please test the production on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个生产环境。",
       "category": "it"
     }
   ]

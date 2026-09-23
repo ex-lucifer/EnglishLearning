@@ -13,72 +13,72 @@
       "word": "no-pay day",
       "phonetic": "/nəʊ peɪ deɪ/",
       "meaning": "无薪缺勤日",
-      "example": "The no-pay day is ready for review.",
-      "exampleZh": "这个无薪缺勤日已经可以审阅了。",
+      "example": "We talked about the no-pay day with the department head.",
+      "exampleZh": "我们和科主任谈了这个无薪缺勤日。",
       "category": "office"
     },
     {
       "word": "tardiness",
       "phonetic": "/ˈtɑːdinəs/",
       "meaning": "迟到记录",
-      "example": "Who is handling the tardiness?",
-      "exampleZh": "谁在处理这个迟到记录？",
+      "example": "Could you send the tardiness to the project group?",
+      "exampleZh": "你能把迟到记录发到项目群吗？",
       "category": "office"
     },
     {
       "word": "absenteeism",
       "phonetic": "/ˌæbsənˈtiːɪzəm/",
       "meaning": "缺勤",
-      "example": "Who is handling the absenteeism?",
-      "exampleZh": "谁在处理这个缺勤？",
+      "example": "Please bring the absenteeism to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个缺勤。",
       "category": "office"
     },
     {
       "word": "attendance record",
       "phonetic": "/əˈtendəns ˈrekɔːd/",
       "meaning": "出勤记录",
-      "example": "Please review the attendance record.",
-      "exampleZh": "请审阅一下这个出勤记录。",
+      "example": "I put the attendance record on the shared drive.",
+      "exampleZh": "我把出勤记录放到了共享盘。",
       "category": "office"
     },
     {
       "word": "write cache",
       "phonetic": "/raɪt kæʃ/",
       "meaning": "写缓存",
-      "example": "Please review the write cache after the patch.",
-      "exampleZh": "打补丁后请审阅这个写缓存。",
+      "example": "The ward asked us to check the write cache.",
+      "exampleZh": "病区让我们看一下这个写缓存。",
       "category": "it"
     },
     {
       "word": "read cache",
       "phonetic": "/riːd kæʃ/",
       "meaning": "读缓存",
-      "example": "The read cache is in production.",
-      "exampleZh": "这个读缓存已在生产环境。",
+      "example": "We will verify the read cache after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个读缓存。",
       "category": "it"
     },
     {
       "word": "cache battery",
       "phonetic": "/kæʃ ˈbætri/",
       "meaning": "缓存电池",
-      "example": "Who supports this cache battery?",
-      "exampleZh": "谁支持这个缓存电池？",
+      "example": "The ward asked us to check the cache battery.",
+      "exampleZh": "病区让我们看一下这个缓存电池。",
       "category": "it"
     },
     {
       "word": "write-through",
       "phonetic": "/raɪt θruː/",
       "meaning": "直写",
-      "example": "Who supports this write-through?",
-      "exampleZh": "谁支持这个直写？",
+      "example": "Please test the write-through on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个直写。",
       "category": "it"
     },
     {
       "word": "write-back",
       "phonetic": "/raɪt bæk/",
       "meaning": "回写",
-      "example": "Who supports this write-back?",
-      "exampleZh": "谁支持这个回写？",
+      "example": "The vendor asked for a screenshot of the write-back.",
+      "exampleZh": "厂商要一张这个回写的截图。",
       "category": "it"
     }
   ]

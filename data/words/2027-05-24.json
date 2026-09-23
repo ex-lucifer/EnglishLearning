@@ -5,80 +5,80 @@
       "word": "floor walker",
       "phonetic": "/flɔː ˈwɔːkə/",
       "meaning": "现场巡视员",
-      "example": "The floor walker is ready for review.",
-      "exampleZh": "这个现场巡视员已经可以审阅了。",
+      "example": "I put the floor walker on the shared drive.",
+      "exampleZh": "我把现场巡视员放到了共享盘。",
       "category": "office"
     },
     {
       "word": "super user",
       "phonetic": "/ˈsuːpə ˈjuːzə/",
       "meaning": "业务骨干用户",
-      "example": "I updated the super user this morning.",
-      "exampleZh": "我今天早上更新了这个业务骨干用户。",
+      "example": "Could you send the super user to the project group?",
+      "exampleZh": "你能把业务骨干用户发到项目群吗？",
       "category": "office"
     },
     {
       "word": "champion",
       "phonetic": "/ˈtʃæmpiən/",
       "meaning": "推广骨干",
-      "example": "I updated the champion this morning.",
-      "exampleZh": "我今天早上更新了这个推广骨干。",
+      "example": "Please add the champion to today’s notes.",
+      "exampleZh": "请把推广骨干写进今天的记录。",
       "category": "office"
     },
     {
       "word": "change agent",
       "phonetic": "/tʃeɪndʒ ˈeɪdʒənt/",
       "meaning": "变革推动者",
-      "example": "Please share the change agent after the meeting.",
-      "exampleZh": "会后请分享这个变革推动者。",
+      "example": "Could you send the change agent to the project group?",
+      "exampleZh": "你能把变革推动者发到项目群吗？",
       "category": "office"
     },
     {
       "word": "sponsor update",
       "phonetic": "/ˈspɒnsə ˌʌpdeɪt/",
       "meaning": "发起人通报",
-      "example": "Please review the sponsor update.",
-      "exampleZh": "请审阅一下这个发起人通报。",
+      "example": "We talked about the sponsor update with the department head.",
+      "exampleZh": "我们和科主任谈了这个发起人通报。",
       "category": "office"
     },
     {
       "word": "smart-card logon",
       "phonetic": "/smɑːt kɑːd ˈlɒɡɒn/",
       "meaning": "智能卡登录",
-      "example": "Please check the smart-card logon.",
-      "exampleZh": "请检查一下这个智能卡登录。",
+      "example": "Do not touch the smart-card logon during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个智能卡登录。",
       "category": "it"
     },
     {
       "word": "failed logon",
       "phonetic": "/feɪld ˈlɒɡɒn/",
       "meaning": "登录失败",
-      "example": "The failed logon is in production.",
-      "exampleZh": "这个登录失败已在生产环境。",
+      "example": "The vendor asked for a screenshot of the failed logon.",
+      "exampleZh": "厂商要一张这个登录失败的截图。",
       "category": "it"
     },
     {
       "word": "lockout policy",
       "phonetic": "/ˈlɒkaʊt ˈpɒləsi/",
       "meaning": "锁定策略",
-      "example": "Please check the lockout policy.",
-      "exampleZh": "请检查一下这个锁定策略。",
+      "example": "I logged the lockout policy in today’s change ticket.",
+      "exampleZh": "我把这个锁定策略记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "account disabled",
       "phonetic": "/əˈkaʊnt dɪsˈeɪbld/",
       "meaning": "账号已禁用",
-      "example": "We need the account disabled before go-live.",
-      "exampleZh": "上线前我们需要这个账号已禁用。",
+      "example": "Do not touch the account disabled during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个账号已禁用。",
       "category": "it"
     },
     {
       "word": "account enabled",
       "phonetic": "/əˈkaʊnt ɪˈneɪbld/",
       "meaning": "账号已启用",
-      "example": "Who supports this account enabled?",
-      "exampleZh": "谁支持这个账号已启用？",
+      "example": "The vendor asked for a screenshot of the account enabled.",
+      "exampleZh": "厂商要一张这个账号已启用的截图。",
       "category": "it"
     }
   ]

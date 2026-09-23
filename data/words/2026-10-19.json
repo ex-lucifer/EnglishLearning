@@ -5,80 +5,80 @@
       "word": "metric",
       "phonetic": "/ˈmetrɪk/",
       "meaning": "衡量指标",
-      "example": "Please share the metric after the meeting.",
-      "exampleZh": "会后请分享这个衡量指标。",
+      "example": "I put the metric on the shared drive.",
+      "exampleZh": "我把衡量指标放到了共享盘。",
       "category": "office"
     },
     {
       "word": "sign-off",
       "phonetic": "/ˈsaɪn ɒf/",
       "meaning": "签字确认",
-      "example": "Please share the sign-off after the meeting.",
-      "exampleZh": "会后请分享这个签字确认。",
+      "example": "I put the sign-off on the shared drive.",
+      "exampleZh": "我把签字确认放到了共享盘。",
       "category": "office"
     },
     {
       "word": "approval",
       "phonetic": "/əˈpruːvl/",
       "meaning": "审批",
-      "example": "Please share the approval after the meeting.",
-      "exampleZh": "会后请分享这个审批。",
+      "example": "Please add the approval to today’s notes.",
+      "exampleZh": "请把审批写进今天的记录。",
       "category": "office"
     },
     {
       "word": "phase",
       "phonetic": "/feɪz/",
       "meaning": "阶段",
-      "example": "Please share the phase after the meeting.",
-      "exampleZh": "会后请分享这个阶段。",
+      "example": "Please add the phase to today’s notes.",
+      "exampleZh": "请把阶段写进今天的记录。",
       "category": "office"
     },
     {
       "word": "prioritize",
       "phonetic": "/praɪˈɒrɪtaɪz/",
       "meaning": "排出优先级",
-      "example": "Let's prioritize this first.",
-      "exampleZh": "我们先排出优先级这个吧。",
+      "example": "Can you prioritize it today?",
+      "exampleZh": "你今天能把它排出优先级吗？",
       "category": "office"
     },
     {
       "word": "default printer",
       "phonetic": "/dɪˈfɔːlt ˈprɪntə/",
       "meaning": "默认打印机",
-      "example": "The default printer is in production.",
-      "exampleZh": "这个默认打印机已在生产环境。",
+      "example": "The ward asked us to check the default printer.",
+      "exampleZh": "病区让我们看一下这个默认打印机。",
       "category": "it"
     },
     {
       "word": "print spooler",
       "phonetic": "/prɪnt ˈspuːlə/",
       "meaning": "打印队列服务",
-      "example": "We need the print spooler before go-live.",
-      "exampleZh": "上线前我们需要这个打印队列服务。",
+      "example": "The ward asked us to check the print spooler.",
+      "exampleZh": "病区让我们看一下这个打印队列服务。",
       "category": "it"
     },
     {
       "word": "label printer",
       "phonetic": "/ˈleɪbl ˈprɪntə/",
       "meaning": "标签打印机",
-      "example": "The label printer is in production.",
-      "exampleZh": "这个标签打印机已在生产环境。",
+      "example": "The ward asked us to check the label printer.",
+      "exampleZh": "病区让我们看一下这个标签打印机。",
       "category": "it"
     },
     {
       "word": "wristband printer",
       "phonetic": "/ˈrɪstbænd ˈprɪntə/",
       "meaning": "腕带打印机",
-      "example": "Who supports this wristband printer?",
-      "exampleZh": "谁支持这个腕带打印机？",
+      "example": "The vendor asked for a screenshot of the wristband printer.",
+      "exampleZh": "厂商要一张这个腕带打印机的截图。",
       "category": "it"
     },
     {
       "word": "barcode printer",
       "phonetic": "/ˈbɑːkəʊd ˈprɪntə/",
       "meaning": "条码打印机",
-      "example": "Please review the barcode printer after the patch.",
-      "exampleZh": "打补丁后请审阅这个条码打印机。",
+      "example": "The ward asked us to check the barcode printer.",
+      "exampleZh": "病区让我们看一下这个条码打印机。",
       "category": "it"
     }
   ]

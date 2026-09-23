@@ -5,80 +5,80 @@
       "word": "letterhead",
       "phonetic": "/ˈletəhed/",
       "meaning": "公文抬头纸",
-      "example": "I updated the letterhead this morning.",
-      "exampleZh": "我今天早上更新了这个公文抬头纸。",
+      "example": "I put the letterhead on the shared drive.",
+      "exampleZh": "我把公文抬头纸放到了共享盘。",
       "category": "office"
     },
     {
       "word": "stamp",
       "phonetic": "/stæmp/",
       "meaning": "公章",
-      "example": "Please share the stamp after the meeting.",
-      "exampleZh": "会后请分享这个公章。",
+      "example": "Please bring the stamp to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个公章。",
       "category": "office"
     },
     {
       "word": "seal",
       "phonetic": "/siːl/",
       "meaning": "印章",
-      "example": "I updated the seal this morning.",
-      "exampleZh": "我今天早上更新了这个印章。",
+      "example": "We talked about the seal with the department head.",
+      "exampleZh": "我们和科主任谈了这个印章。",
       "category": "office"
     },
     {
       "word": "watermark",
       "phonetic": "/ˈwɔːtəmɑːk/",
       "meaning": "水印",
-      "example": "Who is handling the watermark?",
-      "exampleZh": "谁在处理这个水印？",
+      "example": "The watermark still needs a decision today.",
+      "exampleZh": "这个水印今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "binder",
       "phonetic": "/ˈbaɪndə/",
       "meaning": "文件夹",
-      "example": "Who is handling the binder?",
-      "exampleZh": "谁在处理这个文件夹？",
+      "example": "Could you send the binder to the project group?",
+      "exampleZh": "你能把文件夹发到项目群吗？",
       "category": "office"
     },
     {
       "word": "hotfix",
       "phonetic": "/ˈhɒtfɪks/",
       "meaning": "紧急修复",
-      "example": "Who supports this hotfix?",
-      "exampleZh": "谁支持这个紧急修复？",
+      "example": "Do not touch the hotfix during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个紧急修复。",
       "category": "it"
     },
     {
       "word": "bugfix",
       "phonetic": "/ˈbʌɡfɪks/",
       "meaning": "缺陷修复",
-      "example": "Please check the bugfix.",
-      "exampleZh": "请检查一下这个缺陷修复。",
+      "example": "Do not touch the bugfix during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个缺陷修复。",
       "category": "it"
     },
     {
       "word": "release",
       "phonetic": "/rɪˈliːs/",
       "meaning": "版本发布",
-      "example": "Who supports this release?",
-      "exampleZh": "谁支持这个版本发布？",
+      "example": "I logged the release in today’s change ticket.",
+      "exampleZh": "我把这个版本发布记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "build",
       "phonetic": "/bɪld/",
       "meaning": "构建包",
-      "example": "Who supports this build?",
-      "exampleZh": "谁支持这个构建包？",
+      "example": "We will verify the build after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个构建包。",
       "category": "it"
     },
     {
       "word": "artifact",
       "phonetic": "/ˈɑːtɪfækt/",
       "meaning": "构建产物",
-      "example": "We need the artifact before go-live.",
-      "exampleZh": "上线前我们需要这个构建产物。",
+      "example": "Please test the artifact on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个构建产物。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "huddle room",
       "phonetic": "/ˈhʌdl ruːm/",
       "meaning": "小讨论室",
-      "example": "Who is handling the huddle room?",
-      "exampleZh": "谁在处理这个小讨论室？",
+      "example": "We talked about the huddle room with the department head.",
+      "exampleZh": "我们和科主任谈了这个小讨论室。",
       "category": "office"
     },
     {
       "word": "training room",
       "phonetic": "/ˈtreɪnɪŋ ruːm/",
       "meaning": "培训室",
-      "example": "The training room is ready for review.",
-      "exampleZh": "这个培训室已经可以审阅了。",
+      "example": "Please add the training room to today’s notes.",
+      "exampleZh": "请把培训室写进今天的记录。",
       "category": "office"
     },
     {
       "word": "front desk",
       "phonetic": "/frʌnt desk/",
       "meaning": "前台",
-      "example": "Please share the front desk after the meeting.",
-      "exampleZh": "会后请分享这个前台。",
+      "example": "Who will own the front desk this week?",
+      "exampleZh": "这周这个前台谁来负责？",
       "category": "office"
     },
     {
       "word": "mailroom",
       "phonetic": "/ˈmeɪlruːm/",
       "meaning": "收发室",
-      "example": "I updated the mailroom this morning.",
-      "exampleZh": "我今天早上更新了这个收发室。",
+      "example": "Who will own the mailroom this week?",
+      "exampleZh": "这周这个收发室谁来负责？",
       "category": "office"
     },
     {
       "word": "stationery",
       "phonetic": "/ˈsteɪʃənri/",
       "meaning": "文具",
-      "example": "I updated the stationery this morning.",
-      "exampleZh": "我今天早上更新了这个文具。",
+      "example": "Who will own the stationery this week?",
+      "exampleZh": "这周这个文具谁来负责？",
       "category": "office"
     },
     {
       "word": "P2 incident",
       "phonetic": "/piː tuː ˈɪnsɪdənt/",
       "meaning": "二级故障",
-      "example": "Please review the P2 incident after the patch.",
-      "exampleZh": "打补丁后请审阅这个二级故障。",
+      "example": "We will verify the P2 incident after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个二级故障。",
       "category": "it"
     },
     {
       "word": "P3 incident",
       "phonetic": "/piː θriː ˈɪnsɪdənt/",
       "meaning": "三级故障",
-      "example": "Please review the P3 incident after the patch.",
-      "exampleZh": "打补丁后请审阅这个三级故障。",
+      "example": "I logged the P3 incident in today’s change ticket.",
+      "exampleZh": "我把这个三级故障记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "major incident",
       "phonetic": "/ˈmeɪdʒə ˈɪnsɪdənt/",
       "meaning": "重大故障",
-      "example": "The major incident is in production.",
-      "exampleZh": "这个重大故障已在生产环境。",
+      "example": "I logged the major incident in today’s change ticket.",
+      "exampleZh": "我把这个重大故障记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "service degradation",
       "phonetic": "/ˈsɜːvɪs ˌdeɡrəˈdeɪʃn/",
       "meaning": "服务降级",
-      "example": "Please check the service degradation.",
-      "exampleZh": "请检查一下这个服务降级。",
+      "example": "Do not touch the service degradation during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个服务降级。",
       "category": "it"
     },
     {
       "word": "workaround",
       "phonetic": "/ˈwɜːkəraʊnd/",
       "meaning": "临时规避",
-      "example": "The workaround is in production.",
-      "exampleZh": "这个临时规避已在生产环境。",
+      "example": "The vendor asked for a screenshot of the workaround.",
+      "exampleZh": "厂商要一张这个临时规避的截图。",
       "category": "it"
     }
   ]

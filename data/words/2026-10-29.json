@@ -5,80 +5,80 @@
       "word": "acknowledge",
       "phonetic": "/əkˈnɒlɪdʒ/",
       "meaning": "确认收到",
-      "example": "Can you acknowledge it today?",
-      "exampleZh": "你今天能确认收到一下吗？",
+      "example": "We still need to acknowledge this.",
+      "exampleZh": "这件事还得确认收到。",
       "category": "office"
     },
     {
       "word": "align",
       "phonetic": "/əˈlaɪn/",
       "meaning": "对齐共识",
-      "example": "I will align it after the meeting.",
-      "exampleZh": "会后我会对齐共识它。",
+      "example": "Who will align this after the huddle?",
+      "exampleZh": "晨会后谁来对齐共识？",
       "category": "office"
     },
     {
       "word": "sync",
       "phonetic": "/sɪŋk/",
       "meaning": "同步沟通",
-      "example": "Please sync this before noon.",
-      "exampleZh": "请在中午前同步沟通这个。",
+      "example": "Can you sync it today?",
+      "exampleZh": "你今天能把它同步沟通吗？",
       "category": "office"
     },
     {
       "word": "catch-up",
       "phonetic": "/ˈkætʃ ʌp/",
       "meaning": "补会沟通",
-      "example": "Please share the catch-up after the meeting.",
-      "exampleZh": "会后请分享这个补会沟通。",
+      "example": "Who will own the catch-up this week?",
+      "exampleZh": "这周这个补会沟通谁来负责？",
       "category": "office"
     },
     {
       "word": "ping",
       "phonetic": "/pɪŋ/",
       "meaning": "快速提醒",
-      "example": "Please ping this before noon.",
-      "exampleZh": "请在中午前快速提醒这个。",
+      "example": "Ping the duty nurse if the room is still locked.",
+      "exampleZh": "房间还锁着的话，提醒一下值班护士。",
       "category": "office"
     },
     {
       "word": "blood bank",
       "phonetic": "/blʌd bæŋk/",
       "meaning": "血库系统",
-      "example": "Who supports this blood bank?",
-      "exampleZh": "谁支持这个血库系统？",
+      "example": "Who is on call for the blood bank this week?",
+      "exampleZh": "这周这个血库系统谁值班？",
       "category": "it"
     },
     {
       "word": "blood product",
       "phonetic": "/blʌd ˈprɒdʌkt/",
       "meaning": "血液制品",
-      "example": "The blood product is in production.",
-      "exampleZh": "这个血液制品已在生产环境。",
+      "example": "Who is on call for the blood product this week?",
+      "exampleZh": "这周这个血液制品谁值班？",
       "category": "it"
     },
     {
       "word": "pharmacy system",
       "phonetic": "/ˈfɑːməsi ˈsɪstəm/",
       "meaning": "药房系统",
-      "example": "Who supports this pharmacy system?",
-      "exampleZh": "谁支持这个药房系统？",
+      "example": "Please test the pharmacy system on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个药房系统。",
       "category": "it"
     },
     {
       "word": "e-prescribing",
       "phonetic": "/iː prɪˈskraɪbɪŋ/",
       "meaning": "电子处方",
-      "example": "Please review the e-prescribing after the patch.",
-      "exampleZh": "打补丁后请审阅这个电子处方。",
+      "example": "Who is on call for the e-prescribing this week?",
+      "exampleZh": "这周这个电子处方谁值班？",
       "category": "it"
     },
     {
       "word": "formulary",
       "phonetic": "/ˈfɔːmjələri/",
       "meaning": "药品目录",
-      "example": "Who supports this formulary?",
-      "exampleZh": "谁支持这个药品目录？",
+      "example": "We will verify the formulary after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个药品目录。",
       "category": "it"
     }
   ]

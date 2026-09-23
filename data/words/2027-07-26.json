@@ -5,80 +5,80 @@
       "word": "ops team",
       "phonetic": "/ɒps tiːm/",
       "meaning": "运营组",
-      "example": "Please share the ops team after the meeting.",
-      "exampleZh": "会后请分享这个运营组。",
+      "example": "Please add the ops team to today’s notes.",
+      "exampleZh": "请把运营组写进今天的记录。",
       "category": "office"
     },
     {
       "word": "support team",
       "phonetic": "/səˈpɔːt tiːm/",
       "meaning": "支持组",
-      "example": "Please review the support team.",
-      "exampleZh": "请审阅一下这个支持组。",
+      "example": "Could you send the support team to the project group?",
+      "exampleZh": "你能把支持组发到项目群吗？",
       "category": "office"
     },
     {
       "word": "frontline",
       "phonetic": "/ˈfrʌntlaɪn/",
       "meaning": "一线",
-      "example": "Who is handling the frontline?",
-      "exampleZh": "谁在处理这个一线？",
+      "example": "We talked about the frontline with the department head.",
+      "exampleZh": "我们和科主任谈了这个一线。",
       "category": "office"
     },
     {
       "word": "back office",
       "phonetic": "/bæk ˈɒfɪs/",
       "meaning": "后台",
-      "example": "Please review the back office.",
-      "exampleZh": "请审阅一下这个后台。",
+      "example": "Could you send the back office to the project group?",
+      "exampleZh": "你能把后台发到项目群吗？",
       "category": "office"
     },
     {
       "word": "shared services",
       "phonetic": "/ʃeəd ˈsɜːvɪsɪz/",
       "meaning": "共享服务",
-      "example": "Who is handling the shared services?",
-      "exampleZh": "谁在处理这个共享服务？",
+      "example": "Please add the shared services to today’s notes.",
+      "exampleZh": "请把共享服务写进今天的记录。",
       "category": "office"
     },
     {
       "word": "RAID 6",
       "phonetic": "/reɪd sɪks/",
-      "meaning": "双校验阵列",
-      "example": "Please review the RAID 6 after the patch.",
-      "exampleZh": "打补丁后请审阅这个双校验阵列。",
+      "meaning": "双校验阵列（Redundant Array of Independent Disks）",
+      "example": "Do not touch the RAID 6 during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个双校验阵列。",
       "category": "it"
     },
     {
       "word": "RAID 10",
       "phonetic": "/reɪd ten/",
-      "meaning": "镜像条带",
-      "example": "Please check the RAID 10.",
-      "exampleZh": "请检查一下这个镜像条带。",
+      "meaning": "镜像条带（Redundant Array of Independent Disks）",
+      "example": "Who is on call for the RAID 10 this week?",
+      "exampleZh": "这周这个镜像条带谁值班？",
       "category": "it"
     },
     {
       "word": "JBOD",
       "phonetic": "/ˈdʒeɪbɒd/",
-      "meaning": "简单磁盘组合",
-      "example": "The JBOD is slow this morning.",
-      "exampleZh": "今天早上 JBOD 很慢。",
+      "meaning": "简单磁盘组合（Just a Bunch of Disks）",
+      "example": "Do not move the JBOD (Just a Bunch of Disks) during outpatient hours.",
+      "exampleZh": "门诊时段不要挪动 JBOD（Just a Bunch of Disks）。",
       "category": "it"
     },
     {
       "word": "thin provision",
       "phonetic": "/θɪn prəˈvɪʒn/",
       "meaning": "精简配置",
-      "example": "Please review the thin provision after the patch.",
-      "exampleZh": "打补丁后请审阅这个精简配置。",
+      "example": "The ward asked us to check the thin provision.",
+      "exampleZh": "病区让我们看一下这个精简配置。",
       "category": "it"
     },
     {
       "word": "thick provision",
       "phonetic": "/θɪk prəˈvɪʒn/",
       "meaning": "厚配置",
-      "example": "We need the thick provision before go-live.",
-      "exampleZh": "上线前我们需要这个厚配置。",
+      "example": "The vendor asked for a screenshot of the thick provision.",
+      "exampleZh": "厂商要一张这个厚配置的截图。",
       "category": "it"
     }
   ]

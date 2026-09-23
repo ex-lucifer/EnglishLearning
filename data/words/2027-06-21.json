@@ -5,80 +5,80 @@
       "word": "stretch break",
       "phonetic": "/stretʃ breɪk/",
       "meaning": "伸展休息",
-      "example": "The stretch break is ready for review.",
-      "exampleZh": "这个伸展休息已经可以审阅了。",
+      "example": "Could you send the stretch break to the project group?",
+      "exampleZh": "你能把伸展休息发到项目群吗？",
       "category": "office"
     },
     {
       "word": "coffee break",
       "phonetic": "/ˈkɒfi breɪk/",
       "meaning": "茶歇",
-      "example": "Please review the coffee break.",
-      "exampleZh": "请审阅一下这个茶歇。",
+      "example": "We talked about the coffee break with the department head.",
+      "exampleZh": "我们和科主任谈了这个茶歇。",
       "category": "office"
     },
     {
       "word": "networking",
       "phonetic": "/ˈnetwɜːkɪŋ/",
       "meaning": "会间交流",
-      "example": "The networking is ready for review.",
-      "exampleZh": "这个会间交流已经可以审阅了。",
+      "example": "The networking still needs a decision today.",
+      "exampleZh": "这个会间交流今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "photo op",
       "phonetic": "/ˈfəʊtəʊ ɒp/",
       "meaning": "合影环节",
-      "example": "Please review the photo op.",
-      "exampleZh": "请审阅一下这个合影环节。",
+      "example": "Could you send the photo op to the project group?",
+      "exampleZh": "你能把合影环节发到项目群吗？",
       "category": "office"
     },
     {
       "word": "group photo",
       "phonetic": "/ɡruːp ˈfəʊtəʊ/",
       "meaning": "集体照",
-      "example": "Who is handling the group photo?",
-      "exampleZh": "谁在处理这个集体照？",
+      "example": "We talked about the group photo with the department head.",
+      "exampleZh": "我们和科主任谈了这个集体照。",
       "category": "office"
     },
     {
       "word": "living off the land",
       "phonetic": "/ˈlɪvɪŋ ɒf ðə lænd/",
       "meaning": "利用系统自带工具",
-      "example": "We need the living off the land before go-live.",
-      "exampleZh": "上线前我们需要这个利用系统自带工具。",
+      "example": "I logged the living off the land in today’s change ticket.",
+      "exampleZh": "我把这个利用系统自带工具记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "IOC",
       "phonetic": "/ˌaɪ əʊ ˈsiː/",
-      "meaning": "失陷指标",
-      "example": "The IOC is slow this morning.",
-      "exampleZh": "今天早上 IOC 很慢。",
+      "meaning": "失陷指标（Indicator of Compromise）",
+      "example": "Please look up the IOC (Indicator of Compromise) on this ticket.",
+      "exampleZh": "请在这张工单上查一下 IOC（Indicator of Compromise）。",
       "category": "it"
     },
     {
       "word": "IOA",
       "phonetic": "/ˌaɪ əʊ ˈeɪ/",
-      "meaning": "攻击行为指标",
-      "example": "The IOA is slow this morning.",
-      "exampleZh": "今天早上 IOA 很慢。",
+      "meaning": "攻击行为指标（Indicator of Attack）",
+      "example": "Can you map this item to IOA (Indicator of Attack)?",
+      "exampleZh": "这条能否对照到 IOA（Indicator of Attack）？",
       "category": "it"
     },
     {
       "word": "threat intel",
       "phonetic": "/θret ˈɪntel/",
       "meaning": "威胁情报",
-      "example": "Who supports this threat intel?",
-      "exampleZh": "谁支持这个威胁情报？",
+      "example": "We will verify the threat intel after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个威胁情报。",
       "category": "it"
     },
     {
       "word": "indicator",
       "phonetic": "/ˈɪndɪkeɪtə/",
       "meaning": "威胁指标",
-      "example": "We need the indicator before go-live.",
-      "exampleZh": "上线前我们需要这个威胁指标。",
+      "example": "The vendor asked for a screenshot of the indicator.",
+      "exampleZh": "厂商要一张这个威胁指标的截图。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "checklist audit",
       "phonetic": "/ˈtʃeklɪst ˈɔːdɪt/",
       "meaning": "清单抽查",
-      "example": "Please review the checklist audit.",
-      "exampleZh": "请审阅一下这个清单抽查。",
+      "example": "We talked about the checklist audit with the department head.",
+      "exampleZh": "我们和科主任谈了这个清单抽查。",
       "category": "office"
     },
     {
       "word": "spot check",
       "phonetic": "/spɒt tʃek/",
       "meaning": "突击检查",
-      "example": "I updated the spot check this morning.",
-      "exampleZh": "我今天早上更新了这个突击检查。",
+      "example": "The spot check still needs a decision today.",
+      "exampleZh": "这个突击检查今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "walkthrough",
       "phonetic": "/ˈwɔːkθruː/",
       "meaning": "现场走查",
-      "example": "I updated the walkthrough this morning.",
-      "exampleZh": "我今天早上更新了这个现场走查。",
+      "example": "We talked about the walkthrough with the department head.",
+      "exampleZh": "我们和科主任谈了这个现场走查。",
       "category": "office"
     },
     {
       "word": "inspection",
       "phonetic": "/ɪnˈspekʃn/",
       "meaning": "检查",
-      "example": "Please review the inspection.",
-      "exampleZh": "请审阅一下这个检查。",
+      "example": "Please bring the inspection to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个检查。",
       "category": "office"
     },
     {
       "word": "finding",
       "phonetic": "/ˈfaɪndɪŋ/",
       "meaning": "检查发现",
-      "example": "Please share the finding after the meeting.",
-      "exampleZh": "会后请分享这个检查发现。",
+      "example": "We talked about the finding with the department head.",
+      "exampleZh": "我们和科主任谈了这个检查发现。",
       "category": "office"
     },
     {
       "word": "knowledge base",
       "phonetic": "/ˈnɒlɪdʒ beɪs/",
       "meaning": "知识库",
-      "example": "Please review the knowledge base after the patch.",
-      "exampleZh": "打补丁后请审阅这个知识库。",
+      "example": "Do not touch the knowledge base during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个知识库。",
       "category": "it"
     },
     {
       "word": "runbook",
       "phonetic": "/ˈrʌnbʊk/",
       "meaning": "操作手册",
-      "example": "Please review the runbook after the patch.",
-      "exampleZh": "打补丁后请审阅这个操作手册。",
+      "example": "I logged the runbook in today’s change ticket.",
+      "exampleZh": "我把这个操作手册记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "playbook",
       "phonetic": "/ˈpleɪbʊk/",
       "meaning": "应急剧本",
-      "example": "Please check the playbook.",
-      "exampleZh": "请检查一下这个应急剧本。",
+      "example": "Do not touch the playbook during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个应急剧本。",
       "category": "it"
     },
     {
       "word": "escalation path IT",
       "phonetic": "/ˌeskəˈleɪʃn pɑːθ aɪ ˈtiː/",
       "meaning": "技术升级路径",
-      "example": "Please check the escalation path IT.",
-      "exampleZh": "请检查一下这个技术升级路径。",
+      "example": "Who is on call for the escalation path IT this week?",
+      "exampleZh": "这周这个技术升级路径谁值班？",
       "category": "it"
     },
     {
       "word": "ticket queue",
       "phonetic": "/ˈtɪkɪt kjuː/",
       "meaning": "工单队列",
-      "example": "Please check the ticket queue.",
-      "exampleZh": "请检查一下这个工单队列。",
+      "example": "The vendor asked for a screenshot of the ticket queue.",
+      "exampleZh": "厂商要一张这个工单队列的截图。",
       "category": "it"
     }
   ]

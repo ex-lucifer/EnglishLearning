@@ -5,80 +5,80 @@
       "word": "fit note",
       "phonetic": "/fɪt nəʊt/",
       "meaning": "康复证明",
-      "example": "Who is handling the fit note?",
-      "exampleZh": "谁在处理这个康复证明？",
+      "example": "I put the fit note on the shared drive.",
+      "exampleZh": "我把康复证明放到了共享盘。",
       "category": "office"
     },
     {
       "word": "sick note",
       "phonetic": "/sɪk nəʊt/",
       "meaning": "病假条",
-      "example": "I updated the sick note this morning.",
-      "exampleZh": "我今天早上更新了这个病假条。",
+      "example": "I put the sick note on the shared drive.",
+      "exampleZh": "我把病假条放到了共享盘。",
       "category": "office"
     },
     {
       "word": "occupational health",
       "phonetic": "/ˌɒkjuˈpeɪʃənl helθ/",
       "meaning": "职业健康",
-      "example": "Please review the occupational health.",
-      "exampleZh": "请审阅一下这个职业健康。",
+      "example": "Please add the occupational health to today’s notes.",
+      "exampleZh": "请把职业健康写进今天的记录。",
       "category": "office"
     },
     {
       "word": "pre-employment check",
       "phonetic": "/pri ɪmˈplɔɪmənt tʃek/",
       "meaning": "入职体检",
-      "example": "Please share the pre-employment check after the meeting.",
-      "exampleZh": "会后请分享这个入职体检。",
+      "example": "Who will own the pre-employment check this week?",
+      "exampleZh": "这周这个入职体检谁来负责？",
       "category": "office"
     },
     {
       "word": "background check",
       "phonetic": "/ˈbækɡraʊnd tʃek/",
       "meaning": "背景审查",
-      "example": "Please review the background check.",
-      "exampleZh": "请审阅一下这个背景审查。",
+      "example": "The background check still needs a decision today.",
+      "exampleZh": "这个背景审查今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "CMK",
       "phonetic": "/ˌsiː em ˈkeɪ/",
-      "meaning": "客户主密钥",
-      "example": "The CMK is slow this morning.",
-      "exampleZh": "今天早上 CMK 很慢。",
+      "meaning": "客户主密钥（Customer Master Key）",
+      "example": "Check the CMK (Customer Master Key) on the test host first.",
+      "exampleZh": "请先在测试主机上检查 CMK（Customer Master Key）。",
       "category": "it"
     },
     {
       "word": "envelope encryption",
       "phonetic": "/ˈenvələʊp ɪnˈkrɪpʃn/",
       "meaning": "信封加密",
-      "example": "We need the envelope encryption before go-live.",
-      "exampleZh": "上线前我们需要这个信封加密。",
+      "example": "I logged the envelope encryption in today’s change ticket.",
+      "exampleZh": "我把这个信封加密记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "data key",
       "phonetic": "/ˈdeɪtə kiː/",
       "meaning": "数据密钥",
-      "example": "Please check the data key.",
-      "exampleZh": "请检查一下这个数据密钥。",
+      "example": "We will verify the data key after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个数据密钥。",
       "category": "it"
     },
     {
       "word": "key alias",
       "phonetic": "/kiː ˈeɪliəs/",
       "meaning": "密钥别名",
-      "example": "Who supports this key alias?",
-      "exampleZh": "谁支持这个密钥别名？",
+      "example": "We will verify the key alias after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个密钥别名。",
       "category": "it"
     },
     {
       "word": "key policy",
       "phonetic": "/kiː ˈpɒləsi/",
       "meaning": "密钥策略",
-      "example": "We need the key policy before go-live.",
-      "exampleZh": "上线前我们需要这个密钥策略。",
+      "example": "We will verify the key policy after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个密钥策略。",
       "category": "it"
     }
   ]

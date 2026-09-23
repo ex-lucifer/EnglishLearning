@@ -5,80 +5,80 @@
       "word": "enforce",
       "phonetic": "/ɪnˈfɔːs/",
       "meaning": "执行落实",
-      "example": "We need to enforce this by Friday.",
-      "exampleZh": "我们周五前需要执行落实这个。",
+      "example": "Please enforce this before you leave.",
+      "exampleZh": "走之前请把这件事执行落实。",
       "category": "office"
     },
     {
       "word": "comply",
       "phonetic": "/kəmˈplaɪ/",
       "meaning": "遵守",
-      "example": "Please comply this before noon.",
-      "exampleZh": "请在中午前遵守这个。",
+      "example": "We must comply with the privacy notice.",
+      "exampleZh": "我们必须遵守这份隐私告知。",
       "category": "office"
     },
     {
       "word": "waive",
       "phonetic": "/weɪv/",
       "meaning": "豁免",
-      "example": "Please waive this before noon.",
-      "exampleZh": "请在中午前豁免这个。",
+      "example": "Please waive this before you leave.",
+      "exampleZh": "走之前请把这件事豁免。",
       "category": "office"
     },
     {
       "word": "grant",
       "phonetic": "/ɡrɑːnt/",
       "meaning": "批准给予",
-      "example": "Please grant this before noon.",
-      "exampleZh": "请在中午前批准给予这个。",
+      "example": "We still need to grant this.",
+      "exampleZh": "这件事还得批准给予。",
       "category": "office"
     },
     {
       "word": "deny",
       "phonetic": "/dɪˈnaɪ/",
       "meaning": "拒绝批准",
-      "example": "We need to deny this by Friday.",
-      "exampleZh": "我们周五前需要拒绝批准这个。",
+      "example": "We still need to deny this.",
+      "exampleZh": "这件事还得拒绝批准。",
       "category": "office"
     },
     {
       "word": "CPU saturation",
       "phonetic": "/ˌsiː piː ˈjuː ˌsætʃəˈreɪʃn/",
       "meaning": "处理器打满",
-      "example": "Please check the CPU saturation.",
-      "exampleZh": "请检查一下这个处理器打满。",
+      "example": "The vendor asked for a screenshot of the CPU saturation.",
+      "exampleZh": "厂商要一张这个处理器打满的截图。",
       "category": "it"
     },
     {
       "word": "disk full",
       "phonetic": "/dɪsk fʊl/",
       "meaning": "磁盘已满",
-      "example": "Please review the disk full after the patch.",
-      "exampleZh": "打补丁后请审阅这个磁盘已满。",
+      "example": "Do not touch the disk full during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个磁盘已满。",
       "category": "it"
     },
     {
       "word": "inode",
       "phonetic": "/ˈaɪnəʊd/",
       "meaning": "文件节点",
-      "example": "The inode is in production.",
-      "exampleZh": "这个文件节点已在生产环境。",
+      "example": "The ward asked us to check the inode.",
+      "exampleZh": "病区让我们看一下这个文件节点。",
       "category": "it"
     },
     {
       "word": "file handle",
       "phonetic": "/faɪl ˈhændl/",
       "meaning": "文件句柄",
-      "example": "Please check the file handle.",
-      "exampleZh": "请检查一下这个文件句柄。",
+      "example": "I logged the file handle in today’s change ticket.",
+      "exampleZh": "我把这个文件句柄记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "port conflict",
       "phonetic": "/pɔːt ˈkɒnflɪkt/",
       "meaning": "端口冲突",
-      "example": "We need the port conflict before go-live.",
-      "exampleZh": "上线前我们需要这个端口冲突。",
+      "example": "The vendor asked for a screenshot of the port conflict.",
+      "exampleZh": "厂商要一张这个端口冲突的截图。",
       "category": "it"
     }
   ]

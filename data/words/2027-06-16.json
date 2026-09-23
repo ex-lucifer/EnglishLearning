@@ -5,80 +5,80 @@
       "word": "sign-in sheet",
       "phonetic": "/saɪn ɪn ʃiːt/",
       "meaning": "签到单",
-      "example": "Please share the sign-in sheet after the meeting.",
-      "exampleZh": "会后请分享这个签到单。",
+      "example": "We talked about the sign-in sheet with the department head.",
+      "exampleZh": "我们和科主任谈了这个签到单。",
       "category": "office"
     },
     {
       "word": "welcome pack",
       "phonetic": "/ˈwelkəm pæk/",
       "meaning": "欢迎材料",
-      "example": "Please review the welcome pack.",
-      "exampleZh": "请审阅一下这个欢迎材料。",
+      "example": "The welcome pack still needs a decision today.",
+      "exampleZh": "这个欢迎材料今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "water station",
       "phonetic": "/ˈwɔːtə ˈsteɪʃn/",
       "meaning": "饮水处",
-      "example": "Who is handling the water station?",
-      "exampleZh": "谁在处理这个饮水处？",
+      "example": "We talked about the water station with the department head.",
+      "exampleZh": "我们和科主任谈了这个饮水处。",
       "category": "office"
     },
     {
       "word": "breakout",
       "phonetic": "/ˈbreɪkaʊt/",
       "meaning": "分组讨论",
-      "example": "Please share the breakout after the meeting.",
-      "exampleZh": "会后请分享这个分组讨论。",
+      "example": "Please bring the breakout to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个分组讨论。",
       "category": "office"
     },
     {
       "word": "plenary",
       "phonetic": "/ˈpliːnəri/",
       "meaning": "全体会议",
-      "example": "Please review the plenary.",
-      "exampleZh": "请审阅一下这个全体会议。",
+      "example": "The plenary still needs a decision today.",
+      "exampleZh": "这个全体会议今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "subscription",
       "phonetic": "/səbˈskrɪpʃn/",
       "meaning": "订阅",
-      "example": "Please review the subscription after the patch.",
-      "exampleZh": "打补丁后请审阅这个订阅。",
+      "example": "We will verify the subscription after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个订阅。",
       "category": "it"
     },
     {
       "word": "query filter",
       "phonetic": "/ˈkwɪəri ˈfɪltə/",
       "meaning": "查询过滤",
-      "example": "The query filter is in production.",
-      "exampleZh": "这个查询过滤已在生产环境。",
+      "example": "Please test the query filter on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个查询过滤。",
       "category": "it"
     },
     {
       "word": "xpath",
       "phonetic": "/ˈekspæθ/",
       "meaning": "路径查询",
-      "example": "Please review the xpath after the patch.",
-      "exampleZh": "打补丁后请审阅这个路径查询。",
+      "example": "We will verify the xpath after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个路径查询。",
       "category": "it"
     },
     {
       "word": "event ID",
       "phonetic": "/ɪˈvent aɪ ˈdiː/",
       "meaning": "事件编号",
-      "example": "The event ID is in production.",
-      "exampleZh": "这个事件编号已在生产环境。",
+      "example": "We will verify the event ID after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个事件编号。",
       "category": "it"
     },
     {
       "word": "logon type",
       "phonetic": "/ˈlɒɡɒn taɪp/",
       "meaning": "登录类型",
-      "example": "The logon type is in production.",
-      "exampleZh": "这个登录类型已在生产环境。",
+      "example": "The vendor asked for a screenshot of the logon type.",
+      "exampleZh": "厂商要一张这个登录类型的截图。",
       "category": "it"
     }
   ]

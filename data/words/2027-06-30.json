@@ -5,80 +5,80 @@
       "word": "shift allowance",
       "phonetic": "/ʃɪft əˈlaʊəns/",
       "meaning": "班次津贴",
-      "example": "Who is handling the shift allowance?",
-      "exampleZh": "谁在处理这个班次津贴？",
+      "example": "Could you send the shift allowance to the project group?",
+      "exampleZh": "你能把班次津贴发到项目群吗？",
       "category": "office"
     },
     {
       "word": "night differential",
       "phonetic": "/naɪt ˌdɪfəˈrenʃl/",
       "meaning": "夜班补贴",
-      "example": "Please share the night differential after the meeting.",
-      "exampleZh": "会后请分享这个夜班补贴。",
+      "example": "I put the night differential on the shared drive.",
+      "exampleZh": "我把夜班补贴放到了共享盘。",
       "category": "office"
     },
     {
       "word": "on-call pay",
       "phonetic": "/ɒn kɔːl peɪ/",
       "meaning": "值班津贴",
-      "example": "I updated the on-call pay this morning.",
-      "exampleZh": "我今天早上更新了这个值班津贴。",
+      "example": "We talked about the on-call pay with the department head.",
+      "exampleZh": "我们和科主任谈了这个值班津贴。",
       "category": "office"
     },
     {
       "word": "meal voucher",
       "phonetic": "/miːl ˈvaʊtʃə/",
       "meaning": "餐券",
-      "example": "Who is handling the meal voucher?",
-      "exampleZh": "谁在处理这个餐券？",
+      "example": "I put the meal voucher on the shared drive.",
+      "exampleZh": "我把餐券放到了共享盘。",
       "category": "office"
     },
     {
       "word": "transport allowance",
       "phonetic": "/ˈtrænspɔːt əˈlaʊəns/",
       "meaning": "交通补贴",
-      "example": "Who is handling the transport allowance?",
-      "exampleZh": "谁在处理这个交通补贴？",
+      "example": "The transport allowance still needs a decision today.",
+      "exampleZh": "这个交通补贴今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "secure boot",
       "phonetic": "/sɪˈkjʊə buːt/",
       "meaning": "安全启动",
-      "example": "Please review the secure boot after the patch.",
-      "exampleZh": "打补丁后请审阅这个安全启动。",
+      "example": "The vendor asked for a screenshot of the secure boot.",
+      "exampleZh": "厂商要一张这个安全启动的截图。",
       "category": "it"
     },
     {
       "word": "measured boot",
       "phonetic": "/ˈmeʒəd buːt/",
       "meaning": "度量启动",
-      "example": "Who supports this measured boot?",
-      "exampleZh": "谁支持这个度量启动？",
+      "example": "We will verify the measured boot after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个度量启动。",
       "category": "it"
     },
     {
       "word": "TPM",
       "phonetic": "/ˌtiː piː ˈem/",
-      "meaning": "可信平台模块",
-      "example": "The TPM is slow this morning.",
-      "exampleZh": "今天早上 TPM 很慢。",
+      "meaning": "可信平台模块（Trusted Platform Module）",
+      "example": "Do not move the TPM (Trusted Platform Module) during outpatient hours.",
+      "exampleZh": "门诊时段不要挪动 TPM（Trusted Platform Module）。",
       "category": "it"
     },
     {
       "word": "PCR",
       "phonetic": "/ˌpiː siː ˈɑː/",
-      "meaning": "平台配置寄存器",
-      "example": "The PCR is slow this morning.",
-      "exampleZh": "今天早上 PCR 很慢。",
+      "meaning": "平台配置寄存器（Platform Configuration Register）",
+      "example": "Replace the PCR (Platform Configuration Register) after hours.",
+      "exampleZh": "下班后再更换 PCR（Platform Configuration Register）。",
       "category": "it"
     },
     {
       "word": "BitLocker recovery",
       "phonetic": "/ˈbɪtlɒkə rɪˈkʌvəri/",
       "meaning": "磁盘恢复密钥",
-      "example": "Please review the BitLocker recovery after the patch.",
-      "exampleZh": "打补丁后请审阅这个磁盘恢复密钥。",
+      "example": "Please test the BitLocker recovery on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个磁盘恢复密钥。",
       "category": "it"
     }
   ]

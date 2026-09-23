@@ -5,80 +5,80 @@
       "word": "scan",
       "phonetic": "/skæn/",
       "meaning": "扫描件",
-      "example": "I updated the scan this morning.",
-      "exampleZh": "我今天早上更新了这个扫描件。",
+      "example": "Could you send the scan to the project group?",
+      "exampleZh": "你能把扫描件发到项目群吗？",
       "category": "office"
     },
     {
       "word": "fax",
       "phonetic": "/fæks/",
       "meaning": "传真",
-      "example": "Please share the fax after the meeting.",
-      "exampleZh": "会后请分享这个传真。",
+      "example": "Please add the fax to today’s notes.",
+      "exampleZh": "请把传真写进今天的记录。",
       "category": "office"
     },
     {
       "word": "courier",
       "phonetic": "/ˈkʊriə/",
       "meaning": "快递",
-      "example": "Please review the courier.",
-      "exampleZh": "请审阅一下这个快递。",
+      "example": "Could you send the courier to the project group?",
+      "exampleZh": "你能把快递发到项目群吗？",
       "category": "office"
     },
     {
       "word": "dispatch",
       "phonetic": "/dɪˈspætʃ/",
       "meaning": "发出",
-      "example": "Please dispatch this before noon.",
-      "exampleZh": "请在中午前发出这个。",
+      "example": "Please dispatch this before you leave.",
+      "exampleZh": "走之前请把这件事发出。",
       "category": "office"
     },
     {
       "word": "receive",
       "phonetic": "/rɪˈsiːv/",
       "meaning": "签收",
-      "example": "Please receive this before noon.",
-      "exampleZh": "请在中午前签收这个。",
+      "example": "Can you receive it today?",
+      "exampleZh": "你今天能把它签收吗？",
       "category": "office"
     },
     {
       "word": "backup catalog",
       "phonetic": "/ˈbækʌp ˈkætəlɒɡ/",
       "meaning": "备份目录",
-      "example": "Who supports this backup catalog?",
-      "exampleZh": "谁支持这个备份目录？",
+      "example": "Who is on call for the backup catalog this week?",
+      "exampleZh": "这周这个备份目录谁值班？",
       "category": "it"
     },
     {
       "word": "tape library",
       "phonetic": "/teɪp ˈlaɪbrəri/",
       "meaning": "磁带库",
-      "example": "Please review the tape library after the patch.",
-      "exampleZh": "打补丁后请审阅这个磁带库。",
+      "example": "We will verify the tape library after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个磁带库。",
       "category": "it"
     },
     {
       "word": "offsite backup",
       "phonetic": "/ˈɒfsaɪt ˈbækʌp/",
       "meaning": "异地备份",
-      "example": "Please review the offsite backup after the patch.",
-      "exampleZh": "打补丁后请审阅这个异地备份。",
+      "example": "I logged the offsite backup in today’s change ticket.",
+      "exampleZh": "我把这个异地备份记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "immutable backup",
       "phonetic": "/ɪˈmjuːtəbl ˈbækʌp/",
       "meaning": "不可篡改备份",
-      "example": "Please check the immutable backup.",
-      "exampleZh": "请检查一下这个不可篡改备份。",
+      "example": "Please test the immutable backup on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个不可篡改备份。",
       "category": "it"
     },
     {
       "word": "air gap",
       "phonetic": "/eə ɡæp/",
       "meaning": "物理隔离",
-      "example": "Please check the air gap.",
-      "exampleZh": "请检查一下这个物理隔离。",
+      "example": "Please test the air gap on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个物理隔离。",
       "category": "it"
     }
   ]

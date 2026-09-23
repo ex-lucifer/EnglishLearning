@@ -13,72 +13,72 @@
       "word": "next steps",
       "phonetic": "/nekst steps/",
       "meaning": "下一步",
-      "example": "Please share the next steps after the meeting.",
-      "exampleZh": "会后请分享这个下一步。",
+      "example": "We talked about the next steps with the department head.",
+      "exampleZh": "我们和科主任谈了这个下一步。",
       "category": "office"
     },
     {
       "word": "status update",
       "phonetic": "/ˈsteɪtəs ˌʌpdeɪt/",
       "meaning": "进展通报",
-      "example": "I updated the status update this morning.",
-      "exampleZh": "我今天早上更新了这个进展通报。",
+      "example": "We talked about the status update with the department head.",
+      "exampleZh": "我们和科主任谈了这个进展通报。",
       "category": "office"
     },
     {
       "word": "weekly report",
       "phonetic": "/ˈwiːkli rɪˈpɔːt/",
       "meaning": "周报",
-      "example": "Please review the weekly report.",
-      "exampleZh": "请审阅一下这个周报。",
+      "example": "We talked about the weekly report with the department head.",
+      "exampleZh": "我们和科主任谈了这个周报。",
       "category": "office"
     },
     {
       "word": "monthly report",
       "phonetic": "/ˈmʌnθli rɪˈpɔːt/",
       "meaning": "月报",
-      "example": "Please review the monthly report.",
-      "exampleZh": "请审阅一下这个月报。",
+      "example": "Please add the monthly report to today’s notes.",
+      "exampleZh": "请把月报写进今天的记录。",
       "category": "office"
     },
     {
       "word": "domain time",
       "phonetic": "/dəˈmeɪn taɪm/",
       "meaning": "域时间",
-      "example": "The domain time is in production.",
-      "exampleZh": "这个域时间已在生产环境。",
+      "example": "Do not touch the domain time during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个域时间。",
       "category": "it"
     },
     {
       "word": "certificate authority",
       "phonetic": "/səˈtɪfɪkət ɔːˈθɒrəti/",
       "meaning": "证书颁发机构",
-      "example": "The certificate authority is in production.",
-      "exampleZh": "这个证书颁发机构已在生产环境。",
+      "example": "I logged the certificate authority in today’s change ticket.",
+      "exampleZh": "我把这个证书颁发机构记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "CRL",
       "phonetic": "/ˌsiː ɑː ˈel/",
-      "meaning": "证书吊销列表",
-      "example": "The CRL is slow this morning.",
-      "exampleZh": "今天早上 CRL 很慢。",
+      "meaning": "证书吊销列表（Certificate Revocation List）",
+      "example": "The CRL (Certificate Revocation List) is missing on this chart.",
+      "exampleZh": "这份记录少了 CRL（Certificate Revocation List）。",
       "category": "it"
     },
     {
       "word": "OCSP",
       "phonetic": "/ˌəʊ siː es ˈpiː/",
-      "meaning": "在线证书状态",
-      "example": "The OCSP is slow this morning.",
-      "exampleZh": "今天早上 OCSP 很慢。",
+      "meaning": "在线证书状态（Online Certificate Status Protocol）",
+      "example": "Enable OCSP (Online Certificate Status Protocol) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 OCSP（Online Certificate Status Protocol）。",
       "category": "it"
     },
     {
       "word": "password reset",
       "phonetic": "/ˈpɑːswɜːd ˌriːˈset/",
       "meaning": "密码重置",
-      "example": "The password reset is in production.",
-      "exampleZh": "这个密码重置已在生产环境。",
+      "example": "Please test the password reset on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个密码重置。",
       "category": "it"
     }
   ]

@@ -37,48 +37,48 @@
       "word": "admission",
       "phonetic": "/ədˈmɪʃn/",
       "meaning": "入院",
-      "example": "I updated the admission this morning.",
-      "exampleZh": "我今天早上更新了这个入院。",
+      "example": "We talked about the admission with the department head.",
+      "exampleZh": "我们和科主任谈了这个入院。",
       "category": "office"
     },
     {
       "word": "sandbox environment",
       "phonetic": "/ˈsændbɒks ɪnˈvaɪrənmənt/",
       "meaning": "沙箱环境",
-      "example": "We need the sandbox environment before go-live.",
-      "exampleZh": "上线前我们需要这个沙箱环境。",
+      "example": "We will verify the sandbox environment after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个沙箱环境。",
       "category": "it"
     },
     {
       "word": "dev environment",
       "phonetic": "/dev ɪnˈvaɪrənmənt/",
       "meaning": "开发环境",
-      "example": "Please review the dev environment after the patch.",
-      "exampleZh": "打补丁后请审阅这个开发环境。",
+      "example": "Do not touch the dev environment during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个开发环境。",
       "category": "it"
     },
     {
       "word": "test environment",
       "phonetic": "/test ɪnˈvaɪrənmənt/",
       "meaning": "测试环境",
-      "example": "Please check the test environment.",
-      "exampleZh": "请检查一下这个测试环境。",
+      "example": "The ward asked us to check the test environment.",
+      "exampleZh": "病区让我们看一下这个测试环境。",
       "category": "it"
     },
     {
       "word": "DR site",
       "phonetic": "/ˌdiː ˈɑː saɪt/",
       "meaning": "灾备站点",
-      "example": "Please check the DR site.",
-      "exampleZh": "请检查一下这个灾备站点。",
+      "example": "Do not touch the DR site during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个灾备站点。",
       "category": "it"
     },
     {
       "word": "primary site",
       "phonetic": "/ˈpraɪməri saɪt/",
       "meaning": "主站点",
-      "example": "We need the primary site before go-live.",
-      "exampleZh": "上线前我们需要这个主站点。",
+      "example": "Who is on call for the primary site this week?",
+      "exampleZh": "这周这个主站点谁值班？",
       "category": "it"
     }
   ]

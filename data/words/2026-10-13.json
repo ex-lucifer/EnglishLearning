@@ -5,80 +5,80 @@
       "word": "sponsor",
       "phonetic": "/ˈspɒnsə/",
       "meaning": "发起人",
-      "example": "Please share the sponsor after the meeting.",
-      "exampleZh": "会后请分享这个发起人。",
+      "example": "Please add the sponsor to today’s notes.",
+      "exampleZh": "请把发起人写进今天的记录。",
       "category": "office"
     },
     {
       "word": "timeline",
       "phonetic": "/ˈtaɪmlaɪn/",
       "meaning": "时间线",
-      "example": "Please review the timeline.",
-      "exampleZh": "请审阅一下这个时间线。",
+      "example": "Please add the timeline to today’s notes.",
+      "exampleZh": "请把时间线写进今天的记录。",
       "category": "office"
     },
     {
       "word": "backlog",
       "phonetic": "/ˈbæklɒɡ/",
       "meaning": "待办积压",
-      "example": "Who is handling the backlog?",
-      "exampleZh": "谁在处理这个待办积压？",
+      "example": "Could you send the backlog to the project group?",
+      "exampleZh": "你能把待办积压发到项目群吗？",
       "category": "office"
     },
     {
       "word": "blocker",
       "phonetic": "/ˈblɒkə/",
       "meaning": "阻塞项",
-      "example": "Who is handling the blocker?",
-      "exampleZh": "谁在处理这个阻塞项？",
+      "example": "I put the blocker on the shared drive.",
+      "exampleZh": "我把阻塞项放到了共享盘。",
       "category": "office"
     },
     {
       "word": "dependency",
       "phonetic": "/dɪˈpendənsi/",
       "meaning": "依赖项",
-      "example": "Please review the dependency.",
-      "exampleZh": "请审阅一下这个依赖项。",
+      "example": "Please add the dependency to today’s notes.",
+      "exampleZh": "请把依赖项写进今天的记录。",
       "category": "office"
     },
     {
       "word": "allowlist",
       "phonetic": "/ˈəlaʊlɪst/",
       "meaning": "允许名单",
-      "example": "Please check the allowlist.",
-      "exampleZh": "请检查一下这个允许名单。",
+      "example": "Please test the allowlist on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个允许名单。",
       "category": "it"
     },
     {
       "word": "blocklist",
       "phonetic": "/ˈblɒklɪst/",
       "meaning": "拦截名单",
-      "example": "We need the blocklist before go-live.",
-      "exampleZh": "上线前我们需要这个拦截名单。",
+      "example": "Please test the blocklist on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个拦截名单。",
       "category": "it"
     },
     {
       "word": "IDS",
       "phonetic": "/ˌaɪ diː ˈes/",
-      "meaning": "入侵检测系统",
-      "example": "The IDS is slow this morning.",
-      "exampleZh": "今天早上 IDS 很慢。",
+      "meaning": "入侵检测系统（Intrusion Detection System）",
+      "example": "Do not restart IDS (Intrusion Detection System) during morning rounds.",
+      "exampleZh": "早交班时段不要重启 IDS（Intrusion Detection System）。",
       "category": "it"
     },
     {
       "word": "IPS",
       "phonetic": "/ˌaɪ piː ˈes/",
-      "meaning": "入侵防护系统",
-      "example": "The IPS is slow this morning.",
-      "exampleZh": "今天早上 IPS 很慢。",
+      "meaning": "入侵防护系统（Intrusion Prevention System）",
+      "example": "We tested IPS (Intrusion Prevention System) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 IPS（Intrusion Prevention System）。",
       "category": "it"
     },
     {
       "word": "WAF",
       "phonetic": "/wæf/",
-      "meaning": "Web应用防火墙",
-      "example": "The WAF is slow this morning.",
-      "exampleZh": "今天早上 WAF 很慢。",
+      "meaning": "Web应用防火墙（Web Application Firewall）",
+      "example": "We tested WAF (Web Application Firewall) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 WAF（Web Application Firewall）。",
       "category": "it"
     }
   ]

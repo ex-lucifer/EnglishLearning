@@ -5,80 +5,80 @@
       "word": "screen share",
       "phonetic": "/skriːn ʃeə/",
       "meaning": "屏幕共享",
-      "example": "I updated the screen share this morning.",
-      "exampleZh": "我今天早上更新了这个屏幕共享。",
+      "example": "We talked about the screen share with the department head.",
+      "exampleZh": "我们和科主任谈了这个屏幕共享。",
       "category": "office"
     },
     {
       "word": "timeslot",
       "phonetic": "/ˈtaɪmslɒt/",
       "meaning": "时间段",
-      "example": "I updated the timeslot this morning.",
-      "exampleZh": "我今天早上更新了这个时间段。",
+      "example": "Who will own the timeslot this week?",
+      "exampleZh": "这周这个时间段谁来负责？",
       "category": "office"
     },
     {
       "word": "RSVP",
       "phonetic": "/ˌɑːr es viː ˈpiː/",
-      "meaning": "回复出席",
-      "example": "Please put RSVP on the email.",
-      "exampleZh": "请在邮件里注明 RSVP。",
+      "meaning": "回复出席（please reply）",
+      "example": "Please send your RSVP (please reply) before Friday.",
+      "exampleZh": "请在周五前回复出席（RSVP，please reply）。",
       "category": "office"
     },
     {
       "word": "calendar",
       "phonetic": "/ˈkælɪndə/",
       "meaning": "日历",
-      "example": "The calendar is ready for review.",
-      "exampleZh": "这个日历已经可以审阅了。",
+      "example": "I put the calendar on the shared drive.",
+      "exampleZh": "我把日历放到了共享盘。",
       "category": "office"
     },
     {
       "word": "invitation",
       "phonetic": "/ˌɪnvɪˈteɪʃn/",
       "meaning": "邀请",
-      "example": "I updated the invitation this morning.",
-      "exampleZh": "我今天早上更新了这个邀请。",
+      "example": "The invitation still needs a decision today.",
+      "exampleZh": "这个邀请今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "interface engine",
       "phonetic": "/ˈɪntəfeɪs ˈendʒɪn/",
       "meaning": "接口引擎",
-      "example": "Who supports this interface engine?",
-      "exampleZh": "谁支持这个接口引擎？",
+      "example": "Who is on call for the interface engine this week?",
+      "exampleZh": "这周这个接口引擎谁值班？",
       "category": "it"
     },
     {
       "word": "middleware",
       "phonetic": "/ˈmɪdlweə/",
       "meaning": "中间件",
-      "example": "Who supports this middleware?",
-      "exampleZh": "谁支持这个中间件？",
+      "example": "The ward asked us to check the middleware.",
+      "exampleZh": "病区让我们看一下这个中间件。",
       "category": "it"
     },
     {
       "word": "worklist",
       "phonetic": "/ˈwɜːklɪst/",
       "meaning": "工作列表",
-      "example": "Please review the worklist after the patch.",
-      "exampleZh": "打补丁后请审阅这个工作列表。",
+      "example": "Who is on call for the worklist this week?",
+      "exampleZh": "这周这个工作列表谁值班？",
       "category": "it"
     },
     {
       "word": "accession number",
       "phonetic": "/əkˈseʃn ˈnʌmbə/",
       "meaning": "检查号",
-      "example": "Who supports this accession number?",
-      "exampleZh": "谁支持这个检查号？",
+      "example": "Who is on call for the accession number this week?",
+      "exampleZh": "这周这个检查号谁值班？",
       "category": "it"
     },
     {
       "word": "study UID",
       "phonetic": "/ˈstʌdi juː aɪ ˈdiː/",
       "meaning": "检查唯一号",
-      "example": "Who supports this study UID?",
-      "exampleZh": "谁支持这个检查唯一号？",
+      "example": "We will verify the study UID after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个检查唯一号。",
       "category": "it"
     }
   ]

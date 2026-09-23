@@ -5,80 +5,80 @@
       "word": "housekeeping",
       "phonetic": "/ˈhaʊskiːpɪŋ/",
       "meaning": "会务杂务",
-      "example": "Please review the housekeeping.",
-      "exampleZh": "请审阅一下这个会务杂务。",
+      "example": "I put the housekeeping on the shared drive.",
+      "exampleZh": "我把会务杂务放到了共享盘。",
       "category": "office"
     },
     {
       "word": "AV check",
       "phonetic": "/ˌeɪ ˈviː tʃek/",
       "meaning": "音视频检查",
-      "example": "Please share the AV check after the meeting.",
-      "exampleZh": "会后请分享这个音视频检查。",
+      "example": "Please bring the AV check to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个音视频检查。",
       "category": "office"
     },
     {
       "word": "microphone",
       "phonetic": "/ˈmaɪkrəfəʊn/",
       "meaning": "麦克风",
-      "example": "Who is handling the microphone?",
-      "exampleZh": "谁在处理这个麦克风？",
+      "example": "Who will own the microphone this week?",
+      "exampleZh": "这周这个麦克风谁来负责？",
       "category": "office"
     },
     {
       "word": "speakerphone",
       "phonetic": "/ˈspiːkəfəʊn/",
       "meaning": "免提电话",
-      "example": "Who is handling the speakerphone?",
-      "exampleZh": "谁在处理这个免提电话？",
+      "example": "Please bring the speakerphone to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个免提电话。",
       "category": "office"
     },
     {
       "word": "projector",
       "phonetic": "/prəˈdʒektə/",
       "meaning": "投影仪",
-      "example": "Please review the projector.",
-      "exampleZh": "请审阅一下这个投影仪。",
+      "example": "The projector still needs a decision today.",
+      "exampleZh": "这个投影仪今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "distribution point",
       "phonetic": "/ˌdɪstrɪˈbjuːʃn pɔɪnt/",
       "meaning": "分发点",
-      "example": "We need the distribution point before go-live.",
-      "exampleZh": "上线前我们需要这个分发点。",
+      "example": "Do not touch the distribution point during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个分发点。",
       "category": "it"
     },
     {
       "word": "management point",
       "phonetic": "/ˈmænɪdʒmənt pɔɪnt/",
       "meaning": "管理点",
-      "example": "Please check the management point.",
-      "exampleZh": "请检查一下这个管理点。",
+      "example": "Please test the management point on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个管理点。",
       "category": "it"
     },
     {
       "word": "client agent",
       "phonetic": "/ˈklaɪənt ˈeɪdʒənt/",
       "meaning": "客户端代理",
-      "example": "The client agent is in production.",
-      "exampleZh": "这个客户端代理已在生产环境。",
+      "example": "I logged the client agent in today’s change ticket.",
+      "exampleZh": "我把这个客户端代理记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "heartbeat interval",
       "phonetic": "/ˈhɑːtbiːt ˈɪntəvl/",
       "meaning": "心跳间隔",
-      "example": "Please check the heartbeat interval.",
-      "exampleZh": "请检查一下这个心跳间隔。",
+      "example": "Do not touch the heartbeat interval during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个心跳间隔。",
       "category": "it"
     },
     {
       "word": "policy refresh",
       "phonetic": "/ˈpɒləsi rɪˈfreʃ/",
       "meaning": "策略刷新",
-      "example": "Who supports this policy refresh?",
-      "exampleZh": "谁支持这个策略刷新？",
+      "example": "Please test the policy refresh on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个策略刷新。",
       "category": "it"
     }
   ]

@@ -5,32 +5,32 @@
       "word": "late arrival",
       "phonetic": "/leɪt əˈraɪvl/",
       "meaning": "迟到",
-      "example": "I updated the late arrival this morning.",
-      "exampleZh": "我今天早上更新了这个迟到。",
+      "example": "Could you send the late arrival to the project group?",
+      "exampleZh": "你能把迟到发到项目群吗？",
       "category": "office"
     },
     {
       "word": "early leave",
       "phonetic": "/ˈɜːli liːv/",
       "meaning": "早退",
-      "example": "Who is handling the early leave?",
-      "exampleZh": "谁在处理这个早退？",
+      "example": "We talked about the early leave with the department head.",
+      "exampleZh": "我们和科主任谈了这个早退。",
       "category": "office"
     },
     {
       "word": "proxy vote",
       "phonetic": "/ˈprɒksi vəʊt/",
       "meaning": "代投票",
-      "example": "Please review the proxy vote.",
-      "exampleZh": "请审阅一下这个代投票。",
+      "example": "I put the proxy vote on the shared drive.",
+      "exampleZh": "我把代投票放到了共享盘。",
       "category": "office"
     },
     {
       "word": "motion",
       "phonetic": "/ˈməʊʃn/",
       "meaning": "动议",
-      "example": "The motion is ready for review.",
-      "exampleZh": "这个动议已经可以审阅了。",
+      "example": "Who will own the motion this week?",
+      "exampleZh": "这周这个动议谁来负责？",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "credential leak",
       "phonetic": "/krəˈdenʃl liːk/",
       "meaning": "凭据泄露",
-      "example": "Who supports this credential leak?",
-      "exampleZh": "谁支持这个凭据泄露？",
+      "example": "Who is on call for the credential leak this week?",
+      "exampleZh": "这周这个凭据泄露谁值班？",
       "category": "it"
     },
     {
       "word": "keylogger",
       "phonetic": "/ˈkiːlɒɡə/",
       "meaning": "键盘记录",
-      "example": "Please review the keylogger after the patch.",
-      "exampleZh": "打补丁后请审阅这个键盘记录。",
+      "example": "Who is on call for the keylogger this week?",
+      "exampleZh": "这周这个键盘记录谁值班？",
       "category": "it"
     },
     {
       "word": "screen capture",
       "phonetic": "/skriːn ˈkæptʃə/",
       "meaning": "屏幕截取",
-      "example": "We need the screen capture before go-live.",
-      "exampleZh": "上线前我们需要这个屏幕截取。",
+      "example": "The vendor asked for a screenshot of the screen capture.",
+      "exampleZh": "厂商要一张这个屏幕截取的截图。",
       "category": "it"
     },
     {
       "word": "clipboard",
       "phonetic": "/ˈklɪpbɔːd/",
       "meaning": "剪贴板",
-      "example": "We need the clipboard before go-live.",
-      "exampleZh": "上线前我们需要这个剪贴板。",
+      "example": "Please test the clipboard on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个剪贴板。",
       "category": "it"
     },
     {
       "word": "USB drop",
       "phonetic": "/ˌjuː es ˈbiː drɒp/",
       "meaning": "U盘投放",
-      "example": "We need the USB drop before go-live.",
-      "exampleZh": "上线前我们需要这个U盘投放。",
+      "example": "We will verify the USB drop after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个U盘投放。",
       "category": "it"
     }
   ]

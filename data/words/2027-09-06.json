@@ -5,80 +5,80 @@
       "word": "unsigned",
       "phonetic": "/ˌʌnˈsaɪnd/",
       "meaning": "未签字的",
-      "example": "Please keep this unsigned.",
-      "exampleZh": "请保持未签字的。",
+      "example": "Do not file an unsigned consent form.",
+      "exampleZh": "未签字的知情同意书不要归档。",
       "category": "office"
     },
     {
       "word": "unstamped",
       "phonetic": "/ˌʌnˈstæmpt/",
       "meaning": "未盖章的",
-      "example": "Please keep this unstamped.",
-      "exampleZh": "请保持未盖章的。",
+      "example": "The letter is still unstamped.",
+      "exampleZh": "这封信还没盖章。",
       "category": "office"
     },
     {
       "word": "outdated",
       "phonetic": "/ˌaʊtˈdeɪtɪd/",
       "meaning": "过时的",
-      "example": "This request is outdated.",
-      "exampleZh": "这个请求是过时的的。",
+      "example": "That SOP is outdated; use the current version.",
+      "exampleZh": "那份作业程序过时了，请用当前版本。",
       "category": "office"
     },
     {
       "word": "superseded",
       "phonetic": "/ˌsuːpəˈsiːdɪd/",
       "meaning": "已被替代的",
-      "example": "The timeline looks superseded.",
-      "exampleZh": "时间看起来已被替代的。",
+      "example": "This form has been superseded.",
+      "exampleZh": "这张表已被替代。",
       "category": "office"
     },
     {
       "word": "current version",
       "phonetic": "/ˈkʌrənt ˈvɜːʃn/",
       "meaning": "当前版本",
-      "example": "Who is handling the current version?",
-      "exampleZh": "谁在处理这个当前版本？",
+      "example": "Could you send the current version to the project group?",
+      "exampleZh": "你能把当前版本发到项目群吗？",
       "category": "office"
     },
     {
       "word": "eDiscovery",
       "phonetic": "/iː dɪsˈkʌvəri/",
       "meaning": "电子取证",
-      "example": "The eDiscovery is in production.",
-      "exampleZh": "这个电子取证已在生产环境。",
+      "example": "The ward asked us to check the eDiscovery.",
+      "exampleZh": "病区让我们看一下这个电子取证。",
       "category": "it"
     },
     {
       "word": "journaling",
       "phonetic": "/ˈdʒɜːnəlɪŋ/",
       "meaning": "邮件日志",
-      "example": "Please review the journaling after the patch.",
-      "exampleZh": "打补丁后请审阅这个邮件日志。",
+      "example": "The ward asked us to check the journaling.",
+      "exampleZh": "病区让我们看一下这个邮件日志。",
       "category": "it"
     },
     {
       "word": "transport rule",
       "phonetic": "/ˈtrænspɔːt ruːl/",
       "meaning": "传输规则",
-      "example": "Please review the transport rule after the patch.",
-      "exampleZh": "打补丁后请审阅这个传输规则。",
+      "example": "The ward asked us to check the transport rule.",
+      "exampleZh": "病区让我们看一下这个传输规则。",
       "category": "it"
     },
     {
       "word": "mail flow",
       "phonetic": "/meɪl fləʊ/",
       "meaning": "邮件流",
-      "example": "Who supports this mail flow?",
-      "exampleZh": "谁支持这个邮件流？",
+      "example": "The vendor asked for a screenshot of the mail flow.",
+      "exampleZh": "厂商要一张这个邮件流的截图。",
       "category": "it"
     },
     {
       "word": "connector",
       "phonetic": "/kəˈnektə/",
       "meaning": "连接器",
-      "example": "Who supports this connector?",
-      "exampleZh": "谁支持这个连接器？",
+      "example": "The ward asked us to check the connector.",
+      "exampleZh": "病区让我们看一下这个连接器。",
       "category": "it"
     }
   ]

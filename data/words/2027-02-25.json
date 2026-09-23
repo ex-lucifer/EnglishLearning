@@ -5,80 +5,80 @@
       "word": "raise",
       "phonetic": "/reɪz/",
       "meaning": "提出问题",
-      "example": "We need to raise this by Friday.",
-      "exampleZh": "我们周五前需要提出问题这个。",
+      "example": "We still need to raise this.",
+      "exampleZh": "这件事还得提出问题。",
       "category": "office"
     },
     {
       "word": "address",
       "phonetic": "/əˈdres/",
       "meaning": "处理回应",
-      "example": "We need to address this by Friday.",
-      "exampleZh": "我们周五前需要处理回应这个。",
+      "example": "We still need to address this.",
+      "exampleZh": "这件事还得处理回应。",
       "category": "office"
     },
     {
       "word": "resolve",
       "phonetic": "/rɪˈzɒlv/",
       "meaning": "解决",
-      "example": "Let's resolve this first.",
-      "exampleZh": "我们先解决这个吧。",
+      "example": "We still need to resolve this.",
+      "exampleZh": "这件事还得解决。",
       "category": "office"
     },
     {
       "word": "settle",
       "phonetic": "/ˈsetl/",
       "meaning": "谈妥",
-      "example": "We need to settle this by Friday.",
-      "exampleZh": "我们周五前需要谈妥这个。",
+      "example": "Can you settle it today?",
+      "exampleZh": "你今天能把它谈妥吗？",
       "category": "office"
     },
     {
       "word": "mediate",
       "phonetic": "/ˈmiːdieɪt/",
       "meaning": "调解",
-      "example": "Can you mediate it today?",
-      "exampleZh": "你今天能调解一下吗？",
+      "example": "Who will mediate this after the huddle?",
+      "exampleZh": "晨会后谁来调解？",
       "category": "office"
     },
     {
       "word": "connection leak",
       "phonetic": "/kəˈnekʃn liːk/",
       "meaning": "连接泄漏",
-      "example": "The connection leak is in production.",
-      "exampleZh": "这个连接泄漏已在生产环境。",
+      "example": "The ward asked us to check the connection leak.",
+      "exampleZh": "病区让我们看一下这个连接泄漏。",
       "category": "it"
     },
     {
       "word": "thread dump",
       "phonetic": "/θred dʌmp/",
       "meaning": "线程转储",
-      "example": "We need the thread dump before go-live.",
-      "exampleZh": "上线前我们需要这个线程转储。",
+      "example": "We will verify the thread dump after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个线程转储。",
       "category": "it"
     },
     {
       "word": "heap dump",
       "phonetic": "/hiːp dʌmp/",
       "meaning": "堆转储",
-      "example": "Please review the heap dump after the patch.",
-      "exampleZh": "打补丁后请审阅这个堆转储。",
+      "example": "Please test the heap dump on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个堆转储。",
       "category": "it"
     },
     {
       "word": "garbage collection",
       "phonetic": "/ˈɡɑːbɪdʒ kəˈlekʃn/",
       "meaning": "垃圾回收",
-      "example": "The garbage collection is in production.",
-      "exampleZh": "这个垃圾回收已在生产环境。",
+      "example": "Please test the garbage collection on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个垃圾回收。",
       "category": "it"
     },
     {
       "word": "out of memory",
       "phonetic": "/aʊt əv ˈmeməri/",
       "meaning": "内存耗尽",
-      "example": "Please review the out of memory after the patch.",
-      "exampleZh": "打补丁后请审阅这个内存耗尽。",
+      "example": "The ward asked us to check the out of memory.",
+      "exampleZh": "病区让我们看一下这个内存耗尽。",
       "category": "it"
     }
   ]

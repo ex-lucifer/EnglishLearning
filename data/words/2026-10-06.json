@@ -5,80 +5,80 @@
       "word": "onboard",
       "phonetic": "/ˌɒnˈbɔːd/",
       "meaning": "入职对接",
-      "example": "I will onboard it after the meeting.",
-      "exampleZh": "会后我会入职对接它。",
+      "example": "Please onboard the new clerk before Thursday.",
+      "exampleZh": "请在周四前完成新文员的入职对接。",
       "category": "office"
     },
     {
       "word": "offboard",
       "phonetic": "/ˌɒfˈbɔːd/",
       "meaning": "离职交接",
-      "example": "I will offboard it after the meeting.",
-      "exampleZh": "会后我会离职交接它。",
+      "example": "Offboard her system access on the last day.",
+      "exampleZh": "最后一天请收回她的系统权限。",
       "category": "office"
     },
     {
       "word": "probation",
       "phonetic": "/prəˈbeɪʃn/",
       "meaning": "试用期",
-      "example": "Please review the probation.",
-      "exampleZh": "请审阅一下这个试用期。",
+      "example": "Please add the probation to today’s notes.",
+      "exampleZh": "请把试用期写进今天的记录。",
       "category": "office"
     },
     {
       "word": "appraisal",
       "phonetic": "/əˈpreɪzl/",
       "meaning": "绩效考核",
-      "example": "Please share the appraisal after the meeting.",
-      "exampleZh": "会后请分享这个绩效考核。",
+      "example": "I put the appraisal on the shared drive.",
+      "exampleZh": "我把绩效考核放到了共享盘。",
       "category": "office"
     },
     {
       "word": "overtime",
       "phonetic": "/ˈəʊvətaɪm/",
       "meaning": "加班",
-      "example": "Please share the overtime after the meeting.",
-      "exampleZh": "会后请分享这个加班。",
+      "example": "Please bring the overtime to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个加班。",
       "category": "office"
     },
     {
       "word": "rate limit",
       "phonetic": "/reɪt ˈlɪmɪt/",
       "meaning": "速率限制",
-      "example": "Who supports this rate limit?",
-      "exampleZh": "谁支持这个速率限制？",
+      "example": "Do not touch the rate limit during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个速率限制。",
       "category": "it"
     },
     {
       "word": "circuit breaker",
       "phonetic": "/ˈsɜːkɪt ˈbreɪkə/",
       "meaning": "熔断器",
-      "example": "We need the circuit breaker before go-live.",
-      "exampleZh": "上线前我们需要这个熔断器。",
+      "example": "Who is on call for the circuit breaker this week?",
+      "exampleZh": "这周这个熔断器谁值班？",
       "category": "it"
     },
     {
       "word": "health endpoint",
       "phonetic": "/helθ ˈendpɔɪnt/",
       "meaning": "健康检查接口",
-      "example": "Please check the health endpoint.",
-      "exampleZh": "请检查一下这个健康检查接口。",
+      "example": "Please test the health endpoint on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个健康检查接口。",
       "category": "it"
     },
     {
       "word": "readiness probe",
       "phonetic": "/ˈredinəs prəʊb/",
       "meaning": "就绪探针",
-      "example": "Please review the readiness probe after the patch.",
-      "exampleZh": "打补丁后请审阅这个就绪探针。",
+      "example": "I logged the readiness probe in today’s change ticket.",
+      "exampleZh": "我把这个就绪探针记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "liveness probe",
       "phonetic": "/ˈlaɪvnəs prəʊb/",
       "meaning": "存活探针",
-      "example": "Please review the liveness probe after the patch.",
-      "exampleZh": "打补丁后请审阅这个存活探针。",
+      "example": "We will verify the liveness probe after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个存活探针。",
       "category": "it"
     }
   ]

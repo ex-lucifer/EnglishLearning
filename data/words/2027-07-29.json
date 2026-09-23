@@ -5,80 +5,80 @@
       "word": "building",
       "phonetic": "/ˈbɪldɪŋ/",
       "meaning": "楼宇",
-      "example": "Please share the building after the meeting.",
-      "exampleZh": "会后请分享这个楼宇。",
+      "example": "Could you send the building to the project group?",
+      "exampleZh": "你能把楼宇发到项目群吗？",
       "category": "office"
     },
     {
       "word": "wing",
       "phonetic": "/wɪŋ/",
       "meaning": "楼翼",
-      "example": "The wing is ready for review.",
-      "exampleZh": "这个楼翼已经可以审阅了。",
+      "example": "Could you send the wing to the project group?",
+      "exampleZh": "你能把楼翼发到项目群吗？",
       "category": "office"
     },
     {
       "word": "ward",
       "phonetic": "/wɔːd/",
       "meaning": "病区",
-      "example": "Please review the ward.",
-      "exampleZh": "请审阅一下这个病区。",
+      "example": "We talked about the ward with the department head.",
+      "exampleZh": "我们和科主任谈了这个病区。",
       "category": "office"
     },
     {
       "word": "unit",
       "phonetic": "/ˈjuːnɪt/",
       "meaning": "单元",
-      "example": "Who is handling the unit?",
-      "exampleZh": "谁在处理这个单元？",
+      "example": "I put the unit on the shared drive.",
+      "exampleZh": "我把单元放到了共享盘。",
       "category": "office"
     },
     {
       "word": "bay",
       "phonetic": "/beɪ/",
       "meaning": "床位区",
-      "example": "I updated the bay this morning.",
-      "exampleZh": "我今天早上更新了这个床位区。",
+      "example": "Who will own the bay this week?",
+      "exampleZh": "这周这个床位区谁来负责？",
       "category": "office"
     },
     {
       "word": "instant clone",
       "phonetic": "/ˈɪnstənt kləʊn/",
       "meaning": "即时克隆",
-      "example": "We need the instant clone before go-live.",
-      "exampleZh": "上线前我们需要这个即时克隆。",
+      "example": "We will verify the instant clone after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个即时克隆。",
       "category": "it"
     },
     {
       "word": "vMotion",
       "phonetic": "/viː ˈməʊʃn/",
       "meaning": "在线迁移",
-      "example": "Please review the vMotion after the patch.",
-      "exampleZh": "打补丁后请审阅这个在线迁移。",
+      "example": "Do not touch the vMotion during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个在线迁移。",
       "category": "it"
     },
     {
       "word": "storage vMotion",
       "phonetic": "/ˈstɔːrɪdʒ viː ˈməʊʃn/",
       "meaning": "存储在线迁移",
-      "example": "Please review the storage vMotion after the patch.",
-      "exampleZh": "打补丁后请审阅这个存储在线迁移。",
+      "example": "Who is on call for the storage vMotion this week?",
+      "exampleZh": "这周这个存储在线迁移谁值班？",
       "category": "it"
     },
     {
       "word": "HA cluster",
       "phonetic": "/eɪtʃ eɪ ˈklʌstə/",
       "meaning": "高可用集群",
-      "example": "The HA cluster is in production.",
-      "exampleZh": "这个高可用集群已在生产环境。",
+      "example": "The ward asked us to check the HA cluster.",
+      "exampleZh": "病区让我们看一下这个高可用集群。",
       "category": "it"
     },
     {
       "word": "DRS",
       "phonetic": "/ˌdiː ɑːr ˈes/",
-      "meaning": "动态资源调度",
-      "example": "The DRS is slow this morning.",
-      "exampleZh": "今天早上 DRS 很慢。",
+      "meaning": "动态资源调度（Distributed Resource Scheduler）",
+      "example": "Check the DRS (Distributed Resource Scheduler) on the test host first.",
+      "exampleZh": "请先在测试主机上检查 DRS（Distributed Resource Scheduler）。",
       "category": "it"
     }
   ]

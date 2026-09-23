@@ -5,80 +5,80 @@
       "word": "handover note",
       "phonetic": "/ˈhændəʊvə nəʊt/",
       "meaning": "交接说明",
-      "example": "Please share the handover note after the meeting.",
-      "exampleZh": "会后请分享这个交接说明。",
+      "example": "Could you send the handover note to the project group?",
+      "exampleZh": "你能把交接说明发到项目群吗？",
       "category": "office"
     },
     {
       "word": "duty log",
       "phonetic": "/ˈdjuːti lɒɡ/",
       "meaning": "值班日志",
-      "example": "Who is handling the duty log?",
-      "exampleZh": "谁在处理这个值班日志？",
+      "example": "The duty log still needs a decision today.",
+      "exampleZh": "这个值班日志今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "secondment",
       "phonetic": "/sɪˈkɒndmənt/",
       "meaning": "借调",
-      "example": "Who is handling the secondment?",
-      "exampleZh": "谁在处理这个借调？",
+      "example": "The secondment still needs a decision today.",
+      "exampleZh": "这个借调今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "rotation",
       "phonetic": "/rəʊˈteɪʃn/",
       "meaning": "轮岗",
-      "example": "The rotation is ready for review.",
-      "exampleZh": "这个轮岗已经可以审阅了。",
+      "example": "Please add the rotation to today’s notes.",
+      "exampleZh": "请把轮岗写进今天的记录。",
       "category": "office"
     },
     {
       "word": "intern",
       "phonetic": "/ˈɪntɜːn/",
       "meaning": "实习生",
-      "example": "I updated the intern this morning.",
-      "exampleZh": "我今天早上更新了这个实习生。",
+      "example": "Please bring the intern to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个实习生。",
       "category": "office"
     },
     {
       "word": "connection pool",
       "phonetic": "/kəˈnekʃn puːl/",
       "meaning": "连接池",
-      "example": "We need the connection pool before go-live.",
-      "exampleZh": "上线前我们需要这个连接池。",
+      "example": "We will verify the connection pool after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个连接池。",
       "category": "it"
     },
     {
       "word": "deadlock",
       "phonetic": "/ˈdedlɒk/",
       "meaning": "死锁",
-      "example": "We need the deadlock before go-live.",
-      "exampleZh": "上线前我们需要这个死锁。",
+      "example": "We will verify the deadlock after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个死锁。",
       "category": "it"
     },
     {
       "word": "query timeout",
       "phonetic": "/ˈkwɪəri ˈtaɪmaʊt/",
       "meaning": "查询超时",
-      "example": "Please check the query timeout.",
-      "exampleZh": "请检查一下这个查询超时。",
+      "example": "We will verify the query timeout after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个查询超时。",
       "category": "it"
     },
     {
       "word": "index rebuild",
       "phonetic": "/ˈɪndeks ˌriːˈbɪld/",
       "meaning": "索引重建",
-      "example": "The index rebuild is in production.",
-      "exampleZh": "这个索引重建已在生产环境。",
+      "example": "The ward asked us to check the index rebuild.",
+      "exampleZh": "病区让我们看一下这个索引重建。",
       "category": "it"
     },
     {
       "word": "replica lag",
       "phonetic": "/ˈreplɪkə læɡ/",
       "meaning": "副本延迟",
-      "example": "Who supports this replica lag?",
-      "exampleZh": "谁支持这个副本延迟？",
+      "example": "Please test the replica lag on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个副本延迟。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "buddy assignment",
       "phonetic": "/ˈbʌdi əˈsaɪnmənt/",
       "meaning": "带教安排",
-      "example": "Please review the buddy assignment.",
-      "exampleZh": "请审阅一下这个带教安排。",
+      "example": "Could you send the buddy assignment to the project group?",
+      "exampleZh": "你能把带教安排发到项目群吗？",
       "category": "office"
     },
     {
       "word": "desk assignment",
       "phonetic": "/desk əˈsaɪnmənt/",
       "meaning": "工位安排",
-      "example": "Who is handling the desk assignment?",
-      "exampleZh": "谁在处理这个工位安排？",
+      "example": "Could you send the desk assignment to the project group?",
+      "exampleZh": "你能把工位安排发到项目群吗？",
       "category": "office"
     },
     {
       "word": "phone extension",
       "phonetic": "/fəʊn ɪkˈstenʃn/",
       "meaning": "电话分机",
-      "example": "Who is handling the phone extension?",
-      "exampleZh": "谁在处理这个电话分机？",
+      "example": "I put the phone extension on the shared drive.",
+      "exampleZh": "我把电话分机放到了共享盘。",
       "category": "office"
     },
     {
       "word": "email account",
       "phonetic": "/ˈiːmeɪl əˈkaʊnt/",
       "meaning": "邮箱账号",
-      "example": "The email account is ready for review.",
-      "exampleZh": "这个邮箱账号已经可以审阅了。",
+      "example": "Please add the email account to today’s notes.",
+      "exampleZh": "请把邮箱账号写进今天的记录。",
       "category": "office"
     },
     {
       "word": "system access",
       "phonetic": "/ˈsɪstəm ˈækses/",
       "meaning": "系统权限",
-      "example": "Who is handling the system access?",
-      "exampleZh": "谁在处理这个系统权限？",
+      "example": "We talked about the system access with the department head.",
+      "exampleZh": "我们和科主任谈了这个系统权限。",
       "category": "office"
     },
     {
       "word": "disk wipe",
       "phonetic": "/dɪsk waɪp/",
       "meaning": "磁盘擦除",
-      "example": "We need the disk wipe before go-live.",
-      "exampleZh": "上线前我们需要这个磁盘擦除。",
+      "example": "I logged the disk wipe in today’s change ticket.",
+      "exampleZh": "我把这个磁盘擦除记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "degauss",
       "phonetic": "/diːˈɡaʊs/",
       "meaning": "消磁",
-      "example": "We need to degauss this by Friday.",
-      "exampleZh": "我们周五前需要消磁这个。",
+      "example": "Degauss the failed disk before it leaves the computer room.",
+      "exampleZh": "坏盘出机房前请先消磁。",
       "category": "it"
     },
     {
       "word": "physical destruction",
       "phonetic": "/ˈfɪzɪkl dɪˈstrʌkʃn/",
       "meaning": "物理销毁",
-      "example": "Please check the physical destruction.",
-      "exampleZh": "请检查一下这个物理销毁。",
+      "example": "The ward asked us to check the physical destruction.",
+      "exampleZh": "病区让我们看一下这个物理销毁。",
       "category": "it"
     },
     {
       "word": "media sanitization",
       "phonetic": "/ˈmiːdiə ˌsænɪtaɪˈzeɪʃn/",
       "meaning": "介质净化",
-      "example": "Who supports this media sanitization?",
-      "exampleZh": "谁支持这个介质净化？",
+      "example": "The ward asked us to check the media sanitization.",
+      "exampleZh": "病区让我们看一下这个介质净化。",
       "category": "it"
     },
     {
       "word": "NIST wipe",
       "phonetic": "/nɪst waɪp/",
       "meaning": "标准擦除",
-      "example": "Who supports this NIST wipe?",
-      "exampleZh": "谁支持这个标准擦除？",
+      "example": "The ward asked us to check the NIST wipe.",
+      "exampleZh": "病区让我们看一下这个标准擦除。",
       "category": "it"
     }
   ]

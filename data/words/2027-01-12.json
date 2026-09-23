@@ -5,80 +5,80 @@
       "word": "board round",
       "phonetic": "/bɔːd raʊnd/",
       "meaning": "看板交班",
-      "example": "I updated the board round this morning.",
-      "exampleZh": "我今天早上更新了这个看板交班。",
+      "example": "The board round still needs a decision today.",
+      "exampleZh": "这个看板交班今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "bed meeting",
       "phonetic": "/bed ˈmiːtɪŋ/",
       "meaning": "床位会",
-      "example": "Please review the bed meeting.",
-      "exampleZh": "请审阅一下这个床位会。",
+      "example": "Who will own the bed meeting this week?",
+      "exampleZh": "这周这个床位会谁来负责？",
       "category": "office"
     },
     {
       "word": "ops meeting",
       "phonetic": "/ɒps ˈmiːtɪŋ/",
       "meaning": "运营会",
-      "example": "Please review the ops meeting.",
-      "exampleZh": "请审阅一下这个运营会。",
+      "example": "I put the ops meeting on the shared drive.",
+      "exampleZh": "我把运营会放到了共享盘。",
       "category": "office"
     },
     {
       "word": "quality meeting",
       "phonetic": "/ˈkwɒləti ˈmiːtɪŋ/",
       "meaning": "质量会",
-      "example": "Please share the quality meeting after the meeting.",
-      "exampleZh": "会后请分享这个质量会。",
+      "example": "We talked about the quality meeting with the department head.",
+      "exampleZh": "我们和科主任谈了这个质量会。",
       "category": "office"
     },
     {
       "word": "safety huddle",
       "phonetic": "/ˈseɪfti ˈhʌdl/",
       "meaning": "安全短会",
-      "example": "Please share the safety huddle after the meeting.",
-      "exampleZh": "会后请分享这个安全短会。",
+      "example": "Could you send the safety huddle to the project group?",
+      "exampleZh": "你能把安全短会发到项目群吗？",
       "category": "office"
     },
     {
       "word": "fingerprint",
       "phonetic": "/ˈfɪŋɡəprɪnt/",
       "meaning": "指纹",
-      "example": "Please check the fingerprint.",
-      "exampleZh": "请检查一下这个指纹。",
+      "example": "Do not touch the fingerprint during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个指纹。",
       "category": "it"
     },
     {
       "word": "face ID",
       "phonetic": "/feɪs aɪ ˈdiː/",
       "meaning": "人脸识别",
-      "example": "We need the face ID before go-live.",
-      "exampleZh": "上线前我们需要这个人脸识别。",
+      "example": "Who is on call for the face ID this week?",
+      "exampleZh": "这周这个人脸识别谁值班？",
       "category": "it"
     },
     {
       "word": "single sign-on",
       "phonetic": "/ˈsɪŋɡl saɪn ɒn/",
       "meaning": "单点登录",
-      "example": "Please check the single sign-on.",
-      "exampleZh": "请检查一下这个单点登录。",
+      "example": "The vendor asked for a screenshot of the single sign-on.",
+      "exampleZh": "厂商要一张这个单点登录的截图。",
       "category": "it"
     },
     {
       "word": "password vault",
       "phonetic": "/ˈpɑːswɜːd vɔːlt/",
       "meaning": "密码保险箱",
-      "example": "We need the password vault before go-live.",
-      "exampleZh": "上线前我们需要这个密码保险箱。",
+      "example": "Do not touch the password vault during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个密码保险箱。",
       "category": "it"
     },
     {
       "word": "privileged account",
       "phonetic": "/ˈprɪvəlɪdʒd əˈkaʊnt/",
       "meaning": "特权账号",
-      "example": "Who supports this privileged account?",
-      "exampleZh": "谁支持这个特权账号？",
+      "example": "I logged the privileged account in today’s change ticket.",
+      "exampleZh": "我把这个特权账号记进了今天的变更单。",
       "category": "it"
     }
   ]

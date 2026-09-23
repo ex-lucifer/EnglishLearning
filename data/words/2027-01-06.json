@@ -5,80 +5,80 @@
       "word": "director",
       "phonetic": "/dəˈrektə/",
       "meaning": "主任",
-      "example": "The director is ready for review.",
-      "exampleZh": "这个主任已经可以审阅了。",
+      "example": "Could you send the director to the project group?",
+      "exampleZh": "你能把主任发到项目群吗？",
       "category": "office"
     },
     {
       "word": "secretary",
       "phonetic": "/ˈsekrəteri/",
       "meaning": "秘书",
-      "example": "Please share the secretary after the meeting.",
-      "exampleZh": "会后请分享这个秘书。",
+      "example": "The secretary still needs a decision today.",
+      "exampleZh": "这个秘书今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "clerk",
       "phonetic": "/klɑːk/",
       "meaning": "文员",
-      "example": "Please share the clerk after the meeting.",
-      "exampleZh": "会后请分享这个文员。",
+      "example": "The clerk still needs a decision today.",
+      "exampleZh": "这个文员今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "coordinator",
       "phonetic": "/kəʊˈɔːdɪneɪtə/",
       "meaning": "协调员",
-      "example": "Please review the coordinator.",
-      "exampleZh": "请审阅一下这个协调员。",
+      "example": "The coordinator still needs a decision today.",
+      "exampleZh": "这个协调员今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "liaison",
       "phonetic": "/liˈeɪzn/",
       "meaning": "联络人",
-      "example": "Who is handling the liaison?",
-      "exampleZh": "谁在处理这个联络人？",
+      "example": "Who will own the liaison this week?",
+      "exampleZh": "这周这个联络人谁来负责？",
       "category": "office"
     },
     {
       "word": "PoE",
       "phonetic": "/ˌpiː əʊ ˈiː/",
-      "meaning": "以太网供电",
-      "example": "The PoE is slow this morning.",
-      "exampleZh": "今天早上 PoE 很慢。",
+      "meaning": "以太网供电（Power over Ethernet）",
+      "example": "Check PoE (Power over Ethernet) connectivity from the ward.",
+      "exampleZh": "请从病区检查 PoE（Power over Ethernet）连通性。",
       "category": "it"
     },
     {
       "word": "access point",
       "phonetic": "/ˈækses pɔɪnt/",
       "meaning": "无线接入点",
-      "example": "Please check the access point.",
-      "exampleZh": "请检查一下这个无线接入点。",
+      "example": "We will verify the access point after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个无线接入点。",
       "category": "it"
     },
     {
       "word": "SSID",
       "phonetic": "/ˌes es aɪ ˈdiː/",
-      "meaning": "无线网络名",
-      "example": "The SSID is slow this morning.",
-      "exampleZh": "今天早上 SSID 很慢。",
+      "meaning": "无线网络名（Service Set Identifier）",
+      "example": "Can you map this item to SSID (Service Set Identifier)?",
+      "exampleZh": "这条能否对照到 SSID（Service Set Identifier）？",
       "category": "it"
     },
     {
       "word": "Wi-Fi",
       "phonetic": "/ˈwaɪ faɪ/",
       "meaning": "无线网",
-      "example": "The Wi-Fi is in production.",
-      "exampleZh": "这个无线网已在生产环境。",
+      "example": "We will verify the Wi-Fi after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个无线网。",
       "category": "it"
     },
     {
       "word": "5G",
       "phonetic": "/faɪv dʒiː/",
       "meaning": "第五代移动网",
-      "example": "Please review the 5G after the patch.",
-      "exampleZh": "打补丁后请审阅这个第五代移动网。",
+      "example": "Please test the 5G on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个第五代移动网。",
       "category": "it"
     }
   ]

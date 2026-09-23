@@ -5,8 +5,8 @@
       "word": "late running",
       "phonetic": "/leɪt ˈrʌnɪŋ/",
       "meaning": "晚点延误",
-      "example": "Who is handling the late running?",
-      "exampleZh": "谁在处理这个晚点延误？",
+      "example": "Please add the late running to today’s notes.",
+      "exampleZh": "请把晚点延误写进今天的记录。",
       "category": "office"
     },
     {
@@ -37,48 +37,48 @@
       "word": "double-booked",
       "phonetic": "/ˈdʌbl bʊkt/",
       "meaning": "时间冲突",
-      "example": "This request is double-booked.",
-      "exampleZh": "这个请求是时间冲突的。",
+      "example": "The director is double-booked at ten.",
+      "exampleZh": "主任十点有时间冲突。",
       "category": "office"
     },
     {
       "word": "ID token",
       "phonetic": "/aɪ ˈdiː ˈtəʊkən/",
       "meaning": "身份令牌",
-      "example": "The ID token is in production.",
-      "exampleZh": "这个身份令牌已在生产环境。",
+      "example": "Please test the ID token on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个身份令牌。",
       "category": "it"
     },
     {
       "word": "JWT",
       "phonetic": "/ˌdʒeɪ ˈdʌbljuː ˈtiː/",
-      "meaning": "JSON令牌",
-      "example": "The JWT is slow this morning.",
-      "exampleZh": "今天早上 JWT 很慢。",
+      "meaning": "JSON令牌（JSON Web Token）",
+      "example": "Can you map this item to JWT (JSON Web Token)?",
+      "exampleZh": "这条能否对照到 JWT（JSON Web Token）？",
       "category": "it"
     },
     {
       "word": "bearer token",
       "phonetic": "/ˈbeərə ˈtəʊkən/",
       "meaning": "持有者令牌",
-      "example": "Please review the bearer token after the patch.",
-      "exampleZh": "打补丁后请审阅这个持有者令牌。",
+      "example": "I logged the bearer token in today’s change ticket.",
+      "exampleZh": "我把这个持有者令牌记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "API gateway",
       "phonetic": "/ˌeɪ piː ˈaɪ ˈɡeɪtweɪ/",
       "meaning": "接口网关",
-      "example": "The API gateway is in production.",
-      "exampleZh": "这个接口网关已在生产环境。",
+      "example": "The vendor asked for a screenshot of the API gateway.",
+      "exampleZh": "厂商要一张这个接口网关的截图。",
       "category": "it"
     },
     {
       "word": "rate limiting",
       "phonetic": "/reɪt ˈlɪmɪtɪŋ/",
       "meaning": "限流控制",
-      "example": "Please review the rate limiting after the patch.",
-      "exampleZh": "打补丁后请审阅这个限流控制。",
+      "example": "Please test the rate limiting on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个限流控制。",
       "category": "it"
     }
   ]

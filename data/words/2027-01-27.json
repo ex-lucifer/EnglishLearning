@@ -5,80 +5,80 @@
       "word": "asset",
       "phonetic": "/ˈæset/",
       "meaning": "资产",
-      "example": "Please share the asset after the meeting.",
-      "exampleZh": "会后请分享这个资产。",
+      "example": "Please bring the asset to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个资产。",
       "category": "office"
     },
     {
       "word": "label",
       "phonetic": "/ˈleɪbl/",
       "meaning": "标签",
-      "example": "The label is ready for review.",
-      "exampleZh": "这个标签已经可以审阅了。",
+      "example": "We talked about the label with the department head.",
+      "exampleZh": "我们和科主任谈了这个标签。",
       "category": "office"
     },
     {
       "word": "serial number",
       "phonetic": "/ˈsɪəriəl ˈnʌmbə/",
       "meaning": "序列号",
-      "example": "Please review the serial number.",
-      "exampleZh": "请审阅一下这个序列号。",
+      "example": "Who will own the serial number this week?",
+      "exampleZh": "这周这个序列号谁来负责？",
       "category": "office"
     },
     {
       "word": "asset tag",
       "phonetic": "/ˈæset tæɡ/",
       "meaning": "资产标签",
-      "example": "Please share the asset tag after the meeting.",
-      "exampleZh": "会后请分享这个资产标签。",
+      "example": "We talked about the asset tag with the department head.",
+      "exampleZh": "我们和科主任谈了这个资产标签。",
       "category": "office"
     },
     {
       "word": "depreciation",
       "phonetic": "/dɪˌpriːʃiˈeɪʃn/",
       "meaning": "折旧",
-      "example": "Who is handling the depreciation?",
-      "exampleZh": "谁在处理这个折旧？",
+      "example": "We talked about the depreciation with the department head.",
+      "exampleZh": "我们和科主任谈了这个折旧。",
       "category": "office"
     },
     {
       "word": "uptime chart",
       "phonetic": "/ˈʌptaɪm tʃɑːt/",
       "meaning": "可用性图表",
-      "example": "We need the uptime chart before go-live.",
-      "exampleZh": "上线前我们需要这个可用性图表。",
+      "example": "The ward asked us to check the uptime chart.",
+      "exampleZh": "病区让我们看一下这个可用性图表。",
       "category": "it"
     },
     {
       "word": "capacity plan",
       "phonetic": "/kəˈpæsəti plæn/",
       "meaning": "容量规划",
-      "example": "We need the capacity plan before go-live.",
-      "exampleZh": "上线前我们需要这个容量规划。",
+      "example": "Do not touch the capacity plan during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个容量规划。",
       "category": "it"
     },
     {
       "word": "disk forecast",
       "phonetic": "/dɪsk ˈfɔːkɑːst/",
       "meaning": "磁盘预测",
-      "example": "Who supports this disk forecast?",
-      "exampleZh": "谁支持这个磁盘预测？",
+      "example": "Do not touch the disk forecast during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个磁盘预测。",
       "category": "it"
     },
     {
       "word": "CPU spike",
       "phonetic": "/ˌsiː piː ˈjuː spaɪk/",
       "meaning": "处理器突增",
-      "example": "Please review the CPU spike after the patch.",
-      "exampleZh": "打补丁后请审阅这个处理器突增。",
+      "example": "The vendor asked for a screenshot of the CPU spike.",
+      "exampleZh": "厂商要一张这个处理器突增的截图。",
       "category": "it"
     },
     {
       "word": "memory pressure",
       "phonetic": "/ˈmeməri ˈpreʃə/",
       "meaning": "内存压力",
-      "example": "The memory pressure is in production.",
-      "exampleZh": "这个内存压力已在生产环境。",
+      "example": "We will verify the memory pressure after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个内存压力。",
       "category": "it"
     }
   ]

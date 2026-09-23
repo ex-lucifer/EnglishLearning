@@ -5,80 +5,80 @@
       "word": "annual leave",
       "phonetic": "/ˈænjuəl liːv/",
       "meaning": "年假",
-      "example": "Who is handling the annual leave?",
-      "exampleZh": "谁在处理这个年假？",
+      "example": "I put the annual leave on the shared drive.",
+      "exampleZh": "我把年假放到了共享盘。",
       "category": "office"
     },
     {
       "word": "compensatory leave",
       "phonetic": "/kəmˈpensətəri liːv/",
       "meaning": "调休",
-      "example": "I updated the compensatory leave this morning.",
-      "exampleZh": "我今天早上更新了这个调休。",
+      "example": "The compensatory leave still needs a decision today.",
+      "exampleZh": "这个调休今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "public holiday",
       "phonetic": "/ˈpʌblɪk ˈhɒlədeɪ/",
       "meaning": "公共假期",
-      "example": "Please review the public holiday.",
-      "exampleZh": "请审阅一下这个公共假期。",
+      "example": "The public holiday still needs a decision today.",
+      "exampleZh": "这个公共假期今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "time off",
       "phonetic": "/taɪm ɒf/",
       "meaning": "休假时间",
-      "example": "Who is handling the time off?",
-      "exampleZh": "谁在处理这个休假时间？",
+      "example": "Could you send the time off to the project group?",
+      "exampleZh": "你能把休假时间发到项目群吗？",
       "category": "office"
     },
     {
       "word": "flex time",
       "phonetic": "/fleks taɪm/",
       "meaning": "弹性工时",
-      "example": "I updated the flex time this morning.",
-      "exampleZh": "我今天早上更新了这个弹性工时。",
+      "example": "Please add the flex time to today’s notes.",
+      "exampleZh": "请把弹性工时写进今天的记录。",
       "category": "office"
     },
     {
       "word": "SAML",
       "phonetic": "/ˈsæml/",
-      "meaning": "安全断言标记",
-      "example": "The SAML is slow this morning.",
-      "exampleZh": "今天早上 SAML 很慢。",
+      "meaning": "安全断言标记（Security Assertion Markup Language）",
+      "example": "Enable SAML (Security Assertion Markup Language) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 SAML（Security Assertion Markup Language）。",
       "category": "it"
     },
     {
       "word": "OpenID",
       "phonetic": "/ˈəʊpən aɪ ˈdiː/",
-      "meaning": "开放身份",
-      "example": "The OpenID is slow this morning.",
-      "exampleZh": "今天早上 OpenID 很慢。",
+      "meaning": "开放身份（OpenID authentication）",
+      "example": "Enable OpenID (OpenID authentication) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 OpenID（OpenID authentication）。",
       "category": "it"
     },
     {
       "word": "JSON payload",
       "phonetic": "/ˈdʒeɪsən ˈpeɪləʊd/",
       "meaning": "JSON报文",
-      "example": "Please review the JSON payload after the patch.",
-      "exampleZh": "打补丁后请审阅这个JSON报文。",
+      "example": "Please test the JSON payload on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个JSON报文。",
       "category": "it"
     },
     {
       "word": "XML message",
       "phonetic": "/ˌeks em ˈel ˈmesɪdʒ/",
       "meaning": "XML报文",
-      "example": "Who supports this XML message?",
-      "exampleZh": "谁支持这个XML报文？",
+      "example": "Do not touch the XML message during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个XML报文。",
       "category": "it"
     },
     {
       "word": "SOAP service",
       "phonetic": "/səʊp ˈsɜːvɪs/",
       "meaning": "SOAP服务",
-      "example": "Please review the SOAP service after the patch.",
-      "exampleZh": "打补丁后请审阅这个SOAP服务。",
+      "example": "I logged the SOAP service in today’s change ticket.",
+      "exampleZh": "我把这个SOAP服务记进了今天的变更单。",
       "category": "it"
     }
   ]

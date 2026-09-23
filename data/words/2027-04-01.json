@@ -5,80 +5,80 @@
       "word": "archive folder",
       "phonetic": "/ˈɑːkaɪv ˈfəʊldə/",
       "meaning": "归档文件夹",
-      "example": "The archive folder is ready for review.",
-      "exampleZh": "这个归档文件夹已经可以审阅了。",
+      "example": "The archive folder still needs a decision today.",
+      "exampleZh": "这个归档文件夹今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "shared mailbox",
       "phonetic": "/ʃeəd ˈmeɪlbɒks/",
       "meaning": "共享邮箱",
-      "example": "Who is handling the shared mailbox?",
-      "exampleZh": "谁在处理这个共享邮箱？",
+      "example": "Please add the shared mailbox to today’s notes.",
+      "exampleZh": "请把共享邮箱写进今天的记录。",
       "category": "office"
     },
     {
       "word": "group email",
       "phonetic": "/ɡruːp ˈiːmeɪl/",
       "meaning": "组邮箱",
-      "example": "Please share the group email after the meeting.",
-      "exampleZh": "会后请分享这个组邮箱。",
+      "example": "Please add the group email to today’s notes.",
+      "exampleZh": "请把组邮箱写进今天的记录。",
       "category": "office"
     },
     {
       "word": "email etiquette",
       "phonetic": "/ˈiːmeɪl ˈetɪket/",
       "meaning": "邮件礼仪",
-      "example": "Please review the email etiquette.",
-      "exampleZh": "请审阅一下这个邮件礼仪。",
+      "example": "We talked about the email etiquette with the department head.",
+      "exampleZh": "我们和科主任谈了这个邮件礼仪。",
       "category": "office"
     },
     {
       "word": "plain language",
       "phonetic": "/pleɪn ˈlæŋɡwɪdʒ/",
       "meaning": "通俗表达",
-      "example": "Please review the plain language.",
-      "exampleZh": "请审阅一下这个通俗表达。",
+      "example": "We talked about the plain language with the department head.",
+      "exampleZh": "我们和科主任谈了这个通俗表达。",
       "category": "office"
     },
     {
       "word": "circuit ID",
       "phonetic": "/ˈsɜːkɪt aɪ ˈdiː/",
       "meaning": "专线编号",
-      "example": "The circuit ID is in production.",
-      "exampleZh": "这个专线编号已在生产环境。",
+      "example": "Do not touch the circuit ID during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个专线编号。",
       "category": "it"
     },
     {
       "word": "carrier",
       "phonetic": "/ˈkæriə/",
       "meaning": "运营商",
-      "example": "Who supports this carrier?",
-      "exampleZh": "谁支持这个运营商？",
+      "example": "The ward asked us to check the carrier.",
+      "exampleZh": "病区让我们看一下这个运营商。",
       "category": "it"
     },
     {
       "word": "BGP",
       "phonetic": "/ˌbiː dʒiː ˈpiː/",
-      "meaning": "边界网关协议",
-      "example": "The BGP is slow this morning.",
-      "exampleZh": "今天早上 BGP 很慢。",
+      "meaning": "边界网关协议（Border Gateway Protocol）",
+      "example": "Document BGP (Border Gateway Protocol) in the interface spec.",
+      "exampleZh": "接口说明里请写上 BGP（Border Gateway Protocol）。",
       "category": "it"
     },
     {
       "word": "OSPF",
       "phonetic": "/ˌəʊ es piː ˈef/",
-      "meaning": "开放最短路径优先",
-      "example": "The OSPF is slow this morning.",
-      "exampleZh": "今天早上 OSPF 很慢。",
+      "meaning": "开放最短路径优先（Open Shortest Path First）",
+      "example": "We use OSPF (Open Shortest Path First) for this integration.",
+      "exampleZh": "这条集成用的是 OSPF（Open Shortest Path First）。",
       "category": "it"
     },
     {
       "word": "static route",
       "phonetic": "/ˈstætɪk ruːt/",
       "meaning": "静态路由",
-      "example": "Please review the static route after the patch.",
-      "exampleZh": "打补丁后请审阅这个静态路由。",
+      "example": "We will verify the static route after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个静态路由。",
       "category": "it"
     }
   ]

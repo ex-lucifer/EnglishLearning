@@ -4,81 +4,81 @@
     {
       "word": "EOD",
       "phonetic": "/ˌiː əʊ ˈdiː/",
-      "meaning": "下班前",
-      "example": "Please put EOD on the email.",
-      "exampleZh": "请在邮件里注明 EOD。",
+      "meaning": "下班前（End of Day）",
+      "example": "Please send the count by EOD (end of day).",
+      "exampleZh": "请在 EOD（下班前）把盘点数发出来。",
       "category": "office"
     },
     {
       "word": "ASAP",
       "phonetic": "/ˌeɪ es eɪ ˈpiː/",
       "meaning": "尽快",
-      "example": "Please handle this ASAP.",
-      "exampleZh": "请尽快处理这件事。",
+      "example": "Please send the list ASAP.",
+      "exampleZh": "请尽快把名单发来。",
       "category": "office"
     },
     {
       "word": "reply-all",
       "phonetic": "/rɪˈplaɪ ɔːl/",
       "meaning": "全部回复",
-      "example": "Can you reply-all it today?",
-      "exampleZh": "你今天能全部回复一下吗？",
+      "example": "Do not reply-all with the patient name.",
+      "exampleZh": "不要用全部回复带上患者姓名。",
       "category": "office"
     },
     {
       "word": "forward",
       "phonetic": "/ˈfɔːwəd/",
       "meaning": "转发",
-      "example": "Can you forward it today?",
-      "exampleZh": "你今天能转发一下吗？",
+      "example": "Who will forward this after the huddle?",
+      "exampleZh": "晨会后谁来转发？",
       "category": "office"
     },
     {
       "word": "signature",
       "phonetic": "/ˈsɪɡnətʃə/",
       "meaning": "签名档",
-      "example": "The signature is ready for review.",
-      "exampleZh": "这个签名档已经可以审阅了。",
+      "example": "Please add the signature to today’s notes.",
+      "exampleZh": "请把签名档写进今天的记录。",
       "category": "office"
     },
     {
       "word": "lab result",
       "phonetic": "/læb rɪˈzʌlt/",
       "meaning": "检验结果",
-      "example": "We need the lab result before go-live.",
-      "exampleZh": "上线前我们需要这个检验结果。",
+      "example": "Who is on call for the lab result this week?",
+      "exampleZh": "这周这个检验结果谁值班？",
       "category": "it"
     },
     {
       "word": "critical result",
       "phonetic": "/ˈkrɪtɪkl rɪˈzʌlt/",
       "meaning": "危急值",
-      "example": "Who supports this critical result?",
-      "exampleZh": "谁支持这个危急值？",
+      "example": "Do not touch the critical result during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个危急值。",
       "category": "it"
     },
     {
       "word": "panic value",
       "phonetic": "/ˈpænɪk ˈvæljuː/",
       "meaning": "危急值结果",
-      "example": "Please review the panic value after the patch.",
-      "exampleZh": "打补丁后请审阅这个危急值结果。",
+      "example": "The ward asked us to check the panic value.",
+      "exampleZh": "病区让我们看一下这个危急值结果。",
       "category": "it"
     },
     {
       "word": "result acknowledgement",
       "phonetic": "/rɪˈzʌlt əkˈnɒlɪdʒmənt/",
       "meaning": "结果确认",
-      "example": "The result acknowledgement is in production.",
-      "exampleZh": "这个结果确认已在生产环境。",
+      "example": "I logged the result acknowledgement in today’s change ticket.",
+      "exampleZh": "我把这个结果确认记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "specimen tracking",
       "phonetic": "/ˈspesɪmən ˈtrækɪŋ/",
       "meaning": "标本追踪",
-      "example": "Who supports this specimen tracking?",
-      "exampleZh": "谁支持这个标本追踪？",
+      "example": "I logged the specimen tracking in today’s change ticket.",
+      "exampleZh": "我把这个标本追踪记进了今天的变更单。",
       "category": "it"
     }
   ]

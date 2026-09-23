@@ -5,80 +5,80 @@
       "word": "exclude",
       "phonetic": "/ɪkˈskluːd/",
       "meaning": "排除",
-      "example": "Please exclude this before noon.",
-      "exampleZh": "请在中午前排除这个。",
+      "example": "Please exclude this before you leave.",
+      "exampleZh": "走之前请把这件事排除。",
       "category": "office"
     },
     {
       "word": "replace",
       "phonetic": "/rɪˈpleɪs/",
       "meaning": "替换",
-      "example": "I will replace it after the meeting.",
-      "exampleZh": "会后我会替换它。",
+      "example": "We still need to replace this.",
+      "exampleZh": "这件事还得替换。",
       "category": "office"
     },
     {
       "word": "combine",
       "phonetic": "/kəmˈbaɪn/",
       "meaning": "合并",
-      "example": "We need to combine this by Friday.",
-      "exampleZh": "我们周五前需要合并这个。",
+      "example": "Can you combine it today?",
+      "exampleZh": "你今天能把它合并吗？",
       "category": "office"
     },
     {
       "word": "split",
       "phonetic": "/splɪt/",
       "meaning": "拆分",
-      "example": "Can you split it today?",
-      "exampleZh": "你今天能拆分一下吗？",
+      "example": "Please split this before you leave.",
+      "exampleZh": "走之前请把这件事拆分。",
       "category": "office"
     },
     {
       "word": "track",
       "phonetic": "/træk/",
       "meaning": "跟踪",
-      "example": "I will track it after the meeting.",
-      "exampleZh": "会后我会跟踪它。",
+      "example": "Can you track it today?",
+      "exampleZh": "你今天能把它跟踪吗？",
       "category": "office"
     },
     {
       "word": "access switch",
       "phonetic": "/ˈækses swɪtʃ/",
       "meaning": "接入交换机",
-      "example": "We need the access switch before go-live.",
-      "exampleZh": "上线前我们需要这个接入交换机。",
+      "example": "The ward asked us to check the access switch.",
+      "exampleZh": "病区让我们看一下这个接入交换机。",
       "category": "it"
     },
     {
       "word": "stack",
       "phonetic": "/stæk/",
       "meaning": "交换机堆叠",
-      "example": "Please review the stack after the patch.",
-      "exampleZh": "打补丁后请审阅这个交换机堆叠。",
+      "example": "We will verify the stack after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个交换机堆叠。",
       "category": "it"
     },
     {
       "word": "power supply",
       "phonetic": "/ˈpaʊə səˈplaɪ/",
       "meaning": "电源模块",
-      "example": "We need the power supply before go-live.",
-      "exampleZh": "上线前我们需要这个电源模块。",
+      "example": "Please test the power supply on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个电源模块。",
       "category": "it"
     },
     {
       "word": "UPS",
       "phonetic": "/ˌjuː piː ˈes/",
-      "meaning": "不间断电源",
-      "example": "The UPS is slow this morning.",
-      "exampleZh": "今天早上 UPS 很慢。",
+      "meaning": "不间断电源（Uninterruptible Power Supply）",
+      "example": "Check the UPS (Uninterruptible Power Supply) in the computer room.",
+      "exampleZh": "请到机房检查 UPS（Uninterruptible Power Supply）。",
       "category": "it"
     },
     {
       "word": "PDU",
       "phonetic": "/ˌpiː diː ˈjuː/",
-      "meaning": "电源分配单元",
-      "example": "The PDU is slow this morning.",
-      "exampleZh": "今天早上 PDU 很慢。",
+      "meaning": "电源分配单元（Power Distribution Unit）",
+      "example": "Do not move the PDU (Power Distribution Unit) during outpatient hours.",
+      "exampleZh": "门诊时段不要挪动 PDU（Power Distribution Unit）。",
       "category": "it"
     }
   ]

@@ -5,32 +5,32 @@
       "word": "courtesy visit",
       "phonetic": "/ˈkɜːtəsi ˈvɪzɪt/",
       "meaning": "礼节拜访",
-      "example": "Please share the courtesy visit after the meeting.",
-      "exampleZh": "会后请分享这个礼节拜访。",
+      "example": "Please add the courtesy visit to today’s notes.",
+      "exampleZh": "请把礼节拜访写进今天的记录。",
       "category": "office"
     },
     {
       "word": "site visit",
       "phonetic": "/saɪt ˈvɪzɪt/",
       "meaning": "现场走访",
-      "example": "Please share the site visit after the meeting.",
-      "exampleZh": "会后请分享这个现场走访。",
+      "example": "I put the site visit on the shared drive.",
+      "exampleZh": "我把现场走访放到了共享盘。",
       "category": "office"
     },
     {
       "word": "walk-in",
       "phonetic": "/wɔːk ɪn/",
       "meaning": "未预约来访",
-      "example": "I updated the walk-in this morning.",
-      "exampleZh": "我今天早上更新了这个未预约来访。",
+      "example": "Could you send the walk-in to the project group?",
+      "exampleZh": "你能把未预约来访发到项目群吗？",
       "category": "office"
     },
     {
       "word": "drop-in",
       "phonetic": "/drɒp ɪn/",
       "meaning": "顺便来访",
-      "example": "I updated the drop-in this morning.",
-      "exampleZh": "我今天早上更新了这个顺便来访。",
+      "example": "Who will own the drop-in this week?",
+      "exampleZh": "这周这个顺便来访谁来负责？",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "repair install",
       "phonetic": "/rɪˈpeə ɪnˈstɔːl/",
       "meaning": "修复安装",
-      "example": "Please check the repair install.",
-      "exampleZh": "请检查一下这个修复安装。",
+      "example": "We will verify the repair install after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个修复安装。",
       "category": "it"
     },
     {
       "word": "msi package",
       "phonetic": "/ˌem es ˈaɪ ˈpækɪdʒ/",
       "meaning": "安装包",
-      "example": "Please review the msi package after the patch.",
-      "exampleZh": "打补丁后请审阅这个安装包。",
+      "example": "Who is on call for the msi package this week?",
+      "exampleZh": "这周这个安装包谁值班？",
       "category": "it"
     },
     {
       "word": "exe installer",
       "phonetic": "/ˌiː eks ˈiː ɪnˈstɔːlə/",
       "meaning": "可执行安装程序",
-      "example": "We need the exe installer before go-live.",
-      "exampleZh": "上线前我们需要这个可执行安装程序。",
+      "example": "The vendor asked for a screenshot of the exe installer.",
+      "exampleZh": "厂商要一张这个可执行安装程序的截图。",
       "category": "it"
     },
     {
       "word": "patch file",
       "phonetic": "/pætʃ faɪl/",
       "meaning": "补丁文件",
-      "example": "Who supports this patch file?",
-      "exampleZh": "谁支持这个补丁文件？",
+      "example": "I logged the patch file in today’s change ticket.",
+      "exampleZh": "我把这个补丁文件记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "hotfix rollup",
       "phonetic": "/ˈhɒtfɪks ˈrəʊlʌp/",
       "meaning": "累积热修复",
-      "example": "Please check the hotfix rollup.",
-      "exampleZh": "请检查一下这个累积热修复。",
+      "example": "The ward asked us to check the hotfix rollup.",
+      "exampleZh": "病区让我们看一下这个累积热修复。",
       "category": "it"
     }
   ]

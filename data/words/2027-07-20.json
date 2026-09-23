@@ -5,80 +5,80 @@
       "word": "pool staff",
       "phonetic": "/puːl stɑːf/",
       "meaning": "机动库人员",
-      "example": "Please share the pool staff after the meeting.",
-      "exampleZh": "会后请分享这个机动库人员。",
+      "example": "The pool staff still needs a decision today.",
+      "exampleZh": "这个机动库人员今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "surge staff",
       "phonetic": "/sɜːdʒ stɑːf/",
       "meaning": "应急增援人员",
-      "example": "The surge staff is ready for review.",
-      "exampleZh": "这个应急增援人员已经可以审阅了。",
+      "example": "Please add the surge staff to today’s notes.",
+      "exampleZh": "请把应急增援人员写进今天的记录。",
       "category": "office"
     },
     {
       "word": "overtime roster",
       "phonetic": "/ˈəʊvətaɪm ˈrɒstə/",
       "meaning": "加班排班",
-      "example": "Please review the overtime roster.",
-      "exampleZh": "请审阅一下这个加班排班。",
+      "example": "Who will own the overtime roster this week?",
+      "exampleZh": "这周这个加班排班谁来负责？",
       "category": "office"
     },
     {
       "word": "swap shift",
       "phonetic": "/swɒp ʃɪft/",
       "meaning": "换班",
-      "example": "We need to swap shift this by Friday.",
-      "exampleZh": "我们周五前需要换班这个。",
+      "example": "Can you swap shift with night duty?",
+      "exampleZh": "你能和夜班换班吗？",
       "category": "office"
     },
     {
       "word": "cover shift",
       "phonetic": "/ˈkʌvə ʃɪft/",
       "meaning": "顶班",
-      "example": "Please cover shift this before noon.",
-      "exampleZh": "请在中午前顶班这个。",
+      "example": "Who can cover shift on Saturday?",
+      "exampleZh": "周六谁能顶班？",
       "category": "office"
     },
     {
       "word": "hot swap",
       "phonetic": "/hɒt swɒp/",
       "meaning": "热插拔",
-      "example": "The hot swap is in production.",
-      "exampleZh": "这个热插拔已在生产环境。",
+      "example": "I logged the hot swap in today’s change ticket.",
+      "exampleZh": "我把这个热插拔记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "caddy",
       "phonetic": "/ˈkædi/",
       "meaning": "硬盘托架",
-      "example": "The caddy is in production.",
-      "exampleZh": "这个硬盘托架已在生产环境。",
+      "example": "The vendor asked for a screenshot of the caddy.",
+      "exampleZh": "厂商要一张这个硬盘托架的截图。",
       "category": "it"
     },
     {
       "word": "backplane",
       "phonetic": "/ˈbækpleɪn/",
       "meaning": "硬盘背板",
-      "example": "We need the backplane before go-live.",
-      "exampleZh": "上线前我们需要这个硬盘背板。",
+      "example": "I logged the backplane in today’s change ticket.",
+      "exampleZh": "我把这个硬盘背板记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "RAID controller",
       "phonetic": "/reɪd kənˈtrəʊlə/",
-      "meaning": "阵列卡",
-      "example": "Who supports this RAID controller?",
-      "exampleZh": "谁支持这个阵列卡？",
+      "meaning": "阵列卡（Redundant Array of Independent Disks）",
+      "example": "Do not touch the RAID controller during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个阵列卡。",
       "category": "it"
     },
     {
       "word": "battery backup unit",
       "phonetic": "/ˈbætri ˈbækʌp ˈjuːnɪt/",
       "meaning": "阵列电池",
-      "example": "Please check the battery backup unit.",
-      "exampleZh": "请检查一下这个阵列电池。",
+      "example": "The ward asked us to check the battery backup unit.",
+      "exampleZh": "病区让我们看一下这个阵列电池。",
       "category": "it"
     }
   ]

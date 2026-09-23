@@ -5,80 +5,80 @@
       "word": "pitch",
       "phonetic": "/pɪtʃ/",
       "meaning": "方案陈述",
-      "example": "I updated the pitch this morning.",
-      "exampleZh": "我今天早上更新了这个方案陈述。",
+      "example": "I put the pitch on the shared drive.",
+      "exampleZh": "我把方案陈述放到了共享盘。",
       "category": "office"
     },
     {
       "word": "quotation",
       "phonetic": "/kwəʊˈteɪʃn/",
       "meaning": "报价",
-      "example": "Please share the quotation after the meeting.",
-      "exampleZh": "会后请分享这个报价。",
+      "example": "The quotation still needs a decision today.",
+      "exampleZh": "这个报价今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "bid",
       "phonetic": "/bɪd/",
       "meaning": "投标",
-      "example": "Who is handling the bid?",
-      "exampleZh": "谁在处理这个投标？",
+      "example": "Could you send the bid to the project group?",
+      "exampleZh": "你能把投标发到项目群吗？",
       "category": "office"
     },
     {
       "word": "contract",
       "phonetic": "/ˈkɒntrækt/",
       "meaning": "合同",
-      "example": "Please review the contract.",
-      "exampleZh": "请审阅一下这个合同。",
+      "example": "Who will own the contract this week?",
+      "exampleZh": "这周这个合同谁来负责？",
       "category": "office"
     },
     {
       "word": "vendor",
       "phonetic": "/ˈvendə/",
       "meaning": "供应商",
-      "example": "Please share the vendor after the meeting.",
-      "exampleZh": "会后请分享这个供应商。",
+      "example": "Please add the vendor to today’s notes.",
+      "exampleZh": "请把供应商写进今天的记录。",
       "category": "office"
     },
     {
       "word": "NACK",
       "phonetic": "/næk/",
-      "meaning": "否定应答",
-      "example": "The NACK is slow this morning.",
-      "exampleZh": "今天早上 NACK 很慢。",
+      "meaning": "否定应答（Negative Acknowledgement）",
+      "example": "Check the NACK (Negative Acknowledgement) with the duty nurse.",
+      "exampleZh": "请和值班护士核对 NACK（Negative Acknowledgement）。",
       "category": "it"
     },
     {
       "word": "PID segment",
       "phonetic": "/piː aɪ ˈdiː ˈseɡmənt/",
       "meaning": "患者信息段",
-      "example": "Please review the PID segment after the patch.",
-      "exampleZh": "打补丁后请审阅这个患者信息段。",
+      "example": "Do not touch the PID segment during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个患者信息段。",
       "category": "it"
     },
     {
       "word": "OBX segment",
       "phonetic": "/əʊ biː ˈeks ˈseɡmənt/",
       "meaning": "观察结果段",
-      "example": "We need the OBX segment before go-live.",
-      "exampleZh": "上线前我们需要这个观察结果段。",
+      "example": "Please test the OBX segment on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个观察结果段。",
       "category": "it"
     },
     {
       "word": "OBR segment",
       "phonetic": "/əʊ biː ˈɑː ˈseɡmənt/",
       "meaning": "检查申请段",
-      "example": "The OBR segment is in production.",
-      "exampleZh": "这个检查申请段已在生产环境。",
+      "example": "We will verify the OBR segment after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个检查申请段。",
       "category": "it"
     },
     {
       "word": "HL7 mapping",
       "phonetic": "/eɪtʃ el ˈsevn ˈmæpɪŋ/",
-      "meaning": "消息字段映射",
-      "example": "We need the HL7 mapping before go-live.",
-      "exampleZh": "上线前我们需要这个消息字段映射。",
+      "meaning": "消息字段映射（Health Level Seven）",
+      "example": "Who is on call for the HL7 mapping this week?",
+      "exampleZh": "这周这个消息字段映射谁值班？",
       "category": "it"
     }
   ]

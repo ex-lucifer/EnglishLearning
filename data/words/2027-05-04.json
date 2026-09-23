@@ -45,40 +45,40 @@
       "word": "drain node",
       "phonetic": "/dreɪn nəʊd/",
       "meaning": "排空节点",
-      "example": "I will drain node it after the meeting.",
-      "exampleZh": "会后我会排空节点它。",
+      "example": "Drain the node after the last clinic PC logs off.",
+      "exampleZh": "等最后一台门诊电脑退出后再排空这个节点。",
       "category": "it"
     },
     {
       "word": "cordon",
       "phonetic": "/ˈkɔːdn/",
       "meaning": "封锁节点",
-      "example": "Please cordon this before noon.",
-      "exampleZh": "请在中午前封锁节点这个。",
+      "example": "Cordon the node before you patch the kernel.",
+      "exampleZh": "打内核补丁前先封锁这个节点。",
       "category": "it"
     },
     {
       "word": "pod",
       "phonetic": "/pɒd/",
       "meaning": "容器组",
-      "example": "Who supports this pod?",
-      "exampleZh": "谁支持这个容器组？",
+      "example": "Please test the pod on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个容器组。",
       "category": "it"
     },
     {
       "word": "namespace",
       "phonetic": "/ˈneɪmspeɪs/",
       "meaning": "命名空间",
-      "example": "Who supports this namespace?",
-      "exampleZh": "谁支持这个命名空间？",
+      "example": "Do not touch the namespace during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个命名空间。",
       "category": "it"
     },
     {
       "word": "ingress",
       "phonetic": "/ˈɪŋɡres/",
       "meaning": "入口路由",
-      "example": "We need the ingress before go-live.",
-      "exampleZh": "上线前我们需要这个入口路由。",
+      "example": "We will verify the ingress after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个入口路由。",
       "category": "it"
     }
   ]

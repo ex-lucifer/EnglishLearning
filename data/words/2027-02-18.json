@@ -5,80 +5,80 @@
       "word": "review",
       "phonetic": "/rɪˈvjuː/",
       "meaning": "审阅",
-      "example": "I will review it after the meeting.",
-      "exampleZh": "会后我会审阅它。",
+      "example": "We still need to review this.",
+      "exampleZh": "这件事还得审阅。",
       "category": "office"
     },
     {
       "word": "approve",
       "phonetic": "/əˈpruːv/",
       "meaning": "批准",
-      "example": "Please approve this before noon.",
-      "exampleZh": "请在中午前批准这个。",
+      "example": "Who will approve this after the huddle?",
+      "exampleZh": "晨会后谁来批准？",
       "category": "office"
     },
     {
       "word": "reject",
       "phonetic": "/rɪˈdʒekt/",
       "meaning": "驳回",
-      "example": "We need to reject this by Friday.",
-      "exampleZh": "我们周五前需要驳回这个。",
+      "example": "Can you reject it today?",
+      "exampleZh": "你今天能把它驳回吗？",
       "category": "office"
     },
     {
       "word": "schedule",
       "phonetic": "/ˈʃedjuːl/",
       "meaning": "安排时间",
-      "example": "I will schedule it after the meeting.",
-      "exampleZh": "会后我会安排时间它。",
+      "example": "Can you schedule it today?",
+      "exampleZh": "你今天能把它安排时间吗？",
       "category": "office"
     },
     {
       "word": "coordinate",
       "phonetic": "/kəʊˈɔːdɪneɪt/",
       "meaning": "协调",
-      "example": "We need to coordinate this by Friday.",
-      "exampleZh": "我们周五前需要协调这个。",
+      "example": "We still need to coordinate this.",
+      "exampleZh": "这件事还得协调。",
       "category": "office"
     },
     {
       "word": "cutover",
       "phonetic": "/ˈkʌtəʊvə/",
       "meaning": "切换上线",
-      "example": "Please check the cutover.",
-      "exampleZh": "请检查一下这个切换上线。",
+      "example": "The vendor asked for a screenshot of the cutover.",
+      "exampleZh": "厂商要一张这个切换上线的截图。",
       "category": "it"
     },
     {
       "word": "backout",
       "phonetic": "/ˈbækaʊt/",
       "meaning": "退出回退",
-      "example": "Please check the backout.",
-      "exampleZh": "请检查一下这个退出回退。",
+      "example": "We will verify the backout after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个退出回退。",
       "category": "it"
     },
     {
       "word": "smoke after release",
       "phonetic": "/sməʊk ˈɑːftə rɪˈliːs/",
       "meaning": "发布后冒烟",
-      "example": "The smoke after release is in production.",
-      "exampleZh": "这个发布后冒烟已在生产环境。",
+      "example": "Do not touch the smoke after release during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个发布后冒烟。",
       "category": "it"
     },
     {
       "word": "health check job",
       "phonetic": "/helθ tʃek dʒɒb/",
       "meaning": "健康检查任务",
-      "example": "We need the health check job before go-live.",
-      "exampleZh": "上线前我们需要这个健康检查任务。",
+      "example": "We will verify the health check job after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个健康检查任务。",
       "category": "it"
     },
     {
       "word": "synthetic monitor",
       "phonetic": "/sɪnˈθetɪk ˈmɒnɪtə/",
       "meaning": "模拟拨测",
-      "example": "Please check the synthetic monitor.",
-      "exampleZh": "请检查一下这个模拟拨测。",
+      "example": "The ward asked us to check the synthetic monitor.",
+      "exampleZh": "病区让我们看一下这个模拟拨测。",
       "category": "it"
     }
   ]

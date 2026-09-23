@@ -5,80 +5,80 @@
       "word": "changing room",
       "phonetic": "/ˈtʃeɪndʒɪŋ ruːm/",
       "meaning": "更衣室",
-      "example": "Who is handling the changing room?",
-      "exampleZh": "谁在处理这个更衣室？",
+      "example": "The changing room still needs a decision today.",
+      "exampleZh": "这个更衣室今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "storage room",
       "phonetic": "/ˈstɔːrɪdʒ ruːm/",
       "meaning": "库房",
-      "example": "The storage room is ready for review.",
-      "exampleZh": "这个库房已经可以审阅了。",
+      "example": "We talked about the storage room with the department head.",
+      "exampleZh": "我们和科主任谈了这个库房。",
       "category": "office"
     },
     {
       "word": "records room",
       "phonetic": "/ˈrekɔːdz ruːm/",
       "meaning": "病案室",
-      "example": "Please share the records room after the meeting.",
-      "exampleZh": "会后请分享这个病案室。",
+      "example": "I put the records room on the shared drive.",
+      "exampleZh": "我把病案室放到了共享盘。",
       "category": "office"
     },
     {
       "word": "medical records",
       "phonetic": "/ˈmedɪkl ˈrekɔːdz/",
       "meaning": "病案",
-      "example": "The medical records is ready for review.",
-      "exampleZh": "这个病案已经可以审阅了。",
+      "example": "Please bring the medical records to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个病案。",
       "category": "office"
     },
     {
       "word": "chart request",
       "phonetic": "/tʃɑːt rɪˈkwest/",
       "meaning": "调阅病历",
-      "example": "I updated the chart request this morning.",
-      "exampleZh": "我今天早上更新了这个调阅病历。",
+      "example": "We talked about the chart request with the department head.",
+      "exampleZh": "我们和科主任谈了这个调阅病历。",
       "category": "office"
     },
     {
       "word": "shares",
       "phonetic": "/ʃeəz/",
       "meaning": "资源份额",
-      "example": "We need the shares before go-live.",
-      "exampleZh": "上线前我们需要这个资源份额。",
+      "example": "I logged the shares in today’s change ticket.",
+      "exampleZh": "我把这个资源份额记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "ballooning",
       "phonetic": "/bəˈluːnɪŋ/",
       "meaning": "内存回收",
-      "example": "We need the ballooning before go-live.",
-      "exampleZh": "上线前我们需要这个内存回收。",
+      "example": "Please test the ballooning on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个内存回收。",
       "category": "it"
     },
     {
       "word": "swap file",
       "phonetic": "/swɒp faɪl/",
       "meaning": "交换文件",
-      "example": "The swap file is in production.",
-      "exampleZh": "这个交换文件已在生产环境。",
+      "example": "We will verify the swap file after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个交换文件。",
       "category": "it"
     },
     {
       "word": "CPU ready",
       "phonetic": "/ˌsiː piː ˈjuː ˈredi/",
       "meaning": "处理器等待",
-      "example": "The CPU ready is in production.",
-      "exampleZh": "这个处理器等待已在生产环境。",
+      "example": "Do not touch the CPU ready during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个处理器等待。",
       "category": "it"
     },
     {
       "word": "co-stop",
       "phonetic": "/kəʊ stɒp/",
       "meaning": "共同停顿",
-      "example": "Who supports this co-stop?",
-      "exampleZh": "谁支持这个共同停顿？",
+      "example": "Do not touch the co-stop during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个共同停顿。",
       "category": "it"
     }
   ]

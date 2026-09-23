@@ -5,32 +5,32 @@
       "word": "permit",
       "phonetic": "/pəˈmɪt/",
       "meaning": "允许",
-      "example": "We need to permit this by Friday.",
-      "exampleZh": "我们周五前需要允许这个。",
+      "example": "Can you permit it today?",
+      "exampleZh": "你今天能把它允许吗？",
       "category": "office"
     },
     {
       "word": "restrict",
       "phonetic": "/rɪˈstrɪkt/",
       "meaning": "限制",
-      "example": "Let's restrict this first.",
-      "exampleZh": "我们先限制这个吧。",
+      "example": "We still need to restrict this.",
+      "exampleZh": "这件事还得限制。",
       "category": "office"
     },
     {
       "word": "expand",
       "phonetic": "/ɪkˈspænd/",
       "meaning": "扩大",
-      "example": "Please expand this before noon.",
-      "exampleZh": "请在中午前扩大这个。",
+      "example": "Please expand this before you leave.",
+      "exampleZh": "走之前请把这件事扩大。",
       "category": "office"
     },
     {
       "word": "reduce",
       "phonetic": "/rɪˈdjuːs/",
       "meaning": "减少",
-      "example": "We need to reduce this by Friday.",
-      "exampleZh": "我们周五前需要减少这个。",
+      "example": "Please reduce this before you leave.",
+      "exampleZh": "走之前请把这件事减少。",
       "category": "office"
     },
     {
@@ -38,47 +38,47 @@
       "phonetic": "/meɪnˈteɪn/",
       "meaning": "维持",
       "example": "Can you maintain it today?",
-      "exampleZh": "你今天能维持一下吗？",
+      "exampleZh": "你今天能把它维持吗？",
       "category": "office"
     },
     {
       "word": "listen port",
       "phonetic": "/ˈlɪsn pɔːt/",
       "meaning": "监听端口",
-      "example": "Please review the listen port after the patch.",
-      "exampleZh": "打补丁后请审阅这个监听端口。",
+      "example": "Do not touch the listen port during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个监听端口。",
       "category": "it"
     },
     {
       "word": "open port",
       "phonetic": "/ˈəʊpən pɔːt/",
       "meaning": "开放端口",
-      "example": "Who supports this open port?",
-      "exampleZh": "谁支持这个开放端口？",
+      "example": "The vendor asked for a screenshot of the open port.",
+      "exampleZh": "厂商要一张这个开放端口的截图。",
       "category": "it"
     },
     {
       "word": "closed port",
       "phonetic": "/kləʊzd pɔːt/",
       "meaning": "关闭端口",
-      "example": "The closed port is in production.",
-      "exampleZh": "这个关闭端口已在生产环境。",
+      "example": "Who is on call for the closed port this week?",
+      "exampleZh": "这周这个关闭端口谁值班？",
       "category": "it"
     },
     {
       "word": "firewall rule",
       "phonetic": "/ˈfaɪəwɔːl ruːl/",
       "meaning": "防火墙规则",
-      "example": "Please check the firewall rule.",
-      "exampleZh": "请检查一下这个防火墙规则。",
+      "example": "The vendor asked for a screenshot of the firewall rule.",
+      "exampleZh": "厂商要一张这个防火墙规则的截图。",
       "category": "it"
     },
     {
       "word": "NAT",
       "phonetic": "/næt/",
-      "meaning": "网络地址转换",
-      "example": "The NAT is slow this morning.",
-      "exampleZh": "今天早上 NAT 很慢。",
+      "meaning": "网络地址转换（Network Address Translation）",
+      "example": "Test NAT (Network Address Translation) from the backup site first.",
+      "exampleZh": "请先从备站点测试 NAT（Network Address Translation）。",
       "category": "it"
     }
   ]

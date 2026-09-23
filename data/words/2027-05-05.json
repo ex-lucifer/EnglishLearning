@@ -45,40 +45,40 @@
       "word": "egress",
       "phonetic": "/ˈiːɡres/",
       "meaning": "出口流量",
-      "example": "Please review the egress after the patch.",
-      "exampleZh": "打补丁后请审阅这个出口流量。",
+      "example": "I logged the egress in today’s change ticket.",
+      "exampleZh": "我把这个出口流量记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "sidecar",
       "phonetic": "/ˈsaɪdkɑː/",
       "meaning": "边车容器",
-      "example": "The sidecar is in production.",
-      "exampleZh": "这个边车容器已在生产环境。",
+      "example": "The vendor asked for a screenshot of the sidecar.",
+      "exampleZh": "厂商要一张这个边车容器的截图。",
       "category": "it"
     },
     {
       "word": "service mesh",
       "phonetic": "/ˈsɜːvɪs meʃ/",
       "meaning": "服务网格",
-      "example": "Who supports this service mesh?",
-      "exampleZh": "谁支持这个服务网格？",
+      "example": "Do not touch the service mesh during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个服务网格。",
       "category": "it"
     },
     {
       "word": "config map",
       "phonetic": "/kənˈfɪɡ mæp/",
       "meaning": "配置映射",
-      "example": "The config map is in production.",
-      "exampleZh": "这个配置映射已在生产环境。",
+      "example": "I logged the config map in today’s change ticket.",
+      "exampleZh": "我把这个配置映射记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "secret",
       "phonetic": "/ˈsiːkrɪt/",
       "meaning": "密文对象",
-      "example": "We need the secret before go-live.",
-      "exampleZh": "上线前我们需要这个密文对象。",
+      "example": "The ward asked us to check the secret.",
+      "exampleZh": "病区让我们看一下这个密文对象。",
       "category": "it"
     }
   ]

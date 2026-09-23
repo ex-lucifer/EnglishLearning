@@ -5,80 +5,80 @@
       "word": "urgent",
       "phonetic": "/ˈɜːdʒənt/",
       "meaning": "紧急的",
-      "example": "Please keep this urgent.",
-      "exampleZh": "请保持紧急的。",
+      "example": "This request is urgent; please tell the ward.",
+      "exampleZh": "这个请求很紧急，请告诉病区。",
       "category": "office"
     },
     {
       "word": "template",
       "phonetic": "/ˈtemplɪt/",
       "meaning": "模板",
-      "example": "I updated the template this morning.",
-      "exampleZh": "我今天早上更新了这个模板。",
+      "example": "Please add the template to today’s notes.",
+      "exampleZh": "请把模板写进今天的记录。",
       "category": "office"
     },
     {
       "word": "checklist",
       "phonetic": "/ˈtʃeklɪst/",
       "meaning": "核对清单",
-      "example": "The checklist is ready for review.",
-      "exampleZh": "这个核对清单已经可以审阅了。",
+      "example": "Who will own the checklist this week?",
+      "exampleZh": "这周这个核对清单谁来负责？",
       "category": "office"
     },
     {
       "word": "SOP",
       "phonetic": "/ˌes əʊ ˈpiː/",
-      "meaning": "标准作业程序",
-      "example": "Please put SOP on the email.",
-      "exampleZh": "请在邮件里注明 SOP。",
+      "meaning": "标准作业程序（Standard Operating Procedure）",
+      "example": "Follow the SOP (standard operating procedure) before you reboot HIS.",
+      "exampleZh": "重启 HIS 前请按 SOP（标准作业程序）做。",
       "category": "office"
     },
     {
       "word": "policy",
       "phonetic": "/ˈpɒləsi/",
       "meaning": "制度",
-      "example": "I updated the policy this morning.",
-      "exampleZh": "我今天早上更新了这个制度。",
+      "example": "Please bring the policy to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个制度。",
       "category": "office"
     },
     {
       "word": "kiosk",
       "phonetic": "/ˈkiːɒsk/",
       "meaning": "自助终端",
-      "example": "Please check the kiosk.",
-      "exampleZh": "请检查一下这个自助终端。",
+      "example": "We will verify the kiosk after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个自助终端。",
       "category": "it"
     },
     {
       "word": "bedside terminal",
       "phonetic": "/ˈbedsaɪd ˈtɜːmɪnl/",
       "meaning": "床旁终端",
-      "example": "Please check the bedside terminal.",
-      "exampleZh": "请检查一下这个床旁终端。",
+      "example": "Please test the bedside terminal on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个床旁终端。",
       "category": "it"
     },
     {
       "word": "computer on wheels",
       "phonetic": "/kəmˈpjuːtə ɒn wiːlz/",
       "meaning": "移动查房电脑",
-      "example": "Who supports this computer on wheels?",
-      "exampleZh": "谁支持这个移动查房电脑？",
+      "example": "The vendor asked for a screenshot of the computer on wheels.",
+      "exampleZh": "厂商要一张这个移动查房电脑的截图。",
       "category": "it"
     },
     {
       "word": "workstation on wheels",
       "phonetic": "/ˈwɜːksteɪʃn ɒn wiːlz/",
       "meaning": "移动护理工作站",
-      "example": "Please check the workstation on wheels.",
-      "exampleZh": "请检查一下这个移动护理工作站。",
+      "example": "Who is on call for the workstation on wheels this week?",
+      "exampleZh": "这周这个移动护理工作站谁值班？",
       "category": "it"
     },
     {
       "word": "medication cart PC",
       "phonetic": "/ˌmedɪˈkeɪʃn kɑːt piː siː/",
       "meaning": "发药车电脑",
-      "example": "Please check the medication cart PC.",
-      "exampleZh": "请检查一下这个发药车电脑。",
+      "example": "Do not touch the medication cart PC during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个发药车电脑。",
       "category": "it"
     }
   ]

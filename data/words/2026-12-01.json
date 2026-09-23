@@ -5,80 +5,80 @@
       "word": "org chart",
       "phonetic": "/ɔːɡ tʃɑːt/",
       "meaning": "组织架构图",
-      "example": "I updated the org chart this morning.",
-      "exampleZh": "我今天早上更新了这个组织架构图。",
+      "example": "The org chart still needs a decision today.",
+      "exampleZh": "这个组织架构图今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "job description",
       "phonetic": "/dʒɒb dɪˈskrɪpʃn/",
       "meaning": "岗位说明书",
-      "example": "I updated the job description this morning.",
-      "exampleZh": "我今天早上更新了这个岗位说明书。",
+      "example": "Who will own the job description this week?",
+      "exampleZh": "这周这个岗位说明书谁来负责？",
       "category": "office"
     },
     {
       "word": "duty roster",
       "phonetic": "/ˈdjuːti ˈrɒstə/",
       "meaning": "值班表",
-      "example": "Please review the duty roster.",
-      "exampleZh": "请审阅一下这个值班表。",
+      "example": "I put the duty roster on the shared drive.",
+      "exampleZh": "我把值班表放到了共享盘。",
       "category": "office"
     },
     {
       "word": "on-call",
       "phonetic": "/ɒn kɔːl/",
       "meaning": "值班待命",
-      "example": "This request is on-call.",
-      "exampleZh": "这个请求是值班待命的。",
+      "example": "I am on-call tonight for HIS.",
+      "exampleZh": "今晚 HIS 我值班待命。",
       "category": "office"
     },
     {
       "word": "standby",
       "phonetic": "/ˈstændbaɪ/",
       "meaning": "待命",
-      "example": "Who is handling the standby?",
-      "exampleZh": "谁在处理这个待命？",
+      "example": "We talked about the standby with the department head.",
+      "exampleZh": "我们和科主任谈了这个待命。",
       "category": "office"
     },
     {
       "word": "password policy",
       "phonetic": "/ˈpɑːswɜːd ˈpɒləsi/",
       "meaning": "密码策略",
-      "example": "Please check the password policy.",
-      "exampleZh": "请检查一下这个密码策略。",
+      "example": "I logged the password policy in today’s change ticket.",
+      "exampleZh": "我把这个密码策略记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "encryption at rest",
       "phonetic": "/ɪnˈkrɪpʃn ət rest/",
       "meaning": "静态加密",
-      "example": "The encryption at rest is in production.",
-      "exampleZh": "这个静态加密已在生产环境。",
+      "example": "Who is on call for the encryption at rest this week?",
+      "exampleZh": "这周这个静态加密谁值班？",
       "category": "it"
     },
     {
       "word": "encryption in transit",
       "phonetic": "/ɪnˈkrɪpʃn ɪn ˈtrænzɪt/",
       "meaning": "传输加密",
-      "example": "The encryption in transit is in production.",
-      "exampleZh": "这个传输加密已在生产环境。",
+      "example": "Who is on call for the encryption in transit this week?",
+      "exampleZh": "这周这个传输加密谁值班？",
       "category": "it"
     },
     {
       "word": "TLS handshake",
       "phonetic": "/ˌtiː el ˈes ˈhændʃeɪk/",
-      "meaning": "加密握手",
-      "example": "The TLS handshake is in production.",
-      "exampleZh": "这个加密握手已在生产环境。",
+      "meaning": "加密握手（Transport Layer Security）",
+      "example": "We will verify the TLS handshake after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个加密握手。",
       "category": "it"
     },
     {
       "word": "certificate expiry",
       "phonetic": "/səˈtɪfɪkət ɪkˈspaɪəri/",
       "meaning": "证书到期",
-      "example": "Please check the certificate expiry.",
-      "exampleZh": "请检查一下这个证书到期。",
+      "example": "The ward asked us to check the certificate expiry.",
+      "exampleZh": "病区让我们看一下这个证书到期。",
       "category": "it"
     }
   ]

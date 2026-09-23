@@ -5,80 +5,80 @@
       "word": "guardian",
       "phonetic": "/ˈɡɑːdiən/",
       "meaning": "监护人",
-      "example": "Please share the guardian after the meeting.",
-      "exampleZh": "会后请分享这个监护人。",
+      "example": "We talked about the guardian with the department head.",
+      "exampleZh": "我们和科主任谈了这个监护人。",
       "category": "office"
     },
     {
       "word": "interpreter",
       "phonetic": "/ɪnˈtɜːprɪtə/",
       "meaning": "口译员",
-      "example": "The interpreter is ready for review.",
-      "exampleZh": "这个口译员已经可以审阅了。",
+      "example": "We talked about the interpreter with the department head.",
+      "exampleZh": "我们和科主任谈了这个口译员。",
       "category": "office"
     },
     {
       "word": "language line",
       "phonetic": "/ˈlæŋɡwɪdʒ laɪn/",
       "meaning": "翻译专线",
-      "example": "Please review the language line.",
-      "exampleZh": "请审阅一下这个翻译专线。",
+      "example": "We talked about the language line with the department head.",
+      "exampleZh": "我们和科主任谈了这个翻译专线。",
       "category": "office"
     },
     {
       "word": "plain explanation",
       "phonetic": "/pleɪn ˌekspləˈneɪʃn/",
       "meaning": "通俗解释",
-      "example": "Who is handling the plain explanation?",
-      "exampleZh": "谁在处理这个通俗解释？",
+      "example": "We talked about the plain explanation with the department head.",
+      "exampleZh": "我们和科主任谈了这个通俗解释。",
       "category": "office"
     },
     {
       "word": "teach-back",
       "phonetic": "/tiːtʃ bæk/",
       "meaning": "复述确认",
-      "example": "Please share the teach-back after the meeting.",
-      "exampleZh": "会后请分享这个复述确认。",
+      "example": "Who will own the teach-back this week?",
+      "exampleZh": "这周这个复述确认谁来负责？",
       "category": "office"
     },
     {
       "word": "tools agent",
       "phonetic": "/tuːlz ˈeɪdʒənt/",
       "meaning": "虚拟化工具代理",
-      "example": "Please check the tools agent.",
-      "exampleZh": "请检查一下这个虚拟化工具代理。",
+      "example": "The vendor asked for a screenshot of the tools agent.",
+      "exampleZh": "厂商要一张这个虚拟化工具代理的截图。",
       "category": "it"
     },
     {
       "word": "guest customization",
       "phonetic": "/ɡest ˌkʌstəmaɪˈzeɪʃn/",
       "meaning": "客户机定制",
-      "example": "Please review the guest customization after the patch.",
-      "exampleZh": "打补丁后请审阅这个客户机定制。",
+      "example": "Please test the guest customization on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个客户机定制。",
       "category": "it"
     },
     {
       "word": "sysprep",
       "phonetic": "/ˈsɪsprep/",
       "meaning": "系统封装",
-      "example": "We need the sysprep before go-live.",
-      "exampleZh": "上线前我们需要这个系统封装。",
+      "example": "Who is on call for the sysprep this week?",
+      "exampleZh": "这周这个系统封装谁值班？",
       "category": "it"
     },
     {
       "word": "SID duplication",
       "phonetic": "/sɪd ˌdjuːplɪˈkeɪʃn/",
       "meaning": "安全标识重复",
-      "example": "Who supports this SID duplication?",
-      "exampleZh": "谁支持这个安全标识重复？",
+      "example": "Who is on call for the SID duplication this week?",
+      "exampleZh": "这周这个安全标识重复谁值班？",
       "category": "it"
     },
     {
       "word": "IP conflict",
       "phonetic": "/aɪ ˈpiː ˈkɒnflɪkt/",
       "meaning": "地址冲突",
-      "example": "The IP conflict is in production.",
-      "exampleZh": "这个地址冲突已在生产环境。",
+      "example": "The vendor asked for a screenshot of the IP conflict.",
+      "exampleZh": "厂商要一张这个地址冲突的截图。",
       "category": "it"
     }
   ]

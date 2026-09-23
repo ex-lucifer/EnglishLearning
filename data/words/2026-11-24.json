@@ -45,40 +45,40 @@
       "word": "postmortem",
       "phonetic": "/ˌpəʊstˈmɔːtəm/",
       "meaning": "事后分析",
-      "example": "Please review the postmortem after the patch.",
-      "exampleZh": "打补丁后请审阅这个事后分析。",
+      "example": "Who is on call for the postmortem this week?",
+      "exampleZh": "这周这个事后分析谁值班？",
       "category": "it"
     },
     {
       "word": "known error",
       "phonetic": "/nəʊn ˈerə/",
       "meaning": "已知错误",
-      "example": "We need the known error before go-live.",
-      "exampleZh": "上线前我们需要这个已知错误。",
+      "example": "The ward asked us to check the known error.",
+      "exampleZh": "病区让我们看一下这个已知错误。",
       "category": "it"
     },
     {
       "word": "service catalog",
       "phonetic": "/ˈsɜːvɪs ˈkætəlɒɡ/",
       "meaning": "服务目录",
-      "example": "Please check the service catalog.",
-      "exampleZh": "请检查一下这个服务目录。",
+      "example": "The ward asked us to check the service catalog.",
+      "exampleZh": "病区让我们看一下这个服务目录。",
       "category": "it"
     },
     {
       "word": "configuration item",
       "phonetic": "/kənˌfɪɡəˈreɪʃn ˈaɪtəm/",
       "meaning": "配置项",
-      "example": "We need the configuration item before go-live.",
-      "exampleZh": "上线前我们需要这个配置项。",
+      "example": "The vendor asked for a screenshot of the configuration item.",
+      "exampleZh": "厂商要一张这个配置项的截图。",
       "category": "it"
     },
     {
       "word": "CMDB",
       "phonetic": "/ˌsiː em diː ˈbiː/",
-      "meaning": "配置管理库",
-      "example": "The CMDB is slow this morning.",
-      "exampleZh": "今天早上 CMDB 很慢。",
+      "meaning": "配置管理库（Configuration Management Database）",
+      "example": "The ward called because CMDB (Configuration Management Database) would not open.",
+      "exampleZh": "病区来电，说 CMDB（Configuration Management Database）打不开。",
       "category": "it"
     }
   ]

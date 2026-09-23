@@ -5,80 +5,80 @@
       "word": "business hours",
       "phonetic": "/ˈbɪznəs ˈaʊəz/",
       "meaning": "工作时间",
-      "example": "Who is handling the business hours?",
-      "exampleZh": "谁在处理这个工作时间？",
+      "example": "I put the business hours on the shared drive.",
+      "exampleZh": "我把工作时间放到了共享盘。",
       "category": "office"
     },
     {
       "word": "after hours",
       "phonetic": "/ˈɑːftə ˈaʊəz/",
       "meaning": "下班后",
-      "example": "I updated the after hours this morning.",
-      "exampleZh": "我今天早上更新了这个下班后。",
+      "example": "The after hours still needs a decision today.",
+      "exampleZh": "这个下班后今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "cut-off",
       "phonetic": "/ˈkʌt ɒf/",
       "meaning": "截止时点",
-      "example": "I updated the cut-off this morning.",
-      "exampleZh": "我今天早上更新了这个截止时点。",
+      "example": "The cut-off still needs a decision today.",
+      "exampleZh": "这个截止时点今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "lead-in",
       "phonetic": "/ˈliːd ɪn/",
       "meaning": "开场铺垫",
-      "example": "Who is handling the lead-in?",
-      "exampleZh": "谁在处理这个开场铺垫？",
+      "example": "Please add the lead-in to today’s notes.",
+      "exampleZh": "请把开场铺垫写进今天的记录。",
       "category": "office"
     },
     {
       "word": "wrap-up email",
       "phonetic": "/ˈræp ʌp ˈiːmeɪl/",
       "meaning": "收尾邮件",
-      "example": "Who is handling the wrap-up email?",
-      "exampleZh": "谁在处理这个收尾邮件？",
+      "example": "The wrap-up email still needs a decision today.",
+      "exampleZh": "这个收尾邮件今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "queue wait",
       "phonetic": "/kjuː weɪt/",
       "meaning": "排队等待",
-      "example": "Please check the queue wait.",
-      "exampleZh": "请检查一下这个排队等待。",
+      "example": "We will verify the queue wait after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个排队等待。",
       "category": "it"
     },
     {
       "word": "call drop",
       "phonetic": "/kɔːl drɒp/",
       "meaning": "通话中断",
-      "example": "Who supports this call drop?",
-      "exampleZh": "谁支持这个通话中断？",
+      "example": "We will verify the call drop after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个通话中断。",
       "category": "it"
     },
     {
       "word": "codec",
       "phonetic": "/ˈkəʊdek/",
       "meaning": "编解码",
-      "example": "Please check the codec.",
-      "exampleZh": "请检查一下这个编解码。",
+      "example": "The vendor asked for a screenshot of the codec.",
+      "exampleZh": "厂商要一张这个编解码的截图。",
       "category": "it"
     },
     {
       "word": "jitter buffer",
       "phonetic": "/ˈdʒɪtə ˈbʌfə/",
       "meaning": "抖动缓冲",
-      "example": "Please review the jitter buffer after the patch.",
-      "exampleZh": "打补丁后请审阅这个抖动缓冲。",
+      "example": "The ward asked us to check the jitter buffer.",
+      "exampleZh": "病区让我们看一下这个抖动缓冲。",
       "category": "it"
     },
     {
       "word": "QoS",
       "phonetic": "/ˌkjuː əʊ ˈes/",
-      "meaning": "服务质量",
-      "example": "The QoS is slow this morning.",
-      "exampleZh": "今天早上 QoS 很慢。",
+      "meaning": "服务质量（Quality of Service）",
+      "example": "We missed the QoS (Quality of Service) last night.",
+      "exampleZh": "昨晚我们没达到 QoS（Quality of Service）。",
       "category": "it"
     }
   ]

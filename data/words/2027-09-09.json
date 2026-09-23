@@ -5,80 +5,80 @@
       "word": "shred",
       "phonetic": "/ʃred/",
       "meaning": "粉碎销毁",
-      "example": "Let's shred this first.",
-      "exampleZh": "我们先粉碎销毁这个吧。",
+      "example": "We still need to shred this.",
+      "exampleZh": "这件事还得粉碎销毁。",
       "category": "office"
     },
     {
       "word": "confidential bin",
       "phonetic": "/ˌkɒnfɪˈdenʃl bɪn/",
       "meaning": "保密回收桶",
-      "example": "Please review the confidential bin.",
-      "exampleZh": "请审阅一下这个保密回收桶。",
+      "example": "I put the confidential bin on the shared drive.",
+      "exampleZh": "我把保密回收桶放到了共享盘。",
       "category": "office"
     },
     {
       "word": "locked cabinet",
       "phonetic": "/lɒkt ˈkæbɪnət/",
       "meaning": "上锁柜",
-      "example": "The locked cabinet is ready for review.",
-      "exampleZh": "这个上锁柜已经可以审阅了。",
+      "example": "Who will own the locked cabinet this week?",
+      "exampleZh": "这周这个上锁柜谁来负责？",
       "category": "office"
     },
     {
       "word": "key control",
       "phonetic": "/kiː kənˈtrəʊl/",
       "meaning": "钥匙管理",
-      "example": "Please review the key control.",
-      "exampleZh": "请审阅一下这个钥匙管理。",
+      "example": "The key control still needs a decision today.",
+      "exampleZh": "这个钥匙管理今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "access log",
       "phonetic": "/ˈækses lɒɡ/",
       "meaning": "进出记录",
-      "example": "Who is handling the access log?",
-      "exampleZh": "谁在处理这个进出记录？",
+      "example": "The access log still needs a decision today.",
+      "exampleZh": "这个进出记录今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "online mode",
       "phonetic": "/ˈɒnlaɪn məʊd/",
       "meaning": "在线模式",
-      "example": "The online mode is in production.",
-      "exampleZh": "这个在线模式已在生产环境。",
+      "example": "I logged the online mode in today’s change ticket.",
+      "exampleZh": "我把这个在线模式记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "mailbox move",
       "phonetic": "/ˈmeɪlbɒks muːv/",
       "meaning": "邮箱迁移",
-      "example": "We need the mailbox move before go-live.",
-      "exampleZh": "上线前我们需要这个邮箱迁移。",
+      "example": "We will verify the mailbox move after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个邮箱迁移。",
       "category": "it"
     },
     {
       "word": "hybrid mail",
       "phonetic": "/ˈhaɪbrɪd meɪl/",
       "meaning": "混合邮件",
-      "example": "Who supports this hybrid mail?",
-      "exampleZh": "谁支持这个混合邮件？",
+      "example": "Please test the hybrid mail on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个混合邮件。",
       "category": "it"
     },
     {
       "word": "exchange",
       "phonetic": "/ɪksˈtʃeɪndʒ/",
       "meaning": "邮件系统",
-      "example": "Who supports this exchange?",
-      "exampleZh": "谁支持这个邮件系统？",
+      "example": "The ward asked us to check the exchange.",
+      "exampleZh": "病区让我们看一下这个邮件系统。",
       "category": "it"
     },
     {
       "word": "calendar free-busy",
       "phonetic": "/ˈkælɪndə friː ˈbɪzi/",
       "meaning": "忙闲状态",
-      "example": "Please check the calendar free-busy.",
-      "exampleZh": "请检查一下这个忙闲状态。",
+      "example": "I logged the calendar free-busy in today’s change ticket.",
+      "exampleZh": "我把这个忙闲状态记进了今天的变更单。",
       "category": "it"
     }
   ]

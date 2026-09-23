@@ -13,72 +13,72 @@
       "word": "return",
       "phonetic": "/rɪˈtɜːn/",
       "meaning": "退回",
-      "example": "We need to return this by Friday.",
-      "exampleZh": "我们周五前需要退回这个。",
+      "example": "We still need to return this.",
+      "exampleZh": "这件事还得退回。",
       "category": "office"
     },
     {
       "word": "revise",
       "phonetic": "/rɪˈvaɪz/",
       "meaning": "修订",
-      "example": "Let's revise this first.",
-      "exampleZh": "我们先修订这个吧。",
+      "example": "We still need to revise this.",
+      "exampleZh": "这件事还得修订。",
       "category": "office"
     },
     {
       "word": "amend",
       "phonetic": "/əˈmend/",
       "meaning": "修改",
-      "example": "We need to amend this by Friday.",
-      "exampleZh": "我们周五前需要修改这个。",
+      "example": "Can you amend it today?",
+      "exampleZh": "你今天能把它修改吗？",
       "category": "office"
     },
     {
       "word": "finalize",
       "phonetic": "/ˈfaɪnəlaɪz/",
       "meaning": "定稿",
-      "example": "Please finalize this before noon.",
-      "exampleZh": "请在中午前定稿这个。",
+      "example": "Please finalize this before you leave.",
+      "exampleZh": "走之前请把这件事定稿。",
       "category": "office"
     },
     {
       "word": "jump host",
       "phonetic": "/dʒʌmp həʊst/",
       "meaning": "跳板机",
-      "example": "Please check the jump host.",
-      "exampleZh": "请检查一下这个跳板机。",
+      "example": "I logged the jump host in today’s change ticket.",
+      "exampleZh": "我把这个跳板机记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "bastion",
       "phonetic": "/ˈbæstiən/",
       "meaning": "堡垒机",
-      "example": "The bastion is in production.",
-      "exampleZh": "这个堡垒机已在生产环境。",
+      "example": "The vendor asked for a screenshot of the bastion.",
+      "exampleZh": "厂商要一张这个堡垒机的截图。",
       "category": "it"
     },
     {
       "word": "privileged session",
       "phonetic": "/ˈprɪvəlɪdʒd ˈseʃn/",
       "meaning": "特权会话",
-      "example": "Who supports this privileged session?",
-      "exampleZh": "谁支持这个特权会话？",
+      "example": "The ward asked us to check the privileged session.",
+      "exampleZh": "病区让我们看一下这个特权会话。",
       "category": "it"
     },
     {
       "word": "session recording",
       "phonetic": "/ˈseʃn rɪˈkɔːdɪŋ/",
       "meaning": "会话录像",
-      "example": "Please review the session recording after the patch.",
-      "exampleZh": "打补丁后请审阅这个会话录像。",
+      "example": "The ward asked us to check the session recording.",
+      "exampleZh": "病区让我们看一下这个会话录像。",
       "category": "it"
     },
     {
       "word": "command filter",
       "phonetic": "/kəˈmɑːnd ˈfɪltə/",
       "meaning": "命令过滤",
-      "example": "We need the command filter before go-live.",
-      "exampleZh": "上线前我们需要这个命令过滤。",
+      "example": "Do not touch the command filter during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个命令过滤。",
       "category": "it"
     }
   ]

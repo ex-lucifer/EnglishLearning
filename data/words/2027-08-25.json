@@ -5,8 +5,8 @@
       "word": "last item",
       "phonetic": "/lɑːst ˈaɪtəm/",
       "meaning": "最后一项",
-      "example": "The last item is ready for review.",
-      "exampleZh": "这个最后一项已经可以审阅了。",
+      "example": "I put the last item on the shared drive.",
+      "exampleZh": "我把最后一项放到了共享盘。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "recursion",
       "phonetic": "/rɪˈkɜːʃn/",
       "meaning": "递归查询",
-      "example": "Please check the recursion.",
-      "exampleZh": "请检查一下这个递归查询。",
+      "example": "We will verify the recursion after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个递归查询。",
       "category": "it"
     },
     {
       "word": "iterative query",
       "phonetic": "/ˈɪtərətɪv ˈkwɪəri/",
       "meaning": "迭代查询",
-      "example": "The iterative query is in production.",
-      "exampleZh": "这个迭代查询已在生产环境。",
+      "example": "Please test the iterative query on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个迭代查询。",
       "category": "it"
     },
     {
       "word": "cache poisoning",
       "phonetic": "/kæʃ ˈpɔɪznɪŋ/",
       "meaning": "缓存投毒",
-      "example": "The cache poisoning is in production.",
-      "exampleZh": "这个缓存投毒已在生产环境。",
+      "example": "Who is on call for the cache poisoning this week?",
+      "exampleZh": "这周这个缓存投毒谁值班？",
       "category": "it"
     },
     {
       "word": "DNS tunneling",
       "phonetic": "/ˌdiː en ˈes ˈtʌnlɪŋ/",
       "meaning": "域名隧道",
-      "example": "Please check the DNS tunneling.",
-      "exampleZh": "请检查一下这个域名隧道。",
+      "example": "Please test the DNS tunneling on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个域名隧道。",
       "category": "it"
     },
     {
       "word": "DoH",
       "phonetic": "/dɒ/",
-      "meaning": "加密域名查询",
-      "example": "The DoH is slow this morning.",
-      "exampleZh": "今天早上 DoH 很慢。",
+      "meaning": "加密域名查询（DNS over HTTPS）",
+      "example": "Enable DoH (DNS over HTTPS) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 DoH（DNS over HTTPS）。",
       "category": "it"
     }
   ]

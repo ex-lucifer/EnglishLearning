@@ -5,80 +5,80 @@
       "word": "acting",
       "phonetic": "/ˈæktɪŋ/",
       "meaning": "代理的",
-      "example": "This request is acting.",
-      "exampleZh": "这个请求是代理的的。",
+      "example": "She is the acting team lead this week.",
+      "exampleZh": "这周她是代理组长。",
       "category": "office"
     },
     {
       "word": "interim",
       "phonetic": "/ˈɪntərɪm/",
       "meaning": "临时的",
-      "example": "This request is interim.",
-      "exampleZh": "这个请求是临时的的。",
+      "example": "He is the interim clerk until Friday.",
+      "exampleZh": "周五前他是临时文员。",
       "category": "office"
     },
     {
       "word": "permanent",
       "phonetic": "/ˈpɜːmənənt/",
       "meaning": "正式的",
-      "example": "The timeline looks permanent.",
-      "exampleZh": "时间看起来正式的。",
+      "example": "This is now a permanent post.",
+      "exampleZh": "这个岗位现在是正式编制。",
       "category": "office"
     },
     {
       "word": "temporary",
       "phonetic": "/ˈtemprəri/",
       "meaning": "临时的",
-      "example": "Please keep this temporary.",
-      "exampleZh": "请保持临时的。",
+      "example": "We hired temporary cover for night shift.",
+      "exampleZh": "我们招了临时人员顶夜班。",
       "category": "office"
     },
     {
       "word": "full-time",
       "phonetic": "/fʊl taɪm/",
       "meaning": "全职的",
-      "example": "Stay full-time in the meeting.",
-      "exampleZh": "会上请保持全职的。",
+      "example": "The vacancy is full-time.",
+      "exampleZh": "这个空缺是全职。",
       "category": "office"
     },
     {
       "word": "uncorrectable error",
       "phonetic": "/ˌʌnkəˈrektəbl ˈerə/",
       "meaning": "不可纠正错误",
-      "example": "We need the uncorrectable error before go-live.",
-      "exampleZh": "上线前我们需要这个不可纠正错误。",
+      "example": "Who is on call for the uncorrectable error this week?",
+      "exampleZh": "这周这个不可纠正错误谁值班？",
       "category": "it"
     },
     {
       "word": "reallocated sector",
       "phonetic": "/ˌriːˈæləkeɪtɪd ˈsektə/",
       "meaning": "重映射扇区",
-      "example": "Please check the reallocated sector.",
-      "exampleZh": "请检查一下这个重映射扇区。",
+      "example": "Who is on call for the reallocated sector this week?",
+      "exampleZh": "这周这个重映射扇区谁值班？",
       "category": "it"
     },
     {
       "word": "spin-up",
       "phonetic": "/spɪn ʌp/",
       "meaning": "磁盘启动",
-      "example": "The spin-up is in production.",
-      "exampleZh": "这个磁盘启动已在生产环境。",
+      "example": "Who is on call for the spin-up this week?",
+      "exampleZh": "这周这个磁盘启动谁值班？",
       "category": "it"
     },
     {
       "word": "head crash",
       "phonetic": "/hed kræʃ/",
       "meaning": "磁头损坏",
-      "example": "We need the head crash before go-live.",
-      "exampleZh": "上线前我们需要这个磁头损坏。",
+      "example": "The ward asked us to check the head crash.",
+      "exampleZh": "病区让我们看一下这个磁头损坏。",
       "category": "it"
     },
     {
       "word": "SSD",
       "phonetic": "/ˌes es ˈdiː/",
-      "meaning": "固态硬盘",
-      "example": "The SSD is slow this morning.",
-      "exampleZh": "今天早上 SSD 很慢。",
+      "meaning": "固态硬盘（Solid State Drive）",
+      "example": "Check the SSD (Solid State Drive) in the computer room.",
+      "exampleZh": "请到机房检查 SSD（Solid State Drive）。",
       "category": "it"
     }
   ]

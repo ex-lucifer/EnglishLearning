@@ -5,80 +5,80 @@
       "word": "salary slip",
       "phonetic": "/ˈsæləri slɪp/",
       "meaning": "工资单",
-      "example": "Who is handling the salary slip?",
-      "exampleZh": "谁在处理这个工资单？",
+      "example": "We talked about the salary slip with the department head.",
+      "exampleZh": "我们和科主任谈了这个工资单。",
       "category": "office"
     },
     {
       "word": "pay day",
       "phonetic": "/peɪ deɪ/",
       "meaning": "发薪日",
-      "example": "The pay day is ready for review.",
-      "exampleZh": "这个发薪日已经可以审阅了。",
+      "example": "The pay day still needs a decision today.",
+      "exampleZh": "这个发薪日今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "allowance",
       "phonetic": "/əˈlaʊəns/",
       "meaning": "津贴",
-      "example": "Who is handling the allowance?",
-      "exampleZh": "谁在处理这个津贴？",
+      "example": "I put the allowance on the shared drive.",
+      "exampleZh": "我把津贴放到了共享盘。",
       "category": "office"
     },
     {
       "word": "bonus",
       "phonetic": "/ˈbəʊnəs/",
       "meaning": "奖金",
-      "example": "I updated the bonus this morning.",
-      "exampleZh": "我今天早上更新了这个奖金。",
+      "example": "The bonus still needs a decision today.",
+      "exampleZh": "这个奖金今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "overtime claim",
       "phonetic": "/ˈəʊvətaɪm kleɪm/",
       "meaning": "加班申报",
-      "example": "Who is handling the overtime claim?",
-      "exampleZh": "谁在处理这个加班申报？",
+      "example": "We talked about the overtime claim with the department head.",
+      "exampleZh": "我们和科主任谈了这个加班申报。",
       "category": "office"
     },
     {
       "word": "AppLocker",
       "phonetic": "/ˈæplɒkə/",
       "meaning": "应用锁",
-      "example": "Please review the AppLocker after the patch.",
-      "exampleZh": "打补丁后请审阅这个应用锁。",
+      "example": "Do not touch the AppLocker during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个应用锁。",
       "category": "it"
     },
     {
       "word": "Software Restriction",
       "phonetic": "/ˈsɒftweə rɪˈstrɪkʃn/",
       "meaning": "软件限制策略",
-      "example": "We need the Software Restriction before go-live.",
-      "exampleZh": "上线前我们需要这个软件限制策略。",
+      "example": "We will verify the Software Restriction after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个软件限制策略。",
       "category": "it"
     },
     {
       "word": "Device Guard",
       "phonetic": "/dɪˈvaɪs ɡɑːd/",
       "meaning": "设备防护",
-      "example": "Please review the Device Guard after the patch.",
-      "exampleZh": "打补丁后请审阅这个设备防护。",
+      "example": "The vendor asked for a screenshot of the Device Guard.",
+      "exampleZh": "厂商要一张这个设备防护的截图。",
       "category": "it"
     },
     {
       "word": "Credential Guard",
       "phonetic": "/krəˈdenʃl ɡɑːd/",
       "meaning": "凭据防护",
-      "example": "Who supports this Credential Guard?",
-      "exampleZh": "谁支持这个凭据防护？",
+      "example": "I logged the Credential Guard in today’s change ticket.",
+      "exampleZh": "我把这个凭据防护记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "LSA protection",
       "phonetic": "/ˌel es ˈeɪ prəˈtekʃn/",
       "meaning": "认证进程保护",
-      "example": "The LSA protection is in production.",
-      "exampleZh": "这个认证进程保护已在生产环境。",
+      "example": "We will verify the LSA protection after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个认证进程保护。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "meeting cadence",
       "phonetic": "/ˈmiːtɪŋ ˈkeɪdns/",
       "meaning": "开会节奏",
-      "example": "The meeting cadence is ready for review.",
-      "exampleZh": "这个开会节奏已经可以审阅了。",
+      "example": "Could you send the meeting cadence to the project group?",
+      "exampleZh": "你能把开会节奏发到项目群吗？",
       "category": "office"
     },
     {
       "word": "biweekly",
       "phonetic": "/baɪˈwiːkli/",
       "meaning": "双周一次",
-      "example": "This request is biweekly.",
-      "exampleZh": "这个请求是双周一次的。",
+      "example": "The quality meeting is biweekly.",
+      "exampleZh": "质量会是双周一次。",
       "category": "office"
     },
     {
       "word": "fortnightly",
       "phonetic": "/ˈfɔːtnaɪtli/",
       "meaning": "每两周",
-      "example": "The timeline looks fortnightly.",
-      "exampleZh": "时间看起来每两周。",
+      "example": "We review the roster fortnightly.",
+      "exampleZh": "排班我们每两周看一次。",
       "category": "office"
     },
     {
       "word": "quarterly",
       "phonetic": "/ˈkwɔːtəli/",
       "meaning": "每季度",
-      "example": "Please keep this quarterly.",
-      "exampleZh": "请保持每季度。",
+      "example": "The audit is quarterly.",
+      "exampleZh": "审计是每季度一次。",
       "category": "office"
     },
     {
       "word": "year-end",
       "phonetic": "/jɪə end/",
       "meaning": "年底的",
-      "example": "Stay year-end in the meeting.",
-      "exampleZh": "会上请保持年底的。",
+      "example": "Please freeze year-end changes after Friday.",
+      "exampleZh": "周五后请冻结年底变更。",
       "category": "office"
     },
     {
       "word": "intermediate CA",
       "phonetic": "/ˌɪntəˈmiːdiət siː eɪ/",
       "meaning": "中间证书机构",
-      "example": "Please check the intermediate CA.",
-      "exampleZh": "请检查一下这个中间证书机构。",
+      "example": "Do not touch the intermediate CA during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个中间证书机构。",
       "category": "it"
     },
     {
       "word": "root CA",
       "phonetic": "/ruːt siː eɪ/",
       "meaning": "根证书机构",
-      "example": "The root CA is in production.",
-      "exampleZh": "这个根证书机构已在生产环境。",
+      "example": "Do not touch the root CA during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个根证书机构。",
       "category": "it"
     },
     {
       "word": "CSR",
       "phonetic": "/ˌsiː es ˈɑː/",
-      "meaning": "证书申请",
-      "example": "The CSR is slow this morning.",
-      "exampleZh": "今天早上 CSR 很慢。",
+      "meaning": "证书申请（Certificate Signing Request）",
+      "example": "Record the CSR (Certificate Signing Request) before you close the change.",
+      "exampleZh": "关变更前请记下 CSR（Certificate Signing Request）。",
       "category": "it"
     },
     {
       "word": "SAN name",
       "phonetic": "/sæn neɪm/",
-      "meaning": "证书备用名",
-      "example": "Please check the SAN name.",
-      "exampleZh": "请检查一下这个证书备用名。",
+      "meaning": "证书备用名（Storage Area Network）",
+      "example": "Who is on call for the SAN name this week?",
+      "exampleZh": "这周这个证书备用名谁值班？",
       "category": "it"
     },
     {
       "word": "certificate store",
       "phonetic": "/səˈtɪfɪkət stɔː/",
       "meaning": "证书存储",
-      "example": "Please review the certificate store after the patch.",
-      "exampleZh": "打补丁后请审阅这个证书存储。",
+      "example": "We will verify the certificate store after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个证书存储。",
       "category": "it"
     }
   ]

@@ -13,72 +13,72 @@
       "word": "wet signature",
       "phonetic": "/wet ˈsɪɡnətʃə/",
       "meaning": "手写签名",
-      "example": "Please share the wet signature after the meeting.",
-      "exampleZh": "会后请分享这个手写签名。",
+      "example": "Who will own the wet signature this week?",
+      "exampleZh": "这周这个手写签名谁来负责？",
       "category": "office"
     },
     {
       "word": "e-signature",
       "phonetic": "/iː ˈsɪɡnətʃə/",
       "meaning": "电子签名",
-      "example": "Who is handling the e-signature?",
-      "exampleZh": "谁在处理这个电子签名？",
+      "example": "I put the e-signature on the shared drive.",
+      "exampleZh": "我把电子签名放到了共享盘。",
       "category": "office"
     },
     {
       "word": "initials",
       "phonetic": "/ɪˈnɪʃlz/",
       "meaning": "姓名缩写签",
-      "example": "Please review the initials.",
-      "exampleZh": "请审阅一下这个姓名缩写签。",
+      "example": "Who will own the initials this week?",
+      "exampleZh": "这周这个姓名缩写签谁来负责？",
       "category": "office"
     },
     {
       "word": "date stamp",
       "phonetic": "/deɪt stæmp/",
       "meaning": "日期章",
-      "example": "Please share the date stamp after the meeting.",
-      "exampleZh": "会后请分享这个日期章。",
+      "example": "The date stamp still needs a decision today.",
+      "exampleZh": "这个日期章今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "SFTP",
       "phonetic": "/ˌes ef tiː ˈpiː/",
-      "meaning": "安全文件传输",
-      "example": "The SFTP is slow this morning.",
-      "exampleZh": "今天早上 SFTP 很慢。",
+      "meaning": "安全文件传输（SSH File Transfer Protocol）",
+      "example": "Document SFTP (SSH File Transfer Protocol) in the interface spec.",
+      "exampleZh": "接口说明里请写上 SFTP（SSH File Transfer Protocol）。",
       "category": "it"
     },
     {
       "word": "SMB",
       "phonetic": "/ˌes em ˈbiː/",
-      "meaning": "文件共享协议",
-      "example": "The SMB is slow this morning.",
-      "exampleZh": "今天早上 SMB 很慢。",
+      "meaning": "文件共享协议（Server Message Block）",
+      "example": "Please confirm SMB (Server Message Block) is allowed through the firewall.",
+      "exampleZh": "请确认防火墙放行 SMB（Server Message Block）。",
       "category": "it"
     },
     {
       "word": "NFS",
       "phonetic": "/ˌen ef ˈes/",
-      "meaning": "网络文件系统",
-      "example": "The NFS is slow this morning.",
-      "exampleZh": "今天早上 NFS 很慢。",
+      "meaning": "网络文件系统（Network File System）",
+      "example": "Document NFS (Network File System) in the interface spec.",
+      "exampleZh": "接口说明里请写上 NFS（Network File System）。",
       "category": "it"
     },
     {
       "word": "CIFS",
       "phonetic": "/sɪfs/",
-      "meaning": "通用互联网文件系统",
-      "example": "The CIFS is slow this morning.",
-      "exampleZh": "今天早上 CIFS 很慢。",
+      "meaning": "通用互联网文件系统（Common Internet File System）",
+      "example": "Document CIFS (Common Internet File System) in the interface spec.",
+      "exampleZh": "接口说明里请写上 CIFS（Common Internet File System）。",
       "category": "it"
     },
     {
       "word": "RDP",
       "phonetic": "/ˌɑːr diː ˈpiː/",
-      "meaning": "远程桌面协议",
-      "example": "The RDP is slow this morning.",
-      "exampleZh": "今天早上 RDP 很慢。",
+      "meaning": "远程桌面协议（Remote Desktop Protocol）",
+      "example": "We use RDP (Remote Desktop Protocol) for this integration.",
+      "exampleZh": "这条集成用的是 RDP（Remote Desktop Protocol）。",
       "category": "it"
     }
   ]

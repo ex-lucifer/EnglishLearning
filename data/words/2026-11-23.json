@@ -45,40 +45,40 @@
       "word": "release notes",
       "phonetic": "/rɪˈliːs nəʊts/",
       "meaning": "发布说明",
-      "example": "The release notes is in production.",
-      "exampleZh": "这个发布说明已在生产环境。",
+      "example": "The ward asked us to check the release notes.",
+      "exampleZh": "病区让我们看一下这个发布说明。",
       "category": "it"
     },
     {
       "word": "change window",
       "phonetic": "/tʃeɪndʒ ˈwɪndəʊ/",
       "meaning": "变更窗口",
-      "example": "The change window is in production.",
-      "exampleZh": "这个变更窗口已在生产环境。",
+      "example": "Do not touch the change window during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个变更窗口。",
       "category": "it"
     },
     {
       "word": "maintenance freeze",
       "phonetic": "/ˈmeɪntənəns friːz/",
       "meaning": "维护冻结",
-      "example": "Who supports this maintenance freeze?",
-      "exampleZh": "谁支持这个维护冻结？",
+      "example": "Please test the maintenance freeze on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个维护冻结。",
       "category": "it"
     },
     {
       "word": "incident severity",
       "phonetic": "/ˈɪnsɪdənt səˈverəti/",
       "meaning": "事件级别",
-      "example": "Who supports this incident severity?",
-      "exampleZh": "谁支持这个事件级别？",
+      "example": "Please test the incident severity on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个事件级别。",
       "category": "it"
     },
     {
       "word": "root-cause analysis",
       "phonetic": "/ruːt kɔːz əˈnæləsɪs/",
       "meaning": "根因分析",
-      "example": "The root-cause analysis is in production.",
-      "exampleZh": "这个根因分析已在生产环境。",
+      "example": "I logged the root-cause analysis in today’s change ticket.",
+      "exampleZh": "我把这个根因分析记进了今天的变更单。",
       "category": "it"
     }
   ]

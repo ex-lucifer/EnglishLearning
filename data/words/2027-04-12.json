@@ -5,80 +5,80 @@
       "word": "post-meeting note",
       "phonetic": "/pəʊst ˈmiːtɪŋ nəʊt/",
       "meaning": "会后说明",
-      "example": "Please review the post-meeting note.",
-      "exampleZh": "请审阅一下这个会后说明。",
+      "example": "Could you send the post-meeting note to the project group?",
+      "exampleZh": "你能把会后说明发到项目群吗？",
       "category": "office"
     },
     {
       "word": "action log",
       "phonetic": "/ˈækʃn lɒɡ/",
       "meaning": "行动清单",
-      "example": "Please review the action log.",
-      "exampleZh": "请审阅一下这个行动清单。",
+      "example": "I put the action log on the shared drive.",
+      "exampleZh": "我把行动清单放到了共享盘。",
       "category": "office"
     },
     {
       "word": "risk log",
       "phonetic": "/rɪsk lɒɡ/",
       "meaning": "风险台账",
-      "example": "Who is handling the risk log?",
-      "exampleZh": "谁在处理这个风险台账？",
+      "example": "Who will own the risk log this week?",
+      "exampleZh": "这周这个风险台账谁来负责？",
       "category": "office"
     },
     {
       "word": "issue log",
       "phonetic": "/ˈɪʃuː lɒɡ/",
       "meaning": "问题台账",
-      "example": "Please review the issue log.",
-      "exampleZh": "请审阅一下这个问题台账。",
+      "example": "Please bring the issue log to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个问题台账。",
       "category": "office"
     },
     {
       "word": "decision register",
       "phonetic": "/dɪˈsɪʒn ˈredʒɪstə/",
       "meaning": "决策台账",
-      "example": "Please share the decision register after the meeting.",
-      "exampleZh": "会后请分享这个决策台账。",
+      "example": "Who will own the decision register this week?",
+      "exampleZh": "这周这个决策台账谁来负责？",
       "category": "office"
     },
     {
       "word": "time drift",
       "phonetic": "/taɪm drɪft/",
       "meaning": "时间漂移",
-      "example": "Please check the time drift.",
-      "exampleZh": "请检查一下这个时间漂移。",
+      "example": "The vendor asked for a screenshot of the time drift.",
+      "exampleZh": "厂商要一张这个时间漂移的截图。",
       "category": "it"
     },
     {
       "word": "clock skew",
       "phonetic": "/klɒk skjuː/",
       "meaning": "时钟偏差",
-      "example": "Please check the clock skew.",
-      "exampleZh": "请检查一下这个时钟偏差。",
+      "example": "The vendor asked for a screenshot of the clock skew.",
+      "exampleZh": "厂商要一张这个时钟偏差的截图。",
       "category": "it"
     },
     {
       "word": "Kerberos",
       "phonetic": "/ˈkɜːbərəs/",
       "meaning": "票据认证",
-      "example": "The Kerberos is in production.",
-      "exampleZh": "这个票据认证已在生产环境。",
+      "example": "We will verify the Kerberos after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个票据认证。",
       "category": "it"
     },
     {
       "word": "NTLM",
       "phonetic": "/ˌen tiː el ˈem/",
-      "meaning": "Windows认证",
-      "example": "The NTLM is slow this morning.",
-      "exampleZh": "今天早上 NTLM 很慢。",
+      "meaning": "Windows认证（NT LAN Manager）",
+      "example": "Document NTLM (NT LAN Manager) in the interface spec.",
+      "exampleZh": "接口说明里请写上 NTLM（NT LAN Manager）。",
       "category": "it"
     },
     {
       "word": "token cache",
       "phonetic": "/ˈtəʊkən kæʃ/",
       "meaning": "令牌缓存",
-      "example": "The token cache is in production.",
-      "exampleZh": "这个令牌缓存已在生产环境。",
+      "example": "Please test the token cache on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个令牌缓存。",
       "category": "it"
     }
   ]

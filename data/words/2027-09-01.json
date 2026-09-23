@@ -5,80 +5,80 @@
       "word": "urgent request",
       "phonetic": "/ˈɜːdʒənt rɪˈkwest/",
       "meaning": "紧急请求",
-      "example": "The urgent request is ready for review.",
-      "exampleZh": "这个紧急请求已经可以审阅了。",
+      "example": "Please bring the urgent request to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个紧急请求。",
       "category": "office"
     },
     {
       "word": "standing request",
       "phonetic": "/ˈstændɪŋ rɪˈkwest/",
       "meaning": "长期固定请求",
-      "example": "I updated the standing request this morning.",
-      "exampleZh": "我今天早上更新了这个长期固定请求。",
+      "example": "Could you send the standing request to the project group?",
+      "exampleZh": "你能把长期固定请求发到项目群吗？",
       "category": "office"
     },
     {
       "word": "one-off request",
       "phonetic": "/wʌn ɒf rɪˈkwest/",
       "meaning": "一次性请求",
-      "example": "I updated the one-off request this morning.",
-      "exampleZh": "我今天早上更新了这个一次性请求。",
+      "example": "Please add the one-off request to today’s notes.",
+      "exampleZh": "请把一次性请求写进今天的记录。",
       "category": "office"
     },
     {
       "word": "repeat request",
       "phonetic": "/rɪˈpiːt rɪˈkwest/",
       "meaning": "重复请求",
-      "example": "The repeat request is ready for review.",
-      "exampleZh": "这个重复请求已经可以审阅了。",
+      "example": "Who will own the repeat request this week?",
+      "exampleZh": "这周这个重复请求谁来负责？",
       "category": "office"
     },
     {
       "word": "duplicate request",
       "phonetic": "/ˈdjuːplɪkət rɪˈkwest/",
       "meaning": "重复提交的请求",
-      "example": "Who is handling the duplicate request?",
-      "exampleZh": "谁在处理这个重复提交的请求？",
+      "example": "Please bring the duplicate request to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个重复提交的请求。",
       "category": "office"
     },
     {
       "word": "open relay",
       "phonetic": "/ˈəʊpən ˈriːleɪ/",
       "meaning": "开放中继",
-      "example": "We need the open relay before go-live.",
-      "exampleZh": "上线前我们需要这个开放中继。",
+      "example": "The vendor asked for a screenshot of the open relay.",
+      "exampleZh": "厂商要一张这个开放中继的截图。",
       "category": "it"
     },
     {
       "word": "spam score",
       "phonetic": "/spæm skɔː/",
       "meaning": "垃圾评分",
-      "example": "We need the spam score before go-live.",
-      "exampleZh": "上线前我们需要这个垃圾评分。",
+      "example": "The vendor asked for a screenshot of the spam score.",
+      "exampleZh": "厂商要一张这个垃圾评分的截图。",
       "category": "it"
     },
     {
       "word": "quarantine mailbox",
       "phonetic": "/ˈkwɒrəntiːn ˈmeɪlbɒks/",
       "meaning": "隔离邮箱",
-      "example": "Who supports this quarantine mailbox?",
-      "exampleZh": "谁支持这个隔离邮箱？",
+      "example": "The ward asked us to check the quarantine mailbox.",
+      "exampleZh": "病区让我们看一下这个隔离邮箱。",
       "category": "it"
     },
     {
       "word": "NDR",
       "phonetic": "/ˌen diː ˈɑː/",
-      "meaning": "未送达报告",
-      "example": "The NDR is slow this morning.",
-      "exampleZh": "今天早上 NDR 很慢。",
+      "meaning": "未送达报告（Non-Delivery Report）",
+      "example": "Please file the NDR (Non-Delivery Report) before you close the ticket.",
+      "exampleZh": "关单前请把 NDR（Non-Delivery Report）归档。",
       "category": "it"
     },
     {
       "word": "DSN",
       "phonetic": "/ˌdiː es ˈen/",
-      "meaning": "投递状态通知",
-      "example": "The DSN is slow this morning.",
-      "exampleZh": "今天早上 DSN 很慢。",
+      "meaning": "投递状态通知（Delivery Status Notification）",
+      "example": "Check the DSN (Delivery Status Notification) with the duty nurse.",
+      "exampleZh": "请和值班护士核对 DSN（Delivery Status Notification）。",
       "category": "it"
     }
   ]

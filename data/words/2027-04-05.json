@@ -5,80 +5,80 @@
       "word": "tone",
       "phonetic": "/təʊn/",
       "meaning": "语气",
-      "example": "Who is handling the tone?",
-      "exampleZh": "谁在处理这个语气？",
+      "example": "We talked about the tone with the department head.",
+      "exampleZh": "我们和科主任谈了这个语气。",
       "category": "office"
     },
     {
       "word": "wording",
       "phonetic": "/ˈwɜːdɪŋ/",
       "meaning": "措辞",
-      "example": "The wording is ready for review.",
-      "exampleZh": "这个措辞已经可以审阅了。",
+      "example": "We talked about the wording with the department head.",
+      "exampleZh": "我们和科主任谈了这个措辞。",
       "category": "office"
     },
     {
       "word": "bullet point",
       "phonetic": "/ˈbʊlɪt pɔɪnt/",
       "meaning": "条目要点",
-      "example": "Please share the bullet point after the meeting.",
-      "exampleZh": "会后请分享这个条目要点。",
+      "example": "Please add the bullet point to today’s notes.",
+      "exampleZh": "请把条目要点写进今天的记录。",
       "category": "office"
     },
     {
       "word": "call to action",
       "phonetic": "/kɔːl tu ˈækʃn/",
       "meaning": "行动号召",
-      "example": "The call to action is ready for review.",
-      "exampleZh": "这个行动号召已经可以审阅了。",
+      "example": "Could you send the call to action to the project group?",
+      "exampleZh": "你能把行动号召发到项目群吗？",
       "category": "office"
     },
     {
       "word": "executive summary",
       "phonetic": "/ɪɡˈzekjətɪv ˈsʌməri/",
       "meaning": "高管摘要",
-      "example": "Who is handling the executive summary?",
-      "exampleZh": "谁在处理这个高管摘要？",
+      "example": "Please add the executive summary to today’s notes.",
+      "exampleZh": "请把高管摘要写进今天的记录。",
       "category": "office"
     },
     {
       "word": "default route",
       "phonetic": "/dɪˈfɔːlt ruːt/",
       "meaning": "默认路由",
-      "example": "Please check the default route.",
-      "exampleZh": "请检查一下这个默认路由。",
+      "example": "Do not touch the default route during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个默认路由。",
       "category": "it"
     },
     {
       "word": "routing table",
       "phonetic": "/ˈruːtɪŋ ˈteɪbl/",
       "meaning": "路由表",
-      "example": "Please check the routing table.",
-      "exampleZh": "请检查一下这个路由表。",
+      "example": "The vendor asked for a screenshot of the routing table.",
+      "exampleZh": "厂商要一张这个路由表的截图。",
       "category": "it"
     },
     {
       "word": "ARP",
       "phonetic": "/ɑːp/",
-      "meaning": "地址解析协议",
-      "example": "The ARP is slow this morning.",
-      "exampleZh": "今天早上 ARP 很慢。",
+      "meaning": "地址解析协议（Address Resolution Protocol）",
+      "example": "Document ARP (Address Resolution Protocol) in the interface spec.",
+      "exampleZh": "接口说明里请写上 ARP（Address Resolution Protocol）。",
       "category": "it"
     },
     {
       "word": "ICMP",
       "phonetic": "/ˌaɪ siː em ˈpiː/",
-      "meaning": "网络控制消息",
-      "example": "The ICMP is slow this morning.",
-      "exampleZh": "今天早上 ICMP 很慢。",
+      "meaning": "网络控制消息（Internet Control Message Protocol）",
+      "example": "Enable ICMP (Internet Control Message Protocol) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 ICMP（Internet Control Message Protocol）。",
       "category": "it"
     },
     {
       "word": "TCP",
       "phonetic": "/ˌtiː siː ˈpiː/",
-      "meaning": "传输控制协议",
-      "example": "The TCP is slow this morning.",
-      "exampleZh": "今天早上 TCP 很慢。",
+      "meaning": "传输控制协议（Transmission Control Protocol）",
+      "example": "Enable TCP (Transmission Control Protocol) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 TCP（Transmission Control Protocol）。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "bereavement leave",
       "phonetic": "/bɪˈriːvmənt liːv/",
       "meaning": "丧假",
-      "example": "I updated the bereavement leave this morning.",
-      "exampleZh": "我今天早上更新了这个丧假。",
+      "example": "Please bring the bereavement leave to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个丧假。",
       "category": "office"
     },
     {
       "word": "maternity leave",
       "phonetic": "/məˈtɜːnəti liːv/",
       "meaning": "产假",
-      "example": "Who is handling the maternity leave?",
-      "exampleZh": "谁在处理这个产假？",
+      "example": "Could you send the maternity leave to the project group?",
+      "exampleZh": "你能把产假发到项目群吗？",
       "category": "office"
     },
     {
       "word": "paternity leave",
       "phonetic": "/pəˈtɜːnəti liːv/",
       "meaning": "陪产假",
-      "example": "Please share the paternity leave after the meeting.",
-      "exampleZh": "会后请分享这个陪产假。",
+      "example": "We talked about the paternity leave with the department head.",
+      "exampleZh": "我们和科主任谈了这个陪产假。",
       "category": "office"
     },
     {
       "word": "parental leave",
       "phonetic": "/pəˈrentl liːv/",
       "meaning": "育儿假",
-      "example": "I updated the parental leave this morning.",
-      "exampleZh": "我今天早上更新了这个育儿假。",
+      "example": "Please add the parental leave to today’s notes.",
+      "exampleZh": "请把育儿假写进今天的记录。",
       "category": "office"
     },
     {
       "word": "unpaid leave",
       "phonetic": "/ˌʌnˈpeɪd liːv/",
       "meaning": "无薪假",
-      "example": "Please share the unpaid leave after the meeting.",
-      "exampleZh": "会后请分享这个无薪假。",
+      "example": "Please add the unpaid leave to today’s notes.",
+      "exampleZh": "请把无薪假写进今天的记录。",
       "category": "office"
     },
     {
       "word": "pre-boot",
       "phonetic": "/priː buːt/",
       "meaning": "开机前验证",
-      "example": "The pre-boot is in production.",
-      "exampleZh": "这个开机前验证已在生产环境。",
+      "example": "Please test the pre-boot on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个开机前验证。",
       "category": "it"
     },
     {
       "word": "BitLocker PIN",
       "phonetic": "/ˈbɪtlɒkə pɪn/",
       "meaning": "磁盘开机密码",
-      "example": "Please review the BitLocker PIN after the patch.",
-      "exampleZh": "打补丁后请审阅这个磁盘开机密码。",
+      "example": "I logged the BitLocker PIN in today’s change ticket.",
+      "exampleZh": "我把这个磁盘开机密码记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "startup key",
       "phonetic": "/ˈstɑːtʌp kiː/",
       "meaning": "启动密钥",
-      "example": "Please review the startup key after the patch.",
-      "exampleZh": "打补丁后请审阅这个启动密钥。",
+      "example": "The ward asked us to check the startup key.",
+      "exampleZh": "病区让我们看一下这个启动密钥。",
       "category": "it"
     },
     {
       "word": "USB key",
       "phonetic": "/ˌjuː es ˈbiː kiː/",
       "meaning": "U盘密钥",
-      "example": "The USB key is in production.",
-      "exampleZh": "这个U盘密钥已在生产环境。",
+      "example": "The vendor asked for a screenshot of the USB key.",
+      "exampleZh": "厂商要一张这个U盘密钥的截图。",
       "category": "it"
     },
     {
       "word": "network unlock",
       "phonetic": "/ˈnetwɜːk ʌnˈlɒk/",
       "meaning": "网络解锁",
-      "example": "The network unlock is in production.",
-      "exampleZh": "这个网络解锁已在生产环境。",
+      "example": "Do not touch the network unlock during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个网络解锁。",
       "category": "it"
     }
   ]

@@ -45,40 +45,40 @@
       "word": "east-west traffic",
       "phonetic": "/iːst west ˈtræfɪk/",
       "meaning": "东西向流量",
-      "example": "Please review the east-west traffic after the patch.",
-      "exampleZh": "打补丁后请审阅这个东西向流量。",
+      "example": "Who is on call for the east-west traffic this week?",
+      "exampleZh": "这周这个东西向流量谁值班？",
       "category": "it"
     },
     {
       "word": "north-south traffic",
       "phonetic": "/nɔːθ saʊθ ˈtræfɪk/",
       "meaning": "南北向流量",
-      "example": "The north-south traffic is in production.",
-      "exampleZh": "这个南北向流量已在生产环境。",
+      "example": "I logged the north-south traffic in today’s change ticket.",
+      "exampleZh": "我把这个南北向流量记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "hairpin",
       "phonetic": "/ˈheəpɪn/",
       "meaning": "回流转发",
-      "example": "Please check the hairpin.",
-      "exampleZh": "请检查一下这个回流转发。",
+      "example": "The vendor asked for a screenshot of the hairpin.",
+      "exampleZh": "厂商要一张这个回流转发的截图。",
       "category": "it"
     },
     {
       "word": "anycast",
       "phonetic": "/ˈenikɑːst/",
       "meaning": "任播",
-      "example": "Please check the anycast.",
-      "exampleZh": "请检查一下这个任播。",
+      "example": "Do not touch the anycast during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个任播。",
       "category": "it"
     },
     {
       "word": "unicast",
       "phonetic": "/ˈjuːnɪkɑːst/",
       "meaning": "单播",
-      "example": "Please check the unicast.",
-      "exampleZh": "请检查一下这个单播。",
+      "example": "I logged the unicast in today’s change ticket.",
+      "exampleZh": "我把这个单播记进了今天的变更单。",
       "category": "it"
     }
   ]

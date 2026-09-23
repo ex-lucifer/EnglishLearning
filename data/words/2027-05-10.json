@@ -29,56 +29,56 @@
       "word": "end of day",
       "phonetic": "/end əv deɪ/",
       "meaning": "当天结束前",
-      "example": "Who is handling the end of day?",
-      "exampleZh": "谁在处理这个当天结束前？",
+      "example": "We talked about the end of day with the department head.",
+      "exampleZh": "我们和科主任谈了这个当天结束前。",
       "category": "office"
     },
     {
       "word": "start of day",
       "phonetic": "/stɑːt əv deɪ/",
       "meaning": "当天开始时",
-      "example": "Who is handling the start of day?",
-      "exampleZh": "谁在处理这个当天开始时？",
+      "example": "Please add the start of day to today’s notes.",
+      "exampleZh": "请把当天开始时写进今天的记录。",
       "category": "office"
     },
     {
       "word": "control plane",
       "phonetic": "/kənˈtrəʊl pleɪn/",
       "meaning": "控制平面",
-      "example": "Who supports this control plane?",
-      "exampleZh": "谁支持这个控制平面？",
+      "example": "We will verify the control plane after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个控制平面。",
       "category": "it"
     },
     {
       "word": "worker node",
       "phonetic": "/ˈwɜːkə nəʊd/",
       "meaning": "工作节点",
-      "example": "Please review the worker node after the patch.",
-      "exampleZh": "打补丁后请审阅这个工作节点。",
+      "example": "Please test the worker node on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个工作节点。",
       "category": "it"
     },
     {
       "word": "etcd",
       "phonetic": "/ˈetsidiː/",
       "meaning": "集群键值库",
-      "example": "We need the etcd before go-live.",
-      "exampleZh": "上线前我们需要这个集群键值库。",
+      "example": "We will verify the etcd after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个集群键值库。",
       "category": "it"
     },
     {
       "word": "scheduler",
       "phonetic": "/ˈʃedjuːlə/",
       "meaning": "调度器",
-      "example": "The scheduler is in production.",
-      "exampleZh": "这个调度器已在生产环境。",
+      "example": "We will verify the scheduler after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个调度器。",
       "category": "it"
     },
     {
       "word": "kubelet",
       "phonetic": "/ˈkjuːbəlet/",
       "meaning": "节点代理",
-      "example": "We need the kubelet before go-live.",
-      "exampleZh": "上线前我们需要这个节点代理。",
+      "example": "The vendor asked for a screenshot of the kubelet.",
+      "exampleZh": "厂商要一张这个节点代理的截图。",
       "category": "it"
     }
   ]

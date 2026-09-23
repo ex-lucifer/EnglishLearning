@@ -5,80 +5,80 @@
       "word": "guideline",
       "phonetic": "/ˈɡaɪdlaɪn/",
       "meaning": "指引",
-      "example": "Please review the guideline.",
-      "exampleZh": "请审阅一下这个指引。",
+      "example": "Could you send the guideline to the project group?",
+      "exampleZh": "你能把指引发到项目群吗？",
       "category": "office"
     },
     {
       "word": "procedure",
       "phonetic": "/prəˈsiːdʒə/",
       "meaning": "流程步骤",
-      "example": "Please review the procedure.",
-      "exampleZh": "请审阅一下这个流程步骤。",
+      "example": "Please bring the procedure to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个流程步骤。",
       "category": "office"
     },
     {
       "word": "workflow",
       "phonetic": "/ˈwɜːkfləʊ/",
       "meaning": "工作流程",
-      "example": "Please review the workflow.",
-      "exampleZh": "请审阅一下这个工作流程。",
+      "example": "We talked about the workflow with the department head.",
+      "exampleZh": "我们和科主任谈了这个工作流程。",
       "category": "office"
     },
     {
       "word": "compliance",
       "phonetic": "/kəmˈplaɪəns/",
       "meaning": "合规",
-      "example": "Who is handling the compliance?",
-      "exampleZh": "谁在处理这个合规？",
+      "example": "Who will own the compliance this week?",
+      "exampleZh": "这周这个合规谁来负责？",
       "category": "office"
     },
     {
       "word": "audit",
       "phonetic": "/ˈɔːdɪt/",
       "meaning": "审计",
-      "example": "Please review the audit.",
-      "exampleZh": "请审阅一下这个审计。",
+      "example": "Please add the audit to today’s notes.",
+      "exampleZh": "请把审计写进今天的记录。",
       "category": "office"
     },
     {
       "word": "nurse-station PC",
       "phonetic": "/nɜːs ˈsteɪʃn piː siː/",
       "meaning": "护士站电脑",
-      "example": "Please check the nurse-station PC.",
-      "exampleZh": "请检查一下这个护士站电脑。",
+      "example": "The ward asked us to check the nurse-station PC.",
+      "exampleZh": "病区让我们看一下这个护士站电脑。",
       "category": "it"
     },
     {
       "word": "OR workstation",
       "phonetic": "/əʊ ɑː ˈwɜːksteɪʃn/",
       "meaning": "手术室工作站",
-      "example": "Please check the OR workstation.",
-      "exampleZh": "请检查一下这个手术室工作站。",
+      "example": "I logged the OR workstation in today’s change ticket.",
+      "exampleZh": "我把这个手术室工作站记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "radiology workstation",
       "phonetic": "/ˌreɪdiˈɒlədʒi ˈwɜːksteɪʃn/",
       "meaning": "放射工作站",
-      "example": "We need the radiology workstation before go-live.",
-      "exampleZh": "上线前我们需要这个放射工作站。",
+      "example": "The ward asked us to check the radiology workstation.",
+      "exampleZh": "病区让我们看一下这个放射工作站。",
       "category": "it"
     },
     {
       "word": "PACS viewer",
       "phonetic": "/pæks ˈvjuːə/",
-      "meaning": "影像浏览器",
-      "example": "Who supports this PACS viewer?",
-      "exampleZh": "谁支持这个影像浏览器？",
+      "meaning": "影像浏览器（Picture Archiving and Communication System）",
+      "example": "I logged the PACS viewer in today’s change ticket.",
+      "exampleZh": "我把这个影像浏览器记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "dictation",
       "phonetic": "/dɪkˈteɪʃn/",
       "meaning": "语音口述",
-      "example": "Who supports this dictation?",
-      "exampleZh": "谁支持这个语音口述？",
+      "example": "I logged the dictation in today’s change ticket.",
+      "exampleZh": "我把这个语音口述记进了今天的变更单。",
       "category": "it"
     }
   ]

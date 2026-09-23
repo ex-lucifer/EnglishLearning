@@ -45,40 +45,40 @@
       "word": "multicast",
       "phonetic": "/ˈmʌltikɑːst/",
       "meaning": "组播",
-      "example": "Please check the multicast.",
-      "exampleZh": "请检查一下这个组播。",
+      "example": "We will verify the multicast after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个组播。",
       "category": "it"
     },
     {
       "word": "broadcast",
       "phonetic": "/ˈbrɔːdkɑːst/",
       "meaning": "广播",
-      "example": "Who supports this broadcast?",
-      "exampleZh": "谁支持这个广播？",
+      "example": "Do not touch the broadcast during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个广播。",
       "category": "it"
     },
     {
       "word": "IGMP",
       "phonetic": "/ˌaɪ dʒiː em ˈpiː/",
-      "meaning": "组播管理协议",
-      "example": "The IGMP is slow this morning.",
-      "exampleZh": "今天早上 IGMP 很慢。",
+      "meaning": "组播管理协议（Internet Group Management Protocol）",
+      "example": "Enable IGMP (Internet Group Management Protocol) on the test link first.",
+      "exampleZh": "请先在测试链路上启用 IGMP（Internet Group Management Protocol）。",
       "category": "it"
     },
     {
       "word": "protocol independent multicast",
       "phonetic": "/ˈprəʊtəkɒl ˌɪndɪˈpendənt ˈmʌltikɑːst/",
       "meaning": "协议无关组播",
-      "example": "Please check the protocol independent multicast.",
-      "exampleZh": "请检查一下这个协议无关组播。",
+      "example": "I logged the protocol independent multicast in today’s change ticket.",
+      "exampleZh": "我把这个协议无关组播记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "mDNS",
       "phonetic": "/ˌem diː en ˈes/",
-      "meaning": "组播域名",
-      "example": "The mDNS is slow this morning.",
-      "exampleZh": "今天早上 mDNS 很慢。",
+      "meaning": "组播域名（Multicast DNS）",
+      "example": "Please confirm mDNS (Multicast DNS) is allowed through the firewall.",
+      "exampleZh": "请确认防火墙放行 mDNS（Multicast DNS）。",
       "category": "it"
     }
   ]

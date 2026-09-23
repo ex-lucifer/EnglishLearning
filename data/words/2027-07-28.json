@@ -5,80 +5,80 @@
       "word": "display board",
       "phonetic": "/dɪˈspleɪ bɔːd/",
       "meaning": "显示屏",
-      "example": "The display board is ready for review.",
-      "exampleZh": "这个显示屏已经可以审阅了。",
+      "example": "The display board still needs a decision today.",
+      "exampleZh": "这个显示屏今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "wayfinding",
       "phonetic": "/ˈweɪfaɪndɪŋ/",
       "meaning": "导引标识",
-      "example": "Please review the wayfinding.",
-      "exampleZh": "请审阅一下这个导引标识。",
+      "example": "The wayfinding still needs a decision today.",
+      "exampleZh": "这个导引标识今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "directory board",
       "phonetic": "/dəˈrektəri bɔːd/",
       "meaning": "楼层索引",
-      "example": "Please share the directory board after the meeting.",
-      "exampleZh": "会后请分享这个楼层索引。",
+      "example": "I put the directory board on the shared drive.",
+      "exampleZh": "我把楼层索引放到了共享盘。",
       "category": "office"
     },
     {
       "word": "floor plan",
       "phonetic": "/flɔː plæn/",
       "meaning": "平面图",
-      "example": "The floor plan is ready for review.",
-      "exampleZh": "这个平面图已经可以审阅了。",
+      "example": "Could you send the floor plan to the project group?",
+      "exampleZh": "你能把平面图发到项目群吗？",
       "category": "office"
     },
     {
       "word": "room number",
       "phonetic": "/ruːm ˈnʌmbə/",
       "meaning": "房间号",
-      "example": "Please review the room number.",
-      "exampleZh": "请审阅一下这个房间号。",
+      "example": "Who will own the room number this week?",
+      "exampleZh": "这周这个房间号谁来负责？",
       "category": "office"
     },
     {
       "word": "snapshot chain",
       "phonetic": "/ˈsnæpʃɒt tʃeɪn/",
       "meaning": "快照链",
-      "example": "We need the snapshot chain before go-live.",
-      "exampleZh": "上线前我们需要这个快照链。",
+      "example": "Please test the snapshot chain on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个快照链。",
       "category": "it"
     },
     {
       "word": "delta disk",
       "phonetic": "/ˈdeltə dɪsk/",
       "meaning": "增量盘",
-      "example": "Who supports this delta disk?",
-      "exampleZh": "谁支持这个增量盘？",
+      "example": "I logged the delta disk in today’s change ticket.",
+      "exampleZh": "我把这个增量盘记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "linked clone",
       "phonetic": "/lɪŋkt kləʊn/",
       "meaning": "链接克隆",
-      "example": "We need the linked clone before go-live.",
-      "exampleZh": "上线前我们需要这个链接克隆。",
+      "example": "The vendor asked for a screenshot of the linked clone.",
+      "exampleZh": "厂商要一张这个链接克隆的截图。",
       "category": "it"
     },
     {
       "word": "full clone",
       "phonetic": "/fʊl kləʊn/",
       "meaning": "完整克隆",
-      "example": "We need the full clone before go-live.",
-      "exampleZh": "上线前我们需要这个完整克隆。",
+      "example": "Please test the full clone on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个完整克隆。",
       "category": "it"
     },
     {
       "word": "template VM",
       "phonetic": "/ˈtemplɪt ˌviː ˈem/",
       "meaning": "虚拟机模板",
-      "example": "The template VM is in production.",
-      "exampleZh": "这个虚拟机模板已在生产环境。",
+      "example": "I logged the template VM in today’s change ticket.",
+      "exampleZh": "我把这个虚拟机模板记进了今天的变更单。",
       "category": "it"
     }
   ]

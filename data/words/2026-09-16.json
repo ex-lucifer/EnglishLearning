@@ -5,80 +5,80 @@
       "word": "attendee",
       "phonetic": "/əˌtenˈdiː/",
       "meaning": "参会人",
-      "example": "I updated the attendee this morning.",
-      "exampleZh": "我今天早上更新了这个参会人。",
+      "example": "Please add the attendee to today’s notes.",
+      "exampleZh": "请把参会人写进今天的记录。",
       "category": "office"
     },
     {
       "word": "quorum",
       "phonetic": "/ˈkwɔːrəm/",
       "meaning": "法定人数",
-      "example": "I updated the quorum this morning.",
-      "exampleZh": "我今天早上更新了这个法定人数。",
+      "example": "I put the quorum on the shared drive.",
+      "exampleZh": "我把法定人数放到了共享盘。",
       "category": "office"
     },
     {
       "word": "adjourn",
       "phonetic": "/əˈdʒɜːn/",
       "meaning": "休会",
-      "example": "Please adjourn this before noon.",
-      "exampleZh": "请在中午前休会这个。",
+      "example": "The chair adjourned the meeting at 10:30.",
+      "exampleZh": "主持人十点半宣布休会。",
       "category": "office"
     },
     {
       "word": "chairperson",
       "phonetic": "/ˈtʃeəpɜːsn/",
       "meaning": "主持人",
-      "example": "I updated the chairperson this morning.",
-      "exampleZh": "我今天早上更新了这个主持人。",
+      "example": "Please bring the chairperson to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个主持人。",
       "category": "office"
     },
     {
       "word": "facilitator",
       "phonetic": "/fəˈsɪlɪteɪtə/",
       "meaning": "引导人",
-      "example": "I updated the facilitator this morning.",
-      "exampleZh": "我今天早上更新了这个引导人。",
+      "example": "We talked about the facilitator with the department head.",
+      "exampleZh": "我们和科主任谈了这个引导人。",
       "category": "office"
     },
     {
       "word": "PACS",
       "phonetic": "/pæks/",
-      "meaning": "医学影像系统",
-      "example": "The PACS is slow this morning.",
-      "exampleZh": "今天早上 PACS 很慢。",
+      "meaning": "医学影像系统（Picture Archiving and Communication System）",
+      "example": "PACS stands for Picture Archiving and Communication System. Check it before the clinic opens.",
+      "exampleZh": "PACS 的全称是 Picture Archiving and Communication System。开诊前请先检查。",
       "category": "it"
     },
     {
       "word": "LIS",
       "phonetic": "/ˌel aɪ ˈes/",
-      "meaning": "检验信息系统",
-      "example": "The LIS is slow this morning.",
-      "exampleZh": "今天早上 LIS 很慢。",
+      "meaning": "检验信息系统（Laboratory Information System）",
+      "example": "Please write LIS in full — Laboratory Information System — on the change form.",
+      "exampleZh": "变更单上请写全称：LIS（Laboratory Information System）。",
       "category": "it"
     },
     {
       "word": "RIS",
       "phonetic": "/ˌɑːr aɪ ˈes/",
-      "meaning": "放射信息系统",
-      "example": "The RIS is slow this morning.",
-      "exampleZh": "今天早上 RIS 很慢。",
+      "meaning": "放射信息系统（Radiology Information System）",
+      "example": "Please write RIS in full — Radiology Information System — on the change form.",
+      "exampleZh": "变更单上请写全称：RIS（Radiology Information System）。",
       "category": "it"
     },
     {
       "word": "CIS",
       "phonetic": "/ˌsiː aɪ ˈes/",
-      "meaning": "临床信息系统",
-      "example": "The CIS is slow this morning.",
-      "exampleZh": "今天早上 CIS 很慢。",
+      "meaning": "临床信息系统（Clinical Information System）",
+      "example": "The ward called because CIS (Clinical Information System) would not open.",
+      "exampleZh": "病区来电，说 CIS（Clinical Information System）打不开。",
       "category": "it"
     },
     {
       "word": "NIS",
       "phonetic": "/ˌen aɪ ˈes/",
-      "meaning": "护理信息系统",
-      "example": "The NIS is slow this morning.",
-      "exampleZh": "今天早上 NIS 很慢。",
+      "meaning": "护理信息系统（Nursing Information System）",
+      "example": "Please write NIS in full — Nursing Information System — on the change form.",
+      "exampleZh": "变更单上请写全称：NIS（Nursing Information System）。",
       "category": "it"
     }
   ]

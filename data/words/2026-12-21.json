@@ -5,80 +5,80 @@
       "word": "comment",
       "phonetic": "/ˈkɒment/",
       "meaning": "批注",
-      "example": "Please share the comment after the meeting.",
-      "exampleZh": "会后请分享这个批注。",
+      "example": "Please add the comment to today’s notes.",
+      "exampleZh": "请把批注写进今天的记录。",
       "category": "office"
     },
     {
       "word": "footnote",
       "phonetic": "/ˈfʊtnəʊt/",
       "meaning": "脚注",
-      "example": "I updated the footnote this morning.",
-      "exampleZh": "我今天早上更新了这个脚注。",
+      "example": "Please add the footnote to today’s notes.",
+      "exampleZh": "请把脚注写进今天的记录。",
       "category": "office"
     },
     {
       "word": "header",
       "phonetic": "/ˈhedə/",
       "meaning": "页眉",
-      "example": "The header is ready for review.",
-      "exampleZh": "这个页眉已经可以审阅了。",
+      "example": "I put the header on the shared drive.",
+      "exampleZh": "我把页眉放到了共享盘。",
       "category": "office"
     },
     {
       "word": "footer",
       "phonetic": "/ˈfʊtə/",
       "meaning": "页脚",
-      "example": "Please review the footer.",
-      "exampleZh": "请审阅一下这个页脚。",
+      "example": "We talked about the footer with the department head.",
+      "exampleZh": "我们和科主任谈了这个页脚。",
       "category": "office"
     },
     {
       "word": "page number",
       "phonetic": "/peɪdʒ ˈnʌmbə/",
       "meaning": "页码",
-      "example": "I updated the page number this morning.",
-      "exampleZh": "我今天早上更新了这个页码。",
+      "example": "I put the page number on the shared drive.",
+      "exampleZh": "我把页码放到了共享盘。",
       "category": "office"
     },
     {
       "word": "rebase",
       "phonetic": "/ˈriːbeɪs/",
       "meaning": "变基",
-      "example": "Can you rebase it today?",
-      "exampleZh": "你今天能变基一下吗？",
+      "example": "Rebase the patch branch onto last night’s build.",
+      "exampleZh": "请把补丁分支变基到昨晚的构建上。",
       "category": "it"
     },
     {
       "word": "checkout",
       "phonetic": "/ˈtʃekaʊt/",
       "meaning": "检出代码",
-      "example": "I will checkout it after the meeting.",
-      "exampleZh": "会后我会检出代码它。",
+      "example": "Checkout the rollback tag before you start.",
+      "exampleZh": "开始前先检出回滚标签。",
       "category": "it"
     },
     {
       "word": "clone",
       "phonetic": "/kləʊn/",
       "meaning": "克隆仓库",
-      "example": "Let's clone this first.",
-      "exampleZh": "我们先克隆仓库这个吧。",
+      "example": "Clone the playbook repo onto the jump host.",
+      "exampleZh": "请把剧本仓库克隆到跳板机上。",
       "category": "it"
     },
     {
       "word": "fork",
       "phonetic": "/fɔːk/",
       "meaning": "派生仓库",
-      "example": "Please review the fork after the patch.",
-      "exampleZh": "打补丁后请审阅这个派生仓库。",
+      "example": "Who is on call for the fork this week?",
+      "exampleZh": "这周这个派生仓库谁值班？",
       "category": "it"
     },
     {
       "word": "pipeline",
       "phonetic": "/ˈpaɪplaɪn/",
       "meaning": "流水线",
-      "example": "Please check the pipeline.",
-      "exampleZh": "请检查一下这个流水线。",
+      "example": "The vendor asked for a screenshot of the pipeline.",
+      "exampleZh": "厂商要一张这个流水线的截图。",
       "category": "it"
     }
   ]

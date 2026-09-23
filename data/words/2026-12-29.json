@@ -5,80 +5,80 @@
       "word": "reception",
       "phonetic": "/rɪˈsepʃn/",
       "meaning": "接待",
-      "example": "Who is handling the reception?",
-      "exampleZh": "谁在处理这个接待？",
+      "example": "Could you send the reception to the project group?",
+      "exampleZh": "你能把接待发到项目群吗？",
       "category": "office"
     },
     {
       "word": "waiting list",
       "phonetic": "/ˈweɪtɪŋ lɪst/",
       "meaning": "等候名单",
-      "example": "Please share the waiting list after the meeting.",
-      "exampleZh": "会后请分享这个等候名单。",
+      "example": "I put the waiting list on the shared drive.",
+      "exampleZh": "我把等候名单放到了共享盘。",
       "category": "office"
     },
     {
       "word": "queue",
       "phonetic": "/kjuː/",
       "meaning": "排队",
-      "example": "Please share the queue after the meeting.",
-      "exampleZh": "会后请分享这个排队。",
+      "example": "We talked about the queue with the department head.",
+      "exampleZh": "我们和科主任谈了这个排队。",
       "category": "office"
     },
     {
       "word": "census",
       "phonetic": "/ˈsensəs/",
       "meaning": "在院人数",
-      "example": "The census is ready for review.",
-      "exampleZh": "这个在院人数已经可以审阅了。",
+      "example": "We talked about the census with the department head.",
+      "exampleZh": "我们和科主任谈了这个在院人数。",
       "category": "office"
     },
     {
       "word": "occupancy",
       "phonetic": "/ˈɒkjəpənsi/",
       "meaning": "床位占用率",
-      "example": "Who is handling the occupancy?",
-      "exampleZh": "谁在处理这个床位占用率？",
+      "example": "Please bring the occupancy to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个床位占用率。",
       "category": "office"
     },
     {
       "word": "heartbeat",
       "phonetic": "/ˈhɑːtbiːt/",
       "meaning": "心跳检测",
-      "example": "Please review the heartbeat after the patch.",
-      "exampleZh": "打补丁后请审阅这个心跳检测。",
+      "example": "I logged the heartbeat in today’s change ticket.",
+      "exampleZh": "我把这个心跳检测记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "quorum disk",
       "phonetic": "/ˈkwɔːrəm dɪsk/",
       "meaning": "仲裁磁盘",
-      "example": "Please review the quorum disk after the patch.",
-      "exampleZh": "打补丁后请审阅这个仲裁磁盘。",
+      "example": "We will verify the quorum disk after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个仲裁磁盘。",
       "category": "it"
     },
     {
       "word": "shared storage",
       "phonetic": "/ʃeəd ˈstɔːrɪdʒ/",
       "meaning": "共享存储",
-      "example": "We need the shared storage before go-live.",
-      "exampleZh": "上线前我们需要这个共享存储。",
+      "example": "Please test the shared storage on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个共享存储。",
       "category": "it"
     },
     {
       "word": "SAN",
       "phonetic": "/sæn/",
-      "meaning": "存储区域网",
-      "example": "The SAN is slow this morning.",
-      "exampleZh": "今天早上 SAN 很慢。",
+      "meaning": "存储区域网（Storage Area Network）",
+      "example": "SAN stands for Storage Area Network. Check it before the clinic opens.",
+      "exampleZh": "SAN 的全称是 Storage Area Network。开诊前请先检查。",
       "category": "it"
     },
     {
       "word": "NAS",
       "phonetic": "/næs/",
-      "meaning": "网络附加存储",
-      "example": "The NAS is slow this morning.",
-      "exampleZh": "今天早上 NAS 很慢。",
+      "meaning": "网络附加存储（Network Attached Storage）",
+      "example": "Please write NAS in full — Network Attached Storage — on the change form.",
+      "exampleZh": "变更单上请写全称：NAS（Network Attached Storage）。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "escalation note",
       "phonetic": "/ˌeskəˈleɪʃn nəʊt/",
       "meaning": "升级说明",
-      "example": "Please review the escalation note.",
-      "exampleZh": "请审阅一下这个升级说明。",
+      "example": "I put the escalation note on the shared drive.",
+      "exampleZh": "我把升级说明放到了共享盘。",
       "category": "office"
     },
     {
       "word": "courtesy reminder",
       "phonetic": "/ˈkɜːtəsi rɪˈmaɪndə/",
       "meaning": "礼貌催办",
-      "example": "Please share the courtesy reminder after the meeting.",
-      "exampleZh": "会后请分享这个礼貌催办。",
+      "example": "We talked about the courtesy reminder with the department head.",
+      "exampleZh": "我们和科主任谈了这个礼貌催办。",
       "category": "office"
     },
     {
       "word": "chaser",
       "phonetic": "/ˈtʃeɪsə/",
       "meaning": "催办邮件",
-      "example": "Please review the chaser.",
-      "exampleZh": "请审阅一下这个催办邮件。",
+      "example": "The chaser still needs a decision today.",
+      "exampleZh": "这个催办邮件今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "nudge email",
       "phonetic": "/nʌdʒ ˈiːmeɪl/",
       "meaning": "轻催邮件",
-      "example": "Please share the nudge email after the meeting.",
-      "exampleZh": "会后请分享这个轻催邮件。",
+      "example": "We talked about the nudge email with the department head.",
+      "exampleZh": "我们和科主任谈了这个轻催邮件。",
       "category": "office"
     },
     {
       "word": "follow-up call",
       "phonetic": "/ˈfɒləʊ ʌp kɔːl/",
       "meaning": "跟进电话",
-      "example": "Who is handling the follow-up call?",
-      "exampleZh": "谁在处理这个跟进电话？",
+      "example": "Please bring the follow-up call to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个跟进电话。",
       "category": "office"
     },
     {
       "word": "software audit",
       "phonetic": "/ˈsɒftweə ˈɔːdɪt/",
       "meaning": "软件审计",
-      "example": "Please check the software audit.",
-      "exampleZh": "请检查一下这个软件审计。",
+      "example": "The vendor asked for a screenshot of the software audit.",
+      "exampleZh": "厂商要一张这个软件审计的截图。",
       "category": "it"
     },
     {
       "word": "unlicensed install",
       "phonetic": "/ʌnˈlaɪsnst ɪnˈstɔːl/",
       "meaning": "未授权安装",
-      "example": "Please review the unlicensed install after the patch.",
-      "exampleZh": "打补丁后请审阅这个未授权安装。",
+      "example": "Please test the unlicensed install on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个未授权安装。",
       "category": "it"
     },
     {
       "word": "silent install",
       "phonetic": "/ˈsaɪlənt ɪnˈstɔːl/",
       "meaning": "静默安装",
-      "example": "Who supports this silent install?",
-      "exampleZh": "谁支持这个静默安装？",
+      "example": "The ward asked us to check the silent install.",
+      "exampleZh": "病区让我们看一下这个静默安装。",
       "category": "it"
     },
     {
       "word": "push install",
       "phonetic": "/pʊʃ ɪnˈstɔːl/",
       "meaning": "推送安装",
-      "example": "The push install is in production.",
-      "exampleZh": "这个推送安装已在生产环境。",
+      "example": "Who is on call for the push install this week?",
+      "exampleZh": "这周这个推送安装谁值班？",
       "category": "it"
     },
     {
       "word": "uninstall",
       "phonetic": "/ˌʌnɪnˈstɔːl/",
       "meaning": "卸载",
-      "example": "Can you uninstall it today?",
-      "exampleZh": "你今天能卸载一下吗？",
+      "example": "Uninstall the old client after the night batch.",
+      "exampleZh": "夜批结束后再卸载旧客户端。",
       "category": "it"
     }
   ]

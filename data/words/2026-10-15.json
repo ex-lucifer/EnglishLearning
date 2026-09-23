@@ -5,80 +5,80 @@
       "word": "bandwidth",
       "phonetic": "/ˈbændwɪdθ/",
       "meaning": "可用精力",
-      "example": "Please share the bandwidth after the meeting.",
-      "exampleZh": "会后请分享这个可用精力。",
+      "example": "Please add the bandwidth to today’s notes.",
+      "exampleZh": "请把可用精力写进今天的记录。",
       "category": "office"
     },
     {
       "word": "capacity",
       "phonetic": "/kəˈpæsəti/",
       "meaning": "承载能力",
-      "example": "The capacity is ready for review.",
-      "exampleZh": "这个承载能力已经可以审阅了。",
+      "example": "Who will own the capacity this week?",
+      "exampleZh": "这周这个承载能力谁来负责？",
       "category": "office"
     },
     {
       "word": "allocation",
       "phonetic": "/ˌæləˈkeɪʃn/",
       "meaning": "资源分配",
-      "example": "Who is handling the allocation?",
-      "exampleZh": "谁在处理这个资源分配？",
+      "example": "Please add the allocation to today’s notes.",
+      "exampleZh": "请把资源分配写进今天的记录。",
       "category": "office"
     },
     {
       "word": "estimate",
       "phonetic": "/ˈestɪmət/",
       "meaning": "估算",
-      "example": "Please share the estimate after the meeting.",
-      "exampleZh": "会后请分享这个估算。",
+      "example": "The estimate still needs a decision today.",
+      "exampleZh": "这个估算今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "KPI",
       "phonetic": "/ˌkeɪ piː ˈaɪ/",
-      "meaning": "关键绩效指标",
-      "example": "Please put KPI on the email.",
-      "exampleZh": "请在邮件里注明 KPI。",
+      "meaning": "关键绩效指标（Key Performance Indicator）",
+      "example": "This month’s KPI (key performance indicator) is ticket close time.",
+      "exampleZh": "这个月的 KPI（关键绩效指标）是工单关闭时长。",
       "category": "office"
     },
     {
       "word": "disk encryption",
       "phonetic": "/dɪsk ɪnˈkrɪpʃn/",
       "meaning": "磁盘加密",
-      "example": "We need the disk encryption before go-live.",
-      "exampleZh": "上线前我们需要这个磁盘加密。",
+      "example": "The vendor asked for a screenshot of the disk encryption.",
+      "exampleZh": "厂商要一张这个磁盘加密的截图。",
       "category": "it"
     },
     {
       "word": "BitLocker",
       "phonetic": "/ˈbɪtlɒkə/",
       "meaning": "磁盘加密工具",
-      "example": "The BitLocker is in production.",
-      "exampleZh": "这个磁盘加密工具已在生产环境。",
+      "example": "I logged the BitLocker in today’s change ticket.",
+      "exampleZh": "我把这个磁盘加密工具记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "USB control",
       "phonetic": "/ˌjuː es ˈbiː kənˈtrəʊl/",
       "meaning": "U盘管控",
-      "example": "Please review the USB control after the patch.",
-      "exampleZh": "打补丁后请审阅这个U盘管控。",
+      "example": "We will verify the USB control after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个U盘管控。",
       "category": "it"
     },
     {
       "word": "DLP",
       "phonetic": "/ˌdiː el ˈpiː/",
-      "meaning": "数据防泄漏",
-      "example": "The DLP is slow this morning.",
-      "exampleZh": "今天早上 DLP 很慢。",
+      "meaning": "数据防泄漏（Data Loss Prevention）",
+      "example": "DLP stands for Data Loss Prevention. Check it before the clinic opens.",
+      "exampleZh": "DLP 的全称是 Data Loss Prevention。开诊前请先检查。",
       "category": "it"
     },
     {
       "word": "printer mapping",
       "phonetic": "/ˈprɪntə ˈmæpɪŋ/",
       "meaning": "打印机映射",
-      "example": "Who supports this printer mapping?",
-      "exampleZh": "谁支持这个打印机映射？",
+      "example": "The vendor asked for a screenshot of the printer mapping.",
+      "exampleZh": "厂商要一张这个打印机映射的截图。",
       "category": "it"
     }
   ]

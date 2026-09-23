@@ -5,24 +5,24 @@
       "word": "town-hall Q&A",
       "phonetic": "/taʊn hɔːl kjuː ənd eɪ/",
       "meaning": "全员问答",
-      "example": "I updated the town-hall Q&A this morning.",
-      "exampleZh": "我今天早上更新了这个全员问答。",
+      "example": "I put the town-hall Q&A on the shared drive.",
+      "exampleZh": "我把全员问答放到了共享盘。",
       "category": "office"
     },
     {
       "word": "open floor",
       "phonetic": "/ˈəʊpən flɔː/",
       "meaning": "自由发言",
-      "example": "I updated the open floor this morning.",
-      "exampleZh": "我今天早上更新了这个自由发言。",
+      "example": "We talked about the open floor with the department head.",
+      "exampleZh": "我们和科主任谈了这个自由发言。",
       "category": "office"
     },
     {
       "word": "time-box",
       "phonetic": "/taɪm bɒks/",
       "meaning": "限时讨论",
-      "example": "Please time-box this before noon.",
-      "exampleZh": "请在中午前限时讨论这个。",
+      "example": "Can you time-box it today?",
+      "exampleZh": "你今天能把它限时讨论吗？",
       "category": "office"
     },
     {
@@ -44,41 +44,41 @@
     {
       "word": "GUID",
       "phonetic": "/ɡuːɪd/",
-      "meaning": "全局唯一标识",
-      "example": "The GUID is slow this morning.",
-      "exampleZh": "今天早上 GUID 很慢。",
+      "meaning": "全局唯一标识（Globally Unique Identifier）",
+      "example": "Please look up the GUID (Globally Unique Identifier) on this ticket.",
+      "exampleZh": "请在这张工单上查一下 GUID（Globally Unique Identifier）。",
       "category": "it"
     },
     {
       "word": "UPN",
       "phonetic": "/ˌjuː piː ˈen/",
-      "meaning": "用户主体名称",
-      "example": "The UPN is slow this morning.",
-      "exampleZh": "今天早上 UPN 很慢。",
+      "meaning": "用户主体名称（User Principal Name）",
+      "example": "Can you map this item to UPN (User Principal Name)?",
+      "exampleZh": "这条能否对照到 UPN（User Principal Name）？",
       "category": "it"
     },
     {
       "word": "sAMAccountName",
       "phonetic": "/sæm əˈkaʊnt neɪm/",
       "meaning": "登录名",
-      "example": "Please review the sAMAccountName after the patch.",
-      "exampleZh": "打补丁后请审阅这个登录名。",
+      "example": "The vendor asked for a screenshot of the sAMAccountName.",
+      "exampleZh": "厂商要一张这个登录名的截图。",
       "category": "it"
     },
     {
       "word": "password hash",
       "phonetic": "/ˈpɑːswɜːd hæʃ/",
       "meaning": "密码哈希",
-      "example": "The password hash is in production.",
-      "exampleZh": "这个密码哈希已在生产环境。",
+      "example": "I logged the password hash in today’s change ticket.",
+      "exampleZh": "我把这个密码哈希记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "salt",
       "phonetic": "/sɔːlt/",
       "meaning": "加盐",
-      "example": "We need the salt before go-live.",
-      "exampleZh": "上线前我们需要这个加盐。",
+      "example": "Please test the salt on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个加盐。",
       "category": "it"
     }
   ]

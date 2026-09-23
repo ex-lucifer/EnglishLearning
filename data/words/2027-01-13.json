@@ -5,80 +5,80 @@
       "word": "incident report",
       "phonetic": "/ˈɪnsɪdənt rɪˈpɔːt/",
       "meaning": "不良事件报告",
-      "example": "Please review the incident report.",
-      "exampleZh": "请审阅一下这个不良事件报告。",
+      "example": "We talked about the incident report with the department head.",
+      "exampleZh": "我们和科主任谈了这个不良事件报告。",
       "category": "office"
     },
     {
       "word": "near miss",
       "phonetic": "/nɪə mɪs/",
       "meaning": "未遂事件",
-      "example": "The near miss is ready for review.",
-      "exampleZh": "这个未遂事件已经可以审阅了。",
+      "example": "Who will own the near miss this week?",
+      "exampleZh": "这周这个未遂事件谁来负责？",
       "category": "office"
     },
     {
       "word": "root cause",
       "phonetic": "/ruːt kɔːz/",
       "meaning": "根本原因",
-      "example": "The root cause is ready for review.",
-      "exampleZh": "这个根本原因已经可以审阅了。",
+      "example": "I put the root cause on the shared drive.",
+      "exampleZh": "我把根本原因放到了共享盘。",
       "category": "office"
     },
     {
       "word": "corrective action",
       "phonetic": "/kəˈrektɪv ˈækʃn/",
       "meaning": "纠正措施",
-      "example": "Who is handling the corrective action?",
-      "exampleZh": "谁在处理这个纠正措施？",
+      "example": "Please bring the corrective action to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个纠正措施。",
       "category": "office"
     },
     {
       "word": "preventive action",
       "phonetic": "/prɪˈventɪv ˈækʃn/",
       "meaning": "预防措施",
-      "example": "I updated the preventive action this morning.",
-      "exampleZh": "我今天早上更新了这个预防措施。",
+      "example": "Please add the preventive action to today’s notes.",
+      "exampleZh": "请把预防措施写进今天的记录。",
       "category": "office"
     },
     {
       "word": "local admin",
       "phonetic": "/ˈləʊkl ˈædmɪn/",
       "meaning": "本地管理员",
-      "example": "Who supports this local admin?",
-      "exampleZh": "谁支持这个本地管理员？",
+      "example": "The vendor asked for a screenshot of the local admin.",
+      "exampleZh": "厂商要一张这个本地管理员的截图。",
       "category": "it"
     },
     {
       "word": "domain admin",
       "phonetic": "/dəˈmeɪn ˈædmɪn/",
       "meaning": "域管理员",
-      "example": "The domain admin is in production.",
-      "exampleZh": "这个域管理员已在生产环境。",
+      "example": "I logged the domain admin in today’s change ticket.",
+      "exampleZh": "我把这个域管理员记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "service desk",
       "phonetic": "/ˈsɜːvɪs desk/",
       "meaning": "服务台",
-      "example": "The service desk is in production.",
-      "exampleZh": "这个服务台已在生产环境。",
+      "example": "The vendor asked for a screenshot of the service desk.",
+      "exampleZh": "厂商要一张这个服务台的截图。",
       "category": "it"
     },
     {
       "word": "helpdesk",
       "phonetic": "/ˈhelpdesk/",
       "meaning": "技术支持台",
-      "example": "We need the helpdesk before go-live.",
-      "exampleZh": "上线前我们需要这个技术支持台。",
+      "example": "Do not touch the helpdesk during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个技术支持台。",
       "category": "it"
     },
     {
       "word": "L1 support",
       "phonetic": "/el wʌn səˈpɔːt/",
       "meaning": "一线支持",
-      "example": "The L1 support is in production.",
-      "exampleZh": "这个一线支持已在生产环境。",
+      "example": "Please test the L1 support on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个一线支持。",
       "category": "it"
     }
   ]

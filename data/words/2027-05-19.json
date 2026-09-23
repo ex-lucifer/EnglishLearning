@@ -5,80 +5,80 @@
       "word": "workload",
       "phonetic": "/ˈwɜːkləʊd/",
       "meaning": "工作量",
-      "example": "I updated the workload this morning.",
-      "exampleZh": "我今天早上更新了这个工作量。",
+      "example": "Who will own the workload this week?",
+      "exampleZh": "这周这个工作量谁来负责？",
       "category": "office"
     },
     {
       "word": "work-life balance",
       "phonetic": "/wɜːk laɪf ˈbæləns/",
       "meaning": "工作生活平衡",
-      "example": "The work-life balance is ready for review.",
-      "exampleZh": "这个工作生活平衡已经可以审阅了。",
+      "example": "We talked about the work-life balance with the department head.",
+      "exampleZh": "我们和科主任谈了这个工作生活平衡。",
       "category": "office"
     },
     {
       "word": "burnout",
       "phonetic": "/ˈbɜːnaʊt/",
       "meaning": "过劳倦怠",
-      "example": "The burnout is ready for review.",
-      "exampleZh": "这个过劳倦怠已经可以审阅了。",
+      "example": "Could you send the burnout to the project group?",
+      "exampleZh": "你能把过劳倦怠发到项目群吗？",
       "category": "office"
     },
     {
       "word": "coverage plan",
       "phonetic": "/ˈkʌvərɪdʒ plæn/",
       "meaning": "顶班计划",
-      "example": "Please review the coverage plan.",
-      "exampleZh": "请审阅一下这个顶班计划。",
+      "example": "Who will own the coverage plan this week?",
+      "exampleZh": "这周这个顶班计划谁来负责？",
       "category": "office"
     },
     {
       "word": "backup person",
       "phonetic": "/ˈbækʌp ˈpɜːsn/",
       "meaning": "替补人员",
-      "example": "The backup person is ready for review.",
-      "exampleZh": "这个替补人员已经可以审阅了。",
+      "example": "Could you send the backup person to the project group?",
+      "exampleZh": "你能把替补人员发到项目群吗？",
       "category": "office"
     },
     {
       "word": "orphan process",
       "phonetic": "/ˈɔːfn ˈprəʊses/",
       "meaning": "孤儿进程",
-      "example": "We need the orphan process before go-live.",
-      "exampleZh": "上线前我们需要这个孤儿进程。",
+      "example": "I logged the orphan process in today’s change ticket.",
+      "exampleZh": "我把这个孤儿进程记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "daemon",
       "phonetic": "/ˈdiːmən/",
       "meaning": "守护进程",
-      "example": "Who supports this daemon?",
-      "exampleZh": "谁支持这个守护进程？",
+      "example": "The vendor asked for a screenshot of the daemon.",
+      "exampleZh": "厂商要一张这个守护进程的截图。",
       "category": "it"
     },
     {
       "word": "cron job",
       "phonetic": "/krɒn dʒɒb/",
       "meaning": "定时任务",
-      "example": "Who supports this cron job?",
-      "exampleZh": "谁支持这个定时任务？",
+      "example": "Do not touch the cron job during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个定时任务。",
       "category": "it"
     },
     {
       "word": "scheduled task",
       "phonetic": "/ˈʃedjuːld tɑːsk/",
       "meaning": "计划任务",
-      "example": "Please review the scheduled task after the patch.",
-      "exampleZh": "打补丁后请审阅这个计划任务。",
+      "example": "We will verify the scheduled task after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个计划任务。",
       "category": "it"
     },
     {
       "word": "Windows service",
       "phonetic": "/ˈwɪndəʊz ˈsɜːvɪs/",
       "meaning": "Windows服务",
-      "example": "The Windows service is in production.",
-      "exampleZh": "这个Windows服务已在生产环境。",
+      "example": "The ward asked us to check the Windows service.",
+      "exampleZh": "病区让我们看一下这个Windows服务。",
       "category": "it"
     }
   ]

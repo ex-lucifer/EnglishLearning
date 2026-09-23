@@ -5,80 +5,80 @@
       "word": "mentor",
       "phonetic": "/ˈmentɔː/",
       "meaning": "导师",
-      "example": "I updated the mentor this morning.",
-      "exampleZh": "我今天早上更新了这个导师。",
+      "example": "Who will own the mentor this week?",
+      "exampleZh": "这周这个导师谁来负责？",
       "category": "office"
     },
     {
       "word": "buddy",
       "phonetic": "/ˈbʌdi/",
       "meaning": "带教搭档",
-      "example": "I updated the buddy this morning.",
-      "exampleZh": "我今天早上更新了这个带教搭档。",
+      "example": "Could you send the buddy to the project group?",
+      "exampleZh": "你能把带教搭档发到项目群吗？",
       "category": "office"
     },
     {
       "word": "orientation",
       "phonetic": "/ˌɔːriənˈteɪʃn/",
       "meaning": "入职介绍",
-      "example": "Who is handling the orientation?",
-      "exampleZh": "谁在处理这个入职介绍？",
+      "example": "Could you send the orientation to the project group?",
+      "exampleZh": "你能把入职介绍发到项目群吗？",
       "category": "office"
     },
     {
       "word": "induction",
       "phonetic": "/ɪnˈdʌkʃn/",
       "meaning": "入职培训",
-      "example": "The induction is ready for review.",
-      "exampleZh": "这个入职培训已经可以审阅了。",
+      "example": "Please bring the induction to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个入职培训。",
       "category": "office"
     },
     {
       "word": "training plan",
       "phonetic": "/ˈtreɪnɪŋ plæn/",
       "meaning": "培训计划",
-      "example": "Please share the training plan after the meeting.",
-      "exampleZh": "会后请分享这个培训计划。",
+      "example": "Please add the training plan to today’s notes.",
+      "exampleZh": "请把培训计划写进今天的记录。",
       "category": "office"
     },
     {
       "word": "primary database",
       "phonetic": "/ˈpraɪməri ˈdeɪtəbeɪs/",
       "meaning": "主库",
-      "example": "The primary database is in production.",
-      "exampleZh": "这个主库已在生产环境。",
+      "example": "I logged the primary database in today’s change ticket.",
+      "exampleZh": "我把这个主库记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "read replica",
       "phonetic": "/riːd ˈreplɪkə/",
       "meaning": "只读副本",
-      "example": "The read replica is in production.",
-      "exampleZh": "这个只读副本已在生产环境。",
+      "example": "Who is on call for the read replica this week?",
+      "exampleZh": "这周这个只读副本谁值班？",
       "category": "it"
     },
     {
       "word": "stored procedure",
       "phonetic": "/stɔːd prəˈsiːdʒə/",
       "meaning": "存储过程",
-      "example": "Please review the stored procedure after the patch.",
-      "exampleZh": "打补丁后请审阅这个存储过程。",
+      "example": "We will verify the stored procedure after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个存储过程。",
       "category": "it"
     },
     {
       "word": "ETL job",
       "phonetic": "/ˌiː tiː ˈel dʒɒb/",
       "meaning": "数据抽取任务",
-      "example": "The ETL job is in production.",
-      "exampleZh": "这个数据抽取任务已在生产环境。",
+      "example": "Please test the ETL job on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个数据抽取任务。",
       "category": "it"
     },
     {
       "word": "data warehouse",
       "phonetic": "/ˈdeɪtə ˈweəhaʊs/",
       "meaning": "数据仓库",
-      "example": "The data warehouse is in production.",
-      "exampleZh": "这个数据仓库已在生产环境。",
+      "example": "Please test the data warehouse on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个数据仓库。",
       "category": "it"
     }
   ]

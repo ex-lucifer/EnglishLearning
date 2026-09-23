@@ -44,41 +44,41 @@
     {
       "word": "RRSIG",
       "phonetic": "/ˌɑːr ɑːr sɪɡ/",
-      "meaning": "资源记录签名",
-      "example": "The RRSIG is slow this morning.",
-      "exampleZh": "今天早上 RRSIG 很慢。",
+      "meaning": "资源记录签名（Resource Record Signature）",
+      "example": "Please look up the RRSIG (Resource Record Signature) on this ticket.",
+      "exampleZh": "请在这张工单上查一下 RRSIG（Resource Record Signature）。",
       "category": "it"
     },
     {
       "word": "DS record",
       "phonetic": "/diː es ˈrekɔːd/",
       "meaning": "委托签名记录",
-      "example": "Please check the DS record.",
-      "exampleZh": "请检查一下这个委托签名记录。",
+      "example": "We will verify the DS record after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个委托签名记录。",
       "category": "it"
     },
     {
       "word": "glue record",
       "phonetic": "/ɡluː ˈrekɔːd/",
       "meaning": "粘合记录",
-      "example": "The glue record is in production.",
-      "exampleZh": "这个粘合记录已在生产环境。",
+      "example": "The ward asked us to check the glue record.",
+      "exampleZh": "病区让我们看一下这个粘合记录。",
       "category": "it"
     },
     {
       "word": "root hints",
       "phonetic": "/ruːt hɪnts/",
       "meaning": "根提示",
-      "example": "Who supports this root hints?",
-      "exampleZh": "谁支持这个根提示？",
+      "example": "Who is on call for the root hints this week?",
+      "exampleZh": "这周这个根提示谁值班？",
       "category": "it"
     },
     {
       "word": "forwarder",
       "phonetic": "/ˈfɔːwədə/",
       "meaning": "转发器",
-      "example": "The forwarder is in production.",
-      "exampleZh": "这个转发器已在生产环境。",
+      "example": "Who is on call for the forwarder this week?",
+      "exampleZh": "这周这个转发器谁值班？",
       "category": "it"
     }
   ]

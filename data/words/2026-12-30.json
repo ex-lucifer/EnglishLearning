@@ -5,80 +5,80 @@
       "word": "bed management",
       "phonetic": "/bed ˈmænɪdʒmənt/",
       "meaning": "床位管理",
-      "example": "I updated the bed management this morning.",
-      "exampleZh": "我今天早上更新了这个床位管理。",
+      "example": "We talked about the bed management with the department head.",
+      "exampleZh": "我们和科主任谈了这个床位管理。",
       "category": "office"
     },
     {
       "word": "ward round",
       "phonetic": "/wɔːd raʊnd/",
       "meaning": "查房",
-      "example": "Who is handling the ward round?",
-      "exampleZh": "谁在处理这个查房？",
+      "example": "Who will own the ward round this week?",
+      "exampleZh": "这周这个查房谁来负责？",
       "category": "office"
     },
     {
       "word": "clinic",
       "phonetic": "/ˈklɪnɪk/",
       "meaning": "门诊",
-      "example": "I updated the clinic this morning.",
-      "exampleZh": "我今天早上更新了这个门诊。",
+      "example": "Please add the clinic to today’s notes.",
+      "exampleZh": "请把门诊写进今天的记录。",
       "category": "office"
     },
     {
       "word": "outpatient",
       "phonetic": "/ˈaʊtpeɪʃnt/",
       "meaning": "门诊患者",
-      "example": "Please review the outpatient.",
-      "exampleZh": "请审阅一下这个门诊患者。",
+      "example": "Please bring the outpatient to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个门诊患者。",
       "category": "office"
     },
     {
       "word": "inpatient",
       "phonetic": "/ˈɪnpeɪʃnt/",
       "meaning": "住院患者",
-      "example": "Who is handling the inpatient?",
-      "exampleZh": "谁在处理这个住院患者？",
+      "example": "The inpatient still needs a decision today.",
+      "exampleZh": "这个住院患者今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "RAID",
       "phonetic": "/reɪd/",
-      "meaning": "磁盘阵列",
-      "example": "The RAID is slow this morning.",
-      "exampleZh": "今天早上 RAID 很慢。",
+      "meaning": "磁盘阵列（Redundant Array of Independent Disks）",
+      "example": "We tested RAID (Redundant Array of Independent Disks) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 RAID（Redundant Array of Independent Disks）。",
       "category": "it"
     },
     {
       "word": "LUN",
       "phonetic": "/lʌn/",
-      "meaning": "逻辑单元号",
-      "example": "The LUN is slow this morning.",
-      "exampleZh": "今天早上 LUN 很慢。",
+      "meaning": "逻辑单元号（Logical Unit Number）",
+      "example": "Please look up the LUN (Logical Unit Number) on this ticket.",
+      "exampleZh": "请在这张工单上查一下 LUN（Logical Unit Number）。",
       "category": "it"
     },
     {
       "word": "HBA",
       "phonetic": "/ˌeɪtʃ biː ˈeɪ/",
-      "meaning": "主机总线适配器",
-      "example": "The HBA is slow this morning.",
-      "exampleZh": "今天早上 HBA 很慢。",
+      "meaning": "主机总线适配器（Host Bus Adapter）",
+      "example": "Replace the HBA (Host Bus Adapter) after hours.",
+      "exampleZh": "下班后再更换 HBA（Host Bus Adapter）。",
       "category": "it"
     },
     {
       "word": "fiber switch",
       "phonetic": "/ˈfaɪbə swɪtʃ/",
       "meaning": "光纤交换机",
-      "example": "Please check the fiber switch.",
-      "exampleZh": "请检查一下这个光纤交换机。",
+      "example": "Who is on call for the fiber switch this week?",
+      "exampleZh": "这周这个光纤交换机谁值班？",
       "category": "it"
     },
     {
       "word": "iSCSI",
       "phonetic": "/aɪ ˈskʌzi/",
-      "meaning": "网络磁盘协议",
-      "example": "The iSCSI is slow this morning.",
-      "exampleZh": "今天早上 iSCSI 很慢。",
+      "meaning": "网络磁盘协议（Internet Small Computer Systems Interface）",
+      "example": "Document iSCSI (Internet Small Computer Systems Interface) in the interface spec.",
+      "exampleZh": "接口说明里请写上 iSCSI（Internet Small Computer Systems Interface）。",
       "category": "it"
     }
   ]

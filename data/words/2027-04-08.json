@@ -5,80 +5,80 @@
       "word": "official seal",
       "phonetic": "/əˈfɪʃl siːl/",
       "meaning": "公章",
-      "example": "Please review the official seal.",
-      "exampleZh": "请审阅一下这个公章。",
+      "example": "The official seal still needs a decision today.",
+      "exampleZh": "这个公章今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "letter of thanks",
       "phonetic": "/ˈletə əv θæŋks/",
       "meaning": "感谢信",
-      "example": "I updated the letter of thanks this morning.",
-      "exampleZh": "我今天早上更新了这个感谢信。",
+      "example": "The letter of thanks still needs a decision today.",
+      "exampleZh": "这个感谢信今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "letter of complaint",
       "phonetic": "/ˈletə əv kəmˈpleɪnt/",
       "meaning": "投诉信",
-      "example": "The letter of complaint is ready for review.",
-      "exampleZh": "这个投诉信已经可以审阅了。",
+      "example": "We talked about the letter of complaint with the department head.",
+      "exampleZh": "我们和科主任谈了这个投诉信。",
       "category": "office"
     },
     {
       "word": "meeting pack",
       "phonetic": "/ˈmiːtɪŋ pæk/",
       "meaning": "会议材料包",
-      "example": "I updated the meeting pack this morning.",
-      "exampleZh": "我今天早上更新了这个会议材料包。",
+      "example": "Please bring the meeting pack to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个会议材料包。",
       "category": "office"
     },
     {
       "word": "pre-read",
       "phonetic": "/priː riːd/",
       "meaning": "会前阅读材料",
-      "example": "Who is handling the pre-read?",
-      "exampleZh": "谁在处理这个会前阅读材料？",
+      "example": "Who will own the pre-read this week?",
+      "exampleZh": "这周这个会前阅读材料谁来负责？",
       "category": "office"
     },
     {
       "word": "SSH",
       "phonetic": "/ˌes es ˈeɪtʃ/",
-      "meaning": "安全外壳协议",
-      "example": "The SSH is slow this morning.",
-      "exampleZh": "今天早上 SSH 很慢。",
+      "meaning": "安全外壳协议（Secure Shell）",
+      "example": "Please confirm SSH (Secure Shell) is allowed through the firewall.",
+      "exampleZh": "请确认防火墙放行 SSH（Secure Shell）。",
       "category": "it"
     },
     {
       "word": "Telnet",
       "phonetic": "/ˈtelnet/",
       "meaning": "远程终端协议",
-      "example": "Please check the Telnet.",
-      "exampleZh": "请检查一下这个远程终端协议。",
+      "example": "Please test the Telnet on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个远程终端协议。",
       "category": "it"
     },
     {
       "word": "SNMP",
       "phonetic": "/ˌes en em ˈpiː/",
-      "meaning": "简单网络管理",
-      "example": "The SNMP is slow this morning.",
-      "exampleZh": "今天早上 SNMP 很慢。",
+      "meaning": "简单网络管理（Simple Network Management Protocol）",
+      "example": "We use SNMP (Simple Network Management Protocol) for this integration.",
+      "exampleZh": "这条集成用的是 SNMP（Simple Network Management Protocol）。",
       "category": "it"
     },
     {
       "word": "Syslog server",
       "phonetic": "/ˈsɪslɒɡ ˈsɜːvə/",
       "meaning": "日志服务器",
-      "example": "Who supports this Syslog server?",
-      "exampleZh": "谁支持这个日志服务器？",
+      "example": "Do not touch the Syslog server during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个日志服务器。",
       "category": "it"
     },
     {
       "word": "NTP server",
       "phonetic": "/ˌen tiː ˈpiː ˈsɜːvə/",
-      "meaning": "时间服务器",
-      "example": "Who supports this NTP server?",
-      "exampleZh": "谁支持这个时间服务器？",
+      "meaning": "时间服务器（Network Time Protocol）",
+      "example": "The ward asked us to check the NTP server.",
+      "exampleZh": "病区让我们看一下这个时间服务器。",
       "category": "it"
     }
   ]

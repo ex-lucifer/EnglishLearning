@@ -5,80 +5,80 @@
       "word": "stock",
       "phonetic": "/stɒk/",
       "meaning": "库存",
-      "example": "Who is handling the stock?",
-      "exampleZh": "谁在处理这个库存？",
+      "example": "The stock still needs a decision today.",
+      "exampleZh": "这个库存今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "inventory",
       "phonetic": "/ˈɪnvəntri/",
       "meaning": "盘点库存",
-      "example": "I updated the inventory this morning.",
-      "exampleZh": "我今天早上更新了这个盘点库存。",
+      "example": "I put the inventory on the shared drive.",
+      "exampleZh": "我把盘点库存放到了共享盘。",
       "category": "office"
     },
     {
       "word": "shortage",
       "phonetic": "/ˈʃɔːtɪdʒ/",
       "meaning": "短缺",
-      "example": "Who is handling the shortage?",
-      "exampleZh": "谁在处理这个短缺？",
+      "example": "The shortage still needs a decision today.",
+      "exampleZh": "这个短缺今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "surplus",
       "phonetic": "/ˈsɜːpləs/",
       "meaning": "多余",
-      "example": "Please share the surplus after the meeting.",
-      "exampleZh": "会后请分享这个多余。",
+      "example": "Please add the surplus to today’s notes.",
+      "exampleZh": "请把多余写进今天的记录。",
       "category": "office"
     },
     {
       "word": "consumable",
       "phonetic": "/kənˈsjuːməbl/",
       "meaning": "耗材",
-      "example": "Please review the consumable.",
-      "exampleZh": "请审阅一下这个耗材。",
+      "example": "We talked about the consumable with the department head.",
+      "exampleZh": "我们和科主任谈了这个耗材。",
       "category": "office"
     },
     {
       "word": "alert threshold",
       "phonetic": "/əˈlɜːt ˈθreʃhəʊld/",
       "meaning": "告警阈值",
-      "example": "Who supports this alert threshold?",
-      "exampleZh": "谁支持这个告警阈值？",
+      "example": "Do not touch the alert threshold during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个告警阈值。",
       "category": "it"
     },
     {
       "word": "alert storm",
       "phonetic": "/əˈlɜːt stɔːm/",
       "meaning": "告警风暴",
-      "example": "Please check the alert storm.",
-      "exampleZh": "请检查一下这个告警风暴。",
+      "example": "Who is on call for the alert storm this week?",
+      "exampleZh": "这周这个告警风暴谁值班？",
       "category": "it"
     },
     {
       "word": "false positive",
       "phonetic": "/fɔːls ˈpɒzətɪv/",
       "meaning": "误报",
-      "example": "We need the false positive before go-live.",
-      "exampleZh": "上线前我们需要这个误报。",
+      "example": "We will verify the false positive after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个误报。",
       "category": "it"
     },
     {
       "word": "false negative",
       "phonetic": "/fɔːls ˈneɡətɪv/",
       "meaning": "漏报",
-      "example": "Please review the false negative after the patch.",
-      "exampleZh": "打补丁后请审阅这个漏报。",
+      "example": "We will verify the false negative after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个漏报。",
       "category": "it"
     },
     {
       "word": "dashboard widget",
       "phonetic": "/ˈdæʃbɔːd ˈwɪdʒɪt/",
       "meaning": "看板控件",
-      "example": "Please review the dashboard widget after the patch.",
-      "exampleZh": "打补丁后请审阅这个看板控件。",
+      "example": "Who is on call for the dashboard widget this week?",
+      "exampleZh": "这周这个看板控件谁值班？",
       "category": "it"
     }
   ]

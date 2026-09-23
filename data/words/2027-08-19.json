@@ -45,40 +45,40 @@
       "word": "scavenging",
       "phonetic": "/ˈskævɪndʒɪŋ/",
       "meaning": "过期记录清理",
-      "example": "We need the scavenging before go-live.",
-      "exampleZh": "上线前我们需要这个过期记录清理。",
+      "example": "Do not touch the scavenging during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个过期记录清理。",
       "category": "it"
     },
     {
       "word": "aging",
       "phonetic": "/ˈeɪdʒɪŋ/",
       "meaning": "记录老化",
-      "example": "Who supports this aging?",
-      "exampleZh": "谁支持这个记录老化？",
+      "example": "The ward asked us to check the aging.",
+      "exampleZh": "病区让我们看一下这个记录老化。",
       "category": "it"
     },
     {
       "word": "dynamic update",
       "phonetic": "/daɪˈnæmɪk ˌʌpˈdeɪt/",
       "meaning": "动态更新",
-      "example": "Please review the dynamic update after the patch.",
-      "exampleZh": "打补丁后请审阅这个动态更新。",
+      "example": "The vendor asked for a screenshot of the dynamic update.",
+      "exampleZh": "厂商要一张这个动态更新的截图。",
       "category": "it"
     },
     {
       "word": "secure update",
       "phonetic": "/sɪˈkjʊə ˌʌpˈdeɪt/",
       "meaning": "安全更新",
-      "example": "Who supports this secure update?",
-      "exampleZh": "谁支持这个安全更新？",
+      "example": "Do not touch the secure update during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个安全更新。",
       "category": "it"
     },
     {
       "word": "zone transfer",
       "phonetic": "/zəʊn ˈtrænsfɜː/",
       "meaning": "区域传送",
-      "example": "Please check the zone transfer.",
-      "exampleZh": "请检查一下这个区域传送。",
+      "example": "Do not touch the zone transfer during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个区域传送。",
       "category": "it"
     }
   ]

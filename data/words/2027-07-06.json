@@ -5,80 +5,80 @@
       "word": "study leave",
       "phonetic": "/ˈstʌdi liːv/",
       "meaning": "进修假",
-      "example": "Please share the study leave after the meeting.",
-      "exampleZh": "会后请分享这个进修假。",
+      "example": "I put the study leave on the shared drive.",
+      "exampleZh": "我把进修假放到了共享盘。",
       "category": "office"
     },
     {
       "word": "compassionate leave",
       "phonetic": "/kəmˈpæʃənət liːv/",
       "meaning": "恩恤假",
-      "example": "I updated the compassionate leave this morning.",
-      "exampleZh": "我今天早上更新了这个恩恤假。",
+      "example": "Please add the compassionate leave to today’s notes.",
+      "exampleZh": "请把恩恤假写进今天的记录。",
       "category": "office"
     },
     {
       "word": "jury duty",
       "phonetic": "/ˈdʒʊəri ˈdjuːti/",
       "meaning": "陪审公务",
-      "example": "I updated the jury duty this morning.",
-      "exampleZh": "我今天早上更新了这个陪审公务。",
+      "example": "I put the jury duty on the shared drive.",
+      "exampleZh": "我把陪审公务放到了共享盘。",
       "category": "office"
     },
     {
       "word": "military leave",
       "phonetic": "/ˈmɪlətri liːv/",
       "meaning": "服役假",
-      "example": "Please review the military leave.",
-      "exampleZh": "请审阅一下这个服役假。",
+      "example": "Please bring the military leave to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个服役假。",
       "category": "office"
     },
     {
       "word": "return-to-work",
       "phonetic": "/rɪˈtɜːn tə wɜːk/",
       "meaning": "复工",
-      "example": "The return-to-work is ready for review.",
-      "exampleZh": "这个复工已经可以审阅了。",
+      "example": "I put the return-to-work on the shared drive.",
+      "exampleZh": "我把复工放到了共享盘。",
       "category": "office"
     },
     {
       "word": "protector",
       "phonetic": "/prəˈtektə/",
       "meaning": "保护器",
-      "example": "Please check the protector.",
-      "exampleZh": "请检查一下这个保护器。",
+      "example": "The vendor asked for a screenshot of the protector.",
+      "exampleZh": "厂商要一张这个保护器的截图。",
       "category": "it"
     },
     {
       "word": "numerical password",
       "phonetic": "/njuːˈmerɪkl ˈpɑːswɜːd/",
       "meaning": "数字恢复密码",
-      "example": "Please check the numerical password.",
-      "exampleZh": "请检查一下这个数字恢复密码。",
+      "example": "I logged the numerical password in today’s change ticket.",
+      "exampleZh": "我把这个数字恢复密码记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "FIPS",
       "phonetic": "/fɪps/",
-      "meaning": "联邦加密标准",
-      "example": "The FIPS is slow this morning.",
-      "exampleZh": "今天早上 FIPS 很慢。",
+      "meaning": "联邦加密标准（Federal Information Processing Standards）",
+      "example": "Follow the FIPS (Federal Information Processing Standards) policy.",
+      "exampleZh": "请按 FIPS（Federal Information Processing Standards）的规定做。",
       "category": "it"
     },
     {
       "word": "HSM",
       "phonetic": "/ˌeɪtʃ es ˈem/",
-      "meaning": "硬件安全模块",
-      "example": "The HSM is slow this morning.",
-      "exampleZh": "今天早上 HSM 很慢。",
+      "meaning": "硬件安全模块（Hardware Security Module）",
+      "example": "The HSM (Hardware Security Module) alarm went off.",
+      "exampleZh": "HSM（Hardware Security Module）告警响了。",
       "category": "it"
     },
     {
       "word": "KMS",
       "phonetic": "/ˌkeɪ em ˈes/",
-      "meaning": "密钥管理服务",
-      "example": "The KMS is slow this morning.",
-      "exampleZh": "今天早上 KMS 很慢。",
+      "meaning": "密钥管理服务（Key Management Service）",
+      "example": "The ward called because KMS (Key Management Service) would not open.",
+      "exampleZh": "病区来电，说 KMS（Key Management Service）打不开。",
       "category": "it"
     }
   ]

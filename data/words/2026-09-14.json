@@ -5,80 +5,80 @@
       "word": "agenda",
       "phonetic": "/əˈdʒendə/",
       "meaning": "议程",
-      "example": "Please send the agenda before the meeting.",
-      "exampleZh": "开会前请把议程发出来。",
+      "example": "Who will own the agenda this week?",
+      "exampleZh": "这周这个议程谁来负责？",
       "category": "office"
     },
     {
       "word": "follow-up",
       "phonetic": "/ˈfɒləʊ ʌp/",
       "meaning": "跟进",
-      "example": "I will send a follow-up email today.",
-      "exampleZh": "我今天会发一封跟进邮件。",
+      "example": "Could you send the follow-up to the project group?",
+      "exampleZh": "你能把跟进发到项目群吗？",
       "category": "office"
     },
     {
       "word": "handover",
       "phonetic": "/ˈhændəʊvə/",
       "meaning": "交接",
-      "example": "Finish the handover before noon.",
-      "exampleZh": "请在中午前完成交接。",
+      "example": "Could you send the handover to the project group?",
+      "exampleZh": "你能把交接发到项目群吗？",
       "category": "office"
     },
     {
       "word": "deadline",
       "phonetic": "/ˈdedlaɪn/",
       "meaning": "截止日期",
-      "example": "The deadline is Friday afternoon.",
-      "exampleZh": "截止日期是周五下午。",
+      "example": "The deadline still needs a decision today.",
+      "exampleZh": "这个截止日期今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "briefing",
       "phonetic": "/ˈbriːfɪŋ/",
       "meaning": "简报",
-      "example": "We have a short briefing at nine.",
-      "exampleZh": "我们九点有一个短简报。",
+      "example": "The briefing still needs a decision today.",
+      "exampleZh": "这个简报今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "deploy",
       "phonetic": "/dɪˈplɔɪ/",
       "meaning": "部署",
-      "example": "We will deploy the patch tonight.",
-      "exampleZh": "我们今晚会部署这个补丁。",
+      "example": "We will deploy the patch after the outpatient clinic closes.",
+      "exampleZh": "门诊结束后我们再部署这个补丁。",
       "category": "it"
     },
     {
       "word": "outage",
       "phonetic": "/ˈaʊtɪdʒ/",
       "meaning": "停机中断",
-      "example": "The HIS outage lasted 20 minutes.",
-      "exampleZh": "HIS 中断持续了 20 分钟。",
+      "example": "Do not touch the outage during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个停机中断。",
       "category": "it"
     },
     {
       "word": "EMR",
       "phonetic": "/ˌiː em ˈɑː/",
-      "meaning": "电子病历",
-      "example": "The EMR is slow this morning.",
-      "exampleZh": "今天早上电子病历很慢。",
+      "meaning": "电子病历（Electronic Medical Record）",
+      "example": "The ward called because EMR (Electronic Medical Record) would not open.",
+      "exampleZh": "病区来电，说 EMR（Electronic Medical Record）打不开。",
       "category": "it"
     },
     {
       "word": "rollback",
       "phonetic": "/ˈrəʊlbæk/",
       "meaning": "回滚",
-      "example": "We had to rollback the release.",
-      "exampleZh": "我们不得不回滚这次发布。",
+      "example": "We will verify the rollback after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个回滚。",
       "category": "it"
     },
     {
       "word": "ticket",
       "phonetic": "/ˈtɪkɪt/",
       "meaning": "工单",
-      "example": "Please open a ticket for this bug.",
-      "exampleZh": "请为这个故障开一张工单。",
+      "example": "The ward asked us to check the ticket.",
+      "exampleZh": "病区让我们看一下这个工单。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "improvement plan",
       "phonetic": "/ɪmˈpruːvmənt plæn/",
       "meaning": "改进计划",
-      "example": "I updated the improvement plan this morning.",
-      "exampleZh": "我今天早上更新了这个改进计划。",
+      "example": "Could you send the improvement plan to the project group?",
+      "exampleZh": "你能把改进计划发到项目群吗？",
       "category": "office"
     },
     {
       "word": "PIP",
       "phonetic": "/ˌpiː aɪ ˈpiː/",
-      "meaning": "绩效改进计划",
-      "example": "Please put PIP on the email.",
-      "exampleZh": "请在邮件里注明 PIP。",
+      "meaning": "绩效改进计划（Performance Improvement Plan）",
+      "example": "HR asked us to keep this PIP (performance improvement plan) confidential.",
+      "exampleZh": "人事要求这份 PIP（绩效改进计划）保密。",
       "category": "office"
     },
     {
       "word": "probation review",
       "phonetic": "/prəˈbeɪʃn rɪˈvjuː/",
       "meaning": "试用考核",
-      "example": "I updated the probation review this morning.",
-      "exampleZh": "我今天早上更新了这个试用考核。",
+      "example": "Who will own the probation review this week?",
+      "exampleZh": "这周这个试用考核谁来负责？",
       "category": "office"
     },
     {
       "word": "exit interview",
       "phonetic": "/ˈeksɪt ˈɪntəvjuː/",
       "meaning": "离职面谈",
-      "example": "The exit interview is ready for review.",
-      "exampleZh": "这个离职面谈已经可以审阅了。",
+      "example": "Could you send the exit interview to the project group?",
+      "exampleZh": "你能把离职面谈发到项目群吗？",
       "category": "office"
     },
     {
       "word": "handover checklist",
       "phonetic": "/ˈhændəʊvə ˈtʃeklɪst/",
       "meaning": "交接清单",
-      "example": "Please review the handover checklist.",
-      "exampleZh": "请审阅一下这个交接清单。",
+      "example": "We talked about the handover checklist with the department head.",
+      "exampleZh": "我们和科主任谈了这个交接清单。",
       "category": "office"
     },
     {
       "word": "unsigned binary",
       "phonetic": "/ʌnˈsaɪnd ˈbaɪnəri/",
       "meaning": "未签名程序",
-      "example": "Please check the unsigned binary.",
-      "exampleZh": "请检查一下这个未签名程序。",
+      "example": "Who is on call for the unsigned binary this week?",
+      "exampleZh": "这周这个未签名程序谁值班？",
       "category": "it"
     },
     {
       "word": "trusted publisher",
       "phonetic": "/ˈtrʌstɪd ˈpʌblɪʃə/",
       "meaning": "受信任发布者",
-      "example": "Please check the trusted publisher.",
-      "exampleZh": "请检查一下这个受信任发布者。",
+      "example": "We will verify the trusted publisher after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个受信任发布者。",
       "category": "it"
     },
     {
       "word": "SmartScreen",
       "phonetic": "/ˈsmɑːtskriːn/",
       "meaning": "智能筛选",
-      "example": "We need the SmartScreen before go-live.",
-      "exampleZh": "上线前我们需要这个智能筛选。",
+      "example": "I logged the SmartScreen in today’s change ticket.",
+      "exampleZh": "我把这个智能筛选记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "Defender",
       "phonetic": "/dɪˈfendə/",
       "meaning": "系统防护",
-      "example": "Please check the Defender.",
-      "exampleZh": "请检查一下这个系统防护。",
+      "example": "Please test the Defender on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个系统防护。",
       "category": "it"
     },
     {
       "word": "ASR",
       "phonetic": "/ˌeɪ es ˈɑː/",
-      "meaning": "攻击面减少",
-      "example": "The ASR is slow this morning.",
-      "exampleZh": "今天早上 ASR 很慢。",
+      "meaning": "攻击面减少（Attack Surface Reduction）",
+      "example": "This device is not ASR (Attack Surface Reduction) approved.",
+      "exampleZh": "这台设备不符合 ASR（Attack Surface Reduction）。",
       "category": "it"
     }
   ]

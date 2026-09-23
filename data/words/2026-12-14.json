@@ -5,80 +5,80 @@
       "word": "access card",
       "phonetic": "/ˈækses kɑːd/",
       "meaning": "门禁卡",
-      "example": "Please share the access card after the meeting.",
-      "exampleZh": "会后请分享这个门禁卡。",
+      "example": "Please bring the access card to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个门禁卡。",
       "category": "office"
     },
     {
       "word": "visitor pass",
       "phonetic": "/ˈvɪzɪtə pɑːs/",
       "meaning": "访客证",
-      "example": "Who is handling the visitor pass?",
-      "exampleZh": "谁在处理这个访客证？",
+      "example": "I put the visitor pass on the shared drive.",
+      "exampleZh": "我把访客证放到了共享盘。",
       "category": "office"
     },
     {
       "word": "escort",
       "phonetic": "/ˈeskɔːt/",
       "meaning": "陪同",
-      "example": "I updated the escort this morning.",
-      "exampleZh": "我今天早上更新了这个陪同。",
+      "example": "Could you send the escort to the project group?",
+      "exampleZh": "你能把陪同发到项目群吗？",
       "category": "office"
     },
     {
       "word": "lobby",
       "phonetic": "/ˈlɒbi/",
       "meaning": "大厅",
-      "example": "I updated the lobby this morning.",
-      "exampleZh": "我今天早上更新了这个大厅。",
+      "example": "Who will own the lobby this week?",
+      "exampleZh": "这周这个大厅谁来负责？",
       "category": "office"
     },
     {
       "word": "conference room",
       "phonetic": "/ˈkɒnfərəns ruːm/",
       "meaning": "会议室",
-      "example": "I updated the conference room this morning.",
-      "exampleZh": "我今天早上更新了这个会议室。",
+      "example": "We talked about the conference room with the department head.",
+      "exampleZh": "我们和科主任谈了这个会议室。",
       "category": "office"
     },
     {
       "word": "service bus",
       "phonetic": "/ˈsɜːvɪs bʌs/",
       "meaning": "服务总线",
-      "example": "We need the service bus before go-live.",
-      "exampleZh": "上线前我们需要这个服务总线。",
+      "example": "We will verify the service bus after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个服务总线。",
       "category": "it"
     },
     {
       "word": "uptime",
       "phonetic": "/ˈʌptaɪm/",
       "meaning": "可用时长",
-      "example": "Please check the uptime.",
-      "exampleZh": "请检查一下这个可用时长。",
+      "example": "The vendor asked for a screenshot of the uptime.",
+      "exampleZh": "厂商要一张这个可用时长的截图。",
       "category": "it"
     },
     {
       "word": "downtime",
       "phonetic": "/ˈdaʊntaɪm/",
       "meaning": "停机时长",
-      "example": "The downtime is in production.",
-      "exampleZh": "这个停机时长已在生产环境。",
+      "example": "I logged the downtime in today’s change ticket.",
+      "exampleZh": "我把这个停机时长记进了今天的变更单。",
       "category": "it"
     },
     {
       "word": "SLA clock",
       "phonetic": "/ˌes el ˈeɪ klɒk/",
-      "meaning": "服务时限",
-      "example": "Who supports this SLA clock?",
-      "exampleZh": "谁支持这个服务时限？",
+      "meaning": "服务时限（Service Level Agreement）",
+      "example": "Do not touch the SLA clock during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个服务时限。",
       "category": "it"
     },
     {
       "word": "P1 incident",
       "phonetic": "/piː wʌn ˈɪnsɪdənt/",
       "meaning": "一级故障",
-      "example": "Please review the P1 incident after the patch.",
-      "exampleZh": "打补丁后请审阅这个一级故障。",
+      "example": "The vendor asked for a screenshot of the P1 incident.",
+      "exampleZh": "厂商要一张这个一级故障的截图。",
       "category": "it"
     }
   ]

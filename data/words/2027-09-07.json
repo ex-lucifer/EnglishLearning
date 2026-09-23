@@ -5,80 +5,80 @@
       "word": "obsolete version",
       "phonetic": "/ˈɒbsəliːt ˈvɜːʃn/",
       "meaning": "作废版本",
-      "example": "I updated the obsolete version this morning.",
-      "exampleZh": "我今天早上更新了这个作废版本。",
+      "example": "Please bring the obsolete version to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个作废版本。",
       "category": "office"
     },
     {
       "word": "controlled document",
       "phonetic": "/kənˈtrəʊld ˈdɒkjumənt/",
       "meaning": "受控文件",
-      "example": "Please share the controlled document after the meeting.",
-      "exampleZh": "会后请分享这个受控文件。",
+      "example": "We talked about the controlled document with the department head.",
+      "exampleZh": "我们和科主任谈了这个受控文件。",
       "category": "office"
     },
     {
       "word": "uncontrolled copy",
       "phonetic": "/ˌʌnkənˈtrəʊld ˈkɒpi/",
       "meaning": "非受控副本",
-      "example": "The uncontrolled copy is ready for review.",
-      "exampleZh": "这个非受控副本已经可以审阅了。",
+      "example": "The uncontrolled copy still needs a decision today.",
+      "exampleZh": "这个非受控副本今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "master copy",
       "phonetic": "/ˈmɑːstə ˈkɒpi/",
       "meaning": "正本",
-      "example": "Please share the master copy after the meeting.",
-      "exampleZh": "会后请分享这个正本。",
+      "example": "Could you send the master copy to the project group?",
+      "exampleZh": "你能把正本发到项目群吗？",
       "category": "office"
     },
     {
       "word": "working copy",
       "phonetic": "/ˈwɜːkɪŋ ˈkɒpi/",
       "meaning": "工作副本",
-      "example": "The working copy is ready for review.",
-      "exampleZh": "这个工作副本已经可以审阅了。",
+      "example": "Who will own the working copy this week?",
+      "exampleZh": "这周这个工作副本谁来负责？",
       "category": "office"
     },
     {
       "word": "send connector",
       "phonetic": "/send kəˈnektə/",
       "meaning": "发送连接器",
-      "example": "We need the send connector before go-live.",
-      "exampleZh": "上线前我们需要这个发送连接器。",
+      "example": "Who is on call for the send connector this week?",
+      "exampleZh": "这周这个发送连接器谁值班？",
       "category": "it"
     },
     {
       "word": "receive connector",
       "phonetic": "/rɪˈsiːv kəˈnektə/",
       "meaning": "接收连接器",
-      "example": "Who supports this receive connector?",
-      "exampleZh": "谁支持这个接收连接器？",
+      "example": "We will verify the receive connector after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个接收连接器。",
       "category": "it"
     },
     {
       "word": "accepted domain",
       "phonetic": "/əkˈseptɪd dəˈmeɪn/",
       "meaning": "接受域名",
-      "example": "We need the accepted domain before go-live.",
-      "exampleZh": "上线前我们需要这个接受域名。",
+      "example": "We will verify the accepted domain after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个接受域名。",
       "category": "it"
     },
     {
       "word": "authoritative domain",
       "phonetic": "/ɔːˈθɒrətətɪv dəˈmeɪn/",
       "meaning": "权威域名",
-      "example": "We need the authoritative domain before go-live.",
-      "exampleZh": "上线前我们需要这个权威域名。",
+      "example": "We will verify the authoritative domain after the night batch.",
+      "exampleZh": "夜批结束后我们再核对这个权威域名。",
       "category": "it"
     },
     {
       "word": "internal relay domain",
       "phonetic": "/ɪnˈtɜːnl ˈriːleɪ dəˈmeɪn/",
       "meaning": "内部中继域名",
-      "example": "We need the internal relay domain before go-live.",
-      "exampleZh": "上线前我们需要这个内部中继域名。",
+      "example": "I logged the internal relay domain in today’s change ticket.",
+      "exampleZh": "我把这个内部中继域名记进了今天的变更单。",
       "category": "it"
     }
   ]

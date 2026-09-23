@@ -5,80 +5,80 @@
       "word": "consulted",
       "phonetic": "/kənˈsʌltɪd/",
       "meaning": "需征询的",
-      "example": "Stay consulted in the meeting.",
-      "exampleZh": "会上请保持需征询的。",
+      "example": "Nursing must be consulted before we change the form.",
+      "exampleZh": "改表前必须征询护理。",
       "category": "office"
     },
     {
       "word": "informed",
       "phonetic": "/ɪnˈfɔːmd/",
       "meaning": "需知会的",
-      "example": "This request is informed.",
-      "exampleZh": "这个请求是需知会的的。",
+      "example": "Keep the night lead informed of the delay.",
+      "exampleZh": "延误情况请知会夜班组长。",
       "category": "office"
     },
     {
       "word": "due date",
       "phonetic": "/djuː deɪt/",
       "meaning": "到期日",
-      "example": "Please share the due date after the meeting.",
-      "exampleZh": "会后请分享这个到期日。",
+      "example": "Please bring the due date to the morning huddle.",
+      "exampleZh": "早碰头时请带上这个到期日。",
       "category": "office"
     },
     {
       "word": "extension",
       "phonetic": "/ɪkˈstenʃn/",
       "meaning": "延期",
-      "example": "Please review the extension.",
-      "exampleZh": "请审阅一下这个延期。",
+      "example": "We talked about the extension with the department head.",
+      "exampleZh": "我们和科主任谈了这个延期。",
       "category": "office"
     },
     {
       "word": "overdue",
       "phonetic": "/ˌəʊvəˈdjuː/",
       "meaning": "已逾期",
-      "example": "This request is overdue.",
-      "exampleZh": "这个请求是已逾期的。",
+      "example": "The travel claim is overdue.",
+      "exampleZh": "差旅报销已经逾期。",
       "category": "office"
     },
     {
       "word": "hot backup",
       "phonetic": "/hɒt ˈbækʌp/",
       "meaning": "热备份",
-      "example": "The hot backup is in production.",
-      "exampleZh": "这个热备份已在生产环境。",
+      "example": "The vendor asked for a screenshot of the hot backup.",
+      "exampleZh": "厂商要一张这个热备份的截图。",
       "category": "it"
     },
     {
       "word": "incremental backup",
       "phonetic": "/ˌɪŋkrɪˈmentl ˈbækʌp/",
       "meaning": "增量备份",
-      "example": "Please review the incremental backup after the patch.",
-      "exampleZh": "打补丁后请审阅这个增量备份。",
+      "example": "Please test the incremental backup on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个增量备份。",
       "category": "it"
     },
     {
       "word": "full backup",
       "phonetic": "/fʊl ˈbækʌp/",
       "meaning": "全量备份",
-      "example": "Who supports this full backup?",
-      "exampleZh": "谁支持这个全量备份？",
+      "example": "Who is on call for the full backup this week?",
+      "exampleZh": "这周这个全量备份谁值班？",
       "category": "it"
     },
     {
       "word": "differential backup",
       "phonetic": "/ˌdɪfəˈrenʃl ˈbækʌp/",
       "meaning": "差异备份",
-      "example": "Who supports this differential backup?",
-      "exampleZh": "谁支持这个差异备份？",
+      "example": "Please test the differential backup on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个差异备份。",
       "category": "it"
     },
     {
       "word": "disaster recovery",
       "phonetic": "/dɪˈzɑːstə rɪˈkʌvəri/",
       "meaning": "灾难恢复",
-      "example": "Please review the disaster recovery after the patch.",
-      "exampleZh": "打补丁后请审阅这个灾难恢复。",
+      "example": "The ward asked us to check the disaster recovery.",
+      "exampleZh": "病区让我们看一下这个灾难恢复。",
       "category": "it"
     }
   ]

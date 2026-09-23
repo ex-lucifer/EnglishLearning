@@ -5,80 +5,80 @@
       "word": "pointer",
       "phonetic": "/ˈpɔɪntə/",
       "meaning": "激光笔",
-      "example": "I updated the pointer this morning.",
-      "exampleZh": "我今天早上更新了这个激光笔。",
+      "example": "The pointer still needs a decision today.",
+      "exampleZh": "这个激光笔今天还得拍个板。",
       "category": "office"
     },
     {
       "word": "clicker",
       "phonetic": "/ˈklɪkə/",
       "meaning": "翻页笔",
-      "example": "The clicker is ready for review.",
-      "exampleZh": "这个翻页笔已经可以审阅了。",
+      "example": "Who will own the clicker this week?",
+      "exampleZh": "这周这个翻页笔谁来负责？",
       "category": "office"
     },
     {
       "word": "nameplate",
       "phonetic": "/ˈneɪmpleɪt/",
       "meaning": "席卡",
-      "example": "Who is handling the nameplate?",
-      "exampleZh": "谁在处理这个席卡？",
+      "example": "Please add the nameplate to today’s notes.",
+      "exampleZh": "请把席卡写进今天的记录。",
       "category": "office"
     },
     {
       "word": "seating plan",
       "phonetic": "/ˈsiːtɪŋ plæn/",
       "meaning": "座位表",
-      "example": "The seating plan is ready for review.",
-      "exampleZh": "这个座位表已经可以审阅了。",
+      "example": "I put the seating plan on the shared drive.",
+      "exampleZh": "我把座位表放到了共享盘。",
       "category": "office"
     },
     {
       "word": "place card",
       "phonetic": "/pleɪs kɑːd/",
       "meaning": "座位卡",
-      "example": "Please share the place card after the meeting.",
-      "exampleZh": "会后请分享这个座位卡。",
+      "example": "We talked about the place card with the department head.",
+      "exampleZh": "我们和科主任谈了这个座位卡。",
       "category": "office"
     },
     {
       "word": "gpupdate",
       "phonetic": "/ˈdʒiːpiːˌʌpdeɪt/",
       "meaning": "刷新组策略",
-      "example": "Please gpupdate this before noon.",
-      "exampleZh": "请在中午前刷新组策略这个。",
+      "example": "Run gpupdate on the shared PCs after the policy change.",
+      "exampleZh": "策略改完后请在共用电脑上刷新组策略。",
       "category": "it"
     },
     {
       "word": "rsop",
       "phonetic": "/ˌɑːr es əʊ ˈpiː/",
-      "meaning": "策略结果集",
-      "example": "The rsop is slow this morning.",
-      "exampleZh": "今天早上 rsop 很慢。",
+      "meaning": "策略结果集（Resultant Set of Policy）",
+      "example": "Follow the rsop (Resultant Set of Policy) policy.",
+      "exampleZh": "请按 rsop（Resultant Set of Policy）的规定做。",
       "category": "it"
     },
     {
       "word": "event forwarding",
       "phonetic": "/ɪˈvent ˈfɔːwədɪŋ/",
       "meaning": "事件转发",
-      "example": "We need the event forwarding before go-live.",
-      "exampleZh": "上线前我们需要这个事件转发。",
+      "example": "The vendor asked for a screenshot of the event forwarding.",
+      "exampleZh": "厂商要一张这个事件转发的截图。",
       "category": "it"
     },
     {
       "word": "WEF",
       "phonetic": "/wef/",
-      "meaning": "Windows事件转发",
-      "example": "The WEF is slow this morning.",
-      "exampleZh": "今天早上 WEF 很慢。",
+      "meaning": "Windows事件转发（Windows Event Forwarding）",
+      "example": "We tested WEF (Windows Event Forwarding) on the backup server first.",
+      "exampleZh": "我们先在备机上测了 WEF（Windows Event Forwarding）。",
       "category": "it"
     },
     {
       "word": "collector",
       "phonetic": "/kəˈlektə/",
       "meaning": "事件收集器",
-      "example": "Please review the collector after the patch.",
-      "exampleZh": "打补丁后请审阅这个事件收集器。",
+      "example": "The ward asked us to check the collector.",
+      "exampleZh": "病区让我们看一下这个事件收集器。",
       "category": "it"
     }
   ]

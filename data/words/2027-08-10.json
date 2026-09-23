@@ -45,40 +45,40 @@
       "word": "virtual switch",
       "phonetic": "/ˈvɜːtʃuəl swɪtʃ/",
       "meaning": "虚拟交换机",
-      "example": "Who supports this virtual switch?",
-      "exampleZh": "谁支持这个虚拟交换机？",
+      "example": "Who is on call for the virtual switch this week?",
+      "exampleZh": "这周这个虚拟交换机谁值班？",
       "category": "it"
     },
     {
       "word": "uplink NIC",
       "phonetic": "/ˈʌplɪŋk nɪk/",
       "meaning": "上联网卡",
-      "example": "Who supports this uplink NIC?",
-      "exampleZh": "谁支持这个上联网卡？",
+      "example": "The ward asked us to check the uplink NIC.",
+      "exampleZh": "病区让我们看一下这个上联网卡。",
       "category": "it"
     },
     {
       "word": "NIC teaming",
       "phonetic": "/nɪk ˈtiːmɪŋ/",
-      "meaning": "网卡绑定",
-      "example": "Please check the NIC teaming.",
-      "exampleZh": "请检查一下这个网卡绑定。",
+      "meaning": "网卡绑定（Network Interface Card）",
+      "example": "Do not touch the NIC teaming during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个网卡绑定。",
       "category": "it"
     },
     {
       "word": "LACP",
       "phonetic": "/lækp/",
-      "meaning": "链路聚合",
-      "example": "The LACP is slow this morning.",
-      "exampleZh": "今天早上 LACP 很慢。",
+      "meaning": "链路聚合（Link Aggregation Control Protocol）",
+      "example": "We use LACP (Link Aggregation Control Protocol) for this integration.",
+      "exampleZh": "这条集成用的是 LACP（Link Aggregation Control Protocol）。",
       "category": "it"
     },
     {
       "word": "load balance",
       "phonetic": "/ləʊd ˈbæləns/",
       "meaning": "负载分担",
-      "example": "Please review the load balance after the patch.",
-      "exampleZh": "打补丁后请审阅这个负载分担。",
+      "example": "The vendor asked for a screenshot of the load balance.",
+      "exampleZh": "厂商要一张这个负载分担的截图。",
       "category": "it"
     }
   ]

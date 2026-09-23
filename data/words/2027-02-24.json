@@ -5,80 +5,80 @@
       "word": "introduce",
       "phonetic": "/ˌɪntrəˈdjuːs/",
       "meaning": "介绍",
-      "example": "I will introduce it after the meeting.",
-      "exampleZh": "会后我会介绍它。",
+      "example": "Can you introduce it today?",
+      "exampleZh": "你今天能把它介绍吗？",
       "category": "office"
     },
     {
       "word": "welcome",
       "phonetic": "/ˈwelkəm/",
       "meaning": "欢迎",
-      "example": "I will welcome it after the meeting.",
-      "exampleZh": "会后我会欢迎它。",
+      "example": "Please welcome the new intern at the front desk.",
+      "exampleZh": "请在前台迎接新来的实习生。",
       "category": "office"
     },
     {
       "word": "thank",
       "phonetic": "/θæŋk/",
       "meaning": "感谢",
-      "example": "Let's thank this first.",
-      "exampleZh": "我们先感谢这个吧。",
+      "example": "Thank the night shift for covering the drill.",
+      "exampleZh": "谢谢夜班顶了这次演练。",
       "category": "office"
     },
     {
       "word": "apologize",
       "phonetic": "/əˈpɒlədʒaɪz/",
       "meaning": "道歉",
-      "example": "We need to apologize this by Friday.",
-      "exampleZh": "我们周五前需要道歉这个。",
+      "example": "Please apologize to the ward for the late notice.",
+      "exampleZh": "通知晚了，请向病区道歉。",
       "category": "office"
     },
     {
       "word": "congratulate",
       "phonetic": "/kənˈɡrætʃuleɪt/",
       "meaning": "祝贺",
-      "example": "Please congratulate this before noon.",
-      "exampleZh": "请在中午前祝贺这个。",
+      "example": "Congratulate the team after the go-live.",
+      "exampleZh": "上线后请祝贺一下团队。",
       "category": "office"
     },
     {
       "word": "success rate",
       "phonetic": "/səkˈses reɪt/",
       "meaning": "成功率",
-      "example": "The success rate is in production.",
-      "exampleZh": "这个成功率已在生产环境。",
+      "example": "Please test the success rate on the backup environment first.",
+      "exampleZh": "请先在备用环境测试这个成功率。",
       "category": "it"
     },
     {
       "word": "p95 latency",
       "phonetic": "/piː naɪnti faɪv ˈleɪtənsi/",
       "meaning": "百分之九十五延迟",
-      "example": "We need the p95 latency before go-live.",
-      "exampleZh": "上线前我们需要这个百分之九十五延迟。",
+      "example": "The ward asked us to check the p95 latency.",
+      "exampleZh": "病区让我们看一下这个百分之九十五延迟。",
       "category": "it"
     },
     {
       "word": "p99 latency",
       "phonetic": "/piː naɪnti naɪn ˈleɪtənsi/",
       "meaning": "百分之九十九延迟",
-      "example": "We need the p99 latency before go-live.",
-      "exampleZh": "上线前我们需要这个百分之九十九延迟。",
+      "example": "Who is on call for the p99 latency this week?",
+      "exampleZh": "这周这个百分之九十九延迟谁值班？",
       "category": "it"
     },
     {
       "word": "cold start",
       "phonetic": "/kəʊld stɑːt/",
       "meaning": "冷启动",
-      "example": "Please review the cold start after the patch.",
-      "exampleZh": "打补丁后请审阅这个冷启动。",
+      "example": "The ward asked us to check the cold start.",
+      "exampleZh": "病区让我们看一下这个冷启动。",
       "category": "it"
     },
     {
       "word": "warm start",
       "phonetic": "/wɔːm stɑːt/",
       "meaning": "热启动",
-      "example": "We need the warm start before go-live.",
-      "exampleZh": "上线前我们需要这个热启动。",
+      "example": "Do not touch the warm start during outpatient hours.",
+      "exampleZh": "门诊时段不要动这个热启动。",
       "category": "it"
     }
   ]
