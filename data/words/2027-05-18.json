@@ -5,80 +5,80 @@
       "word": "traffic light",
       "phonetic": "/ˈtræfɪk laɪt/",
       "meaning": "红黄绿标识",
-      "example": "The traffic light still needs a decision today.",
-      "exampleZh": "这个红黄绿标识今天还得拍个板。",
+      "example": "Put a traffic light next to every line on the weekly status slide.",
+      "exampleZh": "请在每周状态页的每一行旁边标上红黄绿标识。",
       "category": "office"
     },
     {
       "word": "health check",
       "phonetic": "/helθ tʃek/",
       "meaning": "健康检查",
-      "example": "I put the health check on the shared drive.",
-      "exampleZh": "我把健康检查放到了共享盘。",
+      "example": "Friday's health check will look at queues, badges, and open forms.",
+      "exampleZh": "周五的健康检查会看排队情况、工牌和未结表格。",
       "category": "office"
     },
     {
       "word": "pulse check",
       "phonetic": "/pʌls tʃek/",
       "meaning": "快速摸底",
-      "example": "We talked about the pulse check with the department head.",
-      "exampleZh": "我们和科主任谈了这个快速摸底。",
+      "example": "Let us run a pulse check on staffing before the winter rush starts.",
+      "exampleZh": "冬季高峰开始之前，我们先对人员情况做个快速摸底。",
       "category": "office"
     },
     {
       "word": "temperature check",
       "phonetic": "/ˈtemprətʃə tʃek/",
       "meaning": "气氛摸底",
-      "example": "I put the temperature check on the shared drive.",
-      "exampleZh": "我把气氛摸底放到了共享盘。",
+      "example": "The temperature check this morning showed real worry about overtime.",
+      "exampleZh": "今早的气氛摸底显示，大家确实在担心加班。",
       "category": "office"
     },
     {
       "word": "morale",
       "phonetic": "/məˈrɑːl/",
       "meaning": "士气",
-      "example": "I put the morale on the shared drive.",
-      "exampleZh": "我把士气放到了共享盘。",
+      "example": "Staff morale fell after three weekends of required overtime.",
+      "exampleZh": "连续三个周末都必须加班之后，员工士气下降了。",
       "category": "office"
     },
     {
       "word": "ulimit",
       "phonetic": "/ˈjuːlɪmɪt/",
       "meaning": "资源上限",
-      "example": "Do not touch the ulimit during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个资源上限。",
+      "example": "The ulimit for open files was too low, and the interface stopped accepting connections.",
+      "exampleZh": "打开文件数的资源上限太低，接口就不再接受新连接了。",
       "category": "it"
     },
     {
       "word": "nice value",
       "phonetic": "/naɪs ˈvæljuː/",
       "meaning": "进程优先级",
-      "example": "Do not touch the nice value during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个进程优先级。",
+      "example": "Check the nice value if the backup is stealing CPU from noon charting.",
+      "exampleZh": "如果备份在抢中午写病历的 CPU，就去看进程优先级。",
       "category": "it"
     },
     {
       "word": "process ID",
       "phonetic": "/ˈprəʊses aɪ ˈdiː/",
       "meaning": "进程号",
-      "example": "The ward asked us to check the process ID.",
-      "exampleZh": "病区让我们看一下这个进程号。",
+      "example": "Note the process ID before you kill the stuck print spooler on the ward PC.",
+      "exampleZh": "在病区电脑上结束卡住的打印服务之前，先记下进程号。",
       "category": "it"
     },
     {
       "word": "parent process",
       "phonetic": "/ˈpeərənt ˈprəʊses/",
       "meaning": "父进程",
-      "example": "Please test the parent process on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个父进程。",
+      "example": "The parent process of that stuck job is the print spooler, not the browser.",
+      "exampleZh": "那个卡住任务的父进程是打印服务，不是浏览器。",
       "category": "it"
     },
     {
       "word": "zombie process",
       "phonetic": "/ˈzɒmbi ˈprəʊses/",
       "meaning": "僵尸进程",
-      "example": "Who is on call for the zombie process this week?",
-      "exampleZh": "这周这个僵尸进程谁值班？",
+      "example": "A zombie process from the old viewer is still listed, but it holds no memory.",
+      "exampleZh": "旧阅片程序留下的僵尸进程还在列表里，但它不占内存。",
       "category": "it"
     }
   ]

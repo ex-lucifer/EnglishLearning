@@ -21,64 +21,64 @@
       "word": "busy morning",
       "phonetic": "/ˈbɪzi ˈmɔːnɪŋ/",
       "meaning": "忙碌的上午",
-      "example": "We talked about the busy morning with the department head.",
-      "exampleZh": "我们和科主任谈了这个忙碌的上午。",
+      "example": "It was a busy morning, and the queue reached the front lobby.",
+      "exampleZh": "那是个忙碌的上午，队伍一直排到了前厅。",
       "category": "office"
     },
     {
       "word": "quiet afternoon",
       "phonetic": "/ˈkwaɪət ˌɑːftəˈnuːn/",
       "meaning": "清闲的下午",
-      "example": "Please add the quiet afternoon to today’s notes.",
-      "exampleZh": "请把清闲的下午写进今天的记录。",
+      "example": "Use this quiet afternoon to finish the minutes from yesterday.",
+      "exampleZh": "用这个清闲的下午把昨天的纪要写完。",
       "category": "office"
     },
     {
       "word": "heavy day",
       "phonetic": "/ˈhevi deɪ/",
       "meaning": "繁忙的一天",
-      "example": "Could you send the heavy day to the project group?",
-      "exampleZh": "你能把繁忙的一天发到项目群吗？",
+      "example": "Monday was a heavy day because two clerks were off sick.",
+      "exampleZh": "周一是繁忙的一天，因为有两名文员病休。",
       "category": "office"
     },
     {
       "word": "PTR",
       "phonetic": "/ˌpiː tiː ˈɑː/",
       "meaning": "反向解析记录（Pointer Record）",
-      "example": "Record the PTR (Pointer Record) before you close the change.",
-      "exampleZh": "关变更前请记下 PTR（Pointer Record）。",
+      "example": "The PTR (Pointer Record) for that printer says it belongs to Pharmacy.",
+      "exampleZh": "那台打印机的 PTR（反向解析记录）表明它属于药剂科。",
       "category": "it"
     },
     {
       "word": "SOA",
       "phonetic": "/ˌes əʊ ˈeɪ/",
       "meaning": "起始授权记录（Start of Authority）",
-      "example": "Please look up the SOA (Start of Authority) on this ticket.",
-      "exampleZh": "请在这张工单上查一下 SOA（Start of Authority）。",
+      "example": "The SOA (Start of Authority) shows the contact for our hospital zone.",
+      "exampleZh": "SOA（起始授权记录）写明本院 DNS 区域的联系人。",
       "category": "it"
     },
     {
       "word": "NS record",
       "phonetic": "/en es ˈrekɔːd/",
       "meaning": "域名服务器记录",
-      "example": "The vendor asked for a screenshot of the NS record.",
-      "exampleZh": "厂商要一张这个域名服务器记录的截图。",
+      "example": "The NS record lists which servers answer for the clinic domain.",
+      "exampleZh": "域名服务器记录列出负责门诊域名的服务器。",
       "category": "it"
     },
     {
       "word": "TXT record",
       "phonetic": "/tekst ˈrekɔːd/",
       "meaning": "文本记录",
-      "example": "We will verify the TXT record after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个文本记录。",
+      "example": "A TXT record on our domain holds the mail security policy.",
+      "exampleZh": "我们域名上的一条文本记录存着邮件安全策略。",
       "category": "it"
     },
     {
       "word": "SPF",
       "phonetic": "/ˌes piː ˈef/",
       "meaning": "发件人策略（Sender Policy Framework）",
-      "example": "Enable SPF (Sender Policy Framework) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 SPF（Sender Policy Framework）。",
+      "example": "SPF (Sender Policy Framework) lists which servers may send hospital mail.",
+      "exampleZh": "SPF（发件人策略）列出可以发送本院邮件的服务器。",
       "category": "it"
     }
   ]

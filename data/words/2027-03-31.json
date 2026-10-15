@@ -5,80 +5,80 @@
       "word": "junk mail",
       "phonetic": "/dʒʌŋk meɪl/",
       "meaning": "垃圾邮件",
-      "example": "The junk mail still needs a decision today.",
-      "exampleZh": "这个垃圾邮件今天还得拍个板。",
+      "example": "The vendor's answer may be sitting in the junk mail folder.",
+      "exampleZh": "供应商的回复可能在垃圾邮件文件夹里。",
       "category": "office"
     },
     {
       "word": "recall",
       "phonetic": "/rɪˈkɔːl/",
       "meaning": "撤回邮件",
-      "example": "Recall the email if it went to the wrong group.",
-      "exampleZh": "如果发错组，请撤回邮件。",
+      "example": "Recall the mail now, before staff across the clinic open it.",
+      "exampleZh": "现在就撤回这封邮件，别等门诊各处的人打开它。",
       "category": "office"
     },
     {
       "word": "unsubscribe",
       "phonetic": "/ˌʌnsəbˈskraɪb/",
       "meaning": "退订",
-      "example": "Unsubscribe from that vendor list.",
-      "exampleZh": "请退订那个厂商名单。",
+      "example": "There is an unsubscribe link at the bottom of that vendor newsletter.",
+      "exampleZh": "那份供应商通讯的最下方有退订链接。",
       "category": "office"
     },
     {
       "word": "flag",
       "phonetic": "/flæɡ/",
       "meaning": "标旗标记",
-      "example": "We still need to flag this.",
-      "exampleZh": "这件事还得标旗标记。",
+      "example": "Flag anything from the director so the team answers those mails first.",
+      "exampleZh": "请把主任的来信标旗，让大家优先回复。",
       "category": "office"
     },
     {
       "word": "pin",
       "phonetic": "/pɪn/",
       "meaning": "置顶",
-      "example": "Who will pin this after the huddle?",
-      "exampleZh": "晨会后谁来置顶？",
+      "example": "Pin this roster notice and leave it at the top of the shared inbox.",
+      "exampleZh": "请把这份排班通知置顶，留在共享收件箱的最上面。",
       "category": "office"
     },
     {
       "word": "MAN",
       "phonetic": "/mæn/",
       "meaning": "城域网（Metropolitan Area Network）",
-      "example": "Check MAN (Metropolitan Area Network) connectivity from the ward.",
-      "exampleZh": "请从病区检查 MAN（Metropolitan Area Network）连通性。",
+      "example": "Our MAN (Metropolitan Area Network) ties the three city campuses on hospital fiber.",
+      "exampleZh": "我们的 MAN（城域网）用医院自己的光纤把市区三个院区连起来。",
       "category": "it"
     },
     {
       "word": "MPLS",
       "phonetic": "/ˌem piː el ˈes/",
       "meaning": "多协议标签交换（Multiprotocol Label Switching）",
-      "example": "We use MPLS (Multiprotocol Label Switching) for this integration.",
-      "exampleZh": "这条集成用的是 MPLS（Multiprotocol Label Switching）。",
+      "example": "MPLS (Multiprotocol Label Switching) carries the east campus traffic separate from internet.",
+      "exampleZh": "MPLS（多协议标签交换）把东院区业务和上网流量分开承载。",
       "category": "it"
     },
     {
       "word": "SD-WAN",
       "phonetic": "/ˌes diː ˈwæn/",
       "meaning": "软件定义广域网（Software-Defined Wide Area Network）",
-      "example": "Please confirm SD-WAN (Software-Defined Wide Area Network) is allowed through the firewall.",
-      "exampleZh": "请确认防火墙放行 SD-WAN（Software-Defined Wide Area Network）。",
+      "example": "SD-WAN (Software-Defined Wide Area Network) moved clinic traffic to the backup circuit at noon.",
+      "exampleZh": "中午 SD-WAN（软件定义广域网）把门诊流量切到了备用专线。",
       "category": "it"
     },
     {
       "word": "dark fiber",
       "phonetic": "/dɑːk ˈfaɪbə/",
       "meaning": "裸光纤",
-      "example": "The ward asked us to check the dark fiber.",
-      "exampleZh": "病区让我们看一下这个裸光纤。",
+      "example": "The dark fiber between the two campuses is ours, and the carrier only lights the path.",
+      "exampleZh": "两院区之间的裸光纤是我们的，运营商只负责把光打通。",
       "category": "it"
     },
     {
       "word": "last mile",
       "phonetic": "/lɑːst maɪl/",
       "meaning": "最后一公里",
-      "example": "The vendor asked for a screenshot of the last mile.",
-      "exampleZh": "厂商要一张这个最后一公里的截图。",
+      "example": "The last mile to the clinic annex is copper, and it fails whenever it rains.",
+      "exampleZh": "到门诊附楼的最后一公里还是铜缆，一下雨就出故障。",
       "category": "it"
     }
   ]

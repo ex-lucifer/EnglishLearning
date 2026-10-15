@@ -5,80 +5,80 @@
       "word": "subject line",
       "phonetic": "/ˈsʌbdʒɪkt laɪn/",
       "meaning": "邮件主题",
-      "example": "Please add the subject line to today’s notes.",
-      "exampleZh": "请把邮件主题写进今天的记录。",
+      "example": "Put the patient initials, not the full name, in the subject line.",
+      "exampleZh": "邮件主题里写患者姓名缩写，不要写全名。",
       "category": "office"
     },
     {
       "word": "attachment",
       "phonetic": "/əˈtætʃmənt/",
       "meaning": "附件",
-      "example": "The attachment still needs a decision today.",
-      "exampleZh": "这个附件今天还得拍个板。",
+      "example": "The attachment is the scanned consent, named with the date.",
+      "exampleZh": "附件是按日期命名的知情同意扫描件。",
       "category": "office"
     },
     {
       "word": "thread",
       "phonetic": "/θred/",
       "meaning": "邮件串",
-      "example": "I put the thread on the shared drive.",
-      "exampleZh": "我把邮件串放到了共享盘。",
+      "example": "Keep the salary discussion in a separate thread from the roster.",
+      "exampleZh": "薪资讨论不要和排班表放在同一封邮件串里。",
       "category": "office"
     },
     {
       "word": "inbox",
       "phonetic": "/ˈɪnbɒks/",
       "meaning": "收件箱",
-      "example": "Who will own the inbox this week?",
-      "exampleZh": "这周这个收件箱谁来负责？",
+      "example": "I clear the shared inbox at nine, at one, and at four.",
+      "exampleZh": "共享收件箱我在九点、一点和四点各清一次。",
       "category": "office"
     },
     {
       "word": "FYI",
       "phonetic": "/ˌef waɪ ˈaɪ/",
       "meaning": "仅供参考（For Your Information）",
-      "example": "I sent the downtime note FYI (for your information), no action needed.",
-      "exampleZh": "停机说明我已 FYI（仅供参考）发出，不用处理。",
+      "example": "FYI (For Your Information), the canteen is closed for cleaning on Friday.",
+      "exampleZh": "FYI（仅供参考），食堂周五打扫，暂停开放。",
       "category": "office"
     },
     {
       "word": "order set",
       "phonetic": "/ˈɔːdə set/",
       "meaning": "医嘱套餐",
-      "example": "Please test the order set on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个医嘱套餐。",
+      "example": "The sepsis order set still includes a drug we no longer stock.",
+      "exampleZh": "脓毒症医嘱套餐里还有一种我们已经不再备货的药。",
       "category": "it"
     },
     {
       "word": "care plan",
       "phonetic": "/keə plæn/",
       "meaning": "护理计划",
-      "example": "I logged the care plan in today’s change ticket.",
-      "exampleZh": "我把这个护理计划记进了今天的变更单。",
+      "example": "The care plan for this patient still lists the old wound goal.",
+      "exampleZh": "这位患者的护理计划里还写着旧的伤口目标。",
       "category": "it"
     },
     {
       "word": "flowsheet",
       "phonetic": "/ˈfləʊʃiːt/",
       "meaning": "护理记录单",
-      "example": "I logged the flowsheet in today’s change ticket.",
-      "exampleZh": "我把这个护理记录单记进了今天的变更单。",
+      "example": "The night flowsheet is missing blood pressures between two and four.",
+      "exampleZh": "夜间护理记录单缺了两点到四点的血压。",
       "category": "it"
     },
     {
       "word": "MAR",
       "phonetic": "/mɑː/",
       "meaning": "用药执行单（Medication Administration Record）",
-      "example": "Send the MAR (Medication Administration Record) to the ward.",
-      "exampleZh": "请把 MAR（Medication Administration Record）发给病区。",
+      "example": "MAR (Medication Administration Record) shows the morning dose as still due.",
+      "exampleZh": "MAR（用药执行单）上早晨那一剂还显示未执行。",
       "category": "it"
     },
     {
       "word": "eMAR",
       "phonetic": "/ˈiːmɑː/",
       "meaning": "电子用药执行单（Electronic Medication Administration Record）",
-      "example": "The eMAR (Electronic Medication Administration Record) is missing on this chart.",
-      "exampleZh": "这份记录少了 eMAR（Electronic Medication Administration Record）。",
+      "example": "eMAR (Electronic Medication Administration Record) rejected the scan from this wristband.",
+      "exampleZh": "eMAR（电子用药执行单）拒收了这条腕带的扫描。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "cancel",
       "phonetic": "/ˈkænsl/",
       "meaning": "取消",
-      "example": "Cancel the vendor visit if the computer room is locked.",
-      "exampleZh": "机房上锁的话就取消厂商上门。",
+      "example": "They will cancel the brown-bag if fewer than six people reply.",
+      "exampleZh": "如果回复不到六人，午餐分享会就会取消。",
       "category": "office"
     },
     {
       "word": "confirm",
       "phonetic": "/kənˈfɜːm/",
       "meaning": "确认",
-      "example": "Please confirm the downtime window with the duty nurse.",
-      "exampleZh": "请和值班护士确认停机窗口。",
+      "example": "Can you confirm the interpreter before we promise the family?",
+      "exampleZh": "答应家属之前，你能先确认翻译在吗？",
       "category": "office"
     },
     {
       "word": "reminder",
       "phonetic": "/rɪˈmaɪndə/",
       "meaning": "提醒",
-      "example": "Who will own the reminder this week?",
-      "exampleZh": "这周这个提醒谁来负责？",
+      "example": "The reminder about badges will go on the notice board today.",
+      "exampleZh": "关于工牌的提醒今天会贴到公告栏上。",
       "category": "office"
     },
     {
       "word": "announcement",
       "phonetic": "/əˈnaʊnsmənt/",
       "meaning": "通知",
-      "example": "Who will own the announcement this week?",
-      "exampleZh": "这周这个通知谁来负责？",
+      "example": "An announcement about the water shutdown is going out at noon.",
+      "exampleZh": "停水通知中午会发出去。",
       "category": "office"
     },
     {
       "word": "memo",
       "phonetic": "/ˈmeməʊ/",
       "meaning": "内部备忘",
-      "example": "I put the memo on the shared drive.",
-      "exampleZh": "我把内部备忘放到了共享盘。",
+      "example": "The memo asks us to stop leaving patient lists on the counter.",
+      "exampleZh": "内部备忘要求我们不要把患者名单留在台面上。",
       "category": "office"
     },
     {
       "word": "infusion pump",
       "phonetic": "/ɪnˈfjuːʒn pʌmp/",
       "meaning": "输液泵",
-      "example": "I logged the infusion pump in today’s change ticket.",
-      "exampleZh": "我把这个输液泵记进了今天的变更单。",
+      "example": "The infusion pump on bed six lost its drug library overnight.",
+      "exampleZh": "六床的输液泵夜里把药库弄丢了。",
       "category": "it"
     },
     {
       "word": "vital monitor",
       "phonetic": "/ˈvaɪtl ˈmɒnɪtə/",
       "meaning": "生命体征监护仪",
-      "example": "We will verify the vital monitor after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个生命体征监护仪。",
+      "example": "The vital monitor in ICU bay three stopped sending heart rates.",
+      "exampleZh": "重症三床的生命体征监护仪不再上传心率。",
       "category": "it"
     },
     {
       "word": "barcode scanner",
       "phonetic": "/ˈbɑːkəʊd ˈskænə/",
       "meaning": "条码扫描枪",
-      "example": "The vendor asked for a screenshot of the barcode scanner.",
-      "exampleZh": "厂商要一张这个条码扫描枪的截图。",
+      "example": "This barcode scanner misreads wristbands under the ward lights.",
+      "exampleZh": "这把条码扫描枪在病区灯光下会扫错腕带。",
       "category": "it"
     },
     {
       "word": "RFID",
       "phonetic": "/ˌɑːr ef aɪ ˈdiː/",
       "meaning": "射频识别（Radio Frequency Identification）",
-      "example": "Replace the RFID (Radio Frequency Identification) after hours.",
-      "exampleZh": "下班后再更换 RFID（Radio Frequency Identification）。",
+      "example": "RFID (Radio Frequency Identification) on the infusion pump failed at the door.",
+      "exampleZh": "这台输液泵上的RFID（射频识别）在门口没有读到。",
       "category": "it"
     },
     {
       "word": "RTLS",
       "phonetic": "/ˌɑːr tiː el ˈes/",
       "meaning": "实时定位系统（Real-Time Location System）",
-      "example": "The ward called because RTLS (Real-Time Location System) would not open.",
-      "exampleZh": "病区来电，说 RTLS（Real-Time Location System）打不开。",
+      "example": "RTLS (Real-Time Location System) still shows the wheelchair in the old clinic.",
+      "exampleZh": "RTLS（实时定位系统）还显示那台轮椅在旧门诊。",
       "category": "it"
     }
   ]

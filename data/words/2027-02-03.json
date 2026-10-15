@@ -5,80 +5,80 @@
       "word": "suggestion box",
       "phonetic": "/səˈdʒestʃn bɒks/",
       "meaning": "意见箱",
-      "example": "I put the suggestion box on the shared drive.",
-      "exampleZh": "我把意见箱放到了共享盘。",
+      "example": "The suggestion box by the canteen is emptied every Friday.",
+      "exampleZh": "食堂旁的意见箱每周五清空一次。",
       "category": "office"
     },
     {
       "word": "complaint",
       "phonetic": "/kəmˈpleɪnt/",
       "meaning": "投诉",
-      "example": "Please add the complaint to today’s notes.",
-      "exampleZh": "请把投诉写进今天的记录。",
+      "example": "Please log the complaint with the date, the ward, and the family's name.",
+      "exampleZh": "请记下投诉的日期、病区和家属姓名。",
       "category": "office"
     },
     {
       "word": "compliment",
       "phonetic": "/ˈkɒmplɪmənt/",
       "meaning": "表扬",
-      "example": "I put the compliment on the shared drive.",
-      "exampleZh": "我把表扬放到了共享盘。",
+      "example": "The compliment described a clerk who found a lost hearing aid.",
+      "exampleZh": "这则表扬写的是一位找回助听器的文员。",
       "category": "office"
     },
     {
       "word": "patient feedback",
       "phonetic": "/ˈpeɪʃnt ˈfiːdbæk/",
       "meaning": "患者反馈",
-      "example": "I put the patient feedback on the shared drive.",
-      "exampleZh": "我把患者反馈放到了共享盘。",
+      "example": "Patient feedback from April mentions waits and kind reception staff.",
+      "exampleZh": "四月的患者反馈提到了等候，也提到接待人员态度好。",
       "category": "office"
     },
     {
       "word": "service recovery",
       "phonetic": "/ˈsɜːvɪs rɪˈkʌvəri/",
       "meaning": "服务补救",
-      "example": "Who will own the service recovery this week?",
-      "exampleZh": "这周这个服务补救谁来负责？",
+      "example": "Service recovery included a quieter room and a call from the manager.",
+      "exampleZh": "服务补救包括一间更安静的房间，以及经理打来的电话。",
       "category": "office"
     },
     {
       "word": "trigger",
       "phonetic": "/ˈtrɪɡə/",
       "meaning": "触发器",
-      "example": "Please test the trigger on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个触发器。",
+      "example": "A trigger on the order table wrote the same charge twice.",
+      "exampleZh": "医嘱表上的触发器把同一笔费用写了两次。",
       "category": "it"
     },
     {
       "word": "constraint",
       "phonetic": "/kənˈstreɪnt/",
       "meaning": "约束",
-      "example": "I logged the constraint in today’s change ticket.",
-      "exampleZh": "我把这个约束记进了今天的变更单。",
+      "example": "A constraint rejected the order because the dose field was left empty.",
+      "exampleZh": "剂量字段空着，约束把这张医嘱拒绝了。",
       "category": "it"
     },
     {
       "word": "foreign key",
       "phonetic": "/ˈfɒrən kiː/",
       "meaning": "外键",
-      "example": "The ward asked us to check the foreign key.",
-      "exampleZh": "病区让我们看一下这个外键。",
+      "example": "The foreign key blocked the delete because later visits still point at this patient.",
+      "exampleZh": "后面还有就诊指向这位患者，外键把删除拦住了。",
       "category": "it"
     },
     {
       "word": "primary key",
       "phonetic": "/ˈpraɪməri kiː/",
       "meaning": "主键",
-      "example": "Please test the primary key on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个主键。",
+      "example": "The primary key on visits collided when two clinics issued the same number.",
+      "exampleZh": "两个门诊发出同一个号时，就诊记录的主键冲突了。",
       "category": "it"
     },
     {
       "word": "unique index",
       "phonetic": "/juˈniːk ˈɪndeks/",
       "meaning": "唯一索引",
-      "example": "The vendor asked for a screenshot of the unique index.",
-      "exampleZh": "厂商要一张这个唯一索引的截图。",
+      "example": "The unique index on wristband codes rejected a number that was reused.",
+      "exampleZh": "腕带编码上的唯一索引拒绝了一个被重复使用的号码。",
       "category": "it"
     }
   ]

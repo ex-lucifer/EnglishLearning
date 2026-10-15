@@ -45,40 +45,40 @@
       "word": "RRSIG",
       "phonetic": "/ˌɑːr ɑːr sɪɡ/",
       "meaning": "资源记录签名（Resource Record Signature）",
-      "example": "Please look up the RRSIG (Resource Record Signature) on this ticket.",
-      "exampleZh": "请在这张工单上查一下 RRSIG（Resource Record Signature）。",
+      "example": "Each RRSIG (Resource Record Signature) covers one set of host records.",
+      "exampleZh": "每条 RRSIG（资源记录签名）覆盖一组主机记录。",
       "category": "it"
     },
     {
       "word": "DS record",
       "phonetic": "/diː es ˈrekɔːd/",
       "meaning": "委托签名记录",
-      "example": "We will verify the DS record after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个委托签名记录。",
+      "example": "The DS record in the parent zone links to our hospital signing key.",
+      "exampleZh": "父区域里的委托签名记录指向本院的签名密钥。",
       "category": "it"
     },
     {
       "word": "glue record",
       "phonetic": "/ɡluː ˈrekɔːd/",
       "meaning": "粘合记录",
-      "example": "The ward asked us to check the glue record.",
-      "exampleZh": "病区让我们看一下这个粘合记录。",
+      "example": "A glue record supplies the address of the name server itself.",
+      "exampleZh": "粘合记录提供的是域名服务器自身的地址。",
       "category": "it"
     },
     {
       "word": "root hints",
       "phonetic": "/ruːt hɪnts/",
       "meaning": "根提示",
-      "example": "Who is on call for the root hints this week?",
-      "exampleZh": "这周这个根提示谁值班？",
+      "example": "Root hints tell our DNS server where the internet root servers are.",
+      "exampleZh": "根提示告诉 DNS 服务器，互联网根服务器在哪里。",
       "category": "it"
     },
     {
       "word": "forwarder",
       "phonetic": "/ˈfɔːwədə/",
       "meaning": "转发器",
-      "example": "Who is on call for the forwarder this week?",
-      "exampleZh": "这周这个转发器谁值班？",
+      "example": "The forwarder sends unknown names to the city's DNS service.",
+      "exampleZh": "转发器会把解析不了的名字交给市里的 DNS。",
       "category": "it"
     }
   ]

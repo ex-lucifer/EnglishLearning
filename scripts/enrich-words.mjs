@@ -1,3 +1,25 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const exampleDir = path.join(path.dirname(fileURLToPath(import.meta.url)), 'examples');
+
+function loadCustomExamples() {
+  const map = new Map();
+  if (!fs.existsSync(exampleDir)) return map;
+  for (const name of fs.readdirSync(exampleDir)) {
+    if (!name.endsWith('.json')) continue;
+    const data = JSON.parse(fs.readFileSync(path.join(exampleDir, name), 'utf8'));
+    for (const [word, pair] of Object.entries(data)) {
+      if (!Array.isArray(pair) || pair.length < 2) continue;
+      map.set(word, [String(pair[0]).trim(), String(pair[1]).trim()]);
+    }
+  }
+  return map;
+}
+
+const CUSTOM_EXAMPLES = loadCustomExamples();
+
 function hash(str) {
   let h = 0;
   for (const ch of str) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
@@ -546,6 +568,10 @@ export function enrichEntry(entry, kind = 'n') {
       example: entry.example.trim(),
       exampleZh: entry.exampleZh.trim()
     };
+  }
+  if (CUSTOM_EXAMPLES.has(entry.word)) {
+    const pair = CUSTOM_EXAMPLES.get(entry.word);
+    return { ...entry, meaning, example: pair[0], exampleZh: pair[1] };
   }
   let pair;
   if (expansion && (kind === 'acr' || EXPANSIONS[entry.word] || EXPANSIONS[entry.word.toUpperCase()])) {

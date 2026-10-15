@@ -5,32 +5,32 @@
       "word": "courtesy visit",
       "phonetic": "/ˈkɜːtəsi ˈvɪzɪt/",
       "meaning": "礼节拜访",
-      "example": "Please add the courtesy visit to today’s notes.",
-      "exampleZh": "请把礼节拜访写进今天的记录。",
+      "example": "The director made a courtesy visit to the new manager of that ward.",
+      "exampleZh": "主任去了那个病区，对新负责人做了礼节拜访。",
       "category": "office"
     },
     {
       "word": "site visit",
       "phonetic": "/saɪt ˈvɪzɪt/",
       "meaning": "现场走访",
-      "example": "I put the site visit on the shared drive.",
-      "exampleZh": "我把现场走访放到了共享盘。",
+      "example": "The auditors set their site visit for next Wednesday morning.",
+      "exampleZh": "审计人员把现场走访定在下周三上午。",
       "category": "office"
     },
     {
       "word": "walk-in",
       "phonetic": "/wɔːk ɪn/",
       "meaning": "未预约来访",
-      "example": "Could you send the walk-in to the project group?",
-      "exampleZh": "你能把未预约来访发到项目群吗？",
+      "example": "A walk-in from the health bureau is sitting in reception right now.",
+      "exampleZh": "卫生局有一位未预约的来访者，这会儿正坐在接待处。",
       "category": "office"
     },
     {
       "word": "drop-in",
       "phonetic": "/drɒp ɪn/",
       "meaning": "顺便来访",
-      "example": "Who will own the drop-in this week?",
-      "exampleZh": "这周这个顺便来访谁来负责？",
+      "example": "The supplier made a drop-in while the director was still in session.",
+      "exampleZh": "供应商顺便来访的时候，主任还在开会。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "repair install",
       "phonetic": "/rɪˈpeə ɪnˈstɔːl/",
       "meaning": "修复安装",
-      "example": "We will verify the repair install after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个修复安装。",
+      "example": "A repair install fixed the viewer after the last patch removed a needed file.",
+      "exampleZh": "上次补丁删掉一个必要文件之后，修复安装把阅片程序修好了。",
       "category": "it"
     },
     {
       "word": "msi package",
       "phonetic": "/ˌem es ˈaɪ ˈpækɪdʒ/",
       "meaning": "安装包",
-      "example": "Who is on call for the msi package this week?",
-      "exampleZh": "这周这个安装包谁值班？",
+      "example": "The msi package for the viewer must be the one signed by the vendor this month.",
+      "exampleZh": "阅片程序的安装包必须是厂商这个月签名的那一版。",
       "category": "it"
     },
     {
       "word": "exe installer",
       "phonetic": "/ˌiː eks ˈiː ɪnˈstɔːlə/",
       "meaning": "可执行安装程序",
-      "example": "The vendor asked for a screenshot of the exe installer.",
-      "exampleZh": "厂商要一张这个可执行安装程序的截图。",
+      "example": "The exe installer asked for an admin password on every clinic PC.",
+      "exampleZh": "那个可执行安装程序在每台门诊电脑上都要管理员密码。",
       "category": "it"
     },
     {
       "word": "patch file",
       "phonetic": "/pætʃ faɪl/",
       "meaning": "补丁文件",
-      "example": "I logged the patch file in today’s change ticket.",
-      "exampleZh": "我把这个补丁文件记进了今天的变更单。",
+      "example": "The patch file from the vendor failed its signature check, so we did not apply it.",
+      "exampleZh": "厂商来的补丁文件没通过签名校验，所以我们没有装。",
       "category": "it"
     },
     {
       "word": "hotfix rollup",
       "phonetic": "/ˈhɒtfɪks ˈrəʊlʌp/",
       "meaning": "累积热修复",
-      "example": "The ward asked us to check the hotfix rollup.",
-      "exampleZh": "病区让我们看一下这个累积热修复。",
+      "example": "The hotfix rollup includes the six printer fixes we have been waiting on.",
+      "exampleZh": "这个累积热修复里有我们一直在等的六个打印修复。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "consulted",
       "phonetic": "/kənˈsʌltɪd/",
       "meaning": "需征询的",
-      "example": "Nursing must be consulted before we change the form.",
-      "exampleZh": "改表前必须征询护理。",
+      "example": "Pharmacy remains consulted on every change to delivery times.",
+      "exampleZh": "配送时间每改一次，都会征询药剂科。",
       "category": "office"
     },
     {
       "word": "informed",
       "phonetic": "/ɪnˈfɔːmd/",
       "meaning": "需知会的",
-      "example": "Keep the night lead informed of the delay.",
-      "exampleZh": "延误情况请知会夜班组长。",
+      "example": "The night shift is informed of bed changes through the evening report.",
+      "exampleZh": "床位一有变化，夜班就会从晚交班里得知。",
       "category": "office"
     },
     {
       "word": "due date",
       "phonetic": "/djuː deɪt/",
       "meaning": "到期日",
-      "example": "Please bring the due date to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个到期日。",
+      "example": "The due date on the corrective action is the fifteenth.",
+      "exampleZh": "这项纠正措施的到期日是十五号。",
       "category": "office"
     },
     {
       "word": "extension",
       "phonetic": "/ɪkˈstenʃn/",
       "meaning": "延期",
-      "example": "We talked about the extension with the department head.",
-      "exampleZh": "我们和科主任谈了这个延期。",
+      "example": "An extension of one week is reasonable if the vendor is late.",
+      "exampleZh": "如果供应商迟到，延期一周是合理的。",
       "category": "office"
     },
     {
       "word": "overdue",
       "phonetic": "/ˌəʊvəˈdjuː/",
       "meaning": "已逾期",
-      "example": "The travel claim is overdue.",
-      "exampleZh": "差旅报销已经逾期。",
+      "example": "The vendor invoice is overdue, and Finance has asked twice.",
+      "exampleZh": "供应商发票已逾期，财务已经催了两次。",
       "category": "office"
     },
     {
       "word": "hot backup",
       "phonetic": "/hɒt ˈbækʌp/",
       "meaning": "热备份",
-      "example": "The vendor asked for a screenshot of the hot backup.",
-      "exampleZh": "厂商要一张这个热备份的截图。",
+      "example": "The hot backup of the order database runs while the clinics stay open.",
+      "exampleZh": "医嘱库的热备份在门诊开诊期间也在跑。",
       "category": "it"
     },
     {
       "word": "incremental backup",
       "phonetic": "/ˌɪŋkrɪˈmentl ˈbækʌp/",
       "meaning": "增量备份",
-      "example": "Please test the incremental backup on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个增量备份。",
+      "example": "The incremental backup missed files written during the noon peak.",
+      "exampleZh": "增量备份漏掉了午间高峰写入的文件。",
       "category": "it"
     },
     {
       "word": "full backup",
       "phonetic": "/fʊl ˈbækʌp/",
       "meaning": "全量备份",
-      "example": "Who is on call for the full backup this week?",
-      "exampleZh": "这周这个全量备份谁值班？",
+      "example": "The full backup of PACS needs a longer window this weekend.",
+      "exampleZh": "影像的全量备份这个周末需要更长的时间窗。",
       "category": "it"
     },
     {
       "word": "differential backup",
       "phonetic": "/ˌdɪfəˈrenʃl ˈbækʌp/",
       "meaning": "差异备份",
-      "example": "Please test the differential backup on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个差异备份。",
+      "example": "The differential backup grew too large because Monday's full copy failed.",
+      "exampleZh": "因为周一的完整副本失败了，差异备份变得太大。",
       "category": "it"
     },
     {
       "word": "disaster recovery",
       "phonetic": "/dɪˈzɑːstə rɪˈkʌvəri/",
       "meaning": "灾难恢复",
-      "example": "The ward asked us to check the disaster recovery.",
-      "exampleZh": "病区让我们看一下这个灾难恢复。",
+      "example": "Disaster recovery for the lab system assumes the east building stays up.",
+      "exampleZh": "检验系统的灾难恢复假定东楼机房还在运行。",
       "category": "it"
     }
   ]

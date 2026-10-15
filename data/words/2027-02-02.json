@@ -5,80 +5,80 @@
       "word": "parking permit",
       "phonetic": "/ˈpɑːkɪŋ ˈpɜːmɪt/",
       "meaning": "停车许可",
-      "example": "I put the parking permit on the shared drive.",
-      "exampleZh": "我把停车许可放到了共享盘。",
+      "example": "Display the parking permit on the dashboard, or security will call.",
+      "exampleZh": "请把停车许可放在仪表盘上，否则保安会打电话。",
       "category": "office"
     },
     {
       "word": "canteen",
       "phonetic": "/kænˈtiːn/",
       "meaning": "食堂",
-      "example": "Could you send the canteen to the project group?",
-      "exampleZh": "你能把食堂发到项目群吗？",
+      "example": "Night staff can use the canteen entrance beside the ambulance bay.",
+      "exampleZh": "夜班员工可以走救护车站旁边的食堂入口。",
       "category": "office"
     },
     {
       "word": "locker",
       "phonetic": "/ˈlɒkə/",
       "meaning": "储物柜",
-      "example": "Could you send the locker to the project group?",
-      "exampleZh": "你能把储物柜发到项目群吗？",
+      "example": "Do not leave a visitor pass in an unlocked locker.",
+      "exampleZh": "不要把访客证放在没锁的储物柜里。",
       "category": "office"
     },
     {
       "word": "uniform",
       "phonetic": "/ˈjuːnɪfɔːm/",
       "meaning": "工装",
-      "example": "Please bring the uniform to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个工装。",
+      "example": "If your uniform is stained, collect a spare from the linen room.",
+      "exampleZh": "工装弄脏了，到布草间领一套备用的。",
       "category": "office"
     },
     {
       "word": "notice board",
       "phonetic": "/ˈnəʊtɪs bɔːd/",
       "meaning": "公告栏",
-      "example": "I put the notice board on the shared drive.",
-      "exampleZh": "我把公告栏放到了共享盘。",
+      "example": "The fire drill time is written on the staff notice board.",
+      "exampleZh": "消防演练时间写在员工公告栏上。",
       "category": "office"
     },
     {
       "word": "statistics update",
       "phonetic": "/stəˈtɪstɪks ˌʌpˈdeɪt/",
       "meaning": "统计信息更新",
-      "example": "I logged the statistics update in today’s change ticket.",
-      "exampleZh": "我把这个统计信息更新记进了今天的变更单。",
+      "example": "The statistics update on the order table ran during the morning rush.",
+      "exampleZh": "医嘱表的统计信息更新跑在了早高峰里。",
       "category": "it"
     },
     {
       "word": "DBA",
       "phonetic": "/ˌdiː biː ˈeɪ/",
       "meaning": "数据库管理员（Database Administrator）",
-      "example": "Who is the DBA (Database Administrator) this week?",
-      "exampleZh": "这周 DBA（Database Administrator）是谁？",
+      "example": "DBA (Database Administrator) will rebuild the order index after clinic.",
+      "exampleZh": "DBA（数据库管理员）会在门诊结束后重建医嘱索引。",
       "category": "it"
     },
     {
       "word": "schema",
       "phonetic": "/ˈskiːmə/",
       "meaning": "数据库结构",
-      "example": "Who is on call for the schema this week?",
-      "exampleZh": "这周这个数据库结构谁值班？",
+      "example": "The schema for orders changed, but the interface still expects the old columns.",
+      "exampleZh": "医嘱的数据库结构已经改了，接口却还在等旧字段。",
       "category": "it"
     },
     {
       "word": "table",
       "phonetic": "/ˈteɪbl/",
       "meaning": "数据表",
-      "example": "The vendor asked for a screenshot of the table.",
-      "exampleZh": "厂商要一张这个数据表的截图。",
+      "example": "The table that stores allergies grew past the size we planned.",
+      "exampleZh": "存放过敏史的那张数据表超过了我们规划的大小。",
       "category": "it"
     },
     {
       "word": "view",
       "phonetic": "/vjuː/",
       "meaning": "视图",
-      "example": "I logged the view in today’s change ticket.",
-      "exampleZh": "我把这个视图记进了今天的变更单。",
+      "example": "The view for the ward census hides patients who transferred out today.",
+      "exampleZh": "病区在院名单那个视图把今天转出的患者藏掉了。",
       "category": "it"
     }
   ]

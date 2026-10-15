@@ -5,80 +5,80 @@
       "word": "scan",
       "phonetic": "/skæn/",
       "meaning": "扫描件",
-      "example": "Could you send the scan to the project group?",
-      "exampleZh": "你能把扫描件发到项目群吗？",
+      "example": "The scan is blurry, so please ask the ward for a clearer page.",
+      "exampleZh": "扫描件模糊了，请病区再给一页更清楚的。",
       "category": "office"
     },
     {
       "word": "fax",
       "phonetic": "/fæks/",
       "meaning": "传真",
-      "example": "Please add the fax to today’s notes.",
-      "exampleZh": "请把传真写进今天的记录。",
+      "example": "The fax number on our letterhead changed last month.",
+      "exampleZh": "公文抬头纸上的传真号码上个月改了。",
       "category": "office"
     },
     {
       "word": "courier",
       "phonetic": "/ˈkʊriə/",
       "meaning": "快递",
-      "example": "Could you send the courier to the project group?",
-      "exampleZh": "你能把快递发到项目群吗？",
+      "example": "Book the courier before three if the letter must arrive tomorrow.",
+      "exampleZh": "如果信必须明天到，请在三点前约好快递。",
       "category": "office"
     },
     {
       "word": "dispatch",
       "phonetic": "/dɪˈspætʃ/",
       "meaning": "发出",
-      "example": "Please dispatch this before you leave.",
-      "exampleZh": "走之前请把这件事发出。",
+      "example": "The mailroom will dispatch the sealed bids this afternoon.",
+      "exampleZh": "收发室今天下午会把密封的投标文件发出去。",
       "category": "office"
     },
     {
       "word": "receive",
       "phonetic": "/rɪˈsiːv/",
       "meaning": "签收",
-      "example": "Can you receive it today?",
-      "exampleZh": "你今天能把它签收吗？",
+      "example": "The ward clerk must receive the package and sign the slip.",
+      "exampleZh": "病区文员必须当面签收包裹并在单据上签字。",
       "category": "office"
     },
     {
       "word": "backup catalog",
       "phonetic": "/ˈbækʌp ˈkætəlɒɡ/",
       "meaning": "备份目录",
-      "example": "Who is on call for the backup catalog this week?",
-      "exampleZh": "这周这个备份目录谁值班？",
+      "example": "The backup catalog has no entry for Sunday's pharmacy database.",
+      "exampleZh": "备份目录里没有周日那份药房库的记录。",
       "category": "it"
     },
     {
       "word": "tape library",
       "phonetic": "/teɪp ˈlaɪbrəri/",
       "meaning": "磁带库",
-      "example": "We will verify the tape library after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个磁带库。",
+      "example": "The tape library failed to load the cartridge for last month's archive.",
+      "exampleZh": "磁带库没能装入上个月归档用的那盘磁带。",
       "category": "it"
     },
     {
       "word": "offsite backup",
       "phonetic": "/ˈɒfsaɪt ˈbækʌp/",
       "meaning": "异地备份",
-      "example": "I logged the offsite backup in today’s change ticket.",
-      "exampleZh": "我把这个异地备份记进了今天的变更单。",
+      "example": "The offsite backup of billing did not leave the building last night.",
+      "exampleZh": "昨晚收费数据的异地备份没有送出这栋楼。",
       "category": "it"
     },
     {
       "word": "immutable backup",
       "phonetic": "/ɪˈmjuːtəbl ˈbækʌp/",
       "meaning": "不可篡改备份",
-      "example": "Please test the immutable backup on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个不可篡改备份。",
+      "example": "The immutable backup still holds Friday's copy after the encryption attempt.",
+      "exampleZh": "那次加密尝试之后，不可篡改备份仍留着周五的副本。",
       "category": "it"
     },
     {
       "word": "air gap",
       "phonetic": "/eə ɡæp/",
       "meaning": "物理隔离",
-      "example": "Please test the air gap on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个物理隔离。",
+      "example": "The air gap copy of our backups sits on a shelf with no network cable.",
+      "exampleZh": "我们备份的物理隔离副本放在架子上，没有接网线。",
       "category": "it"
     }
   ]

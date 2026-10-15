@@ -5,80 +5,80 @@
       "word": "pending",
       "phonetic": "/ˈpendɪŋ/",
       "meaning": "待处理",
-      "example": "The room booking is still pending.",
-      "exampleZh": "会议室预订还在待处理。",
+      "example": "My reimbursement is pending until Finance checks the receipts.",
+      "exampleZh": "报销还待处理，要等财务核对收据。",
       "category": "office"
     },
     {
       "word": "complete",
       "phonetic": "/kəmˈpliːt/",
       "meaning": "完成",
-      "example": "Who will complete this after the huddle?",
-      "exampleZh": "晨会后谁来完成？",
+      "example": "Please complete the orientation checklist before you work alone.",
+      "exampleZh": "独立上岗前，请先完成入职介绍的核对清单。",
       "category": "office"
     },
     {
       "word": "assign",
       "phonetic": "/əˈsaɪn/",
       "meaning": "指派",
-      "example": "Can you assign it today?",
-      "exampleZh": "你今天能把它指派吗？",
+      "example": "Assign a timekeeper at the start so the briefing ends on time.",
+      "exampleZh": "开始时就指派计时员，简报才能按时结束。",
       "category": "office"
     },
     {
       "word": "reassign",
       "phonetic": "/ˌriːəˈsaɪn/",
       "meaning": "改派",
-      "example": "Please reassign this before you leave.",
-      "exampleZh": "走之前请把这件事改派。",
+      "example": "We can reassign the visitor to another escort if you are in clinic.",
+      "exampleZh": "如果你在门诊，我们可以把这位访客改派给另一位陪同。",
       "category": "office"
     },
     {
       "word": "reopen",
       "phonetic": "/ˌriːˈəʊpən/",
       "meaning": "重新打开",
-      "example": "Who will reopen this after the huddle?",
-      "exampleZh": "晨会后谁来重新打开？",
+      "example": "Reopen the complaint if the same problem happens again this week.",
+      "exampleZh": "如果同样的问题这周再发生，就把投诉重新打开。",
       "category": "office"
     },
     {
       "word": "business continuity",
       "phonetic": "/ˈbɪznəs ˌkɒntɪˈnjuːəti/",
       "meaning": "业务连续性",
-      "example": "I logged the business continuity in today’s change ticket.",
-      "exampleZh": "我把这个业务连续性记进了今天的变更单。",
+      "example": "Business continuity says outpatient registration must return within two hours.",
+      "exampleZh": "业务连续性要求门诊挂号在两小时内恢复。",
       "category": "it"
     },
     {
       "word": "high availability",
       "phonetic": "/haɪ əˌveɪləˈbɪləti/",
       "meaning": "高可用",
-      "example": "The vendor asked for a screenshot of the high availability.",
-      "exampleZh": "厂商要一张这个高可用的截图。",
+      "example": "High availability kept orders up when one app server died.",
+      "exampleZh": "一台应用服务器挂掉之后，高可用让医嘱仍然在线。",
       "category": "it"
     },
     {
       "word": "failover cluster",
       "phonetic": "/ˈfeɪləʊvə ˈklʌstə/",
       "meaning": "故障转移集群",
-      "example": "I logged the failover cluster in today’s change ticket.",
-      "exampleZh": "我把这个故障转移集群记进了今天的变更单。",
+      "example": "The failover cluster moved the database without dropping the open orders.",
+      "exampleZh": "故障转移集群把数据库迁走了，没有丢掉未完成的医嘱。",
       "category": "it"
     },
     {
       "word": "load balancer",
       "phonetic": "/ləʊd ˈbælənsə/",
       "meaning": "负载均衡器",
-      "example": "The ward asked us to check the load balancer.",
-      "exampleZh": "病区让我们看一下这个负载均衡器。",
+      "example": "The load balancer kept sending traffic to a node that was already sick.",
+      "exampleZh": "负载均衡器还在把流量送到一个已经不正常的节点。",
       "category": "it"
     },
     {
       "word": "reverse proxy",
       "phonetic": "/rɪˈvɜːs ˈprɒksi/",
       "meaning": "反向代理",
-      "example": "Do not touch the reverse proxy during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个反向代理。",
+      "example": "The reverse proxy returned an old page after we published the new portal.",
+      "exampleZh": "新门户发布之后，反向代理还在返回旧页面。",
       "category": "it"
     }
   ]

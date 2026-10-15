@@ -1,0 +1,484 @@
+office	v	coordinate	协调	
+office	v	facilitate	促成	
+office	v	prepare	准备	
+office	n	arrange	安排	
+office	v	organize	组织	
+office	v	book	预订	
+office	v	reserve	预留	
+office	v	attend	出席	
+office	v	chair	主持	
+office	v	host	主办	
+office	v	moderate	主持讨论	
+office	v	introduce	介绍	
+office	v	welcome	欢迎	
+office	v	thank	感谢	
+office	v	apologize	道歉	
+office	v	congratulate	祝贺	
+office	v	raise	提出问题	
+office	v	address	处理回应	
+office	v	resolve	解决	
+office	v	settle	谈妥	
+office	v	mediate	调解	
+office	v	enforce	执行落实	
+office	v	comply	遵守	
+office	v	waive	豁免	
+office	v	grant	批准给予	
+office	v	deny	拒绝批准	
+office	v	permit	允许	
+office	v	restrict	限制	
+office	v	expand	扩大	
+office	v	reduce	减少	
+office	v	maintain	维持	
+office	v	improve	改进	
+office	v	streamline	精简	
+office	v	simplify	简化	
+office	v	standardize	标准化	
+office	v	customize	定制	
+office	v	adapt	调整适应	
+office	v	adjust	微调	
+office	v	document	形成书面记录	
+office	v	record	记录	
+office	v	note	记下	
+office	v	translate	翻译	
+office	v	explain	解释	
+office	v	describe	描述	
+office	v	define	界定	
+office	v	specify	明确	
+office	v	itemize	逐项列出	
+office	v	compare	比较	
+office	v	analyze	分析	
+office	v	calculate	计算	
+office	v	plan	规划	
+office	v	initiate	启动	
+office	v	launch	推出	
+office	v	pause	暂停	
+office	v	resume	恢复进行	
+office	v	suspend	中止	
+office	v	delay	延误	
+office	v	accelerate	加快	
+office	v	expedite	加急办理	
+office	v	omit	省略	
+office	v	include	纳入	
+office	v	exclude	排除	
+office	v	replace	替换	
+office	v	combine	合并	
+office	v	split	拆分	
+office	v	track	跟踪	
+office	v	measure	衡量	
+office	v	evaluate	评估	
+office	v	assess	评定	
+office	v	train	培训	
+office	v	coach	辅导	
+office	v	hire	招聘	
+office	v	recruit	招募	
+office	v	nominate	提名	
+office	v	appoint	任命	
+office	v	promote	晋升	
+office	v	relocate	调岗搬迁	
+office	n	handover meeting	交接会	
+office	n	kick-off memo	启动备忘	
+office	n	closing remarks	结束讲话	
+office	n	opening remarks	开场讲话	
+office	n	talking paper	发言提纲	
+office	n	briefing note	情况说明	
+office	n	position paper	立场说明	
+office	n	white paper	白皮书	
+office	n	terms of reference	职责范围	
+office	n	code of conduct	行为规范	
+office	n	conflict of interest	利益冲突	
+office	n	declaration	申报声明	
+office	n	confidentiality	保密义务	
+office	n	non-disclosure	保密约定	
+office	n	privacy notice	隐私告知	
+office	n	data request	数据申请	
+office	n	access request	权限申请	
+office	n	change request	变更申请	
+office	n	service request	服务申请	
+office	n	work order	派工单	
+office	n	priority	优先级	
+office	n	severity	严重程度	
+office	n	impact	影响	
+office	n	urgency	紧急程度	
+office	n	business hours	工作时间	
+office	n	after hours	下班后	
+office	n	cut-off	截止时点	
+office	n	lead-in	开场铺垫	
+office	n	wrap-up email	收尾邮件	
+office	n	read receipt	已读回执	
+office	n	delivery failure	发送失败	
+office	n	bounce	退信	
+office	n	outbox	发件箱	
+office	n	drafts folder	草稿箱	
+office	n	junk mail	垃圾邮件	
+office	v	recall	撤回邮件	
+office	v	unsubscribe	退订	
+office	v	flag	标旗标记	
+office	v	pin	置顶	
+office	n	archive folder	归档文件夹	
+office	n	shared mailbox	共享邮箱	
+office	n	group email	组邮箱	
+office	n	email etiquette	邮件礼仪	
+office	n	plain language	通俗表达	
+office	n	tone	语气	
+office	n	wording	措辞	
+office	n	bullet point	条目要点	
+office	n	call to action	行动号召	
+office	n	executive summary	高管摘要	
+office	n	cover letter	说明函	
+office	n	transmittal	送文单	
+office	n	routing slip	传阅单	
+office	n	approval chain	审批链	
+office	v	counter-sign	会签	
+office	n	wet signature	手写签名	
+office	n	e-signature	电子签名	
+office	n	initials	姓名缩写签	
+office	n	date stamp	日期章	
+office	n	official seal	公章	
+office	n	letter of thanks	感谢信	
+office	n	letter of complaint	投诉信	
+office	n	meeting pack	会议材料包	
+office	n	pre-read	会前阅读材料	
+office	n	post-meeting note	会后说明	
+office	n	action log	行动清单	
+office	n	risk log	风险台账	
+office	n	issue log	问题台账	
+office	n	decision register	决策台账	
+office	n	lessons log	经验台账	
+office	n	project charter	项目章程	
+office	n	business case	立项论证	
+office	n	feasibility	可行性	
+office	n	go-live plan	上线计划	
+office	n	training roster	培训名单	
+office	n	attendance sheet	签到表	
+office	n	feedback form	反馈表	
+office	n	satisfaction survey	满意度调查	
+office	n	pulse survey	快问快答调查	
+office	n	town-hall Q&A	全员问答	
+office	n	open floor	自由发言	
+office	v	time-box	限时讨论	
+office	n	any other business	其他事项	
+office	acr	AOB	其他事项	Any Other Business
+office	n	meeting cadence	开会节奏	
+office	adj	biweekly	双周一次	
+office	adj	fortnightly	每两周	
+office	adj	quarterly	每季度	
+office	adj	year-end	年底的	
+office	adj	mid-year	年中的	
+office	n	year to date	年初至今	
+office	n	month to date	月初至今	
+office	n	week to date	本周至今	
+office	n	effective date	生效日期	
+office	n	expiry date	到期日期	
+office	n	grace period	宽限期	
+office	n	notice period	通知期	
+office	n	handover window	交接窗口	
+office	n	cooling-off	冷静期	
+office	n	blackout period	冻结期	
+office	n	peak hours	高峰时段	
+office	n	off-peak	低峰时段	
+office	n	rush hour	高峰时间	
+office	n	late running	晚点延误	
+office	adj	double-booked	时间冲突	
+office	adj	overbooked	排程过满	
+office	n	free slot	空档	
+office	adj	busy	忙碌的	
+office	adj	available	有空的	
+office	adj	unavailable	没空的	
+office	adj	reachable	能联系到的	
+office	adj	unreachable	联系不上的	
+office	n	end of day	当天结束前	
+office	n	start of day	当天开始时	
+office	n	mid-morning	上午过半	
+office	n	mid-afternoon	下午过半	
+office	acr	COB	下班前	Close of Business
+office	acr	EOB	业务结束前	End of Business
+office	acr	ETA	预计到达时间	Estimated Time of Arrival
+office	acr	ETD	预计出发时间	Estimated Time of Departure
+office	acr	TBA	待公布	To Be Announced
+office	acr	TBD	待确定	To Be Determined
+office	acr	N/A	不适用	Not Applicable
+office	acr	WIP	进行中工作	Work in Progress
+office	acr	POC	对接人	Point of Contact
+office	acr	SME	业务专家	Subject Matter Expert
+office	acr	PMO	项目管理办公室	Project Management Office
+office	acr	SLA	服务级别协议	Service Level Agreement
+office	acr	OLA	运营级别协议	Operational Level Agreement
+office	n	KPI review	指标回顾	
+office	n	RAG status	红黄绿状态	
+office	n	amber	黄色预警	
+office	n	red status	红色状态	
+office	n	green status	绿色正常	
+office	n	traffic light	红黄绿标识	
+office	n	health check	健康检查	
+office	n	pulse check	快速摸底	
+office	n	temperature check	气氛摸底	
+office	n	morale	士气	
+office	n	workload	工作量	
+office	n	work-life balance	工作生活平衡	
+office	n	burnout	过劳倦怠	
+office	n	coverage plan	顶班计划	
+office	n	backup person	替补人员	
+office	v	shadow	跟岗见习	
+office	v	cross-train	交叉培训	
+office	v	upskill	提升技能	
+office	n	knowledge transfer	知识交接	
+office	n	desk-side support	工位旁支持	
+office	n	floor walker	现场巡视员	
+office	n	super user	业务骨干用户	
+office	n	champion	推广骨干	
+office	n	change agent	变革推动者	
+office	n	sponsor update	发起人通报	
+office	n	steering committee	指导委员会	
+office	n	working group	工作组	
+office	n	task force	专项组	
+office	n	committee	委员会	
+office	n	subcommittee	分委会	
+office	n	minutes taker	纪要记录人	
+office	n	chair's notes	主持备忘	
+office	n	quorum call	人数确认	
+office	n	roll call	点名	
+office	n	apology for absence	缺席致歉	
+office	n	late arrival	迟到	
+office	n	early leave	早退	
+office	n	proxy vote	代投票	
+office	n	motion	动议	
+office	adj	carried	通过的	
+office	adj	defeated	未通过的	
+office	adj	unanimous	一致通过的	
+office	n	majority	多数	
+office	n	minority view	少数意见	
+office	n	dissent	异议	
+office	v	abstain	弃权	
+office	v	vote	表决	
+office	n	ballot	无记名票	
+office	n	show of hands	举手表决	
+office	n	silent agreement	默许	
+office	n	spoken agreement	口头约定	
+office	n	written agreement	书面约定	
+office	n	gentle reminder	温和提醒	
+office	n	final reminder	最后提醒	
+office	n	escalation note	升级说明	
+office	n	courtesy reminder	礼貌催办	
+office	n	chaser	催办邮件	
+office	n	nudge email	轻催邮件	
+office	n	follow-up call	跟进电话	
+office	n	courtesy visit	礼节拜访	
+office	n	site visit	现场走访	
+office	n	walk-in	未预约来访	
+office	n	drop-in	顺便来访	
+office	n	waiting area	等候区	
+office	n	reception log	接待登记	
+office	n	visitor log	访客登记	
+office	n	badge return	工牌归还	
+office	n	key register	钥匙登记	
+office	n	room booking	会议室预订	
+office	n	room conflict	会议室冲突	
+office	n	double booking	重复预订	
+office	n	no-show meeting	无人到会	
+office	n	empty room	空会议室	
+office	n	overrun	超时占用	
+office	n	buffer time	缓冲时间	
+office	n	travel time	路上时间	
+office	n	setup time	布置时间	
+office	n	cleanup	清理现场	
+office	n	housekeeping	会务杂务	
+office	n	AV check	音视频检查	
+office	n	microphone	麦克风	
+office	n	speakerphone	免提电话	
+office	n	projector	投影仪	
+office	n	pointer	激光笔	
+office	n	clicker	翻页笔	
+office	n	nameplate	席卡	
+office	n	seating plan	座位表	
+office	n	place card	座位卡	
+office	n	sign-in sheet	签到单	
+office	n	welcome pack	欢迎材料	
+office	n	water station	饮水处	
+office	n	breakout	分组讨论	
+office	n	plenary	全体会议	
+office	n	keynote	主旨发言	
+office	n	panel	专题小组	
+office	n	moderator	主持人	
+office	n	rapporteur	报告人	
+office	n	time-out	暂停讨论	
+office	n	stretch break	伸展休息	
+office	n	coffee break	茶歇	
+office	n	networking	会间交流	
+office	n	photo op	合影环节	
+office	n	group photo	集体照	
+office	n	debrief note	复盘说明	
+office	n	thank-you note	感谢短笺	
+office	n	appreciation	感谢认可	
+office	n	recognition	表彰	
+office	n	award	奖项	
+office	n	citation	嘉奖	
+office	n	warning letter	警告信	
+office	n	verbal warning	口头警告	
+office	n	written warning	书面警告	
+office	n	counseling note	约谈记录	
+office	n	improvement plan	改进计划	
+office	acr	PIP	绩效改进计划	Performance Improvement Plan
+office	n	probation review	试用考核	
+office	n	exit interview	离职面谈	
+office	n	handover checklist	交接清单	
+office	n	clearance form	离职清算单	
+office	n	last day	最后工作日	
+office	n	notice to leave	离职通知	
+office	n	reference letter	推荐信	
+office	n	employment letter	在职证明	
+office	n	salary slip	工资单	
+office	n	pay day	发薪日	
+office	n	allowance	津贴	
+office	n	bonus	奖金	
+office	n	overtime claim	加班申报	
+office	n	shift allowance	班次津贴	
+office	n	night differential	夜班补贴	
+office	n	on-call pay	值班津贴	
+office	n	meal voucher	餐券	
+office	n	transport allowance	交通补贴	
+office	n	housing allowance	住房补贴	
+office	n	uniform allowance	工装补贴	
+office	n	training allowance	培训补贴	
+office	n	exam leave	考试假	
+office	n	marriage leave	婚假	
+office	n	bereavement leave	丧假	
+office	n	maternity leave	产假	
+office	n	paternity leave	陪产假	
+office	n	parental leave	育儿假	
+office	n	unpaid leave	无薪假	
+office	n	study leave	进修假	
+office	n	compassionate leave	恩恤假	
+office	n	jury duty	陪审公务	
+office	n	military leave	服役假	
+office	n	return-to-work	复工	
+office	n	fit note	康复证明	
+office	n	sick note	病假条	
+office	n	occupational health	职业健康	
+office	n	pre-employment check	入职体检	
+office	n	background check	背景审查	
+office	n	reference check	背景询问	
+office	n	conflict check	利益冲突核查	
+office	n	onboarding pack	入职材料包	
+office	n	welcome email	欢迎邮件	
+office	n	first-day agenda	首日安排	
+office	n	buddy assignment	带教安排	
+office	n	desk assignment	工位安排	
+office	n	phone extension	电话分机	
+office	n	email account	邮箱账号	
+office	n	system access	系统权限	
+office	n	training schedule	培训日程	
+office	n	competency	能力要求	
+office	n	skill matrix	技能矩阵	
+office	n	job grade	职级	
+office	n	pay band	薪级	
+office	n	title	职务名称	
+office	n	reporting line	汇报关系	
+office	n	dotted line	虚线汇报	
+office	n	solid line	实线汇报	
+office	n	span of control	管理幅度	
+office	adj	acting	代理的	
+office	adj	interim	临时的	
+office	adj	permanent	正式的	
+office	adj	temporary	临时的	
+office	adj	full-time	全职的	
+office	adj	part-time	兼职的	
+office	n	contract staff	合同制员工	
+office	n	agency staff	派遣员工	
+office	n	locum	代班人员	
+office	n	floater	机动人员	
+office	n	pool staff	机动库人员	
+office	n	surge staff	应急增援人员	
+office	n	overtime roster	加班排班	
+office	v	swap shift	换班	
+office	v	cover shift	顶班	
+office	n	no-pay day	无薪缺勤日	
+office	n	tardiness	迟到记录	
+office	n	absenteeism	缺勤	
+office	n	attendance record	出勤记录	
+office	n	time sheet	工时表	
+office	n	hours worked	实际工时	
+office	n	core team	核心团队	
+office	n	extended team	扩展团队	
+office	n	project team	项目组	
+office	n	ops team	运营组	
+office	n	support team	支持组	
+office	n	frontline	一线	
+office	n	back office	后台	
+office	n	shared services	共享服务	
+office	n	help window	服务窗口	
+office	n	service counter	服务台	
+office	n	ticket window	窗口	
+office	n	queue number	排队号	
+office	n	calling system	叫号系统	
+office	n	display board	显示屏	
+office	n	wayfinding	导引标识	
+office	n	directory board	楼层索引	
+office	n	floor plan	平面图	
+office	n	room number	房间号	
+office	n	building	楼宇	
+office	n	wing	楼翼	
+office	n	ward	病区	
+office	n	unit	单元	
+office	n	bay	床位区	
+office	n	cubicle	隔间	
+office	n	workstation area	工位区	
+office	n	quiet room	安静室	
+office	n	on-call room	值班室	
+office	n	duty room	值班房	
+office	n	changing room	更衣室	
+office	n	storage room	库房	
+office	n	records room	病案室	
+office	n	medical records	病案	
+office	n	chart request	调阅病历	
+office	n	release of information	信息调取	
+office	n	authorization form	授权书	
+office	n	identity check	身份核验	
+office	n	next of kin	近亲属	
+office	n	emergency contact	紧急联系人	
+office	n	guardian	监护人	
+office	n	interpreter	口译员	
+office	n	language line	翻译专线	
+office	n	plain explanation	通俗解释	
+office	n	teach-back	复述确认	
+office	n	informed consent	知情同意	
+office	n	patient rights	患者权利	
+office	n	privacy screen	隐私屏	
+office	n	last item	最后一项	
+office	n	busy morning	忙碌的上午	
+office	n	quiet afternoon	清闲的下午	
+office	n	heavy day	繁忙的一天	
+office	n	light day	轻松的一天	
+office	n	typical day	平常的一天	
+office	n	unusual request	少见的请求	
+office	n	routine request	常规请求	
+office	n	special request	特殊请求	
+office	n	urgent request	紧急请求	
+office	n	standing request	长期固定请求	
+office	n	one-off request	一次性请求	
+office	n	repeat request	重复请求	
+office	n	duplicate request	重复提交的请求	
+office	n	invalid request	无效请求	
+office	n	incomplete form	不完整表格	
+office	n	missing field	漏填字段	
+office	n	wrong date	日期填错	
+office	adj	illegible	字迹难认的	
+office	adj	unsigned	未签字的	
+office	adj	unstamped	未盖章的	
+office	adj	outdated	过时的	
+office	adj	superseded	已被替代的	
+office	n	current version	当前版本	
+office	n	obsolete version	作废版本	
+office	n	controlled document	受控文件	
+office	n	uncontrolled copy	非受控副本	
+office	n	master copy	正本	
+office	n	working copy	工作副本	
+office	n	reference copy	查阅副本	
+office	n	display copy	展示用副本	
+office	n	archived copy	归档副本	
+office	n	retention	保存期限	
+office	n	destruction	销毁	
+office	v	shred	粉碎销毁	
+office	n	confidential bin	保密回收桶	
+office	n	locked cabinet	上锁柜	
+office	n	key control	钥匙管理	
+office	n	access log	进出记录	

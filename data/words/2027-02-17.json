@@ -5,80 +5,80 @@
       "word": "distribute",
       "phonetic": "/dɪˈstrɪbjuːt/",
       "meaning": "分发",
-      "example": "Who will distribute this after the huddle?",
-      "exampleZh": "晨会后谁来分发？",
+      "example": "Volunteers will distribute the handout as people enter the hall.",
+      "exampleZh": "大家进会场时，志愿者会分发会发材料。",
       "category": "office"
     },
     {
       "word": "notify",
       "phonetic": "/ˈnəʊtɪfaɪ/",
       "meaning": "通知",
-      "example": "Who will notify this after the huddle?",
-      "exampleZh": "晨会后谁来通知？",
+      "example": "Notify the escort desk if a visitor arrives without an appointment.",
+      "exampleZh": "如果访客没有预约就来了，请通知陪同台。",
       "category": "office"
     },
     {
       "word": "inform",
       "phonetic": "/ɪnˈfɔːm/",
       "meaning": "告知",
-      "example": "Who will inform this after the huddle?",
-      "exampleZh": "晨会后谁来告知？",
+      "example": "Inform the family early if the discharge will slip past noon.",
+      "exampleZh": "如果出院会拖过中午，请早点告知家属。",
       "category": "office"
     },
     {
       "word": "request",
       "phonetic": "/rɪˈkwest/",
       "meaning": "申请",
-      "example": "Can you request it today?",
-      "exampleZh": "你今天能把它申请吗？",
+      "example": "Patients sometimes request a female clerk at the information desk.",
+      "exampleZh": "患者有时会在问询台申请由女文员接待。",
       "category": "office"
     },
     {
       "word": "submit",
       "phonetic": "/səbˈmɪt/",
       "meaning": "提交",
-      "example": "We still need to submit this.",
-      "exampleZh": "这件事还得提交。",
+      "example": "Submit your overtime timesheet before payroll closes on Wednesday.",
+      "exampleZh": "请在周三工资结算截止前提交加班工时表。",
       "category": "office"
     },
     {
       "word": "emergency change",
       "phonetic": "/ɪˈmɜːdʒənsi tʃeɪndʒ/",
       "meaning": "紧急变更",
-      "example": "I logged the emergency change in today’s change ticket.",
-      "exampleZh": "我把这个紧急变更记进了今天的变更单。",
+      "example": "The emergency change for the allergy bug went in during lunch.",
+      "exampleZh": "过敏缺陷的紧急变更是在午饭时间做进去的。",
       "category": "it"
     },
     {
       "word": "standard change",
       "phonetic": "/ˈstændəd tʃeɪndʒ/",
       "meaning": "标准变更",
-      "example": "The ward asked us to check the standard change.",
-      "exampleZh": "病区让我们看一下这个标准变更。",
+      "example": "A standard change covers adding a clinic printer without a full review.",
+      "exampleZh": "加一台门诊打印机走标准变更，不需要完整评审。",
       "category": "it"
     },
     {
       "word": "normal change",
       "phonetic": "/ˈnɔːml tʃeɪndʒ/",
       "meaning": "常规变更",
-      "example": "The vendor asked for a screenshot of the normal change.",
-      "exampleZh": "厂商要一张这个常规变更的截图。",
+      "example": "This normal change for the lab interface is booked for Sunday morning.",
+      "exampleZh": "检验接口的这项常规变更排在周日上午。",
       "category": "it"
     },
     {
       "word": "change freeze",
       "phonetic": "/tʃeɪndʒ friːz/",
       "meaning": "变更冻结",
-      "example": "The vendor asked for a screenshot of the change freeze.",
-      "exampleZh": "厂商要一张这个变更冻结的截图。",
+      "example": "The change freeze starts Friday and lasts through the holiday weekend.",
+      "exampleZh": "变更冻结从周五开始，一直持续到假期周末结束。",
       "category": "it"
     },
     {
       "word": "release train",
       "phonetic": "/rɪˈliːs treɪn/",
       "meaning": "发布列车",
-      "example": "Please test the release train on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个发布列车。",
+      "example": "The release train for May already includes the new sepsis order set.",
+      "exampleZh": "五月的发布列车里已经包含新的脓毒症医嘱套餐。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "citation",
       "phonetic": "/saɪˈteɪʃn/",
       "meaning": "嘉奖",
-      "example": "The citation still needs a decision today.",
-      "exampleZh": "这个嘉奖今天还得拍个板。",
+      "example": "She received a citation for helping families during the system outage.",
+      "exampleZh": "系统中断期间她帮忙引导家属，因此获得了嘉奖。",
       "category": "office"
     },
     {
       "word": "warning letter",
       "phonetic": "/ˈwɔːnɪŋ ˈletə/",
       "meaning": "警告信",
-      "example": "Please bring the warning letter to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个警告信。",
+      "example": "HR sent a warning letter after he arrived late three weeks running.",
+      "exampleZh": "他连续三周迟到，人力资源因此发了警告信。",
       "category": "office"
     },
     {
       "word": "verbal warning",
       "phonetic": "/ˈvɜːbl ˈwɔːnɪŋ/",
       "meaning": "口头警告",
-      "example": "Please add the verbal warning to today’s notes.",
-      "exampleZh": "请把口头警告写进今天的记录。",
+      "example": "The supervisor gave him a verbal warning about that rude email.",
+      "exampleZh": "主管就那封失礼的邮件给了他口头警告。",
       "category": "office"
     },
     {
       "word": "written warning",
       "phonetic": "/ˈrɪtn ˈwɔːnɪŋ/",
       "meaning": "书面警告",
-      "example": "I put the written warning on the shared drive.",
-      "exampleZh": "我把书面警告放到了共享盘。",
+      "example": "A written warning remains on the personnel file for twelve months.",
+      "exampleZh": "书面警告会在人事档案里保留十二个月。",
       "category": "office"
     },
     {
       "word": "counseling note",
       "phonetic": "/ˈkaʊnsəlɪŋ nəʊt/",
       "meaning": "约谈记录",
-      "example": "I put the counseling note on the shared drive.",
-      "exampleZh": "我把约谈记录放到了共享盘。",
+      "example": "File the counseling note in her personnel folder before Friday.",
+      "exampleZh": "请在周五之前把约谈记录放进她的人事档案。",
       "category": "office"
     },
     {
       "word": "allow exception",
       "phonetic": "/əˈlaʊ ɪkˈsepʃn/",
       "meaning": "放行例外",
-      "example": "The ward asked us to check the allow exception.",
-      "exampleZh": "病区让我们看一下这个放行例外。",
+      "example": "An allow exception for that signed viewer lets it run where the whitelist would block it.",
+      "exampleZh": "给那个已签名的阅片程序加一条放行例外，白名单本会拦住的地方它就能跑。",
       "category": "it"
     },
     {
       "word": "block hash",
       "phonetic": "/blɒk hæʃ/",
       "meaning": "按哈希拦截",
-      "example": "Who is on call for the block hash this week?",
-      "exampleZh": "这周这个按哈希拦截谁值班？",
+      "example": "A block hash stopped the known bad installer on every managed clinic PC.",
+      "exampleZh": "按哈希拦截在每台受管门诊电脑上挡住了那个已知的坏安装包。",
       "category": "it"
     },
     {
       "word": "block path",
       "phonetic": "/blɒk pɑːθ/",
       "meaning": "按路径拦截",
-      "example": "I logged the block path in today’s change ticket.",
-      "exampleZh": "我把这个按路径拦截记进了今天的变更单。",
+      "example": "The block path rule stops anything launched from the user download folder.",
+      "exampleZh": "按路径拦截会阻止从用户下载目录启动的任何程序。",
       "category": "it"
     },
     {
       "word": "block publisher",
       "phonetic": "/blɒk ˈpʌblɪʃə/",
       "meaning": "按发布者拦截",
-      "example": "Who is on call for the block publisher this week?",
-      "exampleZh": "这周这个按发布者拦截谁值班？",
+      "example": "The block publisher rule stopped the untrusted toolbar that came with a printer driver.",
+      "exampleZh": "按发布者拦截挡住了随打印驱动一起进来的那个不受信任工具栏。",
       "category": "it"
     },
     {
       "word": "code signing",
       "phonetic": "/kəʊd ˈsaɪnɪŋ/",
       "meaning": "代码签名",
-      "example": "Do not touch the code signing during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个代码签名。",
+      "example": "Code signing on the viewer lets the whitelist trust it without a path exception.",
+      "exampleZh": "阅片程序有代码签名，白名单就可以信任它，不必再加路径例外。",
       "category": "it"
     }
   ]

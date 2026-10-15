@@ -5,24 +5,24 @@
       "word": "town-hall Q&A",
       "phonetic": "/taʊn hɔːl kjuː ənd eɪ/",
       "meaning": "全员问答",
-      "example": "I put the town-hall Q&A on the shared drive.",
-      "exampleZh": "我把全员问答放到了共享盘。",
+      "example": "Keep the final ten minutes free for the town-hall Q&A.",
+      "exampleZh": "请把最后十分钟留出来做全员问答。",
       "category": "office"
     },
     {
       "word": "open floor",
       "phonetic": "/ˈəʊpən flɔː/",
       "meaning": "自由发言",
-      "example": "We talked about the open floor with the department head.",
-      "exampleZh": "我们和科主任谈了这个自由发言。",
+      "example": "Once the director sits down, we can have an open floor.",
+      "exampleZh": "主任落座之后，我们可以自由发言。",
       "category": "office"
     },
     {
       "word": "time-box",
       "phonetic": "/taɪm bɒks/",
       "meaning": "限时讨论",
-      "example": "Can you time-box it today?",
-      "exampleZh": "你今天能把它限时讨论吗？",
+      "example": "Can we time-box every topic on today's agenda to five minutes?",
+      "exampleZh": "我们能把今天议程上的每个议题都限时讨论五分钟吗？",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "GUID",
       "phonetic": "/ɡuːɪd/",
       "meaning": "全局唯一标识（Globally Unique Identifier）",
-      "example": "Please look up the GUID (Globally Unique Identifier) on this ticket.",
-      "exampleZh": "请在这张工单上查一下 GUID（Globally Unique Identifier）。",
+      "example": "The GUID (Globally Unique Identifier) on the duplicated policy made the second copy fail to link.",
+      "exampleZh": "复制出来的策略带着同一个 GUID（全局唯一标识），第二份因此链接不上。",
       "category": "it"
     },
     {
       "word": "UPN",
       "phonetic": "/ˌjuː piː ˈen/",
       "meaning": "用户主体名称（User Principal Name）",
-      "example": "Can you map this item to UPN (User Principal Name)?",
-      "exampleZh": "这条能否对照到 UPN（User Principal Name）？",
+      "example": "Her UPN (User Principal Name) still uses the old hospital domain after the rename.",
+      "exampleZh": "域名改完之后，她的 UPN（用户主体名称）还是旧的医院域名。",
       "category": "it"
     },
     {
       "word": "sAMAccountName",
       "phonetic": "/sæm əˈkaʊnt neɪm/",
       "meaning": "登录名",
-      "example": "The vendor asked for a screenshot of the sAMAccountName.",
-      "exampleZh": "厂商要一张这个登录名的截图。",
+      "example": "The sAMAccountName cannot exceed twenty characters or the old lab app rejects it.",
+      "exampleZh": "登录名不能超过二十个字符，否则旧检验程序会拒绝。",
       "category": "it"
     },
     {
       "word": "password hash",
       "phonetic": "/ˈpɑːswɜːd hæʃ/",
       "meaning": "密码哈希",
-      "example": "I logged the password hash in today’s change ticket.",
-      "exampleZh": "我把这个密码哈希记进了今天的变更单。",
+      "example": "Never copy a password hash into a ticket or a chat with the vendor.",
+      "exampleZh": "不要把密码哈希写进工单，也不要发到和厂商的聊天里。",
       "category": "it"
     },
     {
       "word": "salt",
       "phonetic": "/sɔːlt/",
       "meaning": "加盐",
-      "example": "Please test the salt on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个加盐。",
+      "example": "A unique salt on each password hash keeps identical passwords from looking alike.",
+      "exampleZh": "每个密码哈希都有独立加盐，相同的密码看起来也不会一样。",
       "category": "it"
     }
   ]

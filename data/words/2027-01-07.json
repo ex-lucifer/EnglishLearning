@@ -5,80 +5,80 @@
       "word": "counterpart",
       "phonetic": "/ˈkaʊntəpɑːt/",
       "meaning": "对口同事",
-      "example": "Who will own the counterpart this week?",
-      "exampleZh": "这周这个对口同事谁来负责？",
+      "example": "I asked my counterpart in Radiology to check the referral date.",
+      "exampleZh": "我请放射科的对口同事核对转诊日期。",
       "category": "office"
     },
     {
       "word": "colleague",
       "phonetic": "/ˈkɒliːɡ/",
       "meaning": "同事",
-      "example": "Please bring the colleague to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个同事。",
+      "example": "A colleague in Finance explained why the invoice was rejected.",
+      "exampleZh": "财务的一位同事解释了这张发票被退回的原因。",
       "category": "office"
     },
     {
       "word": "supervisor",
       "phonetic": "/ˈsuːpəvaɪzə/",
       "meaning": "上级主管",
-      "example": "I put the supervisor on the shared drive.",
-      "exampleZh": "我把上级主管放到了共享盘。",
+      "example": "Tell your supervisor before you agree to cover an extra shift.",
+      "exampleZh": "答应多顶一个班次之前，先告诉上级主管。",
       "category": "office"
     },
     {
       "word": "manager",
       "phonetic": "/ˈmænɪdʒə/",
       "meaning": "经理",
-      "example": "Who will own the manager this week?",
-      "exampleZh": "这周这个经理谁来负责？",
+      "example": "The manager wants the overtime figures before the quarterly review.",
+      "exampleZh": "经理希望在季度回顾之前拿到加班数据。",
       "category": "office"
     },
     {
       "word": "team lead",
       "phonetic": "/tiːm liːd/",
       "meaning": "组长",
-      "example": "We talked about the team lead with the department head.",
-      "exampleZh": "我们和科主任谈了这个组长。",
+      "example": "The team lead will run the briefing if the supervisor is in clinic.",
+      "exampleZh": "如果主管在门诊，简报就由组长来主持。",
       "category": "office"
     },
     {
       "word": "Bluetooth",
       "phonetic": "/ˈbluːtuːθ/",
       "meaning": "蓝牙",
-      "example": "I logged the Bluetooth in today’s change ticket.",
-      "exampleZh": "我把这个蓝牙记进了今天的变更单。",
+      "example": "Bluetooth on the vital-signs cart keeps pairing with the wrong pump.",
+      "exampleZh": "这台生命体征推车上的蓝牙老是配到错误的泵。",
       "category": "it"
     },
     {
       "word": "VPN client",
       "phonetic": "/ˌviː piː ˈen ˈklaɪənt/",
       "meaning": "虚拟专网客户端",
-      "example": "I logged the VPN client in today’s change ticket.",
-      "exampleZh": "我把这个虚拟专网客户端记进了今天的变更单。",
+      "example": "The VPN client on the home laptop cannot reach the order system.",
+      "exampleZh": "家里那台笔记本上的虚拟专网客户端连不上医嘱系统。",
       "category": "it"
     },
     {
       "word": "split tunnel",
       "phonetic": "/splɪt ˈtʌnl/",
       "meaning": "分流隧道",
-      "example": "The vendor asked for a screenshot of the split tunnel.",
-      "exampleZh": "厂商要一张这个分流隧道的截图。",
+      "example": "Split tunnel lets clinic browsing go direct while orders stay on our network.",
+      "exampleZh": "分流隧道让门诊浏览直接出去，医嘱流量仍走我们的网络。",
       "category": "it"
     },
     {
       "word": "full tunnel",
       "phonetic": "/fʊl ˈtʌnl/",
       "meaning": "全流量隧道",
-      "example": "Do not touch the full tunnel during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个全流量隧道。",
+      "example": "Full tunnel sends even ordinary clinic browsing through the hospital.",
+      "exampleZh": "全流量隧道把门诊普通的网页浏览也送进了医院。",
       "category": "it"
     },
     {
       "word": "MFA prompt",
       "phonetic": "/ˌem ef ˈeɪ prɒmpt/",
       "meaning": "二次验证提示（Multi-Factor Authentication）",
-      "example": "Do not touch the MFA prompt during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个二次验证提示。",
+      "example": "The MFA prompt never reached the doctor because her phone was in the operating room.",
+      "exampleZh": "二次验证提示没有送到医生那里，因为她的手机在手术室。",
       "category": "it"
     }
   ]

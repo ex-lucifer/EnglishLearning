@@ -5,80 +5,80 @@
       "word": "debrief note",
       "phonetic": "/ˌdiːˈbriːf nəʊt/",
       "meaning": "复盘说明",
-      "example": "We talked about the debrief note with the department head.",
-      "exampleZh": "我们和科主任谈了这个复盘说明。",
+      "example": "Please write a debrief note once the auditors have left the site.",
+      "exampleZh": "审计人员离开现场之后，请写一份复盘说明。",
       "category": "office"
     },
     {
       "word": "thank-you note",
       "phonetic": "/θæŋk ju nəʊt/",
       "meaning": "感谢短笺",
-      "example": "The thank-you note still needs a decision today.",
-      "exampleZh": "这个感谢短笺今天还得拍个板。",
+      "example": "I left a short thank-you note for the team that covered the holiday.",
+      "exampleZh": "我给顶了假期班的那个班组留了一封简短的感谢短笺。",
       "category": "office"
     },
     {
       "word": "appreciation",
       "phonetic": "/əˌpriːʃiˈeɪʃn/",
       "meaning": "感谢认可",
-      "example": "We talked about the appreciation with the department head.",
-      "exampleZh": "我们和科主任谈了这个感谢认可。",
+      "example": "The director sent her appreciation to the crew who worked the holiday.",
+      "exampleZh": "主任向假期值班的同事们表达了感谢认可。",
       "category": "office"
     },
     {
       "word": "recognition",
       "phonetic": "/ˌrekəɡˈnɪʃn/",
       "meaning": "表彰",
-      "example": "The recognition still needs a decision today.",
-      "exampleZh": "这个表彰今天还得拍个板。",
+      "example": "Recognition for our long-serving clerks is planned for Friday's meeting.",
+      "exampleZh": "对长期服务文员的表彰安排在周五的会上。",
       "category": "office"
     },
     {
       "word": "award",
       "phonetic": "/əˈwɔːd/",
       "meaning": "奖项",
-      "example": "Please add the award to today’s notes.",
-      "exampleZh": "请把奖项写进今天的记录。",
+      "example": "The long-service award will be announced at the December staff meeting.",
+      "exampleZh": "长期服务奖项将在十二月的员工会上公布。",
       "category": "office"
     },
     {
       "word": "hash reputation",
       "phonetic": "/hæʃ ˌrepjuˈteɪʃn/",
       "meaning": "哈希信誉",
-      "example": "The ward asked us to check the hash reputation.",
-      "exampleZh": "病区让我们看一下这个哈希信誉。",
+      "example": "Hash reputation for this installer is unknown, so do not run it on a clinic PC.",
+      "exampleZh": "这个安装包的哈希信誉未知，不要在门诊电脑上运行。",
       "category": "it"
     },
     {
       "word": "file hash",
       "phonetic": "/faɪl hæʃ/",
       "meaning": "文件哈希",
-      "example": "Who is on call for the file hash this week?",
-      "exampleZh": "这周这个文件哈希谁值班？",
+      "example": "Send me the file hash of the viewer build before it is pushed to the ward.",
+      "exampleZh": "阅片构建推到病区之前，先把文件哈希发给我。",
       "category": "it"
     },
     {
       "word": "SHA-256",
       "phonetic": "/ʃɑː tuː ˈfɪfti sɪks/",
       "meaning": "哈希算法（Secure Hash Algorithm 256）",
-      "example": "Record the SHA-256 (Secure Hash Algorithm 256) before you close the change.",
-      "exampleZh": "关变更前请记下 SHA-256（Secure Hash Algorithm 256）。",
+      "example": "SHA-256 (Secure Hash Algorithm 256) of the installer matches the value on the vendor site.",
+      "exampleZh": "安装包的 SHA-256（哈希算法）和厂商网站上的值一致。",
       "category": "it"
     },
     {
       "word": "MD5",
       "phonetic": "/ˌem diː ˈfaɪv/",
       "meaning": "旧哈希算法（Message Digest 5）",
-      "example": "Record the MD5 (Message Digest 5) before you close the change.",
-      "exampleZh": "关变更前请记下 MD5（Message Digest 5）。",
+      "example": "MD5 (Message Digest 5) is too weak for new packages, so ask the vendor for SHA-256.",
+      "exampleZh": "MD5（旧哈希算法）对新安装包来说太弱，向厂商要 SHA-256。",
       "category": "it"
     },
     {
       "word": "quarantine",
       "phonetic": "/ˈkwɒrəntiːn/",
       "meaning": "隔离",
-      "example": "Quarantine that workstation if EDR flags it.",
-      "exampleZh": "终端检测告警的话，先隔离那台电脑。",
+      "example": "Quarantine the installer that Defender flagged before anyone on the ward runs it.",
+      "exampleZh": "病区有人运行之前，先把系统防护标出的那个安装包隔离掉。",
       "category": "it"
     }
   ]

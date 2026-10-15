@@ -5,32 +5,32 @@
       "word": "mid-year",
       "phonetic": "/mɪd jɪə/",
       "meaning": "年中的",
-      "example": "The mid-year review is next week.",
-      "exampleZh": "年中回顾在下周。",
+      "example": "The mid-year reviews for staff on probation start early in July.",
+      "exampleZh": "试用人员的年中考核在七月初开始。",
       "category": "office"
     },
     {
       "word": "year to date",
       "phonetic": "/jɪə tə deɪt/",
       "meaning": "年初至今",
-      "example": "We talked about the year to date with the department head.",
-      "exampleZh": "我们和科主任谈了这个年初至今。",
+      "example": "We have taken on four registration clerks, year to date.",
+      "exampleZh": "年初至今，我们招了四名挂号文员。",
       "category": "office"
     },
     {
       "word": "month to date",
       "phonetic": "/mʌnθ tə deɪt/",
       "meaning": "月初至今",
-      "example": "Please bring the month to date to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个月初至今。",
+      "example": "Overtime is already over the monthly target, month to date.",
+      "exampleZh": "月初至今，加班时数已经超过月度目标。",
       "category": "office"
     },
     {
       "word": "week to date",
       "phonetic": "/wiːk tə deɪt/",
       "meaning": "本周至今",
-      "example": "Could you send the week to date to the project group?",
-      "exampleZh": "你能把本周至今发到项目群吗？",
+      "example": "The enquiry desk has already seen ninety people, week to date.",
+      "exampleZh": "咨询台本周至今已经接待了九十人。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "trusted root",
       "phonetic": "/ˈtrʌstɪd ruːt/",
       "meaning": "受信任根",
-      "example": "We will verify the trusted root after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个受信任根。",
+      "example": "The trusted root for the partner lab expired, and result downloads started warning.",
+      "exampleZh": "合作检验所的受信任根过期了，结果下载开始报警。",
       "category": "it"
     },
     {
       "word": "untrusted cert",
       "phonetic": "/ʌnˈtrʌstɪd sɜːt/",
       "meaning": "不受信任证书",
-      "example": "I logged the untrusted cert in today’s change ticket.",
-      "exampleZh": "我把这个不受信任证书记进了今天的变更单。",
+      "example": "An untrusted cert on the infusion server popped a warning on every pump browser.",
+      "exampleZh": "输液服务器上那张不受信任证书，让每台泵的浏览器都弹出了警告。",
       "category": "it"
     },
     {
       "word": "expired cert",
       "phonetic": "/ɪkˈspaɪəd sɜːt/",
       "meaning": "过期证书",
-      "example": "I logged the expired cert in today’s change ticket.",
-      "exampleZh": "我把这个过期证书记进了今天的变更单。",
+      "example": "The expired cert on the patient portal started warning visitors at midnight.",
+      "exampleZh": "患者门户上的过期证书从午夜开始给访问者报警。",
       "category": "it"
     },
     {
       "word": "revoked cert",
       "phonetic": "/rɪˈvəʊkt sɜːt/",
       "meaning": "已吊销证书",
-      "example": "The vendor asked for a screenshot of the revoked cert.",
-      "exampleZh": "厂商要一张这个已吊销证书的截图。",
+      "example": "The revoked cert was still presented by one old lab interface this morning.",
+      "exampleZh": "今天早上还有一个旧检验接口在出示已吊销证书。",
       "category": "it"
     },
     {
       "word": "OCSP staple",
       "phonetic": "/ˌəʊ siː es ˈpiː ˈsteɪpl/",
       "meaning": "证书装订（Online Certificate Status Protocol）",
-      "example": "The vendor asked for a screenshot of the OCSP staple.",
-      "exampleZh": "厂商要一张这个证书装订的截图。",
+      "example": "The OCSP staple on the portal is stale, so some phones refuse the certificate.",
+      "exampleZh": "门户上的证书装订过期了，有些手机会拒绝这张证书。",
       "category": "it"
     }
   ]

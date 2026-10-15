@@ -5,80 +5,80 @@
       "word": "effective date",
       "phonetic": "/ɪˈfektɪv deɪt/",
       "meaning": "生效日期",
-      "example": "Who will own the effective date this week?",
-      "exampleZh": "这周这个生效日期谁来负责？",
+      "example": "Next Monday is the effective date printed on the new roster.",
+      "exampleZh": "下周一就是新排班表上印的生效日期。",
       "category": "office"
     },
     {
       "word": "expiry date",
       "phonetic": "/ɪkˈspaɪəri deɪt/",
       "meaning": "到期日期",
-      "example": "Please bring the expiry date to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个到期日期。",
+      "example": "Look at the expiry date before you hand that visitor badge out again.",
+      "exampleZh": "再次发出那张访客工牌之前，请看一下到期日期。",
       "category": "office"
     },
     {
       "word": "grace period",
       "phonetic": "/ɡreɪs ˈpɪəriəd/",
       "meaning": "宽限期",
-      "example": "Please add the grace period to today’s notes.",
-      "exampleZh": "请把宽限期写进今天的记录。",
+      "example": "Claims still have a three-day grace period after the due date.",
+      "exampleZh": "申报到期之后，仍有三天宽限期。",
       "category": "office"
     },
     {
       "word": "notice period",
       "phonetic": "/ˈnəʊtɪs ˈpɪəriəd/",
       "meaning": "通知期",
-      "example": "Please add the notice period to today’s notes.",
-      "exampleZh": "请把通知期写进今天的记录。",
+      "example": "Count her notice period as thirty days from the resignation email.",
+      "exampleZh": "她的通知期从辞职邮件那天起算三十天。",
       "category": "office"
     },
     {
       "word": "handover window",
       "phonetic": "/ˈhændəʊvə ˈwɪndəʊ/",
       "meaning": "交接窗口",
-      "example": "We talked about the handover window with the department head.",
-      "exampleZh": "我们和科主任谈了这个交接窗口。",
+      "example": "Use her last three office days as the handover window.",
+      "exampleZh": "把她在办公室的最后三天当作交接窗口。",
       "category": "office"
     },
     {
       "word": "HSTS",
       "phonetic": "/ˌeɪtʃ tiː es ˈtiː/",
       "meaning": "强制加密传输（HTTP Strict Transport Security）",
-      "example": "We use HSTS (HTTP Strict Transport Security) for this integration.",
-      "exampleZh": "这条集成用的是 HSTS（HTTP Strict Transport Security）。",
+      "example": "HSTS (HTTP Strict Transport Security) forces browsers back to the encrypted portal.",
+      "exampleZh": "HSTS（强制加密传输）会把浏览器拉回加密的门户。",
       "category": "it"
     },
     {
       "word": "cipher suite",
       "phonetic": "/ˈsaɪfə swiːt/",
       "meaning": "加密套件",
-      "example": "The vendor asked for a screenshot of the cipher suite.",
-      "exampleZh": "厂商要一张这个加密套件的截图。",
+      "example": "The cipher suite on the lab gateway is too old for the new scanner.",
+      "exampleZh": "检验网关上的加密套件对新扫描枪来说太旧了。",
       "category": "it"
     },
     {
       "word": "deprecated TLS",
       "phonetic": "/ˈdeprəkeɪtɪd ˌtiː el ˈes/",
       "meaning": "过时加密",
-      "example": "Do not touch the deprecated TLS during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个过时加密。",
+      "example": "Deprecated TLS on the instrument interface will be refused by next month's browsers.",
+      "exampleZh": "仪器接口上的过时加密，下个月的浏览器会拒绝。",
       "category": "it"
     },
     {
       "word": "weak cipher",
       "phonetic": "/wiːk ˈsaɪfə/",
       "meaning": "弱加密",
-      "example": "Do not touch the weak cipher during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个弱加密。",
+      "example": "A weak cipher on the old results portal showed up in last night's scan.",
+      "exampleZh": "昨晚扫描发现，旧结果门户还在用弱加密。",
       "category": "it"
     },
     {
       "word": "perfect forward secrecy",
       "phonetic": "/ˈpɜːfɪkt ˈfɔːwəd ˈsiːkrəsi/",
       "meaning": "前向保密",
-      "example": "Please test the perfect forward secrecy on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个前向保密。",
+      "example": "Perfect forward secrecy on the portal keeps a stolen key from decrypting old sessions.",
+      "exampleZh": "门户开了前向保密，偷到的密钥也解不开过去的会话。",
       "category": "it"
     }
   ]

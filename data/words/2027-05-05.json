@@ -45,40 +45,40 @@
       "word": "egress",
       "phonetic": "/ˈiːɡres/",
       "meaning": "出口流量",
-      "example": "I logged the egress in today’s change ticket.",
-      "exampleZh": "我把这个出口流量记进了今天的变更单。",
+      "example": "Egress from the lab namespace is limited to the results broker and DNS.",
+      "exampleZh": "检验命名空间的出口流量只允许去结果中转和 DNS。",
       "category": "it"
     },
     {
       "word": "sidecar",
       "phonetic": "/ˈsaɪdkɑː/",
       "meaning": "边车容器",
-      "example": "The vendor asked for a screenshot of the sidecar.",
-      "exampleZh": "厂商要一张这个边车容器的截图。",
+      "example": "The sidecar beside the results pod ships logs without changing the app itself.",
+      "exampleZh": "结果容器组旁边的边车容器负责送日志，应用本身不用改。",
       "category": "it"
     },
     {
       "word": "service mesh",
       "phonetic": "/ˈsɜːvɪs meʃ/",
       "meaning": "服务网格",
-      "example": "Do not touch the service mesh during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个服务网格。",
+      "example": "The service mesh encrypts calls between the portal pods and the lab API.",
+      "exampleZh": "服务网格把门户容器组和检验接口之间的调用加密了。",
       "category": "it"
     },
     {
       "word": "config map",
       "phonetic": "/kənˈfɪɡ mæp/",
       "meaning": "配置映射",
-      "example": "I logged the config map in today’s change ticket.",
-      "exampleZh": "我把这个配置映射记进了今天的变更单。",
+      "example": "The config map holds the lab endpoint, so we can change it without a new image.",
+      "exampleZh": "配置映射里放着检验地址，改地址就不用重做镜像。",
       "category": "it"
     },
     {
       "word": "secret",
       "phonetic": "/ˈsiːkrɪt/",
       "meaning": "密文对象",
-      "example": "The ward asked us to check the secret.",
-      "exampleZh": "病区让我们看一下这个密文对象。",
+      "example": "The database password sits in a secret, and the pod reads it at startup.",
+      "exampleZh": "数据库密码放在密文对象里，容器组启动时才读。",
       "category": "it"
     }
   ]

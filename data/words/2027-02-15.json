@@ -5,80 +5,80 @@
       "word": "recommend",
       "phonetic": "/ˌrekəˈmend/",
       "meaning": "建议",
-      "example": "We still need to recommend this.",
-      "exampleZh": "这件事还得建议。",
+      "example": "I recommend a written handover note for every weekend cover.",
+      "exampleZh": "我建议每次周末顶班都留一份书面交接说明。",
       "category": "office"
     },
     {
       "word": "suggest",
       "phonetic": "/səˈdʒest/",
       "meaning": "提议",
-      "example": "We still need to suggest this.",
-      "exampleZh": "这件事还得提议。",
+      "example": "I suggest we start the bed meeting with today's discharges.",
+      "exampleZh": "我提议床位会先从今天的出院情况谈起。",
       "category": "office"
     },
     {
       "word": "propose",
       "phonetic": "/prəˈpəʊz/",
       "meaning": "提出",
-      "example": "Please propose this before you leave.",
-      "exampleZh": "走之前请把这件事提出。",
+      "example": "I propose moving the quality meeting to Wednesday afternoon.",
+      "exampleZh": "我提出把质量会改到周三下午。",
       "category": "office"
     },
     {
       "word": "present",
       "phonetic": "/prɪˈzent/",
       "meaning": "汇报展示",
-      "example": "Can you present it today?",
-      "exampleZh": "你今天能把它汇报展示吗？",
+      "example": "She will present the complaint themes at the quality meeting.",
+      "exampleZh": "她会在质量会上汇报这几类投诉。",
       "category": "office"
     },
     {
       "word": "report",
       "phonetic": "/rɪˈpɔːt/",
       "meaning": "报告",
-      "example": "We still need to report this.",
-      "exampleZh": "这件事还得报告。",
+      "example": "Please report any lost badge to security the same day.",
+      "exampleZh": "工牌丢失请在当天向保卫报告。",
       "category": "office"
     },
     {
       "word": "safe mode",
       "phonetic": "/seɪf məʊd/",
       "meaning": "安全模式",
-      "example": "Please test the safe mode on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个安全模式。",
+      "example": "Safe mode on this clinic PC let us remove the faulty scanner driver.",
+      "exampleZh": "这台门诊电脑进了安全模式，我们才卸掉了有问题的扫描驱动。",
       "category": "it"
     },
     {
       "word": "BIOS",
       "phonetic": "/ˈbaɪɒs/",
       "meaning": "基本输入输出系统（Basic Input/Output System）",
-      "example": "BIOS stands for Basic Input/Output System. Check it before the clinic opens.",
-      "exampleZh": "BIOS 的全称是 Basic Input/Output System。开诊前请先检查。",
+      "example": "BIOS (Basic Input/Output System) on the new scanner is too old for this disk.",
+      "exampleZh": "新扫描仪的BIOS（基本输入输出系统）太旧，认不了这块盘。",
       "category": "it"
     },
     {
       "word": "UEFI",
       "phonetic": "/juː ˈefaɪ/",
       "meaning": "统一固件接口（Unified Extensible Firmware Interface）",
-      "example": "Do not restart UEFI (Unified Extensible Firmware Interface) during morning rounds.",
-      "exampleZh": "早交班时段不要重启 UEFI（Unified Extensible Firmware Interface）。",
+      "example": "UEFI (Unified Extensible Firmware Interface) failed to boot the server from the new disk.",
+      "exampleZh": "UEFI（统一固件接口）没能让这台服务器从新磁盘启动。",
       "category": "it"
     },
     {
       "word": "firmware",
       "phonetic": "/ˈfɜːmweə/",
       "meaning": "固件",
-      "example": "The ward asked us to check the firmware.",
-      "exampleZh": "病区让我们看一下这个固件。",
+      "example": "Firmware on the fiber switch is the version known to drop storage paths.",
+      "exampleZh": "光纤交换机上的固件正是已知会丢掉存储路径的那个版本。",
       "category": "it"
     },
     {
       "word": "driver",
       "phonetic": "/ˈdraɪvə/",
       "meaning": "驱动程序",
-      "example": "The ward asked us to check the driver.",
-      "exampleZh": "病区让我们看一下这个驱动程序。",
+      "example": "The driver for the barcode scanner crashes after each Windows update.",
+      "exampleZh": "每次 Windows 更新之后，条码扫描枪的驱动程序都会崩溃。",
       "category": "it"
     }
   ]

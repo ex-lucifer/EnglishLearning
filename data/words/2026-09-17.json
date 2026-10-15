@@ -5,80 +5,80 @@
       "word": "kickoff",
       "phonetic": "/ˈkɪkɒf/",
       "meaning": "启动会",
-      "example": "Please bring the kickoff to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个启动会。",
+      "example": "The kickoff will introduce the sponsor, the scope, and the timeline.",
+      "exampleZh": "启动会会介绍发起人、范围和时间线。",
       "category": "office"
     },
     {
       "word": "wrap-up",
       "phonetic": "/ˈræp ʌp/",
       "meaning": "收尾",
-      "example": "We talked about the wrap-up with the department head.",
-      "exampleZh": "我们和科主任谈了这个收尾。",
+      "example": "Leave time at the end for a short wrap-up.",
+      "exampleZh": "结尾留一点时间做个简短收尾。",
       "category": "office"
     },
     {
       "word": "recap",
       "phonetic": "/ˈriːkæp/",
       "meaning": "回顾摘要",
-      "example": "The recap still needs a decision today.",
-      "exampleZh": "这个回顾摘要今天还得拍个板。",
+      "example": "His recap of the ops meeting fitted onto half a page.",
+      "exampleZh": "他把运营会的回顾摘要压进了半页纸。",
       "category": "office"
     },
     {
       "word": "takeaway",
       "phonetic": "/ˈteɪkəweɪ/",
       "meaning": "会议要点",
-      "example": "I put the takeaway on the shared drive.",
-      "exampleZh": "我把会议要点放到了共享盘。",
+      "example": "The takeaway for clerks is to confirm the room twice.",
+      "exampleZh": "给文员的会议要点是：会议室要确认两遍。",
       "category": "office"
     },
     {
       "word": "action item",
       "phonetic": "/ˈækʃn ˈaɪtəm/",
       "meaning": "待办事项",
-      "example": "The action item still needs a decision today.",
-      "exampleZh": "这个待办事项今天还得拍个板。",
+      "example": "This action item is to refresh the extension list by Friday.",
+      "exampleZh": "这条待办事项是在周五前更新分机号码表。",
       "category": "office"
     },
     {
       "word": "CPOE",
       "phonetic": "/ˌsiː pəʊ ˈiː/",
       "meaning": "医嘱录入（Computerized Physician Order Entry）",
-      "example": "Please write CPOE in full — Computerized Physician Order Entry — on the change form.",
-      "exampleZh": "变更单上请写全称：CPOE（Computerized Physician Order Entry）。",
+      "example": "CPOE (Computerized Physician Order Entry) let the doctor sign the antibiotic order.",
+      "exampleZh": "CPOE（医嘱录入）让医生签下了这张抗生素医嘱。",
       "category": "it"
     },
     {
       "word": "CDSS",
       "phonetic": "/ˌsiː diː es ˈes/",
       "meaning": "临床决策支持（Clinical Decision Support System）",
-      "example": "CDSS stands for Clinical Decision Support System. Check it before the clinic opens.",
-      "exampleZh": "CDSS 的全称是 Clinical Decision Support System。开诊前请先检查。",
+      "example": "CDSS (Clinical Decision Support System) warned her about the duplicate potassium order.",
+      "exampleZh": "CDSS（临床决策支持）提醒她这张钾医嘱是重复的。",
       "category": "it"
     },
     {
       "word": "ADT",
       "phonetic": "/ˌeɪ diː ˈtiː/",
       "meaning": "出入院转科（Admit Discharge Transfer）",
-      "example": "Do not restart ADT (Admit Discharge Transfer) during morning rounds.",
-      "exampleZh": "早交班时段不要重启 ADT（Admit Discharge Transfer）。",
+      "example": "ADT (Admit Discharge Transfer) missed the transfer from ward three to ICU.",
+      "exampleZh": "ADT（出入院转科）漏掉了从三病区转到重症监护的记录。",
       "category": "it"
     },
     {
       "word": "MPI",
       "phonetic": "/ˌem piː ˈaɪ/",
       "meaning": "主患者索引（Master Patient Index）",
-      "example": "We tested MPI (Master Patient Index) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 MPI（Master Patient Index）。",
+      "example": "MPI (Master Patient Index) merged two records for the same patient.",
+      "exampleZh": "MPI（主患者索引）把同一位患者的两份档案并到了一起。",
       "category": "it"
     },
     {
       "word": "EHR",
       "phonetic": "/ˌiː eɪtʃ ˈɑː/",
       "meaning": "电子健康档案（Electronic Health Record）",
-      "example": "Do not restart EHR (Electronic Health Record) during morning rounds.",
-      "exampleZh": "早交班时段不要重启 EHR（Electronic Health Record）。",
+      "example": "EHR (Electronic Health Record) still lacks the discharge summary from Friday.",
+      "exampleZh": "EHR（电子健康档案）里还没有周五的出院小结。",
       "category": "it"
     }
   ]

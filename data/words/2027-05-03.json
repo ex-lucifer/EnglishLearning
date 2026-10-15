@@ -45,40 +45,40 @@
       "word": "green environment",
       "phonetic": "/ɡriːn ɪnˈvaɪrənmənt/",
       "meaning": "绿色环境",
-      "example": "Do not touch the green environment during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个绿色环境。",
+      "example": "The green environment passed the pharmacy checks, so we can shift traffic tonight.",
+      "exampleZh": "绿色环境通过了药房检查，今晚可以把流量切过去。",
       "category": "it"
     },
     {
       "word": "traffic shift",
       "phonetic": "/ˈtræfɪk ʃɪft/",
       "meaning": "流量切换",
-      "example": "Do not touch the traffic shift during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个流量切换。",
+      "example": "The traffic shift to green starts at 21:00, with blue kept warm for an hour.",
+      "exampleZh": "切到绿色环境的流量切换 21:00 开始，蓝色环境再热备一小时。",
       "category": "it"
     },
     {
       "word": "weighted routing",
       "phonetic": "/ˈweɪtɪd ˈruːtɪŋ/",
       "meaning": "加权路由",
-      "example": "The ward asked us to check the weighted routing.",
-      "exampleZh": "病区让我们看一下这个加权路由。",
+      "example": "Weighted routing sends most portal users to blue and a small slice to green.",
+      "exampleZh": "加权路由把大多数门户用户送到蓝色环境，只把一小部分送到绿色环境。",
       "category": "it"
     },
     {
       "word": "health probe",
       "phonetic": "/helθ prəʊb/",
       "meaning": "健康探测",
-      "example": "The vendor asked for a screenshot of the health probe.",
-      "exampleZh": "厂商要一张这个健康探测的截图。",
+      "example": "The health probe marked the lab API down after three failed checks in a row.",
+      "exampleZh": "健康探测连续失败三次后，把检验接口标成了不可用。",
       "category": "it"
     },
     {
       "word": "unhealthy node",
       "phonetic": "/ʌnˈhelθi nəʊd/",
       "meaning": "不健康节点",
-      "example": "Do not touch the unhealthy node during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个不健康节点。",
+      "example": "The unhealthy node stopped receiving portal pods until its disk pressure cleared.",
+      "exampleZh": "磁盘压力解除之前，那台不健康节点不再接收门户容器组。",
       "category": "it"
     }
   ]

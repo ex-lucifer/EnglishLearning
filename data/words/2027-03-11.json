@@ -5,80 +5,80 @@
       "word": "delay",
       "phonetic": "/dɪˈleɪ/",
       "meaning": "延误",
-      "example": "Can you delay it today?",
-      "exampleZh": "你今天能把它延误吗？",
+      "example": "A public holiday can delay the payroll cutoff, sometimes by a full day.",
+      "exampleZh": "法定假日可能会延误薪酬截止时间，有时会晚一整天。",
       "category": "office"
     },
     {
       "word": "accelerate",
       "phonetic": "/əkˈseləreɪt/",
       "meaning": "加快",
-      "example": "Who will accelerate this after the huddle?",
-      "exampleZh": "晨会后谁来加快？",
+      "example": "If we accelerate the clearance papers, she can finish on Friday.",
+      "exampleZh": "如果我们加快办理清算材料，她周五就能办完。",
       "category": "office"
     },
     {
       "word": "expedite",
       "phonetic": "/ˈekspədaɪt/",
       "meaning": "加急办理",
-      "example": "Please expedite this before you leave.",
-      "exampleZh": "走之前请把这件事加急办理。",
+      "example": "The new night clerk starts tomorrow, so please expedite her access form.",
+      "exampleZh": "新来的夜班文员明天到岗，请加急办理她的权限表。",
       "category": "office"
     },
     {
       "word": "omit",
       "phonetic": "/əˈmɪt/",
       "meaning": "省略",
-      "example": "Who will omit this after the huddle?",
-      "exampleZh": "晨会后谁来省略？",
+      "example": "Where a visitor has no middle name, omit that line on the form.",
+      "exampleZh": "访客没有中间名时，表格上那一行可以省略。",
       "category": "office"
     },
     {
       "word": "include",
       "phonetic": "/ɪnˈkluːd/",
       "meaning": "纳入",
-      "example": "We still need to include this.",
-      "exampleZh": "这件事还得纳入。",
+      "example": "Tomorrow's staffing list must include whoever is on the night shift.",
+      "exampleZh": "明天的人员名单必须把夜班的人纳入进去。",
       "category": "office"
     },
     {
       "word": "trunk",
       "phonetic": "/trʌŋk/",
       "meaning": "中继链路",
-      "example": "The vendor asked for a screenshot of the trunk.",
-      "exampleZh": "厂商要一张这个中继链路的截图。",
+      "example": "The trunk to the emergency building carries voice, badge, and guest VLANs.",
+      "exampleZh": "通往急诊楼的中继链路承载语音、门禁和访客 VLAN。",
       "category": "it"
     },
     {
       "word": "access port",
       "phonetic": "/ˈækses pɔːt/",
       "meaning": "接入端口",
-      "example": "Who is on call for the access port this week?",
-      "exampleZh": "这周这个接入端口谁值班？",
+      "example": "Set this access port to the nurse-call VLAN before the phone goes live.",
+      "exampleZh": "电话启用前，把这个接入端口划到护士呼叫 VLAN。",
       "category": "it"
     },
     {
       "word": "uplink",
       "phonetic": "/ˈʌplɪŋk/",
       "meaning": "上联口",
-      "example": "The ward asked us to check the uplink.",
-      "exampleZh": "病区让我们看一下这个上联口。",
+      "example": "The uplink from clinic closet two is saturated during morning registration.",
+      "exampleZh": "二号门诊弱电间的上联口在早高峰挂号时已经打满。",
       "category": "it"
     },
     {
       "word": "core switch",
       "phonetic": "/kɔː swɪtʃ/",
       "meaning": "核心交换机",
-      "example": "The ward asked us to check the core switch.",
-      "exampleZh": "病区让我们看一下这个核心交换机。",
+      "example": "The core switch in room A feeds every building, so we reboot it only at night.",
+      "exampleZh": "A 机房的核心交换机供着每栋楼，所以我们只在夜里重启它。",
       "category": "it"
     },
     {
       "word": "distribution switch",
       "phonetic": "/ˌdɪstrɪˈbjuːʃn swɪtʃ/",
       "meaning": "汇聚交换机",
-      "example": "Who is on call for the distribution switch this week?",
-      "exampleZh": "这周这个汇聚交换机谁值班？",
+      "example": "The distribution switch for the west wing lost one power supply at noon.",
+      "exampleZh": "西楼的汇聚交换机中午掉了一块电源。",
       "category": "it"
     }
   ]

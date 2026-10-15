@@ -5,80 +5,80 @@
       "word": "offer",
       "phonetic": "/ˈɒfə/",
       "meaning": "录用通知",
-      "example": "The offer still needs a decision today.",
-      "exampleZh": "这个录用通知今天还得拍个板。",
+      "example": "She has until Friday to accept or decline the offer.",
+      "exampleZh": "她最晚周五决定接受还是拒绝这份录用通知。",
       "category": "office"
     },
     {
       "word": "milestone",
       "phonetic": "/ˈmaɪlstəʊn/",
       "meaning": "里程碑",
-      "example": "The milestone still needs a decision today.",
-      "exampleZh": "这个里程碑今天还得拍个板。",
+      "example": "Signing the contract is the milestone we need before ordering.",
+      "exampleZh": "签字合同是下单之前必须到达的里程碑。",
       "category": "office"
     },
     {
       "word": "deliverable",
       "phonetic": "/dɪˈlɪvərəbl/",
       "meaning": "交付物",
-      "example": "Please add the deliverable to today’s notes.",
-      "exampleZh": "请把交付物写进今天的记录。",
+      "example": "A one-page handover note is the deliverable for this task.",
+      "exampleZh": "这项任务的交付物是一页纸的交接说明。",
       "category": "office"
     },
     {
       "word": "scope",
       "phonetic": "/skəʊp/",
       "meaning": "范围",
-      "example": "Who will own the scope this week?",
-      "exampleZh": "这周这个范围谁来负责？",
+      "example": "Adding the night clinic would widen the scope of the project.",
+      "exampleZh": "如果加上夜间门诊，项目范围就会变大。",
       "category": "office"
     },
     {
       "word": "stakeholder",
       "phonetic": "/ˈsteɪkhəʊldə/",
       "meaning": "相关方",
-      "example": "I put the stakeholder on the shared drive.",
-      "exampleZh": "我把相关方放到了共享盘。",
+      "example": "The ward sister is a stakeholder in any change to visiting hours.",
+      "exampleZh": "探视时间一改，护士长就是相关方。",
       "category": "office"
     },
     {
       "word": "malware",
       "phonetic": "/ˈmælweə/",
       "meaning": "恶意软件",
-      "example": "The vendor asked for a screenshot of the malware.",
-      "exampleZh": "厂商要一张这个恶意软件的截图。",
+      "example": "Malware on the reception PC tried to copy patient spreadsheets.",
+      "exampleZh": "挂号处电脑上的恶意软件试图复制患者表格。",
       "category": "it"
     },
     {
       "word": "ransomware",
       "phonetic": "/ˈrænsəmweə/",
       "meaning": "勒索软件",
-      "example": "I logged the ransomware in today’s change ticket.",
-      "exampleZh": "我把这个勒索软件记进了今天的变更单。",
+      "example": "Ransomware encrypted the scanned consent files on the file server before noon.",
+      "exampleZh": "勒索软件在中午前加密了文件服务器上的扫描知情同意书。",
       "category": "it"
     },
     {
       "word": "phishing",
       "phonetic": "/ˈfɪʃɪŋ/",
       "meaning": "钓鱼攻击",
-      "example": "I logged the phishing in today’s change ticket.",
-      "exampleZh": "我把这个钓鱼攻击记进了今天的变更单。",
+      "example": "Phishing mail asked nurses to type passwords into a fake site.",
+      "exampleZh": "钓鱼攻击的邮件让护士把密码填进一个假网站。",
       "category": "it"
     },
     {
       "word": "spam filter",
       "phonetic": "/spæm ˈfɪltə/",
       "meaning": "垃圾过滤",
-      "example": "We will verify the spam filter after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个垃圾过滤。",
+      "example": "The spam filter trapped the lab's reagent alert this morning.",
+      "exampleZh": "垃圾过滤今天早上把检验科的试剂告警邮件拦下了。",
       "category": "it"
     },
     {
       "word": "sandbox",
       "phonetic": "/ˈsændbɒks/",
       "meaning": "沙箱",
-      "example": "We will verify the sandbox after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个沙箱。",
+      "example": "The sandbox opened that attachment without letting it touch the ward PC.",
+      "exampleZh": "沙箱打开了那个附件，没有让它碰到病区电脑。",
       "category": "it"
     }
   ]

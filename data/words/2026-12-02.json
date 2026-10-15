@@ -5,80 +5,80 @@
       "word": "night shift",
       "phonetic": "/naɪt ʃɪft/",
       "meaning": "夜班",
-      "example": "Could you send the night shift to the project group?",
-      "exampleZh": "你能把夜班发到项目群吗？",
+      "example": "The night shift prefers a short written note to a long phone call.",
+      "exampleZh": "夜班更希望要一张短的书面说明，而不是一通长电话。",
       "category": "office"
     },
     {
       "word": "day shift",
       "phonetic": "/deɪ ʃɪft/",
       "meaning": "白班",
-      "example": "Who will own the day shift this week?",
-      "exampleZh": "这周这个白班谁来负责？",
+      "example": "The day shift hands over the open complaints at seven-thirty.",
+      "exampleZh": "白班在七点半交接还没了结的投诉。",
       "category": "office"
     },
     {
       "word": "weekend cover",
       "phonetic": "/ˈwiːkend ˈkʌvə/",
       "meaning": "周末顶班",
-      "example": "We talked about the weekend cover with the department head.",
-      "exampleZh": "我们和科主任谈了这个周末顶班。",
+      "example": "Weekend cover includes the switchboard, the front door, and visitor passes.",
+      "exampleZh": "周末顶班包括总机、前门和访客证。",
       "category": "office"
     },
     {
       "word": "leave request",
       "phonetic": "/liːv rɪˈkwest/",
       "meaning": "请假申请",
-      "example": "Who will own the leave request this week?",
-      "exampleZh": "这周这个请假申请谁来负责？",
+      "example": "Put the leave request in before the roster for that week is published.",
+      "exampleZh": "请在那周排班表公布之前提交请假申请。",
       "category": "office"
     },
     {
       "word": "sick leave",
       "phonetic": "/sɪk liːv/",
       "meaning": "病假",
-      "example": "We talked about the sick leave with the department head.",
-      "exampleZh": "我们和科主任谈了这个病假。",
+      "example": "She is on sick leave, so her buddy will cover the desk today.",
+      "exampleZh": "她在休病假，今天由带教搭档顶这个台。",
       "category": "office"
     },
     {
       "word": "wildcard cert",
       "phonetic": "/ˈwaɪldkɑːd sɜːt/",
       "meaning": "通配符证书",
-      "example": "Do not touch the wildcard cert during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个通配符证书。",
+      "example": "The wildcard cert covers the new clinic site without another request.",
+      "exampleZh": "通配符证书能盖住新的门诊站点，不用再单独申请。",
       "category": "it"
     },
     {
       "word": "self-signed cert",
       "phonetic": "/self saɪnd sɜːt/",
       "meaning": "自签名证书",
-      "example": "I logged the self-signed cert in today’s change ticket.",
-      "exampleZh": "我把这个自签名证书记进了今天的变更单。",
+      "example": "The self-signed cert on the lab analyzer makes every browser show a warning.",
+      "exampleZh": "检验分析仪上的自签名证书会让每个浏览器都弹出警告。",
       "category": "it"
     },
     {
       "word": "PKI",
       "phonetic": "/ˌpiː keɪ ˈaɪ/",
       "meaning": "公钥基础设施（Public Key Infrastructure）",
-      "example": "Follow the PKI (Public Key Infrastructure) policy.",
-      "exampleZh": "请按 PKI（Public Key Infrastructure）的规定做。",
+      "example": "PKI (Public Key Infrastructure) issues the certificates our bedside monitors use.",
+      "exampleZh": "PKI（公钥基础设施）签发床旁监护仪使用的证书。",
       "category": "it"
     },
     {
       "word": "API key",
       "phonetic": "/ˌeɪ piː ˈaɪ kiː/",
       "meaning": "接口密钥",
-      "example": "Do not touch the API key during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个接口密钥。",
+      "example": "The API key for the regional platform was revoked this morning.",
+      "exampleZh": "区域平台的接口密钥今天早上被吊销了。",
       "category": "it"
     },
     {
       "word": "OAuth",
       "phonetic": "/ˈəʊɔːθ/",
       "meaning": "授权协议（Open Authorization）",
-      "example": "Document OAuth (Open Authorization) in the interface spec.",
-      "exampleZh": "接口说明里请写上 OAuth（Open Authorization）。",
+      "example": "OAuth (Open Authorization) refused the clinic app after the secret changed.",
+      "exampleZh": "密钥变更之后，OAuth（授权协议）拒绝了门诊这个应用。",
       "category": "it"
     }
   ]

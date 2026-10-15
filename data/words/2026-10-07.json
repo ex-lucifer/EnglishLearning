@@ -5,80 +5,80 @@
       "word": "shift",
       "phonetic": "/ʃɪft/",
       "meaning": "班次",
-      "example": "Please bring the shift to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个班次。",
+      "example": "Which shift are you working on the public holiday?",
+      "exampleZh": "公共假期你上哪个班次？",
       "category": "office"
     },
     {
       "word": "roster",
       "phonetic": "/ˈrɒstə/",
       "meaning": "排班表",
-      "example": "Who will own the roster this week?",
-      "exampleZh": "这周这个排班表谁来负责？",
+      "example": "The roster on the wall is older than the one in the email.",
+      "exampleZh": "墙上的排班表比邮件里的那份旧。",
       "category": "office"
     },
     {
       "word": "coverage",
       "phonetic": "/ˈkʌvərɪdʒ/",
       "meaning": "顶班安排",
-      "example": "I put the coverage on the shared drive.",
-      "exampleZh": "我把顶班安排放到了共享盘。",
+      "example": "We still need coverage at the information desk from twelve to one.",
+      "exampleZh": "问询台十二点到一点的顶班安排还空着。",
       "category": "office"
     },
     {
       "word": "deputy",
       "phonetic": "/ˈdepjuti/",
       "meaning": "代理人",
-      "example": "The deputy still needs a decision today.",
-      "exampleZh": "这个代理人今天还得拍个板。",
+      "example": "Please tell the deputy as well when the director is away.",
+      "exampleZh": "主任不在时，也请告知代理人。",
       "category": "office"
     },
     {
       "word": "proxy",
       "phonetic": "/ˈprɒksi/",
       "meaning": "授权代表",
-      "example": "Could you send the proxy to the project group?",
-      "exampleZh": "你能把授权代表发到项目群吗？",
+      "example": "Name a proxy before you go on annual leave next week.",
+      "exampleZh": "下周休年假之前，请指定一位授权代表。",
       "category": "office"
     },
     {
       "word": "blue-green",
       "phonetic": "/bluː ɡriːn/",
       "meaning": "蓝绿发布",
-      "example": "We will verify the blue-green after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个蓝绿发布。",
+      "example": "Blue-green lets us return to the old order screen if the new one misbehaves.",
+      "exampleZh": "有了蓝绿发布，新医嘱界面出问题就可以回到旧界面。",
       "category": "it"
     },
     {
       "word": "canary release",
       "phonetic": "/ˈkænəri rɪˈliːs/",
       "meaning": "金丝雀发布",
-      "example": "The ward asked us to check the canary release.",
-      "exampleZh": "病区让我们看一下这个金丝雀发布。",
+      "example": "The canary release reached only the east clinic this morning.",
+      "exampleZh": "这次金丝雀发布今天早上只到了东院门诊。",
       "category": "it"
     },
     {
       "word": "feature flag",
       "phonetic": "/ˈfiːtʃə flæɡ/",
       "meaning": "功能开关",
-      "example": "The vendor asked for a screenshot of the feature flag.",
-      "exampleZh": "厂商要一张这个功能开关的截图。",
+      "example": "Turn the feature flag off if the new allergy popup annoys the doctors.",
+      "exampleZh": "新的过敏弹窗要是打扰医生，就把功能开关关掉。",
       "category": "it"
     },
     {
       "word": "config file",
       "phonetic": "/kənˈfɪɡ faɪl/",
       "meaning": "配置文件",
-      "example": "We will verify the config file after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个配置文件。",
+      "example": "The config file still points pharmacy at the retired server.",
+      "exampleZh": "配置文件还把药房指到那台已退役的服务器。",
       "category": "it"
     },
     {
       "word": "environment variable",
       "phonetic": "/ɪnˈvaɪrənmənt ˈveəriəbl/",
       "meaning": "环境变量",
-      "example": "The ward asked us to check the environment variable.",
-      "exampleZh": "病区让我们看一下这个环境变量。",
+      "example": "The environment variable for the lab host is missing on this node.",
+      "exampleZh": "这个节点上缺少检验主机的环境变量。",
       "category": "it"
     }
   ]

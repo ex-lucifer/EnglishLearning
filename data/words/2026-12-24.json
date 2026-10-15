@@ -37,48 +37,48 @@
       "word": "admission",
       "phonetic": "/ədˈmɪʃn/",
       "meaning": "入院",
-      "example": "We talked about the admission with the department head.",
-      "exampleZh": "我们和科主任谈了这个入院。",
+      "example": "Her admission was brought forward because the pain increased.",
+      "exampleZh": "因为疼痛加重，她的入院提前了。",
       "category": "office"
     },
     {
       "word": "sandbox environment",
       "phonetic": "/ˈsændbɒks ɪnˈvaɪrənmənt/",
       "meaning": "沙箱环境",
-      "example": "We will verify the sandbox environment after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个沙箱环境。",
+      "example": "The sandbox environment has no real patients, so use the test accounts.",
+      "exampleZh": "沙箱环境里没有真实患者，请使用测试账号。",
       "category": "it"
     },
     {
       "word": "dev environment",
       "phonetic": "/dev ɪnˈvaɪrənmənt/",
       "meaning": "开发环境",
-      "example": "Do not touch the dev environment during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个开发环境。",
+      "example": "The dev environment stays down while we replace its database tonight.",
+      "exampleZh": "今晚更换数据库期间，开发环境先保持停机。",
       "category": "it"
     },
     {
       "word": "test environment",
       "phonetic": "/test ɪnˈvaɪrənmənt/",
       "meaning": "测试环境",
-      "example": "The ward asked us to check the test environment.",
-      "exampleZh": "病区让我们看一下这个测试环境。",
+      "example": "The test environment is missing the new drug table from pharmacy.",
+      "exampleZh": "测试环境里还没有药房那张新的药品表。",
       "category": "it"
     },
     {
       "word": "DR site",
       "phonetic": "/ˌdiː ˈɑː saɪt/",
       "meaning": "灾备站点",
-      "example": "Do not touch the DR site during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个灾备站点。",
+      "example": "The DR site can accept orders, but it cannot print wristbands yet.",
+      "exampleZh": "灾备站点能接下医嘱，但还打不了腕带。",
       "category": "it"
     },
     {
       "word": "primary site",
       "phonetic": "/ˈpraɪməri saɪt/",
       "meaning": "主站点",
-      "example": "Who is on call for the primary site this week?",
-      "exampleZh": "这周这个主站点谁值班？",
+      "example": "The primary site is healthy again, so the east site can stay idle.",
+      "exampleZh": "主站点已经恢复，东边的站点可以先空着。",
       "category": "it"
     }
   ]

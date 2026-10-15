@@ -5,80 +5,80 @@
       "word": "org chart",
       "phonetic": "/ɔːɡ tʃɑːt/",
       "meaning": "组织架构图",
-      "example": "The org chart still needs a decision today.",
-      "exampleZh": "这个组织架构图今天还得拍个板。",
+      "example": "The org chart in the lobby is missing two new team leads.",
+      "exampleZh": "大厅里的组织架构图漏了两位新组长。",
       "category": "office"
     },
     {
       "word": "job description",
       "phonetic": "/dʒɒb dɪˈskrɪpʃn/",
       "meaning": "岗位说明书",
-      "example": "Who will own the job description this week?",
-      "exampleZh": "这周这个岗位说明书谁来负责？",
+      "example": "The job description should mention weekend cover and the duty log.",
+      "exampleZh": "岗位说明书里应写上周末顶班和值班日志。",
       "category": "office"
     },
     {
       "word": "duty roster",
       "phonetic": "/ˈdjuːti ˈrɒstə/",
       "meaning": "值班表",
-      "example": "I put the duty roster on the shared drive.",
-      "exampleZh": "我把值班表放到了共享盘。",
+      "example": "The duty roster for the holiday is on the nurse station wall.",
+      "exampleZh": "假期值班表贴在护士站的墙上。",
       "category": "office"
     },
     {
       "word": "on-call",
       "phonetic": "/ɒn kɔːl/",
       "meaning": "值班待命",
-      "example": "I am on-call tonight for HIS.",
-      "exampleZh": "今晚 HIS 我值班待命。",
+      "example": "An on-call supervisor must be reachable after the clinic closes.",
+      "exampleZh": "门诊结束后，必须有一位值班待命的主管能联系上。",
       "category": "office"
     },
     {
       "word": "standby",
       "phonetic": "/ˈstændbaɪ/",
       "meaning": "待命",
-      "example": "We talked about the standby with the department head.",
-      "exampleZh": "我们和科主任谈了这个待命。",
+      "example": "Two clerks remain on standby until the evening admissions slow down.",
+      "exampleZh": "两名文员待命，直到傍晚入院高峰过去。",
       "category": "office"
     },
     {
       "word": "password policy",
       "phonetic": "/ˈpɑːswɜːd ˈpɒləsi/",
       "meaning": "密码策略",
-      "example": "I logged the password policy in today’s change ticket.",
-      "exampleZh": "我把这个密码策略记进了今天的变更单。",
+      "example": "Password policy now rejects the short passwords still used at reception.",
+      "exampleZh": "密码策略现在会拒绝挂号处还在用的短密码。",
       "category": "it"
     },
     {
       "word": "encryption at rest",
       "phonetic": "/ɪnˈkrɪpʃn ət rest/",
       "meaning": "静态加密",
-      "example": "Who is on call for the encryption at rest this week?",
-      "exampleZh": "这周这个静态加密谁值班？",
+      "example": "Encryption at rest covers the backup copies stored in the east room.",
+      "exampleZh": "静态加密覆盖了存放在东机房的那些备份副本。",
       "category": "it"
     },
     {
       "word": "encryption in transit",
       "phonetic": "/ɪnˈkrɪpʃn ɪn ˈtrænzɪt/",
       "meaning": "传输加密",
-      "example": "Who is on call for the encryption in transit this week?",
-      "exampleZh": "这周这个传输加密谁值班？",
+      "example": "Encryption in transit failed between the lab analyzer and the interface.",
+      "exampleZh": "检验分析仪和接口之间的传输加密失败了。",
       "category": "it"
     },
     {
       "word": "TLS handshake",
       "phonetic": "/ˌtiː el ˈes ˈhændʃeɪk/",
       "meaning": "加密握手（Transport Layer Security）",
-      "example": "We will verify the TLS handshake after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个加密握手。",
+      "example": "The TLS handshake failed because the portal still offers an old protocol.",
+      "exampleZh": "门户还在提供旧协议，所以加密握手失败了。",
       "category": "it"
     },
     {
       "word": "certificate expiry",
       "phonetic": "/səˈtɪfɪkət ɪkˈspaɪəri/",
       "meaning": "证书到期",
-      "example": "The ward asked us to check the certificate expiry.",
-      "exampleZh": "病区让我们看一下这个证书到期。",
+      "example": "Certificate expiry on the patient portal is set for this coming Sunday.",
+      "exampleZh": "患者门户的证书到期定在这个周日。",
       "category": "it"
     }
   ]

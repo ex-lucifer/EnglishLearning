@@ -5,80 +5,80 @@
       "word": "light day",
       "phonetic": "/laɪt deɪ/",
       "meaning": "轻松的一天",
-      "example": "The light day still needs a decision today.",
-      "exampleZh": "这个轻松的一天今天还得拍个板。",
+      "example": "Friday should be a light day if nobody adds another meeting.",
+      "exampleZh": "如果不再加会，周五应该是轻松的一天。",
       "category": "office"
     },
     {
       "word": "typical day",
       "phonetic": "/ˈtɪpɪkl deɪ/",
       "meaning": "平常的一天",
-      "example": "Please bring the typical day to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个平常的一天。",
+      "example": "A typical day here starts with the queue and ends with the logbook.",
+      "exampleZh": "在这里，平常的一天从排队开始，以登记本结束。",
       "category": "office"
     },
     {
       "word": "unusual request",
       "phonetic": "/ʌnˈjuːʒuəl rɪˈkwest/",
       "meaning": "少见的请求",
-      "example": "The unusual request still needs a decision today.",
-      "exampleZh": "这个少见的请求今天还得拍个板。",
+      "example": "An unusual request arrived for a chart from twenty years ago.",
+      "exampleZh": "来了一份少见的请求，要调二十年前的病历。",
       "category": "office"
     },
     {
       "word": "routine request",
       "phonetic": "/ruːˈtiːn rɪˈkwest/",
       "meaning": "常规请求",
-      "example": "I put the routine request on the shared drive.",
-      "exampleZh": "我把常规请求放到了共享盘。",
+      "example": "A routine request for a roster copy can wait until after lunch.",
+      "exampleZh": "索要排班表副本这种常规请求，可以等到午饭以后。",
       "category": "office"
     },
     {
       "word": "special request",
       "phonetic": "/ˈspeʃl rɪˈkwest/",
       "meaning": "特殊请求",
-      "example": "Please add the special request to today’s notes.",
-      "exampleZh": "请把特殊请求写进今天的记录。",
+      "example": "The health bureau made a special request for a private waiting room.",
+      "exampleZh": "卫生局提出了一项特殊请求，要一间单独的等候室。",
       "category": "office"
     },
     {
       "word": "DKIM",
       "phonetic": "/ˈdiːkɪm/",
       "meaning": "邮件签名（DomainKeys Identified Mail）",
-      "example": "Document DKIM (DomainKeys Identified Mail) in the interface spec.",
-      "exampleZh": "接口说明里请写上 DKIM（DomainKeys Identified Mail）。",
+      "example": "DKIM (DomainKeys Identified Mail) signs outbound messages so recipients can trust them.",
+      "exampleZh": "DKIM（邮件签名）为外发邮件签名，方便对方核验。",
       "category": "it"
     },
     {
       "word": "DMARC",
       "phonetic": "/ˈdiːmɑːk/",
       "meaning": "邮件认证报告（Domain-based Message Authentication, Reporting and Conformance）",
-      "example": "Enable DMARC (Domain-based Message Authentication, Reporting and Conformance) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 DMARC（Domain-based Message Authentication, Reporting and Conformance）。",
+      "example": "DMARC (Domain-based Message Authentication, Reporting and Conformance) tells recipients how to treat failed mail checks.",
+      "exampleZh": "DMARC（邮件认证报告）告诉收件方如何处理未通过核验的邮件。",
       "category": "it"
     },
     {
       "word": "MX failover",
       "phonetic": "/em eks ˈfeɪləʊvə/",
       "meaning": "邮件交换切换",
-      "example": "Who is on call for the MX failover this week?",
-      "exampleZh": "这周这个邮件交换切换谁值班？",
+      "example": "MX failover moved inbound mail to the spare host during the outage.",
+      "exampleZh": "故障期间，邮件交换切换把入站邮件转到了备用主机。",
       "category": "it"
     },
     {
       "word": "smarthost",
       "phonetic": "/ˈsmɑːthəʊst/",
       "meaning": "智能中继",
-      "example": "Do not touch the smarthost during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个智能中继。",
+      "example": "The smarthost relays clinic mail through the city's approved gateway.",
+      "exampleZh": "智能中继通过市里批准的网关转发门诊邮件。",
       "category": "it"
     },
     {
       "word": "relay",
       "phonetic": "/ˈriːleɪ/",
       "meaning": "邮件中继",
-      "example": "Do not touch the relay during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个邮件中继。",
+      "example": "Our relay refuses mail that does not come from a hospital system.",
+      "exampleZh": "我们的邮件中继会拒收非医院系统发来的邮件。",
       "category": "it"
     }
   ]

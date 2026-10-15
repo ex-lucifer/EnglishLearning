@@ -5,80 +5,80 @@
       "word": "write-off",
       "phonetic": "/raɪt ɒf/",
       "meaning": "核销",
-      "example": "Please add the write-off to today’s notes.",
-      "exampleZh": "请把核销写进今天的记录。",
+      "example": "A cracked tablet may need a write-off if repair costs more.",
+      "exampleZh": "平板裂了，如果维修更贵，可能需要核销。",
       "category": "office"
     },
     {
       "word": "petty cash",
       "phonetic": "/ˈpeti kæʃ/",
       "meaning": "备用金",
-      "example": "Please bring the petty cash to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个备用金。",
+      "example": "Use petty cash only when a card payment is not possible.",
+      "exampleZh": "只有不能刷卡时才动用备用金。",
       "category": "office"
     },
     {
       "word": "receipt",
       "phonetic": "/rɪˈsiːt/",
       "meaning": "收据",
-      "example": "Please add the receipt to today’s notes.",
-      "exampleZh": "请把收据写进今天的记录。",
+      "example": "Keep every receipt until the reimbursement has been paid.",
+      "exampleZh": "在报销款到账之前，请留好每一张收据。",
       "category": "office"
     },
     {
       "word": "expense",
       "phonetic": "/ɪkˈspens/",
       "meaning": "费用",
-      "example": "Who will own the expense this week?",
-      "exampleZh": "这周这个费用谁来负责？",
+      "example": "Parking at the bureau is a reclaimable expense with a receipt.",
+      "exampleZh": "在卫健委停车，有收据就可以作为费用报销。",
       "category": "office"
     },
     {
       "word": "travel request",
       "phonetic": "/ˈtrævl rɪˈkwest/",
       "meaning": "出差申请",
-      "example": "The travel request still needs a decision today.",
-      "exampleZh": "这个出差申请今天还得拍个板。",
+      "example": "Submit the travel request before you book the train.",
+      "exampleZh": "订火车票之前，先提交出差申请。",
       "category": "office"
     },
     {
       "word": "swap usage",
       "phonetic": "/swɒp ˈjuːsɪdʒ/",
       "meaning": "交换分区占用",
-      "example": "The ward asked us to check the swap usage.",
-      "exampleZh": "病区让我们看一下这个交换分区占用。",
+      "example": "Swap usage on the interface host climbed after the queue backed up.",
+      "exampleZh": "队列积压之后，接口主机的交换分区占用升高了。",
       "category": "it"
     },
     {
       "word": "IOPS",
       "phonetic": "/ˈaɪɒps/",
       "meaning": "每秒读写次数（Input/Output Operations Per Second）",
-      "example": "We missed the IOPS (Input/Output Operations Per Second) last night.",
-      "exampleZh": "昨晚我们没达到 IOPS（Input/Output Operations Per Second）。",
+      "example": "IOPS (Input/Output Operations Per Second) on the database disks fell after noon.",
+      "exampleZh": "午后，数据库磁盘的IOPS（每秒读写次数）下降了。",
       "category": "it"
     },
     {
       "word": "throughput",
       "phonetic": "/ˈθruːpʊt/",
       "meaning": "吞吐量",
-      "example": "The vendor asked for a screenshot of the throughput.",
-      "exampleZh": "厂商要一张这个吞吐量的截图。",
+      "example": "Throughput on the lab feed halved once the interface started retrying.",
+      "exampleZh": "接口一开始重试，检验流的吞吐量就掉了一半。",
       "category": "it"
     },
     {
       "word": "queue depth",
       "phonetic": "/kjuː depθ/",
       "meaning": "队列深度",
-      "example": "Do not touch the queue depth during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个队列深度。",
+      "example": "Queue depth on the result consumer passed ten thousand at breakfast.",
+      "exampleZh": "早餐时段，结果消费端的队列深度超过了一万。",
       "category": "it"
     },
     {
       "word": "slow query",
       "phonetic": "/sləʊ ˈkwɪəri/",
       "meaning": "慢查询",
-      "example": "Do not touch the slow query during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个慢查询。",
+      "example": "One slow query in the census report locks the ward list for several seconds.",
+      "exampleZh": "在院统计里有一条慢查询，会把病区列表锁上好几秒。",
       "category": "it"
     }
   ]

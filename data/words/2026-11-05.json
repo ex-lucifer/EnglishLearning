@@ -5,80 +5,80 @@
       "word": "meeting invite",
       "phonetic": "/ˈmiːtɪŋ ɪnˈvaɪt/",
       "meaning": "会议邀请",
-      "example": "I put the meeting invite on the shared drive.",
-      "exampleZh": "我把会议邀请放到了共享盘。",
+      "example": "The meeting invite has the wrong room, so I will send a correction.",
+      "exampleZh": "会议邀请上的房间写错了，我会再发更正。",
       "category": "office"
     },
     {
       "word": "calendar invite",
       "phonetic": "/ˈkælɪndə ɪnˈvaɪt/",
       "meaning": "日历邀请",
-      "example": "The calendar invite still needs a decision today.",
-      "exampleZh": "这个日历邀请今天还得拍个板。",
+      "example": "Did the calendar invite reach the people on the late shift?",
+      "exampleZh": "晚班的人收到日历邀请了吗？",
       "category": "office"
     },
     {
       "word": "standing meeting",
       "phonetic": "/ˈstændɪŋ ˈmiːtɪŋ/",
       "meaning": "例会",
-      "example": "I put the standing meeting on the shared drive.",
-      "exampleZh": "我把例会放到了共享盘。",
+      "example": "The standing meeting is cancelled when the director is on leave.",
+      "exampleZh": "主任休假时，这次例会取消。",
       "category": "office"
     },
     {
       "word": "ad hoc",
       "phonetic": "/æd ˈhɒk/",
       "meaning": "临时安排",
-      "example": "We added an ad hoc huddle after the outage.",
-      "exampleZh": "停机后又加了一场临时短会。",
+      "example": "We arranged an ad hoc briefing when the census suddenly rose.",
+      "exampleZh": "在院人数突然上升时，我们安排了一次临时简报。",
       "category": "office"
     },
     {
       "word": "one-on-one",
       "phonetic": "/wʌn ɒn wʌn/",
       "meaning": "一对一面谈",
-      "example": "Who will own the one-on-one this week?",
-      "exampleZh": "这周这个一对一面谈谁来负责？",
+      "example": "I use the one-on-one to hear what the roster is not showing.",
+      "exampleZh": "我用一对一面谈来听排班表上看不出来的情况。",
       "category": "office"
     },
     {
       "word": "mapped drive",
       "phonetic": "/mæpt draɪv/",
       "meaning": "映射盘符",
-      "example": "Who is on call for the mapped drive this week?",
-      "exampleZh": "这周这个映射盘符谁值班？",
+      "example": "The mapped drive on this PC points at a server we already retired.",
+      "exampleZh": "这台电脑的映射盘符还指向一台我们已经退役的服务器。",
       "category": "it"
     },
     {
       "word": "print queue",
       "phonetic": "/prɪnt kjuː/",
       "meaning": "打印队列",
-      "example": "Do not touch the print queue during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个打印队列。",
+      "example": "The print queue for ward labels has more than two hundred jobs waiting.",
+      "exampleZh": "病区标签的打印队列里还有两百多个任务在等。",
       "category": "it"
     },
     {
       "word": "default gateway",
       "phonetic": "/dɪˈfɔːlt ˈɡeɪtweɪ/",
       "meaning": "默认网关",
-      "example": "The vendor asked for a screenshot of the default gateway.",
-      "exampleZh": "厂商要一张这个默认网关的截图。",
+      "example": "The default gateway on this subnet changed during last night's work.",
+      "exampleZh": "昨晚施工时，这个子网的默认网关被改掉了。",
       "category": "it"
     },
     {
       "word": "IP address",
       "phonetic": "/aɪ ˈpiː əˈdres/",
       "meaning": "IP地址",
-      "example": "The ward asked us to check the IP address.",
-      "exampleZh": "病区让我们看一下这个IP地址。",
+      "example": "The IP address on the new scanner clashes with the modality worklist host.",
+      "exampleZh": "新扫描仪的IP地址和设备工作列表那台主机冲突了。",
       "category": "it"
     },
     {
       "word": "MAC address",
       "phonetic": "/mæk əˈdres/",
       "meaning": "网卡地址",
-      "example": "The vendor asked for a screenshot of the MAC address.",
-      "exampleZh": "厂商要一张这个网卡地址的截图。",
+      "example": "The MAC address on this phone does not match the one we registered.",
+      "exampleZh": "这部电话的网卡地址和我们登记的那一个不一致。",
       "category": "it"
     }
   ]

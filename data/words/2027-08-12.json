@@ -45,40 +45,40 @@
       "word": "east-west traffic",
       "phonetic": "/iːst west ˈtræfɪk/",
       "meaning": "东西向流量",
-      "example": "Who is on call for the east-west traffic this week?",
-      "exampleZh": "这周这个东西向流量谁值班？",
+      "example": "East-west traffic between the app tier and the database never leaves the host.",
+      "exampleZh": "应用层和数据库之间的东西向流量始终不离开这台主机。",
       "category": "it"
     },
     {
       "word": "north-south traffic",
       "phonetic": "/nɔːθ saʊθ ˈtræfɪk/",
       "meaning": "南北向流量",
-      "example": "I logged the north-south traffic in today’s change ticket.",
-      "exampleZh": "我把这个南北向流量记进了今天的变更单。",
+      "example": "North-south traffic from the clinics to the portal passes the perimeter firewall.",
+      "exampleZh": "门诊到门户的南北向流量会经过边界防火墙。",
       "category": "it"
     },
     {
       "word": "hairpin",
       "phonetic": "/ˈheəpɪn/",
       "meaning": "回流转发",
-      "example": "The vendor asked for a screenshot of the hairpin.",
-      "exampleZh": "厂商要一张这个回流转发的截图。",
+      "example": "Hairpin on the firewall sends the return path back out the same clinic link.",
+      "exampleZh": "防火墙上的回流转发把回程从同一条门诊链路送回去。",
       "category": "it"
     },
     {
       "word": "anycast",
       "phonetic": "/ˈenikɑːst/",
       "meaning": "任播",
-      "example": "Do not touch the anycast during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个任播。",
+      "example": "Anycast lets every campus reach the nearest DNS resolver with the same address.",
+      "exampleZh": "任播让每个院区用同一个地址访问离自己最近的 DNS 解析器。",
       "category": "it"
     },
     {
       "word": "unicast",
       "phonetic": "/ˈjuːnɪkɑːst/",
       "meaning": "单播",
-      "example": "I logged the unicast in today’s change ticket.",
-      "exampleZh": "我把这个单播记进了今天的变更单。",
+      "example": "Unicast is how the HIS app reaches one database host, not the whole subnet.",
+      "exampleZh": "HIS 应用访问某一台数据库主机靠的是单播，不是对整个子网说话。",
       "category": "it"
     }
   ]

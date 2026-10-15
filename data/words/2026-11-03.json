@@ -13,72 +13,72 @@
       "word": "next steps",
       "phonetic": "/nekst steps/",
       "meaning": "下一步",
-      "example": "We talked about the next steps with the department head.",
-      "exampleZh": "我们和科主任谈了这个下一步。",
+      "example": "The next steps are a call to the family and a note in the log.",
+      "exampleZh": "下一步是给家属打电话，并在日志里记一笔。",
       "category": "office"
     },
     {
       "word": "status update",
       "phonetic": "/ˈsteɪtəs ˌʌpdeɪt/",
       "meaning": "进展通报",
-      "example": "We talked about the status update with the department head.",
-      "exampleZh": "我们和科主任谈了这个进展通报。",
+      "example": "The status update should say what changed since last Friday.",
+      "exampleZh": "进展通报要写明上周五以来有什么变化。",
       "category": "office"
     },
     {
       "word": "weekly report",
       "phonetic": "/ˈwiːkli rɪˈpɔːt/",
       "meaning": "周报",
-      "example": "We talked about the weekly report with the department head.",
-      "exampleZh": "我们和科主任谈了这个周报。",
+      "example": "Keep the weekly report to one page plus the attendance table.",
+      "exampleZh": "周报控制在一页，另附出席情况表。",
       "category": "office"
     },
     {
       "word": "monthly report",
       "phonetic": "/ˈmʌnθli rɪˈpɔːt/",
       "meaning": "月报",
-      "example": "Please add the monthly report to today’s notes.",
-      "exampleZh": "请把月报写进今天的记录。",
+      "example": "The monthly report compares this month's complaints with last month.",
+      "exampleZh": "月报把这个月的投诉和上个月做了对比。",
       "category": "office"
     },
     {
       "word": "domain time",
       "phonetic": "/dəˈmeɪn taɪm/",
       "meaning": "域时间",
-      "example": "Do not touch the domain time during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个域时间。",
+      "example": "Domain time on the lab PCs is four minutes behind the server.",
+      "exampleZh": "检验电脑上的域时间比服务器慢了四分钟。",
       "category": "it"
     },
     {
       "word": "certificate authority",
       "phonetic": "/səˈtɪfɪkət ɔːˈθɒrəti/",
       "meaning": "证书颁发机构",
-      "example": "I logged the certificate authority in today’s change ticket.",
-      "exampleZh": "我把这个证书颁发机构记进了今天的变更单。",
+      "example": "The certificate authority expired, so browsers warn on every clinical site.",
+      "exampleZh": "证书颁发机构过期了，每个临床网站上浏览器都在报警。",
       "category": "it"
     },
     {
       "word": "CRL",
       "phonetic": "/ˌsiː ɑː ˈel/",
       "meaning": "证书吊销列表（Certificate Revocation List）",
-      "example": "The CRL (Certificate Revocation List) is missing on this chart.",
-      "exampleZh": "这份记录少了 CRL（Certificate Revocation List）。",
+      "example": "CRL (Certificate Revocation List) is stale, so revoked badges still authenticate.",
+      "exampleZh": "CRL（证书吊销列表）过期了，已吊销的工卡还能通过认证。",
       "category": "it"
     },
     {
       "word": "OCSP",
       "phonetic": "/ˌəʊ siː es ˈpiː/",
       "meaning": "在线证书状态（Online Certificate Status Protocol）",
-      "example": "Enable OCSP (Online Certificate Status Protocol) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 OCSP（Online Certificate Status Protocol）。",
+      "example": "OCSP (Online Certificate Status Protocol) timed out, so the portal treated every certificate as unknown.",
+      "exampleZh": "OCSP（在线证书状态）超时了，门户把每张证书都当成未知。",
       "category": "it"
     },
     {
       "word": "password reset",
       "phonetic": "/ˈpɑːswɜːd ˌriːˈset/",
       "meaning": "密码重置",
-      "example": "Please test the password reset on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个密码重置。",
+      "example": "The password reset for the night nurse is still waiting on her phone.",
+      "exampleZh": "夜班护士的密码重置还在等她手机上确认。",
       "category": "it"
     }
   ]

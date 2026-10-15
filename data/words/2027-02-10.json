@@ -13,72 +13,72 @@
       "word": "return",
       "phonetic": "/rɪˈtɜːn/",
       "meaning": "退回",
-      "example": "We still need to return this.",
-      "exampleZh": "这件事还得退回。",
+      "example": "Please return the draft if the figures do not match the census.",
+      "exampleZh": "如果数字和在院人数对不上，请把草稿退回。",
       "category": "office"
     },
     {
       "word": "revise",
       "phonetic": "/rɪˈvaɪz/",
       "meaning": "修订",
-      "example": "We still need to revise this.",
-      "exampleZh": "这件事还得修订。",
+      "example": "I will revise the outline after I hear the director's comments.",
+      "exampleZh": "听完主任的意见后，我会修订提纲。",
       "category": "office"
     },
     {
       "word": "amend",
       "phonetic": "/əˈmend/",
       "meaning": "修改",
-      "example": "Can you amend it today?",
-      "exampleZh": "你今天能把它修改吗？",
+      "example": "Legal will amend the last clause before we sign.",
+      "exampleZh": "签字之前，法务会修改最后一条。",
       "category": "office"
     },
     {
       "word": "finalize",
       "phonetic": "/ˈfaɪnəlaɪz/",
       "meaning": "定稿",
-      "example": "Please finalize this before you leave.",
-      "exampleZh": "走之前请把这件事定稿。",
+      "example": "Can we finalize the attendee list by the end of today?",
+      "exampleZh": "参会人名单今天收工前能定稿吗？",
       "category": "office"
     },
     {
       "word": "jump host",
       "phonetic": "/dʒʌmp həʊst/",
       "meaning": "跳板机",
-      "example": "I logged the jump host in today’s change ticket.",
-      "exampleZh": "我把这个跳板机记进了今天的变更单。",
+      "example": "The jump host is the only machine allowed into the database network.",
+      "exampleZh": "跳板机是唯一允许进入数据库网段的机器。",
       "category": "it"
     },
     {
       "word": "bastion",
       "phonetic": "/ˈbæstiən/",
       "meaning": "堡垒机",
-      "example": "The vendor asked for a screenshot of the bastion.",
-      "exampleZh": "厂商要一张这个堡垒机的截图。",
+      "example": "The bastion recorded the vendor session that changed the firewall rule.",
+      "exampleZh": "堡垒机记下了厂商修改防火墙规则的那次会话。",
       "category": "it"
     },
     {
       "word": "privileged session",
       "phonetic": "/ˈprɪvəlɪdʒd ˈseʃn/",
       "meaning": "特权会话",
-      "example": "The ward asked us to check the privileged session.",
-      "exampleZh": "病区让我们看一下这个特权会话。",
+      "example": "The privileged session into the order database started at one in the morning.",
+      "exampleZh": "进入医嘱库的特权会话是凌晨一点开始的。",
       "category": "it"
     },
     {
       "word": "session recording",
       "phonetic": "/ˈseʃn rɪˈkɔːdɪŋ/",
       "meaning": "会话录像",
-      "example": "The ward asked us to check the session recording.",
-      "exampleZh": "病区让我们看一下这个会话录像。",
+      "example": "Session recording shows the command that removed the charge table.",
+      "exampleZh": "会话录像里能看到删掉收费表的那条命令。",
       "category": "it"
     },
     {
       "word": "command filter",
       "phonetic": "/kəˈmɑːnd ˈfɪltə/",
       "meaning": "命令过滤",
-      "example": "Do not touch the command filter during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个命令过滤。",
+      "example": "The command filter blocked a delete aimed at the live order table.",
+      "exampleZh": "命令过滤拦住了一条针对在线医嘱表的删除。",
       "category": "it"
     }
   ]

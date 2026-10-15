@@ -5,80 +5,80 @@
       "word": "elective",
       "phonetic": "/ɪˈlektɪv/",
       "meaning": "择期的",
-      "example": "Move elective work off the peak hours.",
-      "exampleZh": "择期事项请避开高峰。",
+      "example": "The elective admission was moved to make room for an emergency.",
+      "exampleZh": "这次择期入院被调整了，以便给急诊腾床。",
       "category": "office"
     },
     {
       "word": "consent form",
       "phonetic": "/kənˈsent fɔːm/",
       "meaning": "知情同意书",
-      "example": "Could you send the consent form to the project group?",
-      "exampleZh": "你能把知情同意书发到项目群吗？",
+      "example": "A consent form without a date will be sent back by the checker.",
+      "exampleZh": "没有日期的知情同意书会被检查人退回。",
       "category": "office"
     },
     {
       "word": "insurance",
       "phonetic": "/ɪnˈʃʊərəns/",
       "meaning": "医保保险",
-      "example": "Please bring the insurance to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个医保保险。",
+      "example": "Please confirm the insurance plan before the elective admission.",
+      "exampleZh": "择期入院之前，请先确认医保保险方案。",
       "category": "office"
     },
     {
       "word": "copay",
       "phonetic": "/ˈkəʊpeɪ/",
       "meaning": "自付费用",
-      "example": "The copay still needs a decision today.",
-      "exampleZh": "这个自付费用今天还得拍个板。",
+      "example": "Patients pay the copay at the cashier before they see the doctor.",
+      "exampleZh": "患者见医生之前，先在收费处交自付费用。",
       "category": "office"
     },
     {
       "word": "billing",
       "phonetic": "/ˈbɪlɪŋ/",
       "meaning": "计费收费",
-      "example": "Who will own the billing this week?",
-      "exampleZh": "这周这个计费收费谁来负责？",
+      "example": "Billing queried a charge that belonged to another visit.",
+      "exampleZh": "计费收费部门质疑了一笔属于另一次就诊的费用。",
       "category": "office"
     },
     {
       "word": "snapshot replica",
       "phonetic": "/ˈsnæpʃɒt ˈreplɪkə/",
       "meaning": "快照副本",
-      "example": "We will verify the snapshot replica after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个快照副本。",
+      "example": "The snapshot replica of PACS is six hours behind the main copy.",
+      "exampleZh": "影像的快照副本比主副本慢了六个小时。",
       "category": "it"
     },
     {
       "word": "replication",
       "phonetic": "/ˌreplɪˈkeɪʃn/",
       "meaning": "数据复制",
-      "example": "I logged the replication in today’s change ticket.",
-      "exampleZh": "我把这个数据复制记进了今天的变更单。",
+      "example": "Replication to the east site paused after a short network blip.",
+      "exampleZh": "网络抖了一下之后，发往东院的数据复制暂停了。",
       "category": "it"
     },
     {
       "word": "sync job",
       "phonetic": "/sɪŋk dʒɒb/",
       "meaning": "同步任务",
-      "example": "Please test the sync job on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个同步任务。",
+      "example": "The sync job for staff photos failed halfway through the night.",
+      "exampleZh": "员工照片的同步任务在半夜做到一半失败了。",
       "category": "it"
     },
     {
       "word": "bandwidth usage",
       "phonetic": "/ˈbændwɪdθ ˈjuːsɪdʒ/",
       "meaning": "带宽占用",
-      "example": "I logged the bandwidth usage in today’s change ticket.",
-      "exampleZh": "我把这个带宽占用记进了今天的变更单。",
+      "example": "Bandwidth usage on the PACS link peaks when CT sends large studies.",
+      "exampleZh": "CT传送大检查时，影像链路上的带宽占用会到峰值。",
       "category": "it"
     },
     {
       "word": "packet loss",
       "phonetic": "/ˈpækɪt lɒs/",
       "meaning": "丢包",
-      "example": "We will verify the packet loss after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个丢包。",
+      "example": "Packet loss on the ward uplink made the order screen freeze.",
+      "exampleZh": "病区上联线路的丢包把医嘱界面卡住了。",
       "category": "it"
     }
   ]

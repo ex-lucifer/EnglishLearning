@@ -5,80 +5,80 @@
       "word": "shadow",
       "phonetic": "/ˈʃædəʊ/",
       "meaning": "跟岗见习",
-      "example": "Please shadow the duty clerk this morning.",
-      "exampleZh": "今天上午请跟岗值班文员。",
+      "example": "Today the new clerk will shadow the supervisor at registration.",
+      "exampleZh": "今天新文员会在挂号处跟主管见习。",
       "category": "office"
     },
     {
       "word": "cross-train",
       "phonetic": "/krɒs treɪn/",
       "meaning": "交叉培训",
-      "example": "We will cross-train two people on the help window.",
-      "exampleZh": "我们会让两个人交叉培训服务窗口。",
+      "example": "Cross-train the clerks so any of them can cover another counter.",
+      "exampleZh": "请交叉培训这些文员，让他们谁都能顶另一个柜台。",
       "category": "office"
     },
     {
       "word": "upskill",
       "phonetic": "/ˈʌpskɪl/",
       "meaning": "提升技能",
-      "example": "The PMO asked us to upskill the super users.",
-      "exampleZh": "项目管理办公室要求提升骨干用户的技能。",
+      "example": "This short course will upskill the night team on the roster tool.",
+      "exampleZh": "这门短课会帮助夜班组提升使用排班工具的技能。",
       "category": "office"
     },
     {
       "word": "knowledge transfer",
       "phonetic": "/ˈnɒlɪdʒ ˈtrænsfɜː/",
       "meaning": "知识交接",
-      "example": "The knowledge transfer still needs a decision today.",
-      "exampleZh": "这个知识交接今天还得拍个板。",
+      "example": "Finish the knowledge transfer before our senior clerk retires in June.",
+      "exampleZh": "请在资深文员六月退休之前完成知识交接。",
       "category": "office"
     },
     {
       "word": "desk-side support",
       "phonetic": "/desk saɪd səˈpɔːt/",
       "meaning": "工位旁支持",
-      "example": "Please add the desk-side support to today’s notes.",
-      "exampleZh": "请把工位旁支持写进今天的记录。",
+      "example": "Desk-side support sits with registration for the whole first morning.",
+      "exampleZh": "上线后的第一个上午，工位旁支持会全程陪在挂号处。",
       "category": "office"
     },
     {
       "word": "service account lock",
       "phonetic": "/ˈsɜːvɪs əˈkaʊnt lɒk/",
       "meaning": "服务账号锁定",
-      "example": "The ward asked us to check the service account lock.",
-      "exampleZh": "病区让我们看一下这个服务账号锁定。",
+      "example": "A service account lock stopped the interface from logging on at 03:00.",
+      "exampleZh": "服务账号锁定让接口在凌晨三点登不上。",
       "category": "it"
     },
     {
       "word": "logon as service",
       "phonetic": "/ˈlɒɡɒn æz ˈsɜːvɪs/",
       "meaning": "作为服务登录",
-      "example": "Do not touch the logon as service during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个作为服务登录。",
+      "example": "The interface account needs logon as service or it cannot start after a reboot.",
+      "exampleZh": "接口账号得有作为服务登录的权限，否则重启后起不来。",
       "category": "it"
     },
     {
       "word": "interactive logon",
       "phonetic": "/ˌɪntərˈæktɪv ˈlɒɡɒn/",
       "meaning": "交互登录",
-      "example": "We will verify the interactive logon after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个交互登录。",
+      "example": "Interactive logon is denied for service accounts, so use a personal admin instead.",
+      "exampleZh": "服务账号不允许交互登录，请改用个人的管理员账号。",
       "category": "it"
     },
     {
       "word": "network logon",
       "phonetic": "/ˈnetwɜːk ˈlɒɡɒn/",
       "meaning": "网络登录",
-      "example": "Who is on call for the network logon this week?",
-      "exampleZh": "这周这个网络登录谁值班？",
+      "example": "A network logon from the interface host failed because the account was locked.",
+      "exampleZh": "接口主机发起的网络登录失败了，因为账号处于锁定。",
       "category": "it"
     },
     {
       "word": "cached logon",
       "phonetic": "/kæʃt ˈlɒɡɒn/",
       "meaning": "缓存登录",
-      "example": "The ward asked us to check the cached logon.",
-      "exampleZh": "病区让我们看一下这个缓存登录。",
+      "example": "Cached logon let her into the laptop on the ward, even though the domain was unreachable.",
+      "exampleZh": "域已经连不上，缓存登录仍让她进了病区那台笔记本。",
       "category": "it"
     }
   ]

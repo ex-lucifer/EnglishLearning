@@ -5,80 +5,80 @@
       "word": "quarterly review",
       "phonetic": "/ˈkwɔːtəli rɪˈvjuː/",
       "meaning": "季度回顾",
-      "example": "Could you send the quarterly review to the project group?",
-      "exampleZh": "你能把季度回顾发到项目群吗？",
+      "example": "The quarterly review will ask why overtime rose in February.",
+      "exampleZh": "季度回顾会问二月加班为什么上升。",
       "category": "office"
     },
     {
       "word": "annual review",
       "phonetic": "/ˈænjuəl rɪˈvjuː/",
       "meaning": "年度回顾",
-      "example": "Please add the annual review to today’s notes.",
-      "exampleZh": "请把年度回顾写进今天的记录。",
+      "example": "Block a morning in November for the annual review of policies.",
+      "exampleZh": "请在十一月留一个上午做制度的年度回顾。",
       "category": "office"
     },
     {
       "word": "performance review",
       "phonetic": "/pəˈfɔːməns rɪˈvjuː/",
       "meaning": "绩效面谈",
-      "example": "We talked about the performance review with the department head.",
-      "exampleZh": "我们和科主任谈了这个绩效面谈。",
+      "example": "Your performance review will cover the probation goals we set.",
+      "exampleZh": "绩效面谈会对照我们定过的试用期目标。",
       "category": "office"
     },
     {
       "word": "project plan",
       "phonetic": "/ˈprɒdʒekt plæn/",
       "meaning": "项目计划",
-      "example": "Please bring the project plan to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个项目计划。",
+      "example": "The project plan puts staff training ahead of the first clinic day.",
+      "exampleZh": "项目计划把员工培训排在门诊第一天之前。",
       "category": "office"
     },
     {
       "word": "work plan",
       "phonetic": "/wɜːk plæn/",
       "meaning": "工作计划",
-      "example": "Please bring the work plan to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个工作计划。",
+      "example": "The work plan for June includes the inventory and the fire drill.",
+      "exampleZh": "六月的工作计划包括盘点和消防演练。",
       "category": "office"
     },
     {
       "word": "account lockout",
       "phonetic": "/əˈkaʊnt ˈlɒkaʊt/",
       "meaning": "账号锁定",
-      "example": "We will verify the account lockout after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个账号锁定。",
+      "example": "Account lockout hit the shared lab login after three bad passwords.",
+      "exampleZh": "三次密码错误之后，检验共用登录触发了账号锁定。",
       "category": "it"
     },
     {
       "word": "disk space",
       "phonetic": "/dɪsk speɪs/",
       "meaning": "磁盘空间",
-      "example": "Do not touch the disk space during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个磁盘空间。",
+      "example": "Disk space on the report server will drop below ten percent by Friday.",
+      "exampleZh": "到周五，报表服务器的磁盘空间会降到百分之十以下。",
       "category": "it"
     },
     {
       "word": "CPU usage",
       "phonetic": "/ˌsiː piː ˈjuː ˈjuːsɪdʒ/",
       "meaning": "处理器占用",
-      "example": "Please test the CPU usage on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个处理器占用。",
+      "example": "CPU usage on the order server stays near ninety all morning.",
+      "exampleZh": "医嘱服务器的处理器占用一上午都接近百分之九十。",
       "category": "it"
     },
     {
       "word": "memory leak",
       "phonetic": "/ˈmeməri liːk/",
       "meaning": "内存泄漏",
-      "example": "Please test the memory leak on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个内存泄漏。",
+      "example": "The memory leak in the report service grows about a gigabyte each day.",
+      "exampleZh": "报表服务的内存泄漏每天大约涨一个吉字节。",
       "category": "it"
     },
     {
       "word": "network share",
       "phonetic": "/ˈnetwɜːk ʃeə/",
       "meaning": "网络共享",
-      "example": "The vendor asked for a screenshot of the network share.",
-      "exampleZh": "厂商要一张这个网络共享的截图。",
+      "example": "The network share for discharge forms disappeared after the file server reboot.",
+      "exampleZh": "文件服务器重启之后，出院表单的网络共享不见了。",
       "category": "it"
     }
   ]

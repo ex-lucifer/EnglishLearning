@@ -5,80 +5,80 @@
       "word": "clarify",
       "phonetic": "/ˈklærɪfaɪ/",
       "meaning": "澄清",
-      "example": "Can you clarify the ward requirement in the ticket?",
-      "exampleZh": "你能在工单里把病区需求写清楚吗？",
+      "example": "Could you clarify which cost center should pay for this courier?",
+      "exampleZh": "你能澄清一下这笔快递该由哪个成本中心付吗？",
       "category": "office"
     },
     {
       "word": "postpone",
       "phonetic": "/pəʊstˈpəʊn/",
       "meaning": "推迟",
-      "example": "We had to postpone the HIS upgrade to Sunday night.",
-      "exampleZh": "我们不得不把 HIS 升级推迟到周日晚上。",
+      "example": "We may postpone the workshop if the survey runs long.",
+      "exampleZh": "如果现场评审拖长，研讨会可能会推迟。",
       "category": "office"
     },
     {
       "word": "minutes",
       "phonetic": "/ˈmɪnɪts/",
       "meaning": "会议纪要",
-      "example": "I put the minutes on the shared drive.",
-      "exampleZh": "我把会议纪要放到了共享盘。",
+      "example": "The minutes should name the decision and who will carry it out.",
+      "exampleZh": "会议纪要要写明决定，以及由谁去落实。",
       "category": "office"
     },
     {
       "word": "owner",
       "phonetic": "/ˈəʊnə/",
       "meaning": "负责人",
-      "example": "We talked about the owner with the department head.",
-      "exampleZh": "我们和科主任谈了这个负责人。",
+      "example": "The owner of the visitor process is the front desk supervisor.",
+      "exampleZh": "访客流程的负责人是前台主管。",
       "category": "office"
     },
     {
       "word": "update",
       "phonetic": "/ʌpˈdeɪt/",
       "meaning": "更新",
-      "example": "We talked about the update with the department head.",
-      "exampleZh": "我们和科主任谈了这个更新。",
+      "example": "An update on the lift repair will come at three.",
+      "exampleZh": "电梯维修的更新会在三点送来。",
       "category": "office"
     },
     {
       "word": "HIS",
       "phonetic": "/ˌeɪtʃ aɪ ˈes/",
       "meaning": "医院信息系统（Hospital Information System）",
-      "example": "The ward called because HIS (Hospital Information System) would not open.",
-      "exampleZh": "病区来电，说 HIS（Hospital Information System）打不开。",
+      "example": "HIS (Hospital Information System) rejected new admissions after nine.",
+      "exampleZh": "HIS（医院信息系统）九点以后不再接收新入院。",
       "category": "it"
     },
     {
       "word": "patch",
       "phonetic": "/pætʃ/",
       "meaning": "补丁",
-      "example": "Who is on call for the patch this week?",
-      "exampleZh": "这周这个补丁谁值班？",
+      "example": "This patch closes the hole on the nurse-station browsers.",
+      "exampleZh": "这个补丁补上了护士站浏览器的漏洞。",
       "category": "it"
     },
     {
       "word": "backup",
       "phonetic": "/ˈbækʌp/",
       "meaning": "备份",
-      "example": "We will verify the backup after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个备份。",
+      "example": "Last night's backup finished before the morning orders started.",
+      "exampleZh": "昨晚的备份在早晨医嘱开始前跑完了。",
       "category": "it"
     },
     {
       "word": "firewall",
       "phonetic": "/ˈfaɪəwɔːl/",
       "meaning": "防火墙",
-      "example": "The vendor asked for a screenshot of the firewall.",
-      "exampleZh": "厂商要一张这个防火墙的截图。",
+      "example": "The firewall blocked the new scanner from reaching PACS.",
+      "exampleZh": "防火墙拦住了新扫描仪，它连不上影像系统。",
       "category": "it"
     },
     {
       "word": "latency",
       "phonetic": "/ˈleɪtənsi/",
       "meaning": "延迟",
-      "example": "We will verify the latency after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个延迟。",
+      "example": "Latency on the order screen jumped during the morning rush.",
+      "exampleZh": "早高峰时，医嘱界面的延迟突然升高了。",
       "category": "it"
     }
   ]

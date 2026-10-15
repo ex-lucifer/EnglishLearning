@@ -5,80 +5,80 @@
       "word": "talking paper",
       "phonetic": "/ˈtɔːkɪŋ ˈpeɪpə/",
       "meaning": "发言提纲",
-      "example": "The talking paper still needs a decision today.",
-      "exampleZh": "这个发言提纲今天还得拍个板。",
+      "example": "Keep the talking paper to one page so the speaker can hold it.",
+      "exampleZh": "请把发言提纲控制在一页，方便发言人拿在手里。",
       "category": "office"
     },
     {
       "word": "briefing note",
       "phonetic": "/ˈbriːfɪŋ nəʊt/",
       "meaning": "情况说明",
-      "example": "The briefing note still needs a decision today.",
-      "exampleZh": "这个情况说明今天还得拍个板。",
+      "example": "The briefing note for the health-bureau visitors is attached to my mail.",
+      "exampleZh": "给卫生局来访者的情况说明附在我的邮件里。",
       "category": "office"
     },
     {
       "word": "position paper",
       "phonetic": "/pəˈzɪʃn ˈpeɪpə/",
       "meaning": "立场说明",
-      "example": "I put the position paper on the shared drive.",
-      "exampleZh": "我把立场说明放到了共享盘。",
+      "example": "Draft a position paper before legal lets us answer that vendor.",
+      "exampleZh": "在法务允许我们回复那家供应商之前，请先起草立场说明。",
       "category": "office"
     },
     {
       "word": "white paper",
       "phonetic": "/waɪt ˈpeɪpə/",
       "meaning": "白皮书",
-      "example": "Who will own the white paper this week?",
-      "exampleZh": "这周这个白皮书谁来负责？",
+      "example": "Please leave the white paper on queue redesign for the director.",
+      "exampleZh": "请把关于排队改造的白皮书留给主任。",
       "category": "office"
     },
     {
       "word": "terms of reference",
       "phonetic": "/tɜːmz əv ˈrefrəns/",
       "meaning": "职责范围",
-      "example": "Who will own the terms of reference this week?",
-      "exampleZh": "这周这个职责范围谁来负责？",
+      "example": "We cannot start until the terms of reference for the group are signed.",
+      "exampleZh": "这个组的职责范围签了字，才能开始工作。",
       "category": "office"
     },
     {
       "word": "driver pack",
       "phonetic": "/ˈdraɪvə pæk/",
       "meaning": "驱动包",
-      "example": "The ward asked us to check the driver pack.",
-      "exampleZh": "病区让我们看一下这个驱动包。",
+      "example": "Install the new driver pack before you join these clinic PCs to the domain.",
+      "exampleZh": "这些门诊电脑加域之前，先装上新的驱动包。",
       "category": "it"
     },
     {
       "word": "image",
       "phonetic": "/ˈɪmɪdʒ/",
       "meaning": "系统镜像",
-      "example": "Please test the image on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个系统镜像。",
+      "example": "Capture a fresh image from the reference PC after the viewer is licensed.",
+      "exampleZh": "阅片软件授权好之后，从参考电脑抓一份新的系统镜像。",
       "category": "it"
     },
     {
       "word": "golden image",
       "phonetic": "/ˈɡəʊldən ˈɪmɪdʒ/",
       "meaning": "标准镜像",
-      "example": "We will verify the golden image after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个标准镜像。",
+      "example": "The golden image already includes the badge driver and the ward print queue.",
+      "exampleZh": "标准镜像里已经带了门禁驱动和病区打印队列。",
       "category": "it"
     },
     {
       "word": "PXE boot",
       "phonetic": "/pɪksi buːt/",
       "meaning": "网络启动",
-      "example": "The ward asked us to check the PXE boot.",
-      "exampleZh": "病区让我们看一下这个网络启动。",
+      "example": "PXE boot failed in clinic B because the DHCP helper was on the wrong VLAN.",
+      "exampleZh": "门诊 B 的网络启动失败了，因为 DHCP 中继落在错误的 VLAN。",
       "category": "it"
     },
     {
       "word": "MDT",
       "phonetic": "/ˌem diː ˈtiː/",
       "meaning": "批量部署工具（Microsoft Deployment Toolkit）",
-      "example": "Do not restart MDT (Microsoft Deployment Toolkit) during morning rounds.",
-      "exampleZh": "早交班时段不要重启 MDT（Microsoft Deployment Toolkit）。",
+      "example": "MDT (Microsoft Deployment Toolkit) builds the clinic image from the task sequence we saved.",
+      "exampleZh": "MDT（批量部署工具）按我们保存的任务序列生成门诊镜像。",
       "category": "it"
     }
   ]

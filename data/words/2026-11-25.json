@@ -45,40 +45,40 @@
       "word": "monitoring alert",
       "phonetic": "/ˈmɒnɪtərɪŋ əˈlɜːt/",
       "meaning": "监控告警",
-      "example": "Do not touch the monitoring alert during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个监控告警。",
+      "example": "The monitoring alert for disk space fired, then cleared itself within a minute.",
+      "exampleZh": "磁盘空间的监控告警响了一下，一分钟内又自己恢复了。",
       "category": "it"
     },
     {
       "word": "log aggregation",
       "phonetic": "/lɒɡ ˌæɡrɪˈɡeɪʃn/",
       "meaning": "日志汇聚",
-      "example": "Please test the log aggregation on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个日志汇聚。",
+      "example": "Log aggregation fell behind, so this morning's order errors are invisible.",
+      "exampleZh": "日志汇聚滞后了，今天早上的医嘱报错现在看不到。",
       "category": "it"
     },
     {
       "word": "SIEM",
       "phonetic": "/siːm/",
       "meaning": "安全信息事件管理（Security Information and Event Management）",
-      "example": "Please write SIEM in full — Security Information and Event Management — on the change form.",
-      "exampleZh": "变更单上请写全称：SIEM（Security Information and Event Management）。",
+      "example": "SIEM (Security Information and Event Management) linked the strange login to a stolen badge.",
+      "exampleZh": "SIEM（安全信息事件管理）把这次异常登录和一张被盗的工卡关联上了。",
       "category": "it"
     },
     {
       "word": "SOC",
       "phonetic": "/sɒk/",
       "meaning": "安全运营中心（Security Operations Center）",
-      "example": "Who is the SOC (Security Operations Center) this week?",
-      "exampleZh": "这周 SOC（Security Operations Center）是谁？",
+      "example": "SOC (Security Operations Center) called us about an overseas login at two in the morning.",
+      "exampleZh": "SOC（安全运营中心）打电话说凌晨两点有一次境外登录。",
       "category": "it"
     },
     {
       "word": "MFA",
       "phonetic": "/ˌem ef ˈeɪ/",
       "meaning": "多因素认证（Multi-Factor Authentication）",
-      "example": "Please write MFA in full — Multi-Factor Authentication — on the change form.",
-      "exampleZh": "变更单上请写全称：MFA（Multi-Factor Authentication）。",
+      "example": "MFA (Multi-Factor Authentication) stopped a doctor whose phone was still in surgery.",
+      "exampleZh": "MFA（多因素认证）拦住了一位手机还在手术中的医生。",
       "category": "it"
     }
   ]

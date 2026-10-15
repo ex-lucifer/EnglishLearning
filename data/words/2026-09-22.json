@@ -5,80 +5,80 @@
       "word": "webinar",
       "phonetic": "/ˈwebɪnɑː/",
       "meaning": "网络研讨会",
-      "example": "The webinar still needs a decision today.",
-      "exampleZh": "这个网络研讨会今天还得拍个板。",
+      "example": "I will join the webinar from the huddle room so the office stays quiet.",
+      "exampleZh": "我到小讨论室参加网络研讨会，免得办公室不安静。",
       "category": "office"
     },
     {
       "word": "conference call",
       "phonetic": "/ˈkɒnfərəns kɔːl/",
       "meaning": "电话会议",
-      "example": "Who will own the conference call this week?",
-      "exampleZh": "这周这个电话会议谁来负责？",
+      "example": "The conference call dropped once, and we dialed straight back.",
+      "exampleZh": "电话会议中断了一次，我们马上又拨了回去。",
       "category": "office"
     },
     {
       "word": "dial-in",
       "phonetic": "/ˈdaɪəl ɪn/",
       "meaning": "拨入号",
-      "example": "Could you send the dial-in to the project group?",
-      "exampleZh": "你能把拨入号发到项目群吗？",
+      "example": "The dial-in is printed on the invitation, just under the link.",
+      "exampleZh": "拨入号印在邀请上，就在链接下面。",
       "category": "office"
     },
     {
       "word": "mute",
       "phonetic": "/mjuːt/",
       "meaning": "静音",
-      "example": "Please mute your microphone during the webinar.",
-      "exampleZh": "开网络研讨会时请把麦克风静音。",
+      "example": "Please mute the speaker when you walk past the open wards.",
+      "exampleZh": "经过敞开的病区时，请把免提静音。",
       "category": "office"
     },
     {
       "word": "unmute",
       "phonetic": "/ʌnˈmjuːt/",
       "meaning": "取消静音",
-      "example": "Unmute only when you need to speak.",
-      "exampleZh": "只有轮到你说话时再取消静音。",
+      "example": "Unmute one person at a time so each speaker can be heard.",
+      "exampleZh": "一次只取消一个人的静音，这样发言的人才能被听清。",
       "category": "office"
     },
     {
       "word": "ICD-10",
       "phonetic": "/ˌaɪ siː diː ˈten/",
       "meaning": "疾病分类编码（International Classification of Diseases, 10th Revision）",
-      "example": "Record the ICD-10 (International Classification of Diseases, 10th Revision) before you close the change.",
-      "exampleZh": "关变更前请记下 ICD-10（International Classification of Diseases, 10th Revision）。",
+      "example": "ICD-10 (International Classification of Diseases, 10th Revision) on this discharge is still blank.",
+      "exampleZh": "这份出院记录上的ICD-10（疾病分类编码）还是空的。",
       "category": "it"
     },
     {
       "word": "SNOMED",
       "phonetic": "/ˈsnəʊmed/",
       "meaning": "临床术语标准（Systematized Nomenclature of Medicine）",
-      "example": "The report is missing a SNOMED (Systematized Nomenclature of Medicine).",
-      "exampleZh": "这份报告少了 SNOMED（Systematized Nomenclature of Medicine）。",
+      "example": "SNOMED (Systematized Nomenclature of Medicine) has no match for this local diagnosis name.",
+      "exampleZh": "SNOMED（临床术语标准）对不上这个本院诊断名称。",
       "category": "it"
     },
     {
       "word": "LOINC",
       "phonetic": "/lɔɪŋk/",
       "meaning": "检验指标编码（Logical Observation Identifiers Names and Codes）",
-      "example": "Can you map this item to LOINC (Logical Observation Identifiers Names and Codes)?",
-      "exampleZh": "这条能否对照到 LOINC（Logical Observation Identifiers Names and Codes）？",
+      "example": "LOINC (Logical Observation Identifiers Names and Codes) is missing on two chemistry results.",
+      "exampleZh": "两条生化结果上缺少LOINC（检验指标编码）。",
       "category": "it"
     },
     {
       "word": "CPT",
       "phonetic": "/ˌsiː piː ˈtiː/",
       "meaning": "操作编码（Current Procedural Terminology）",
-      "example": "Can you map this item to CPT (Current Procedural Terminology)?",
-      "exampleZh": "这条能否对照到 CPT（Current Procedural Terminology）？",
+      "example": "CPT (Current Procedural Terminology) for this procedure does not match the charge.",
+      "exampleZh": "这项操作的CPT（操作编码）和收费对不上。",
       "category": "it"
     },
     {
       "word": "DRG",
       "phonetic": "/ˌdiː ɑː ˈdʒiː/",
       "meaning": "疾病相关分组（Diagnosis Related Group）",
-      "example": "Please look up the DRG (Diagnosis Related Group) on this ticket.",
-      "exampleZh": "请在这张工单上查一下 DRG（Diagnosis Related Group）。",
+      "example": "DRG (Diagnosis Related Group) changed after coding added the complication.",
+      "exampleZh": "编码补上并发症之后，DRG（疾病相关分组）变了。",
       "category": "it"
     }
   ]

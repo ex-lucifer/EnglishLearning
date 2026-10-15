@@ -5,80 +5,80 @@
       "word": "initiate",
       "phonetic": "/ɪˈnɪʃieɪt/",
       "meaning": "启动",
-      "example": "Who will initiate this after the huddle?",
-      "exampleZh": "晨会后谁来启动？",
+      "example": "Once she accepts, HR can initiate the review of her background.",
+      "exampleZh": "她一接受录用，人力资源就可以启动背景审查。",
       "category": "office"
     },
     {
       "word": "launch",
       "phonetic": "/lɔːntʃ/",
       "meaning": "推出",
-      "example": "Can you launch it today?",
-      "exampleZh": "你今天能把它推出吗？",
+      "example": "On the first of June we launch the new screen that calls the queue.",
+      "exampleZh": "六月一日我们推出用来叫号的新屏幕。",
       "category": "office"
     },
     {
       "word": "pause",
       "phonetic": "/pɔːz/",
       "meaning": "暂停",
-      "example": "Please pause this before you leave.",
-      "exampleZh": "走之前请把这件事暂停。",
+      "example": "Until headcount is confirmed, we should pause any further hiring.",
+      "exampleZh": "编制确认之前，我们应暂停继续招聘。",
       "category": "office"
     },
     {
       "word": "resume",
       "phonetic": "/rɪˈzjuːm/",
       "meaning": "恢复进行",
-      "example": "Who will resume this after the huddle?",
-      "exampleZh": "晨会后谁来恢复进行？",
+      "example": "Orientation can resume the morning our trainer is back in the office.",
+      "exampleZh": "培训师回到办公室的那天上午，入职培训可以恢复进行。",
       "category": "office"
     },
     {
       "word": "suspend",
       "phonetic": "/səˈspend/",
       "meaning": "中止",
-      "example": "We still need to suspend this.",
-      "exampleZh": "这件事还得中止。",
+      "example": "Security can suspend a badge that is still missing at closing time.",
+      "exampleZh": "到关门时还没归还的工牌，安保可以中止使用。",
       "category": "office"
     },
     {
       "word": "speed mismatch",
       "phonetic": "/spiːd ˈmɪsmætʃ/",
       "meaning": "速率不匹配",
-      "example": "I logged the speed mismatch in today’s change ticket.",
-      "exampleZh": "我把这个速率不匹配记进了今天的变更单。",
+      "example": "Speed mismatch between the phone and the switch port made calls choppy.",
+      "exampleZh": "电话和交换机端口速率不匹配，通话就变得断断续续。",
       "category": "it"
     },
     {
       "word": "CRC error",
       "phonetic": "/ˌsiː ɑː ˈsiː ˈerə/",
       "meaning": "校验错误",
-      "example": "I logged the CRC error in today’s change ticket.",
-      "exampleZh": "我把这个校验错误记进了今天的变更单。",
+      "example": "CRC error counters climbed on the fiber to building C after the storm.",
+      "exampleZh": "暴风雨之后，通往 C 座那根光纤上的校验错误计数一直在涨。",
       "category": "it"
     },
     {
       "word": "broadcast storm",
       "phonetic": "/ˈbrɔːdkɑːst stɔːm/",
       "meaning": "广播风暴",
-      "example": "Who is on call for the broadcast storm this week?",
-      "exampleZh": "这周这个广播风暴谁值班？",
+      "example": "A broadcast storm in the lobby VLAN slowed badge readers to a crawl.",
+      "exampleZh": "大厅 VLAN 里的广播风暴把门禁读卡器拖得几乎没反应。",
       "category": "it"
     },
     {
       "word": "loop",
       "phonetic": "/luːp/",
       "meaning": "环路",
-      "example": "The ward asked us to check the loop.",
-      "exampleZh": "病区让我们看一下这个环路。",
+      "example": "A loop between two ward switches flooded every port with broadcasts.",
+      "exampleZh": "两台病区交换机之间的环路把每个端口都灌满了广播。",
       "category": "it"
     },
     {
       "word": "spanning tree",
       "phonetic": "/ˈspænɪŋ triː/",
       "meaning": "生成树",
-      "example": "Do not touch the spanning tree during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个生成树。",
+      "example": "Spanning tree blocked the extra link and stopped the clinic loop.",
+      "exampleZh": "生成树堵住了多余的那条链路，门诊的环路就停了。",
       "category": "it"
     }
   ]

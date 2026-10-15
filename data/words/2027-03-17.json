@@ -5,80 +5,80 @@
       "word": "hire",
       "phonetic": "/ˈhaɪə/",
       "meaning": "招聘",
-      "example": "We need to hire a weekend cover this month.",
-      "exampleZh": "这个月得招一个周末顶班。",
+      "example": "Winter will be busy, so we hope to hire two more registration clerks.",
+      "exampleZh": "冬天会很忙，所以我们希望再招聘两名挂号文员。",
       "category": "office"
     },
     {
       "word": "recruit",
       "phonetic": "/rɪˈkruːt/",
       "meaning": "招募",
-      "example": "Please recruit two super users for the ward.",
-      "exampleZh": "请给病区招募两名骨干用户。",
+      "example": "The outpatient desk is still trying to recruit a Saturday receptionist.",
+      "exampleZh": "门诊台仍在招募一名周六的接待员。",
       "category": "office"
     },
     {
       "word": "nominate",
       "phonetic": "/ˈnɒmɪneɪt/",
       "meaning": "提名",
-      "example": "Nominate one person from each unit.",
-      "exampleZh": "每个单元请提名一人。",
+      "example": "I nominate our senior clerk to take the minutes at Thursday's meeting.",
+      "exampleZh": "我提名我们的资深文员在周四的会上做记录。",
       "category": "office"
     },
     {
       "word": "appoint",
       "phonetic": "/əˈpɔɪnt/",
       "meaning": "任命",
-      "example": "The director will appoint an acting lead.",
-      "exampleZh": "主任会任命一位代理组长。",
+      "example": "Someone must appoint a new lead for registration before next month.",
+      "exampleZh": "下个月之前，必须有人任命挂号处的新负责人。",
       "category": "office"
     },
     {
       "word": "promote",
       "phonetic": "/prəˈməʊt/",
       "meaning": "晋升",
-      "example": "They will promote her after the review.",
-      "exampleZh": "考核后会晋升她。",
+      "example": "If this review goes well, HR will promote her to supervisor.",
+      "exampleZh": "如果这次考核顺利，人力资源会把她晋升为主管。",
       "category": "office"
     },
     {
       "word": "U space",
       "phonetic": "/juː speɪs/",
       "meaning": "机柜高度单位",
-      "example": "We will verify the U space after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个机柜高度单位。",
+      "example": "This rack has only two U space left, and the new array needs four.",
+      "exampleZh": "这个机柜只剩两个机柜高度单位，新阵列却需要四个。",
       "category": "it"
     },
     {
       "word": "KVM",
       "phonetic": "/ˌkeɪ viː ˈem/",
       "meaning": "键盘视频鼠标切换（Keyboard Video Mouse）",
-      "example": "The KVM (Keyboard Video Mouse) alarm went off.",
-      "exampleZh": "KVM（Keyboard Video Mouse）告警响了。",
+      "example": "Use the KVM (Keyboard Video Mouse) in rack six to reach the host with no network.",
+      "exampleZh": "用六号机柜的 KVM（键盘视频鼠标切换）去连那台没有网络的主机。",
       "category": "it"
     },
     {
       "word": "console cable",
       "phonetic": "/ˈkɒnsəʊl ˈkeɪbl/",
       "meaning": "控制台线",
-      "example": "The ward asked us to check the console cable.",
-      "exampleZh": "病区让我们看一下这个控制台线。",
+      "example": "Bring a console cable; the switch lost its address and SSH will not answer.",
+      "exampleZh": "带一根控制台线，这台交换机地址丢了，SSH 不会有应答。",
       "category": "it"
     },
     {
       "word": "serial console",
       "phonetic": "/ˈsɪəriəl ˈkɒnsəʊl/",
       "meaning": "串口控制台",
-      "example": "Who is on call for the serial console this week?",
-      "exampleZh": "这周这个串口控制台谁值班？",
+      "example": "The serial console still answers when the management network is down.",
+      "exampleZh": "管理网断了的时候，串口控制台仍然能连。",
       "category": "it"
     },
     {
       "word": "IPMI",
       "phonetic": "/ˌaɪ piː em ˈaɪ/",
       "meaning": "服务器底板管理（Intelligent Platform Management Interface）",
-      "example": "Do not restart IPMI (Intelligent Platform Management Interface) during morning rounds.",
-      "exampleZh": "早交班时段不要重启 IPMI（Intelligent Platform Management Interface）。",
+      "example": "IPMI (Intelligent Platform Management Interface) lets us power-cycle the host from the office.",
+      "exampleZh": "IPMI（服务器底板管理）让我们在办公室就能给主机断电再开机。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "brainstorm",
       "phonetic": "/ˈbreɪnstɔːm/",
       "meaning": "头脑风暴",
-      "example": "Who will own the brainstorm this week?",
-      "exampleZh": "这周这个头脑风暴谁来负责？",
+      "example": "The brainstorm produced more ideas than we can try this quarter.",
+      "exampleZh": "这场头脑风暴出的主意，这个季度试不完。",
       "category": "office"
     },
     {
       "word": "whiteboard",
       "phonetic": "/ˈwaɪtbɔːd/",
       "meaning": "白板",
-      "example": "Who will own the whiteboard this week?",
-      "exampleZh": "这周这个白板谁来负责？",
+      "example": "Photograph the whiteboard before the cleaner wipes it tonight.",
+      "exampleZh": "今晚保洁擦白板之前，先给白板上的字拍下来。",
       "category": "office"
     },
     {
       "word": "flipchart",
       "phonetic": "/ˈflɪptʃɑːt/",
       "meaning": "挂纸板",
-      "example": "Please add the flipchart to today’s notes.",
-      "exampleZh": "请把挂纸板写进今天的记录。",
+      "example": "We ran out of paper for the flipchart halfway through the workshop.",
+      "exampleZh": "研讨会进行到一半，挂纸板的纸用完了。",
       "category": "office"
     },
     {
       "word": "handout",
       "phonetic": "/ˈhændaʊt/",
       "meaning": "会发材料",
-      "example": "Please bring the handout to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个会发材料。",
+      "example": "The handout has the extension list on the back page.",
+      "exampleZh": "会发材料的背面是分机号码表。",
       "category": "office"
     },
     {
       "word": "attendance",
       "phonetic": "/əˈtendəns/",
       "meaning": "出席情况",
-      "example": "I put the attendance on the shared drive.",
-      "exampleZh": "我把出席情况放到了共享盘。",
+      "example": "Attendance was low because the invite went out yesterday afternoon.",
+      "exampleZh": "邀请昨天下午才发出去，出席情况不太好。",
       "category": "office"
     },
     {
       "word": "remote desktop",
       "phonetic": "/rɪˈməʊt ˈdesktɒp/",
       "meaning": "远程桌面",
-      "example": "We will verify the remote desktop after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个远程桌面。",
+      "example": "Remote desktop to the operating-room PC is refusing new connections.",
+      "exampleZh": "连手术室电脑的远程桌面拒绝新的连接。",
       "category": "it"
     },
     {
       "word": "service account",
       "phonetic": "/ˈsɜːvɪs əˈkaʊnt/",
       "meaning": "服务账号",
-      "example": "Who is on call for the service account this week?",
-      "exampleZh": "这周这个服务账号谁值班？",
+      "example": "The service account for the interface engine has an expired password.",
+      "exampleZh": "接口引擎的服务账号密码已经过期。",
       "category": "it"
     },
     {
       "word": "admin rights",
       "phonetic": "/ˈædmɪn raɪts/",
       "meaning": "管理员权限",
-      "example": "I logged the admin rights in today’s change ticket.",
-      "exampleZh": "我把这个管理员权限记进了今天的变更单。",
+      "example": "Admin rights on this kiosk let a visitor install an unknown program.",
+      "exampleZh": "这台自助终端上的管理员权限让一位访客装上了不明程序。",
       "category": "it"
     },
     {
       "word": "user account",
       "phonetic": "/ˈjuːzə əˈkaʊnt/",
       "meaning": "用户账号",
-      "example": "Who is on call for the user account this week?",
-      "exampleZh": "这周这个用户账号谁值班？",
+      "example": "The user account for the visiting doctor expires on Friday.",
+      "exampleZh": "这位进修医生的用户账号周五到期。",
       "category": "it"
     },
     {
       "word": "group policy",
       "phonetic": "/ɡruːp ˈpɒləsi/",
       "meaning": "组策略",
-      "example": "Please test the group policy on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个组策略。",
+      "example": "Group policy pushed a screensaver lock that doctors cannot dismiss quickly.",
+      "exampleZh": "组策略下发了屏保锁定，医生没法很快解开。",
       "category": "it"
     }
   ]

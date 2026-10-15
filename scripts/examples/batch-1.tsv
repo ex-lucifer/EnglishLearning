@@ -1,0 +1,485 @@
+it	v	deploy	部署	
+it	n	outage	停机中断	
+it	acr	EMR	电子病历	Electronic Medical Record
+it	n	rollback	回滚	
+it	n	ticket	工单	
+it	acr	HIS	医院信息系统	Hospital Information System
+it	n	patch	补丁	
+it	n	backup	备份	
+it	n	firewall	防火墙	
+it	n	latency	延迟	
+it	acr	PACS	医学影像系统	Picture Archiving and Communication System
+it	acr	LIS	检验信息系统	Laboratory Information System
+it	acr	RIS	放射信息系统	Radiology Information System
+it	acr	CIS	临床信息系统	Clinical Information System
+it	acr	NIS	护理信息系统	Nursing Information System
+it	acr	CPOE	医嘱录入	Computerized Physician Order Entry
+it	acr	CDSS	临床决策支持	Clinical Decision Support System
+it	acr	ADT	出入院转科	Admit Discharge Transfer
+it	acr	MPI	主患者索引	Master Patient Index
+it	acr	EHR	电子健康档案	Electronic Health Record
+it	acr	PHR	个人健康档案	Personal Health Record
+it	acr	DICOM	医学影像标准	Digital Imaging and Communications in Medicine
+it	acr	HL7	医疗信息交换标准	Health Level Seven
+it	acr	FHIR	快速医疗互操作资源	Fast Healthcare Interoperability Resources
+it	acr	IHE	医疗集成规范	Integrating the Healthcare Enterprise
+it	acr	ICD-10	疾病分类编码	International Classification of Diseases, 10th Revision
+it	acr	SNOMED	临床术语标准	Systematized Nomenclature of Medicine
+it	acr	LOINC	检验指标编码	Logical Observation Identifiers Names and Codes
+it	acr	CPT	操作编码	Current Procedural Terminology
+it	acr	DRG	疾病相关分组	Diagnosis Related Group
+it	n	interface engine	接口引擎	
+it	n	middleware	中间件	
+it	n	worklist	工作列表	
+it	n	accession number	检查号	
+it	n	study UID	检查唯一号	
+it	n	modality	检查设备类型	
+it	n	PACS archive	影像归档	
+it	n	diagnostic workstation	诊断工作站	
+it	n	clinical workstation	临床工作站	
+it	n	nurse call	护士呼叫	
+it	n	infusion pump	输液泵	
+it	n	vital monitor	生命体征监护仪	
+it	n	barcode scanner	条码扫描枪	
+it	acr	RFID	射频识别	Radio Frequency Identification
+it	acr	RTLS	实时定位系统	Real-Time Location System
+it	n	asset tracking	资产定位	
+it	acr	CMMS	设备维修系统	Computerized Maintenance Management System
+it	n	lab analyzer	检验分析仪	
+it	n	integration engine	集成引擎	
+it	n	ADT feed	出入院消息流	
+it	n	order message	医嘱消息	
+it	n	result message	结果消息	
+it	acr	ORM	医嘱消息类型	Order Message
+it	acr	ORU	结果消息类型	Observation Result
+it	acr	ACK	确认应答	Acknowledgement
+it	acr	NACK	否定应答	Negative Acknowledgement
+it	n	PID segment	患者信息段	
+it	n	OBX segment	观察结果段	
+it	n	OBR segment	检查申请段	
+it	n	HL7 mapping	消息字段映射	
+it	n	field mapping	字段对照	
+it	n	retry queue	重试队列	
+it	n	dead-letter queue	死信队列	
+it	n	poison message	毒化消息	
+it	v	throttle	限流	
+it	n	rate limit	速率限制	
+it	n	circuit breaker	熔断器	
+it	n	health endpoint	健康检查接口	
+it	n	readiness probe	就绪探针	
+it	n	liveness probe	存活探针	
+it	n	blue-green	蓝绿发布	
+it	n	canary release	金丝雀发布	
+it	n	feature flag	功能开关	
+it	n	config file	配置文件	
+it	n	environment variable	环境变量	
+it	n	secrets vault	密钥库	
+it	n	key rotation	密钥轮换	
+it	n	vulnerability scan	漏洞扫描	
+it	n	antivirus	杀毒软件	
+it	acr	EDR	终端检测响应	Endpoint Detection and Response
+it	n	malware	恶意软件	
+it	n	ransomware	勒索软件	
+it	n	phishing	钓鱼攻击	
+it	n	spam filter	垃圾过滤	
+it	n	sandbox	沙箱	
+it	n	allowlist	允许名单	
+it	n	blocklist	拦截名单	
+it	acr	IDS	入侵检测系统	Intrusion Detection System
+it	acr	IPS	入侵防护系统	Intrusion Prevention System
+it	acr	WAF	Web应用防火墙	Web Application Firewall
+it	acr	DDoS	分布式拒绝服务	Distributed Denial of Service
+it	n	zero-day	零日漏洞	
+it	acr	CVE	公开漏洞编号	Common Vulnerabilities and Exposures
+it	n	patch management	补丁管理	
+it	n	endpoint protection	终端防护	
+it	n	disk encryption	磁盘加密	
+it	n	BitLocker	磁盘加密工具	
+it	n	USB control	U盘管控	
+it	acr	DLP	数据防泄漏	Data Loss Prevention
+it	n	printer mapping	打印机映射	
+it	n	default printer	默认打印机	
+it	n	print spooler	打印队列服务	
+it	n	label printer	标签打印机	
+it	n	wristband printer	腕带打印机	
+it	n	barcode printer	条码打印机	
+it	n	card printer	卡片打印机	
+it	n	handheld terminal	手持终端	
+it	n	workstation	工作站	
+it	n	thin client	瘦客户机	
+it	n	fat client	胖客户机	
+it	n	kiosk	自助终端	
+it	n	bedside terminal	床旁终端	
+it	n	computer on wheels	移动查房电脑	
+it	n	workstation on wheels	移动护理工作站	
+it	n	medication cart PC	发药车电脑	
+it	n	nurse-station PC	护士站电脑	
+it	n	OR workstation	手术室工作站	
+it	n	radiology workstation	放射工作站	
+it	n	PACS viewer	影像浏览器	
+it	n	dictation	语音口述	
+it	n	voice recognition	语音识别	
+it	n	speech-to-text	语音转文字	
+it	n	allergy alert	过敏警示	
+it	n	drug interaction	药物相互作用	
+it	n	duplicate order	重复医嘱	
+it	n	order set	医嘱套餐	
+it	n	care plan	护理计划	
+it	n	flowsheet	护理记录单	
+it	acr	MAR	用药执行单	Medication Administration Record
+it	acr	eMAR	电子用药执行单	Electronic Medication Administration Record
+it	n	lab result	检验结果	
+it	n	critical result	危急值	
+it	n	panic value	危急值结果	
+it	n	result acknowledgement	结果确认	
+it	n	specimen tracking	标本追踪	
+it	n	blood bank	血库系统	
+it	n	blood product	血液制品	
+it	n	pharmacy system	药房系统	
+it	n	e-prescribing	电子处方	
+it	n	formulary	药品目录	
+it	n	automated dispensing	自动发药柜	
+it	acr	ADC	自动发药柜	Automated Dispensing Cabinet
+it	n	infusion library	输液泵药库	
+it	n	device integration	设备集成	
+it	acr	NTP	网络时间协议	Network Time Protocol
+it	n	domain time	域时间	
+it	n	certificate authority	证书颁发机构	
+it	acr	CRL	证书吊销列表	Certificate Revocation List
+it	acr	OCSP	在线证书状态	Online Certificate Status Protocol
+it	n	password reset	密码重置	
+it	n	account lockout	账号锁定	
+it	n	disk space	磁盘空间	
+it	n	CPU usage	处理器占用	
+it	n	memory leak	内存泄漏	
+it	n	network share	网络共享	
+it	n	mapped drive	映射盘符	
+it	n	print queue	打印队列	
+it	n	default gateway	默认网关	
+it	n	IP address	IP地址	
+it	n	MAC address	网卡地址	
+it	n	subnet mask	子网掩码	
+it	n	DNS server	域名服务器	
+it	n	DHCP lease	地址租约	
+it	n	SSL certificate	安全证书	
+it	n	VPN tunnel	虚拟专网隧道	
+it	n	remote desktop	远程桌面	
+it	n	service account	服务账号	
+it	n	admin rights	管理员权限	
+it	n	user account	用户账号	
+it	n	group policy	组策略	
+it	n	domain controller	域控制器	
+it	n	file server	文件服务器	
+it	n	app server	应用服务器	
+it	n	web server	网页服务器	
+it	n	mail server	邮件服务器	
+it	n	proxy server	代理服务器	
+it	n	backup job	备份任务	
+it	n	restore point	还原点	
+it	n	snapshot	快照	
+it	n	cold backup	冷备份	
+it	n	hot backup	热备份	
+it	n	incremental backup	增量备份	
+it	n	full backup	全量备份	
+it	n	differential backup	差异备份	
+it	n	disaster recovery	灾难恢复	
+it	n	business continuity	业务连续性	
+it	n	high availability	高可用	
+it	n	failover cluster	故障转移集群	
+it	n	load balancer	负载均衡器	
+it	n	reverse proxy	反向代理	
+it	n	virtual machine	虚拟机	
+it	n	hypervisor	虚拟化平台	
+it	n	container image	容器镜像	
+it	n	Kubernetes	容器编排	
+it	n	Docker host	容器宿主机	
+it	n	CI pipeline	持续集成流水线	
+it	n	CD pipeline	持续交付流水线	
+it	n	git repository	代码仓库	
+it	n	merge conflict	合并冲突	
+it	n	pull request	合并请求	
+it	n	release notes	发布说明	
+it	n	change window	变更窗口	
+it	n	maintenance freeze	维护冻结	
+it	n	incident severity	事件级别	
+it	n	root-cause analysis	根因分析	
+it	n	postmortem	事后分析	
+it	n	known error	已知错误	
+it	n	service catalog	服务目录	
+it	n	configuration item	配置项	
+it	acr	CMDB	配置管理库	Configuration Management Database
+it	n	monitoring alert	监控告警	
+it	n	log aggregation	日志汇聚	
+it	acr	SIEM	安全信息事件管理	Security Information and Event Management
+it	acr	SOC	安全运营中心	Security Operations Center
+it	acr	MFA	多因素认证	Multi-Factor Authentication
+it	acr	SSO	单点登录	Single Sign-On
+it	acr	LDAP	目录访问协议	Lightweight Directory Access Protocol
+it	n	Active Directory	活动目录	
+it	acr	RBAC	基于角色的权限	Role-Based Access Control
+it	acr	ACL	访问控制列表	Access Control List
+it	n	least privilege	最小权限	
+it	n	privileged access	特权访问	
+it	n	session timeout	会话超时	
+it	n	idle timeout	空闲超时	
+it	n	account expiry	账号到期	
+it	n	password policy	密码策略	
+it	n	encryption at rest	静态加密	
+it	n	encryption in transit	传输加密	
+it	n	TLS handshake	加密握手	
+it	n	certificate expiry	证书到期	
+it	n	wildcard cert	通配符证书	
+it	n	self-signed cert	自签名证书	
+it	acr	PKI	公钥基础设施	Public Key Infrastructure
+it	n	API key	接口密钥	
+it	acr	OAuth	授权协议	Open Authorization
+it	acr	SAML	安全断言标记	Security Assertion Markup Language
+it	acr	OpenID	开放身份	OpenID authentication
+it	n	JSON payload	JSON报文	
+it	n	XML message	XML报文	
+it	n	SOAP service	SOAP服务	
+it	n	REST API	REST接口	
+it	n	webhook	回调接口	
+it	n	endpoint	接口地址	
+it	n	HTTP status	网页状态码	
+it	n	timeout error	超时错误	
+it	n	connection pool	连接池	
+it	n	deadlock	死锁	
+it	n	query timeout	查询超时	
+it	n	index rebuild	索引重建	
+it	n	replica lag	副本延迟	
+it	n	primary database	主库	
+it	n	read replica	只读副本	
+it	n	stored procedure	存储过程	
+it	n	ETL job	数据抽取任务	
+it	n	data warehouse	数据仓库	
+it	n	data lake	数据湖	
+it	n	report server	报表服务器	
+it	n	SQL Server	数据库服务器	
+it	n	cache	缓存	
+it	n	message queue	消息队列	
+it	n	service bus	服务总线	
+it	n	uptime	可用时长	
+it	n	downtime	停机时长	
+it	n	SLA clock	服务时限	
+it	n	P1 incident	一级故障	
+it	n	P2 incident	二级故障	
+it	n	P3 incident	三级故障	
+it	n	major incident	重大故障	
+it	n	service degradation	服务降级	
+it	n	workaround	临时规避	
+it	n	hotfix	紧急修复	
+it	n	bugfix	缺陷修复	
+it	n	release	版本发布	
+it	n	build	构建包	
+it	n	artifact	构建产物	
+it	n	changelog	变更日志	
+it	n	version tag	版本标签	
+it	n	branch	代码分支	
+it	n	commit	提交记录	
+it	v	merge	合并代码	
+it	v	rebase	变基	
+it	v	checkout	检出代码	
+it	v	clone	克隆仓库	
+it	n	fork	派生仓库	
+it	n	pipeline	流水线	
+it	n	build agent	构建代理	
+it	n	test coverage	测试覆盖	
+it	n	unit test	单元测试	
+it	n	integration test	集成测试	
+it	n	smoke test	冒烟测试	
+it	n	regression test	回归测试	
+it	n	user acceptance	用户验收	
+it	acr	UAT	用户验收测试	User Acceptance Testing
+it	n	staging	预发布环境	
+it	n	production	生产环境	
+it	n	sandbox environment	沙箱环境	
+it	n	dev environment	开发环境	
+it	n	test environment	测试环境	
+it	n	DR site	灾备站点	
+it	n	primary site	主站点	
+it	n	secondary site	备站点	
+it	acr	RTO	恢复时间目标	Recovery Time Objective
+it	acr	RPO	恢复点目标	Recovery Point Objective
+it	n	failover	故障切换	
+it	n	failback	故障切回	
+it	n	heartbeat	心跳检测	
+it	n	quorum disk	仲裁磁盘	
+it	n	shared storage	共享存储	
+it	acr	SAN	存储区域网	Storage Area Network
+it	acr	NAS	网络附加存储	Network Attached Storage
+it	acr	RAID	磁盘阵列	Redundant Array of Independent Disks
+it	acr	LUN	逻辑单元号	Logical Unit Number
+it	acr	HBA	主机总线适配器	Host Bus Adapter
+it	n	fiber switch	光纤交换机	
+it	acr	iSCSI	网络磁盘协议	Internet Small Computer Systems Interface
+it	n	snapshot replica	快照副本	
+it	n	replication	数据复制	
+it	n	sync job	同步任务	
+it	n	bandwidth usage	带宽占用	
+it	n	packet loss	丢包	
+it	n	jitter	抖动	
+it	n	traceroute	路由跟踪	
+it	n	packet capture	抓包	
+it	n	Wireshark	抓包工具	
+it	acr	NIC	网卡	Network Interface Card
+it	acr	VLAN	虚拟局域网	Virtual Local Area Network
+it	n	subnet	子网	
+it	n	gateway	网关	
+it	n	router	路由器	
+it	n	switch	交换机	
+it	acr	PoE	以太网供电	Power over Ethernet
+it	n	access point	无线接入点	
+it	acr	SSID	无线网络名	Service Set Identifier
+it	n	Wi-Fi	无线网	
+it	n	5G	第五代移动网	
+it	n	Bluetooth	蓝牙	
+it	n	VPN client	虚拟专网客户端	
+it	n	split tunnel	分流隧道	
+it	n	full tunnel	全流量隧道	
+it	n	MFA prompt	二次验证提示	
+it	n	one-time password	一次性密码	
+it	acr	OTP	一次性口令	One-Time Password
+it	n	smart card	智能卡	
+it	n	badge reader	门禁读卡器	
+it	n	biometric	生物识别	
+it	n	fingerprint	指纹	
+it	n	face ID	人脸识别	
+it	n	single sign-on	单点登录	
+it	n	password vault	密码保险箱	
+it	n	privileged account	特权账号	
+it	n	local admin	本地管理员	
+it	n	domain admin	域管理员	
+it	n	service desk	服务台	
+it	n	helpdesk	技术支持台	
+it	n	L1 support	一线支持	
+it	n	L2 support	二线支持	
+it	n	L3 support	三线支持	
+it	n	on-site engineer	现场工程师	
+it	n	remote support	远程支持	
+it	n	screen control	远程控屏	
+it	n	knowledge base	知识库	
+it	n	runbook	操作手册	
+it	n	playbook	应急剧本	
+it	n	escalation path IT	技术升级路径	
+it	n	ticket queue	工单队列	
+it	n	ticket priority	工单优先级	
+it	n	ticket SLA	工单时限	
+it	n	first-time fix	一次解决	
+it	n	reopen rate	重开工单率	
+it	n	mean time to repair	平均修复时间	
+it	acr	MTTR	平均修复时间	Mean Time To Repair
+it	acr	MTBF	平均无故障时间	Mean Time Between Failures
+it	n	service availability	服务可用性	
+it	n	error log	错误日志	
+it	n	event log	事件日志	
+it	n	syslog	系统日志	
+it	n	audit log	审计日志	
+it	n	application log	应用日志	
+it	n	crash dump	崩溃转储	
+it	n	core dump	核心转储	
+it	n	stack trace	堆栈跟踪	
+it	n	debug mode	调试模式	
+it	n	verbose logging	详细日志	
+it	n	log rotation	日志轮转	
+it	n	log retention	日志保存	
+it	n	alert threshold	告警阈值	
+it	n	alert storm	告警风暴	
+it	n	false positive	误报	
+it	n	false negative	漏报	
+it	n	dashboard widget	看板控件	
+it	n	uptime chart	可用性图表	
+it	n	capacity plan	容量规划	
+it	n	disk forecast	磁盘预测	
+it	n	CPU spike	处理器突增	
+it	n	memory pressure	内存压力	
+it	n	swap usage	交换分区占用	
+it	acr	IOPS	每秒读写次数	Input/Output Operations Per Second
+it	n	throughput	吞吐量	
+it	n	queue depth	队列深度	
+it	n	slow query	慢查询	
+it	n	table lock	表锁	
+it	n	row lock	行锁	
+it	n	index scan	索引扫描	
+it	n	full table scan	全表扫描	
+it	n	query plan	执行计划	
+it	n	statistics update	统计信息更新	
+it	acr	DBA	数据库管理员	Database Administrator
+it	n	schema	数据库结构	
+it	n	table	数据表	
+it	n	view	视图	
+it	n	trigger	触发器	
+it	n	constraint	约束	
+it	n	foreign key	外键	
+it	n	primary key	主键	
+it	n	unique index	唯一索引	
+it	n	null value	空值	
+it	n	data type	数据类型	
+it	n	character set	字符集	
+it	n	collation	排序规则	
+it	n	transaction	事务	
+it	n	commit log	提交日志	
+it	n	rollback segment	回滚段	
+it	n	tempdb	临时库	
+it	n	backup compression	备份压缩	
+it	n	restore test	恢复演练	
+it	n	backup catalog	备份目录	
+it	n	tape library	磁带库	
+it	n	offsite backup	异地备份	
+it	n	immutable backup	不可篡改备份	
+it	n	air gap	物理隔离	
+it	n	jump host	跳板机	
+it	n	bastion	堡垒机	
+it	n	privileged session	特权会话	
+it	n	session recording	会话录像	
+it	n	command filter	命令过滤	
+it	n	sudo	提权命令	
+it	n	root account	超级管理员	
+it	n	service restart	服务重启	
+it	n	graceful restart	平滑重启	
+it	n	hard reboot	强制重启	
+it	n	safe mode	安全模式	
+it	acr	BIOS	基本输入输出系统	Basic Input/Output System
+it	acr	UEFI	统一固件接口	Unified Extensible Firmware Interface
+it	n	firmware	固件	
+it	n	driver	驱动程序	
+it	n	kernel	内核	
+it	n	patch Tuesday	补丁日	
+it	n	reboot window	重启窗口	
+it	n	change advisory	变更评审	
+it	acr	CAB	变更顾问委员会	Change Advisory Board
+it	n	emergency change	紧急变更	
+it	n	standard change	标准变更	
+it	n	normal change	常规变更	
+it	n	change freeze	变更冻结	
+it	n	release train	发布列车	
+it	n	cutover	切换上线	
+it	n	backout	退出回退	
+it	n	smoke after release	发布后冒烟	
+it	n	health check job	健康检查任务	
+it	n	synthetic monitor	模拟拨测	
+it	n	real-user monitor	真实用户监测	
+it	acr	APM	应用性能监控	Application Performance Monitoring
+it	n	trace ID	追踪编号	
+it	n	span	调用片段	
+it	n	correlation ID	关联编号	
+it	n	request ID	请求编号	
+it	n	error budget	错误预算	
+it	acr	SLO	服务水平目标	Service Level Objective
+it	acr	SLI	服务水平指标	Service Level Indicator
+it	n	error rate	错误率	
+it	n	success rate	成功率	
+it	n	p95 latency	百分之九十五延迟	
+it	n	p99 latency	百分之九十九延迟	
+it	n	cold start	冷启动	
+it	n	warm start	热启动	
+it	n	connection leak	连接泄漏	
+it	n	thread dump	线程转储	
+it	n	heap dump	堆转储	
+it	n	garbage collection	垃圾回收	
+it	n	out of memory	内存耗尽	
+it	n	CPU saturation	处理器打满	
+it	n	disk full	磁盘已满	
+it	n	inode	文件节点	
+it	n	file handle	文件句柄	
+it	n	port conflict	端口冲突	

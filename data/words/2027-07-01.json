@@ -5,80 +5,80 @@
       "word": "housing allowance",
       "phonetic": "/ˈhaʊzɪŋ əˈlaʊəns/",
       "meaning": "住房补贴",
-      "example": "Please bring the housing allowance to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个住房补贴。",
+      "example": "Her housing allowance begins on the first day she starts work.",
+      "exampleZh": "她的住房补贴从她上班的第一天开始计算。",
       "category": "office"
     },
     {
       "word": "uniform allowance",
       "phonetic": "/ˈjuːnɪfɔːm əˈlaʊəns/",
       "meaning": "工装补贴",
-      "example": "Please bring the uniform allowance to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个工装补贴。",
+      "example": "New clerks get their uniform allowance during the first month.",
+      "exampleZh": "新文员在第一个月领取工装补贴。",
       "category": "office"
     },
     {
       "word": "training allowance",
       "phonetic": "/ˈtreɪnɪŋ əˈlaʊəns/",
       "meaning": "培训补贴",
-      "example": "I put the training allowance on the shared drive.",
-      "exampleZh": "我把培训补贴放到了共享盘。",
+      "example": "The training allowance pays the exam fee and one textbook.",
+      "exampleZh": "培训补贴用来支付考试费和一本教材。",
       "category": "office"
     },
     {
       "word": "exam leave",
       "phonetic": "/ɪɡˈzæm liːv/",
       "meaning": "考试假",
-      "example": "I put the exam leave on the shared drive.",
-      "exampleZh": "我把考试假放到了共享盘。",
+      "example": "She asked for exam leave on Monday for the licensing test.",
+      "exampleZh": "她申请了周一的考试假，去参加执业考试。",
       "category": "office"
     },
     {
       "word": "marriage leave",
       "phonetic": "/ˈmærɪdʒ liːv/",
       "meaning": "婚假",
-      "example": "Who will own the marriage leave this week?",
-      "exampleZh": "这周这个婚假谁来负责？",
+      "example": "He put in marriage leave for the first week of June.",
+      "exampleZh": "他申请了六月第一周的婚假。",
       "category": "office"
     },
     {
       "word": "recovery key",
       "phonetic": "/rɪˈkʌvəri kiː/",
       "meaning": "恢复密钥",
-      "example": "Do not touch the recovery key during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个恢复密钥。",
+      "example": "Write down the recovery key before this laptop leaves for the offsite clinic.",
+      "exampleZh": "这台笔记本送去院外门诊之前，先把恢复密钥抄下来。",
       "category": "it"
     },
     {
       "word": "TPM owner",
       "phonetic": "/ˌtiː piː ˈem ˈəʊnə/",
       "meaning": "可信模块属主（Trusted Platform Module）",
-      "example": "Who is on call for the TPM owner this week?",
-      "exampleZh": "这周这个可信模块属主谁值班？",
+      "example": "Nobody knows the TPM owner password, so we cannot clear the module without a wipe.",
+      "exampleZh": "没人知道可信模块属主密码，不擦数据就清不了这块模块。",
       "category": "it"
     },
     {
       "word": "escrow",
       "phonetic": "/ˈeskrəʊ/",
       "meaning": "密钥托管",
-      "example": "Do not touch the escrow during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个密钥托管。",
+      "example": "Put the new recovery key into escrow before the laptop goes to the ward.",
+      "exampleZh": "笔记本送到病区之前，先把新的恢复密钥放进密钥托管。",
       "category": "it"
     },
     {
       "word": "MBAM",
       "phonetic": "/ˈembæm/",
       "meaning": "磁盘加密管理（Microsoft BitLocker Administration and Monitoring）",
-      "example": "We tested MBAM (Microsoft BitLocker Administration and Monitoring) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 MBAM（Microsoft BitLocker Administration and Monitoring）。",
+      "example": "MBAM (Microsoft BitLocker Administration and Monitoring) stores recovery keys for every nursing laptop.",
+      "exampleZh": "MBAM（磁盘加密管理）存着每台护理笔记本的恢复密钥。",
       "category": "it"
     },
     {
       "word": "disk unlock",
       "phonetic": "/dɪsk ʌnˈlɒk/",
       "meaning": "磁盘解锁",
-      "example": "Do not touch the disk unlock during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个磁盘解锁。",
+      "example": "Disk unlock failed on her laptop because the TPM saw a firmware change.",
+      "exampleZh": "她笔记本的磁盘解锁失败了，因为可信模块发现固件变过。",
       "category": "it"
     }
   ]

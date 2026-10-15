@@ -5,80 +5,80 @@
       "word": "regrets",
       "phonetic": "/rɪˈɡrets/",
       "meaning": "请假缺席",
-      "example": "The regrets still needs a decision today.",
-      "exampleZh": "这个请假缺席今天还得拍个板。",
+      "example": "Send your regrets early if clinic will keep you from the meeting.",
+      "exampleZh": "如果门诊走不开，请尽早发来请假缺席。",
       "category": "office"
     },
     {
       "word": "latecomer",
       "phonetic": "/ˈleɪtkʌmə/",
       "meaning": "迟到者",
-      "example": "We talked about the latecomer with the department head.",
-      "exampleZh": "我们和科主任谈了这个迟到者。",
+      "example": "The latecomer slipped in during the second talking point.",
+      "exampleZh": "迟到者是在第二个讨论要点时悄悄进来的。",
       "category": "office"
     },
     {
       "word": "timekeeper",
       "phonetic": "/ˈtaɪmkiːpə/",
       "meaning": "计时员",
-      "example": "Could you send the timekeeper to the project group?",
-      "exampleZh": "你能把计时员发到项目群吗？",
+      "example": "The timekeeper gave a two-minute signal before each section ended.",
+      "exampleZh": "每一段结束前，计时员会给一个还剩两分钟的信号。",
       "category": "office"
     },
     {
       "word": "scribe",
       "phonetic": "/skraɪb/",
       "meaning": "会议记录员",
-      "example": "The scribe still needs a decision today.",
-      "exampleZh": "这个会议记录员今天还得拍个板。",
+      "example": "If the scribe is absent, the chairperson should appoint another.",
+      "exampleZh": "会议记录员缺席时，主持人应另指定一人。",
       "category": "office"
     },
     {
       "word": "ground rules",
       "phonetic": "/ɡraʊnd ruːlz/",
       "meaning": "会议规则",
-      "example": "Please add the ground rules to today’s notes.",
-      "exampleZh": "请把会议规则写进今天的记录。",
+      "example": "We agreed the ground rules include no laptops during the roundtable.",
+      "exampleZh": "我们约定的会议规则包括圆桌讨论时不用笔记本电脑。",
       "category": "office"
     },
     {
       "word": "domain controller",
       "phonetic": "/dəˈmeɪn kənˈtrəʊlə/",
       "meaning": "域控制器",
-      "example": "Do not touch the domain controller during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个域控制器。",
+      "example": "The domain controller in the east building stopped answering logons.",
+      "exampleZh": "东楼的域控制器不再响应登录。",
       "category": "it"
     },
     {
       "word": "file server",
       "phonetic": "/faɪl ˈsɜːvə/",
       "meaning": "文件服务器",
-      "example": "I logged the file server in today’s change ticket.",
-      "exampleZh": "我把这个文件服务器记进了今天的变更单。",
+      "example": "The file server holding scanned consents is nearly out of room.",
+      "exampleZh": "存放扫描知情同意书的文件服务器快没有空间了。",
       "category": "it"
     },
     {
       "word": "app server",
       "phonetic": "/æp ˈsɜːvə/",
       "meaning": "应用服务器",
-      "example": "We will verify the app server after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个应用服务器。",
+      "example": "The app server for outpatient orders restarted twice before noon.",
+      "exampleZh": "门诊医嘱的应用服务器在中午前重启了两次。",
       "category": "it"
     },
     {
       "word": "web server",
       "phonetic": "/web ˈsɜːvə/",
       "meaning": "网页服务器",
-      "example": "I logged the web server in today’s change ticket.",
-      "exampleZh": "我把这个网页服务器记进了今天的变更单。",
+      "example": "The web server for appointments returned errors for twenty minutes.",
+      "exampleZh": "预约用的网页服务器连续报了二十分钟错误。",
       "category": "it"
     },
     {
       "word": "mail server",
       "phonetic": "/meɪl ˈsɜːvə/",
       "meaning": "邮件服务器",
-      "example": "The ward asked us to check the mail server.",
-      "exampleZh": "病区让我们看一下这个邮件服务器。",
+      "example": "The mail server delayed critical-result notices by half an hour.",
+      "exampleZh": "邮件服务器把危急值通知推迟了半小时。",
       "category": "it"
     }
   ]

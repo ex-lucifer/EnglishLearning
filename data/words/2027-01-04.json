@@ -5,80 +5,80 @@
       "word": "claim",
       "phonetic": "/kleɪm/",
       "meaning": "报销申请",
-      "example": "Who will own the claim this week?",
-      "exampleZh": "这周这个报销申请谁来负责？",
+      "example": "Her claim for the train fare is waiting on a receipt.",
+      "exampleZh": "她的火车票报销申请还在等收据。",
       "category": "office"
     },
     {
       "word": "encounter",
       "phonetic": "/ɪnˈkaʊntə/",
       "meaning": "就诊记录",
-      "example": "Please add the encounter to today’s notes.",
-      "exampleZh": "请把就诊记录写进今天的记录。",
+      "example": "Yesterday's encounter has no clinician name on the printout.",
+      "exampleZh": "昨天的就诊记录打印出来后没有医生姓名。",
       "category": "office"
     },
     {
       "word": "visit",
       "phonetic": "/ˈvɪzɪt/",
       "meaning": "就诊",
-      "example": "Could you send the visit to the project group?",
-      "exampleZh": "你能把就诊发到项目群吗？",
+      "example": "This visit was only for a blood test and a prescription.",
+      "exampleZh": "这次就诊只是抽血和开药。",
       "category": "office"
     },
     {
       "word": "no-show",
       "phonetic": "/nəʊ ʃəʊ/",
       "meaning": "爽约未到",
-      "example": "I put the no-show on the shared drive.",
-      "exampleZh": "我把爽约未到放到了共享盘。",
+      "example": "We had one no-show in the diabetes clinic this morning.",
+      "exampleZh": "今天上午糖尿病门诊有一位爽约未到。",
       "category": "office"
     },
     {
       "word": "triage desk",
       "phonetic": "/ˈtriːɑːʒ desk/",
       "meaning": "分诊台",
-      "example": "The triage desk still needs a decision today.",
-      "exampleZh": "这个分诊台今天还得拍个板。",
+      "example": "The triage desk needs a second clerk from ten until noon.",
+      "exampleZh": "分诊台从十点到中午需要第二名文员。",
       "category": "office"
     },
     {
       "word": "jitter",
       "phonetic": "/ˈdʒɪtə/",
       "meaning": "抖动",
-      "example": "The vendor asked for a screenshot of the jitter.",
-      "exampleZh": "厂商要一张这个抖动的截图。",
+      "example": "Jitter on the voice link made the radiologist's dictation break up.",
+      "exampleZh": "语音链路上的抖动让放射医生的口述变得断断续续。",
       "category": "it"
     },
     {
       "word": "traceroute",
       "phonetic": "/ˈtreɪsruːt/",
       "meaning": "路由跟踪",
-      "example": "The ward asked us to check the traceroute.",
-      "exampleZh": "病区让我们看一下这个路由跟踪。",
+      "example": "Traceroute from the clinic shows the path dying at the core router.",
+      "exampleZh": "从门诊做的路由跟踪显示，路径在核心路由器那里断了。",
       "category": "it"
     },
     {
       "word": "packet capture",
       "phonetic": "/ˈpækɪt ˈkæptʃə/",
       "meaning": "抓包",
-      "example": "We will verify the packet capture after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个抓包。",
+      "example": "The packet capture shows the lab result leaving and never arriving.",
+      "exampleZh": "这次抓包能看到检验结果发出去了，却一直没有到达。",
       "category": "it"
     },
     {
       "word": "Wireshark",
       "phonetic": "/ˈwaɪəʃɑːk/",
       "meaning": "抓包工具",
-      "example": "I logged the Wireshark in today’s change ticket.",
-      "exampleZh": "我把这个抓包工具记进了今天的变更单。",
+      "example": "Wireshark on the mirror port shows the order message leaving twice.",
+      "exampleZh": "镜像口上的抓包工具显示，医嘱消息发出去了两次。",
       "category": "it"
     },
     {
       "word": "NIC",
       "phonetic": "/nɪk/",
       "meaning": "网卡（Network Interface Card）",
-      "example": "Check the NIC (Network Interface Card) in the computer room.",
-      "exampleZh": "请到机房检查 NIC（Network Interface Card）。",
+      "example": "NIC (Network Interface Card) on the file server flaps every few minutes.",
+      "exampleZh": "文件服务器上的NIC（网卡）每隔几分钟就闪断一次。",
       "category": "it"
     }
   ]

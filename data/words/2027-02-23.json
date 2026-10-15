@@ -5,80 +5,80 @@
       "word": "reserve",
       "phonetic": "/rɪˈzɜːv/",
       "meaning": "预留",
-      "example": "We still need to reserve this.",
-      "exampleZh": "这件事还得预留。",
+      "example": "The interpreters need a clear view, so reserve two seats at the front.",
+      "exampleZh": "口译员要看清现场，请在前排预留两个座位。",
       "category": "office"
     },
     {
       "word": "attend",
       "phonetic": "/əˈtend/",
       "meaning": "出席",
-      "example": "Can you attend the bed meeting for me?",
-      "exampleZh": "你能替我去开床位会吗？",
+      "example": "Ask whether the sponsor can attend Thursday's meeting in person.",
+      "exampleZh": "问问发起人能否亲自出席周四的会议。",
       "category": "office"
     },
     {
       "word": "chair",
       "phonetic": "/tʃeə/",
       "meaning": "主持",
-      "example": "Who will chair the morning huddle?",
-      "exampleZh": "晨会谁来主持？",
+      "example": "While the director travels, the deputy will chair that working session.",
+      "exampleZh": "主任出差期间，由副主任主持那场工作会议。",
       "category": "office"
     },
     {
       "word": "host",
       "phonetic": "/həʊst/",
       "meaning": "主办",
-      "example": "We will host the vendor in the training room.",
-      "exampleZh": "我们在培训室接待厂商。",
+      "example": "The auditorium is free, so our office can host the quarterly staff meeting.",
+      "exampleZh": "礼堂有空，所以我们科室可以主办季度员工大会。",
       "category": "office"
     },
     {
       "word": "moderate",
       "phonetic": "/ˈmɒdəreɪt/",
       "meaning": "主持讨论",
-      "example": "Please moderate the Q&A so it stays on time.",
-      "exampleZh": "请主持问答，别超时。",
+      "example": "Moderate the discussion and keep every speaker inside the agreed time.",
+      "exampleZh": "请主持讨论，并让每位发言人守住约定的时间。",
       "category": "office"
     },
     {
       "word": "request ID",
       "phonetic": "/rɪˈkwest aɪ ˈdiː/",
       "meaning": "请求编号",
-      "example": "Who is on call for the request ID this week?",
-      "exampleZh": "这周这个请求编号谁值班？",
+      "example": "The request ID on that timeout matches nothing in the order log.",
+      "exampleZh": "那次超时上的请求编号，在医嘱日志里对不上任何记录。",
       "category": "it"
     },
     {
       "word": "error budget",
       "phonetic": "/ˈerə ˈbʌdʒɪt/",
       "meaning": "错误预算",
-      "example": "The vendor asked for a screenshot of the error budget.",
-      "exampleZh": "厂商要一张这个错误预算的截图。",
+      "example": "The error budget for the order service is nearly gone this month.",
+      "exampleZh": "这个月医嘱服务的错误预算快用完了。",
       "category": "it"
     },
     {
       "word": "SLO",
       "phonetic": "/ˌes el ˈəʊ/",
       "meaning": "服务水平目标（Service Level Objective）",
-      "example": "Track SLO (Service Level Objective) on the dashboard.",
-      "exampleZh": "请在看板上跟踪 SLO（Service Level Objective）。",
+      "example": "SLO (Service Level Objective) for opening the order screen is under two seconds.",
+      "exampleZh": "打开医嘱界面的SLO（服务水平目标）是两秒以内。",
       "category": "it"
     },
     {
       "word": "SLI",
       "phonetic": "/ˌes el ˈaɪ/",
       "meaning": "服务水平指标（Service Level Indicator）",
-      "example": "Please report this week’s SLI (Service Level Indicator).",
-      "exampleZh": "请汇报本周的 SLI（Service Level Indicator）。",
+      "example": "SLI (Service Level Indicator) for successful order saves fell during the noon rush.",
+      "exampleZh": "午间高峰时，医嘱保存成功的SLI（服务水平指标）下降了。",
       "category": "it"
     },
     {
       "word": "error rate",
       "phonetic": "/ˈerə reɪt/",
       "meaning": "错误率",
-      "example": "I logged the error rate in today’s change ticket.",
-      "exampleZh": "我把这个错误率记进了今天的变更单。",
+      "example": "Error rate on order saves climbed past two percent after nine.",
+      "exampleZh": "九点以后，医嘱保存的错误率升过了百分之二。",
       "category": "it"
     }
   ]

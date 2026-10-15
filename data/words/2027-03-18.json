@@ -5,80 +5,80 @@
       "word": "relocate",
       "phonetic": "/ˌriːləʊˈkeɪt/",
       "meaning": "调岗搬迁",
-      "example": "Who will relocate this after the huddle?",
-      "exampleZh": "晨会后谁来调岗搬迁？",
+      "example": "They want to relocate her from the file room to the main desk.",
+      "exampleZh": "他们想把她从档案室调岗到总服务台。",
       "category": "office"
     },
     {
       "word": "handover meeting",
       "phonetic": "/ˈhændəʊvə ˈmiːtɪŋ/",
       "meaning": "交接会",
-      "example": "We talked about the handover meeting with the department head.",
-      "exampleZh": "我们和科主任谈了这个交接会。",
+      "example": "We set the handover meeting for eight, in the small conference room.",
+      "exampleZh": "我们把交接会定在八点，地点是小会议室。",
       "category": "office"
     },
     {
       "word": "kick-off memo",
       "phonetic": "/ˈkɪk ɒf ˈmeməʊ/",
       "meaning": "启动备忘",
-      "example": "Who will own the kick-off memo this week?",
-      "exampleZh": "这周这个启动备忘谁来负责？",
+      "example": "Everyone in the working group should already have the kick-off memo.",
+      "exampleZh": "工作组里的每个人现在应该都拿到启动备忘了。",
       "category": "office"
     },
     {
       "word": "closing remarks",
       "phonetic": "/ˈkləʊzɪŋ rɪˈmɑːks/",
       "meaning": "结束讲话",
-      "example": "Who will own the closing remarks this week?",
-      "exampleZh": "这周这个结束讲话谁来负责？",
+      "example": "Three minutes is the limit I want for the closing remarks.",
+      "exampleZh": "我希望结束讲话不超过三分钟。",
       "category": "office"
     },
     {
       "word": "opening remarks",
       "phonetic": "/ˈəʊpnɪŋ rɪˈmɑːks/",
       "meaning": "开场讲话",
-      "example": "The opening remarks still needs a decision today.",
-      "exampleZh": "这个开场讲话今天还得拍个板。",
+      "example": "Opening remarks from the director begin as soon as people sit.",
+      "exampleZh": "大家一坐下，主任的开场讲话就开始。",
       "category": "office"
     },
     {
       "word": "iLO",
       "phonetic": "/ˈaɪləʊ/",
       "meaning": "远程管理口（Integrated Lights-Out）",
-      "example": "Please write iLO in full — Integrated Lights-Out — on the change form.",
-      "exampleZh": "变更单上请写全称：iLO（Integrated Lights-Out）。",
+      "example": "The iLO (Integrated Lights-Out) address is printed on the bezel of this ProLiant.",
+      "exampleZh": "这台 ProLiant 的面板上印着 iLO（远程管理口）地址。",
       "category": "it"
     },
     {
       "word": "iDRAC",
       "phonetic": "/ˈaɪdræk/",
       "meaning": "远程管理卡（Integrated Dell Remote Access Controller）",
-      "example": "Please write iDRAC in full — Integrated Dell Remote Access Controller — on the change form.",
-      "exampleZh": "变更单上请写全称：iDRAC（Integrated Dell Remote Access Controller）。",
+      "example": "iDRAC (Integrated Dell Remote Access Controller) shows a failed fan on the lab host.",
+      "exampleZh": "iDRAC（远程管理卡）显示实验室主机有一个风扇故障。",
       "category": "it"
     },
     {
       "word": "BMC",
       "phonetic": "/ˌbiː em ˈsiː/",
       "meaning": "基板管理控制器（Baseboard Management Controller）",
-      "example": "Please write BMC in full — Baseboard Management Controller — on the change form.",
-      "exampleZh": "变更单上请写全称：BMC（Baseboard Management Controller）。",
+      "example": "The BMC (Baseboard Management Controller) hung, so the remote console froze too.",
+      "exampleZh": "BMC（基板管理控制器）卡死了，远程控制台也跟着冻住。",
       "category": "it"
     },
     {
       "word": "firmware update",
       "phonetic": "/ˈfɜːmweə ˌʌpˈdeɪt/",
       "meaning": "固件更新",
-      "example": "I logged the firmware update in today’s change ticket.",
-      "exampleZh": "我把这个固件更新记进了今天的变更单。",
+      "example": "Schedule the firmware update for the storage array after radiology closes.",
+      "exampleZh": "等放射科下班，再安排存储阵列的固件更新。",
       "category": "it"
     },
     {
       "word": "BIOS update",
       "phonetic": "/ˈbaɪɒs ˌʌpˈdeɪt/",
       "meaning": "主板固件更新（Basic Input/Output System）",
-      "example": "The vendor asked for a screenshot of the BIOS update.",
-      "exampleZh": "厂商要一张这个主板固件更新的截图。",
+      "example": "The BIOS update fixes the memory error we saw on three identical hosts.",
+      "exampleZh": "这次主板固件更新修好了三台相同主机上的内存报错。",
       "category": "it"
     }
   ]

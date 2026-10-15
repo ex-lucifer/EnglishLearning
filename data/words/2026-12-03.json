@@ -5,80 +5,80 @@
       "word": "annual leave",
       "phonetic": "/ˈænjuəl liːv/",
       "meaning": "年假",
-      "example": "I put the annual leave on the shared drive.",
-      "exampleZh": "我把年假放到了共享盘。",
+      "example": "I am saving annual leave for the week my parents visit.",
+      "exampleZh": "我把年假留到父母来的那一周。",
       "category": "office"
     },
     {
       "word": "compensatory leave",
       "phonetic": "/kəmˈpensətəri liːv/",
       "meaning": "调休",
-      "example": "The compensatory leave still needs a decision today.",
-      "exampleZh": "这个调休今天还得拍个板。",
+      "example": "He took compensatory leave on Monday for working Sunday.",
+      "exampleZh": "他周日上了班，周一用调休补上。",
       "category": "office"
     },
     {
       "word": "public holiday",
       "phonetic": "/ˈpʌblɪk ˈhɒlədeɪ/",
       "meaning": "公共假期",
-      "example": "The public holiday still needs a decision today.",
-      "exampleZh": "这个公共假期今天还得拍个板。",
+      "example": "Clinics are closed on the public holiday, but the wards stay open.",
+      "exampleZh": "公共假期门诊停诊，病区照常。",
       "category": "office"
     },
     {
       "word": "time off",
       "phonetic": "/taɪm ɒf/",
       "meaning": "休假时间",
-      "example": "Could you send the time off to the project group?",
-      "exampleZh": "你能把休假时间发到项目群吗？",
+      "example": "She asked for time off on the afternoon of the school concert.",
+      "exampleZh": "她申请学校音乐会那天下午的休假时间。",
       "category": "office"
     },
     {
       "word": "flex time",
       "phonetic": "/fleks taɪm/",
       "meaning": "弹性工时",
-      "example": "Please add the flex time to today’s notes.",
-      "exampleZh": "请把弹性工时写进今天的记录。",
+      "example": "Flex time lets him start at seven and finish at three.",
+      "exampleZh": "弹性工时让他可以七点上班、三点下班。",
       "category": "office"
     },
     {
       "word": "SAML",
       "phonetic": "/ˈsæml/",
       "meaning": "安全断言标记（Security Assertion Markup Language）",
-      "example": "Enable SAML (Security Assertion Markup Language) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 SAML（Security Assertion Markup Language）。",
+      "example": "SAML (Security Assertion Markup Language) response from the identity server arrived too late.",
+      "exampleZh": "身份服务器返回的SAML（安全断言标记）来得太晚了。",
       "category": "it"
     },
     {
       "word": "OpenID",
       "phonetic": "/ˈəʊpən aɪ ˈdiː/",
       "meaning": "开放身份（OpenID authentication）",
-      "example": "Enable OpenID (OpenID authentication) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 OpenID（OpenID authentication）。",
+      "example": "OpenID (OpenID authentication) sent the doctor back to the login page twice.",
+      "exampleZh": "OpenID（开放身份）把医生两次送回了登录页。",
       "category": "it"
     },
     {
       "word": "JSON payload",
       "phonetic": "/ˈdʒeɪsən ˈpeɪləʊd/",
       "meaning": "JSON报文",
-      "example": "Please test the JSON payload on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个JSON报文。",
+      "example": "The JSON payload from the lab omitted the specimen number.",
+      "exampleZh": "检验传来的JSON报文漏掉了标本号。",
       "category": "it"
     },
     {
       "word": "XML message",
       "phonetic": "/ˌeks em ˈel ˈmesɪdʒ/",
       "meaning": "XML报文",
-      "example": "Do not touch the XML message during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个XML报文。",
+      "example": "The XML message for this order has an unclosed patient tag.",
+      "exampleZh": "这条医嘱的XML报文里有一个没有闭合的患者标签。",
       "category": "it"
     },
     {
       "word": "SOAP service",
       "phonetic": "/səʊp ˈsɜːvɪs/",
       "meaning": "SOAP服务",
-      "example": "I logged the SOAP service in today’s change ticket.",
-      "exampleZh": "我把这个SOAP服务记进了今天的变更单。",
+      "example": "The SOAP service for billing has been answering slowly since dawn.",
+      "exampleZh": "收费的SOAP服务从黎明起响应就一直很慢。",
       "category": "it"
     }
   ]

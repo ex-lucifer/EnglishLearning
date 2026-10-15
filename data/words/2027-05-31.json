@@ -5,80 +5,80 @@
       "word": "carried",
       "phonetic": "/ˈkærid/",
       "meaning": "通过的",
-      "example": "The motion was carried.",
-      "exampleZh": "这项动议通过了。",
+      "example": "The holiday-roster motion was carried with no further changes.",
+      "exampleZh": "假期排班那项动议原案通过，没有再作修改。",
       "category": "office"
     },
     {
       "word": "defeated",
       "phonetic": "/dɪˈfiːtɪd/",
       "meaning": "未通过的",
-      "example": "The overtime request was defeated.",
-      "exampleZh": "加班申请未通过。",
+      "example": "The idea of opening a Saturday clinic was defeated.",
+      "exampleZh": "开设周六门诊的提议未通过。",
       "category": "office"
     },
     {
       "word": "unanimous",
       "phonetic": "/juˈnænɪməs/",
       "meaning": "一致通过的",
-      "example": "The vote was unanimous.",
-      "exampleZh": "表决一致通过。",
+      "example": "The vote to adopt the new visitor rules was unanimous.",
+      "exampleZh": "采用新访客规定的表决是一致通过的。",
       "category": "office"
     },
     {
       "word": "majority",
       "phonetic": "/məˈdʒɒrəti/",
       "meaning": "多数",
-      "example": "We talked about the majority with the department head.",
-      "exampleZh": "我们和科主任谈了这个多数。",
+      "example": "A clear majority wanted to keep the counters open at the current hours.",
+      "exampleZh": "明显的多数希望柜台继续按现在的时间开放。",
       "category": "office"
     },
     {
       "word": "minority view",
       "phonetic": "/maɪˈnɒrəti vjuː/",
       "meaning": "少数意见",
-      "example": "The minority view still needs a decision today.",
-      "exampleZh": "这个少数意见今天还得拍个板。",
+      "example": "Please capture the minority view in the minutes, not only the result.",
+      "exampleZh": "请在纪要里记下少数意见，不要只写表决结果。",
       "category": "office"
     },
     {
       "word": "shadow IT",
       "phonetic": "/ˈʃædəʊ aɪ ˈtiː/",
       "meaning": "影子信息化",
-      "example": "We will verify the shadow IT after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个影子信息化。",
+      "example": "Shadow IT grew when clinics bought their own chat tool and stored patient names there.",
+      "exampleZh": "门诊自己买了聊天工具，还把患者姓名存在里面，影子信息化就是这样长出来的。",
       "category": "it"
     },
     {
       "word": "unsanctioned app",
       "phonetic": "/ʌnˈsæŋkʃənd æp/",
       "meaning": "未批准软件",
-      "example": "Please test the unsanctioned app on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个未批准软件。",
+      "example": "An unsanctioned app on the ward tablet was syncing schedules to a personal cloud.",
+      "exampleZh": "病区平板上有个未批准软件，正在把排班同步到个人云。",
       "category": "it"
     },
     {
       "word": "software whitelist",
       "phonetic": "/ˈsɒftweə ˈwaɪtlɪst/",
       "meaning": "软件白名单",
-      "example": "Please test the software whitelist on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个软件白名单。",
+      "example": "The software whitelist blocked the new viewer until we approved its publisher.",
+      "exampleZh": "在我们批准发布者之前，软件白名单拦住了新的阅片程序。",
       "category": "it"
     },
     {
       "word": "software inventory",
       "phonetic": "/ˈsɒftweə ˈɪnvəntri/",
       "meaning": "软件清单",
-      "example": "The ward asked us to check the software inventory.",
-      "exampleZh": "病区让我们看一下这个软件清单。",
+      "example": "The software inventory shows three clinic PCs still running the retired viewer.",
+      "exampleZh": "软件清单显示还有三台门诊电脑在跑已经退役的阅片程序。",
       "category": "it"
     },
     {
       "word": "license count",
       "phonetic": "/ˈlaɪsns kaʊnt/",
       "meaning": "授权数量",
-      "example": "The ward asked us to check the license count.",
-      "exampleZh": "病区让我们看一下这个授权数量。",
+      "example": "The license count for the viewer is short by twelve seats this quarter.",
+      "exampleZh": "这个季度阅片软件的授权数量少了十二个席位。",
       "category": "it"
     }
   ]

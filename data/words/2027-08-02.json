@@ -5,80 +5,80 @@
       "word": "cubicle",
       "phonetic": "/ˈkjuːbɪkl/",
       "meaning": "隔间",
-      "example": "The cubicle still needs a decision today.",
-      "exampleZh": "这个隔间今天还得拍个板。",
+      "example": "The cubicle beside the window is set aside for staff counseling.",
+      "exampleZh": "靠窗的那间隔间留给员工约谈用。",
       "category": "office"
     },
     {
       "word": "workstation area",
       "phonetic": "/ˈwɜːksteɪʃn ˈeəriə/",
       "meaning": "工位区",
-      "example": "Please add the workstation area to today’s notes.",
-      "exampleZh": "请把工位区写进今天的记录。",
+      "example": "The workstation area is too noisy for a private phone call.",
+      "exampleZh": "工位区太吵，不适合打需要保密的电话。",
       "category": "office"
     },
     {
       "word": "quiet room",
       "phonetic": "/ˈkwaɪət ruːm/",
       "meaning": "安静室",
-      "example": "Please add the quiet room to today’s notes.",
-      "exampleZh": "请把安静室写进今天的记录。",
+      "example": "Please use the quiet room when a family needs a private talk.",
+      "exampleZh": "家属需要私下谈话时，请使用安静室。",
       "category": "office"
     },
     {
       "word": "on-call room",
       "phonetic": "/ɒn kɔːl ruːm/",
       "meaning": "值班室",
-      "example": "Could you send the on-call room to the project group?",
-      "exampleZh": "你能把值班室发到项目群吗？",
+      "example": "The on-call room is at the far end of the east corridor.",
+      "exampleZh": "值班室在东走廊的最尽头。",
       "category": "office"
     },
     {
       "word": "duty room",
       "phonetic": "/ˈdjuːti ruːm/",
       "meaning": "值班房",
-      "example": "We talked about the duty room with the department head.",
-      "exampleZh": "我们和科主任谈了这个值班房。",
+      "example": "The night clerk rests in the duty room between phone calls.",
+      "exampleZh": "夜班文员在两次来电之间，在值班房里休息。",
       "category": "office"
     },
     {
       "word": "affinity",
       "phonetic": "/əˈfɪnəti/",
       "meaning": "亲和性",
-      "example": "Who is on call for the affinity this week?",
-      "exampleZh": "这周这个亲和性谁值班？",
+      "example": "Set affinity so the database VM stays on the same host as its log VM.",
+      "exampleZh": "设好亲和性，让数据库虚拟机和它的日志虚拟机留在同一台主机。",
       "category": "it"
     },
     {
       "word": "anti-affinity",
       "phonetic": "/ˈænti əˈfɪnəti/",
       "meaning": "反亲和性",
-      "example": "Please test the anti-affinity on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个反亲和性。",
+      "example": "Anti-affinity keeps the two domain controllers on different hosts.",
+      "exampleZh": "反亲和性让两台域控制器跑在不同的主机上。",
       "category": "it"
     },
     {
       "word": "resource pool",
       "phonetic": "/rɪˈsɔːs puːl/",
       "meaning": "资源池",
-      "example": "The ward asked us to check the resource pool.",
-      "exampleZh": "病区让我们看一下这个资源池。",
+      "example": "The resource pool for lab VMs is capped so they cannot starve the HIS host.",
+      "exampleZh": "实验室虚拟机的资源池加了上限，免得把 HIS 那台主机的资源吃光。",
       "category": "it"
     },
     {
       "word": "reservation",
       "phonetic": "/ˌrezəˈveɪʃn/",
       "meaning": "资源预留",
-      "example": "We will verify the reservation after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个资源预留。",
+      "example": "Set a memory reservation on the HIS VM so ballooning cannot reclaim it.",
+      "exampleZh": "给 HIS 虚拟机设内存资源预留，内存回收就收不走这部分。",
       "category": "it"
     },
     {
       "word": "limit",
       "phonetic": "/ˈlɪmɪt/",
       "meaning": "资源上限",
-      "example": "We will verify the limit after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个资源上限。",
+      "example": "The CPU limit on the lab VM is why that test build runs so slowly.",
+      "exampleZh": "实验室虚拟机的处理器资源上限，就是那个测试构建这么慢的原因。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "keynote",
       "phonetic": "/ˈkiːnəʊt/",
       "meaning": "主旨发言",
-      "example": "Could you send the keynote to the project group?",
-      "exampleZh": "你能把主旨发言发到项目群吗？",
+      "example": "The director's keynote opens the staff day at nine sharp.",
+      "exampleZh": "主任的主旨发言在九点整为职工日开场。",
       "category": "office"
     },
     {
       "word": "panel",
       "phonetic": "/ˈpænl/",
       "meaning": "专题小组",
-      "example": "I put the panel on the shared drive.",
-      "exampleZh": "我把专题小组放到了共享盘。",
+      "example": "The afternoon panel is about waiting times at registration.",
+      "exampleZh": "下午的专题小组要讨论挂号等候时间。",
       "category": "office"
     },
     {
       "word": "moderator",
       "phonetic": "/ˈmɒdəreɪtə/",
       "meaning": "主持人",
-      "example": "Could you send the moderator to the project group?",
-      "exampleZh": "你能把主持人发到项目群吗？",
+      "example": "The moderator will stop each speaker at the five-minute mark.",
+      "exampleZh": "主持人会在五分钟的时候请每位发言人停下。",
       "category": "office"
     },
     {
       "word": "rapporteur",
       "phonetic": "/ˌræpɔːˈtɜː/",
       "meaning": "报告人",
-      "example": "We talked about the rapporteur with the department head.",
-      "exampleZh": "我们和科主任谈了这个报告人。",
+      "example": "Our rapporteur will sum up the small groups before lunch.",
+      "exampleZh": "我们的报告人会在午餐前把各小组的意见汇总起来。",
       "category": "office"
     },
     {
       "word": "time-out",
       "phonetic": "/taɪm aʊt/",
       "meaning": "暂停讨论",
-      "example": "Could you send the time-out to the project group?",
-      "exampleZh": "你能把暂停讨论发到项目群吗？",
+      "example": "The chair called a short time-out so both sides could talk privately.",
+      "exampleZh": "主持人宣布暂停讨论一小会儿，让双方私下谈谈。",
       "category": "office"
     },
     {
       "word": "privileged logon",
       "phonetic": "/ˈprɪvəlɪdʒd ˈlɒɡɒn/",
       "meaning": "特权登录",
-      "example": "Who is on call for the privileged logon this week?",
-      "exampleZh": "这周这个特权登录谁值班？",
+      "example": "A privileged logon from a clinic PC at 02:00 is worth a closer look.",
+      "exampleZh": "凌晨两点从一台门诊电脑发起的特权登录，值得再看一眼。",
       "category": "it"
     },
     {
       "word": "explicit creds",
       "phonetic": "/ɪkˈsplɪsɪt kredz/",
       "meaning": "显式凭据",
-      "example": "Please test the explicit creds on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个显式凭据。",
+      "example": "Explicit creds were used for that admin logon, so it was not a stolen ticket.",
+      "exampleZh": "那次管理员登录用的是显式凭据，不是一张被偷走的票据。",
       "category": "it"
     },
     {
       "word": "pass-the-hash",
       "phonetic": "/pɑːs ðə hæʃ/",
       "meaning": "哈希传递",
-      "example": "Please test the pass-the-hash on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个哈希传递。",
+      "example": "Pass-the-hash from the compromised kiosk reached a file server in the same VLAN.",
+      "exampleZh": "从失陷查询机发起的哈希传递，碰到了同一 VLAN 里的文件服务器。",
       "category": "it"
     },
     {
       "word": "kerberoasting",
       "phonetic": "/ˈkɜːbərəʊstɪŋ/",
       "meaning": "票据攻击手法",
-      "example": "I logged the kerberoasting in today’s change ticket.",
-      "exampleZh": "我把这个票据攻击手法记进了今天的变更单。",
+      "example": "Kerberoasting against the HIS service account showed up in last night's authentication logs.",
+      "exampleZh": "昨晚的认证日志里出现了针对 HIS 服务账号的票据攻击手法。",
       "category": "it"
     },
     {
       "word": "lateral movement",
       "phonetic": "/ˈlætərəl ˈmuːvmənt/",
       "meaning": "横向移动",
-      "example": "I logged the lateral movement in today’s change ticket.",
-      "exampleZh": "我把这个横向移动记进了今天的变更单。",
+      "example": "Lateral movement from the lobby PC reached the file server within twenty minutes.",
+      "exampleZh": "从大厅那台电脑开始的横向移动，二十分钟内就到了文件服务器。",
       "category": "it"
     }
   ]

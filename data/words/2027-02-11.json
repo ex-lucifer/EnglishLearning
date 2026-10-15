@@ -5,80 +5,80 @@
       "word": "issue",
       "phonetic": "/ˈɪʃuː/",
       "meaning": "印发",
-      "example": "Who will issue this after the huddle?",
-      "exampleZh": "晨会后谁来印发？",
+      "example": "HR will issue the holiday circular on Monday morning.",
+      "exampleZh": "人力资源部周一上午印发假期传阅文件。",
       "category": "office"
     },
     {
       "word": "announce",
       "phonetic": "/əˈnaʊns/",
       "meaning": "宣布",
-      "example": "Who will announce this after the huddle?",
-      "exampleZh": "晨会后谁来宣布？",
+      "example": "The director will announce the new clinic hours at the town hall.",
+      "exampleZh": "主任会在全员大会上宣布新的门诊时间。",
       "category": "office"
     },
     {
       "word": "communicate",
       "phonetic": "/kəˈmjuːnɪkeɪt/",
       "meaning": "沟通",
-      "example": "Can you communicate it today?",
-      "exampleZh": "你今天能把它沟通吗？",
+      "example": "Who will communicate the room change to people already traveling?",
+      "exampleZh": "已经在路上的人，房间变更由谁去沟通？",
       "category": "office"
     },
     {
       "word": "discuss",
       "phonetic": "/dɪˈskʌs/",
       "meaning": "讨论",
-      "example": "We still need to discuss this.",
-      "exampleZh": "这件事还得讨论。",
+      "example": "We can discuss the intern's rotation at your one-on-one.",
+      "exampleZh": "实习生的轮岗可以在你的一对一面谈里讨论。",
       "category": "office"
     },
     {
       "word": "consult",
       "phonetic": "/kənˈsʌlt/",
       "meaning": "征询",
-      "example": "We still need to consult this.",
-      "exampleZh": "这件事还得征询。",
+      "example": "Did anyone consult the night shift before changing the handover time?",
+      "exampleZh": "改交接时间之前，有没有征询过夜班？",
       "category": "office"
     },
     {
       "word": "sudo",
       "phonetic": "/ˈsuːduː/",
       "meaning": "提权命令",
-      "example": "We will verify the sudo after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个提权命令。",
+      "example": "Only the two on-call engineers may use sudo on the interface host.",
+      "exampleZh": "只有两位待命工程师可以在接口主机上使用提权命令。",
       "category": "it"
     },
     {
       "word": "root account",
       "phonetic": "/ruːt əˈkaʊnt/",
       "meaning": "超级管理员",
-      "example": "Who is on call for the root account this week?",
-      "exampleZh": "这周这个超级管理员谁值班？",
+      "example": "The root account on the PACS host was used outside the agreed window.",
+      "exampleZh": "影像主机的超级管理员在约定的窗口之外被使用了。",
       "category": "it"
     },
     {
       "word": "service restart",
       "phonetic": "/ˈsɜːvɪs ˌriːˈstɑːt/",
       "meaning": "服务重启",
-      "example": "We will verify the service restart after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个服务重启。",
+      "example": "The service restart cleared the stuck jobs inside the print spooler.",
+      "exampleZh": "这次服务重启清掉了打印队列服务里卡住的任务。",
       "category": "it"
     },
     {
       "word": "graceful restart",
       "phonetic": "/ˈɡreɪsfl ˌriːˈstɑːt/",
       "meaning": "平滑重启",
-      "example": "We will verify the graceful restart after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个平滑重启。",
+      "example": "A graceful restart of the order service kept the open sessions alive.",
+      "exampleZh": "医嘱服务做了一次平滑重启，已经打开的会话还在。",
       "category": "it"
     },
     {
       "word": "hard reboot",
       "phonetic": "/hɑːd ˌriːˈbuːt/",
       "meaning": "强制重启",
-      "example": "Do not touch the hard reboot during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个强制重启。",
+      "example": "The hard reboot of the file server cut off three people who were saving.",
+      "exampleZh": "文件服务器的强制重启切断了三个人正在进行的保存。",
       "category": "it"
     }
   ]

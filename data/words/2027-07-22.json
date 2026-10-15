@@ -5,80 +5,80 @@
       "word": "time sheet",
       "phonetic": "/taɪm ʃiːt/",
       "meaning": "工时表",
-      "example": "Please bring the time sheet to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个工时表。",
+      "example": "Please sign the time sheet before you go home on Friday.",
+      "exampleZh": "周五回家之前，请在工时表上签字。",
       "category": "office"
     },
     {
       "word": "hours worked",
       "phonetic": "/ˈaʊəz wɜːkt/",
       "meaning": "实际工时",
-      "example": "Could you send the hours worked to the project group?",
-      "exampleZh": "你能把实际工时发到项目群吗？",
+      "example": "Hours worked last week include two night shifts and one Sunday.",
+      "exampleZh": "上周的实际工时包括两个夜班和一个星期日。",
       "category": "office"
     },
     {
       "word": "core team",
       "phonetic": "/kɔː tiːm/",
       "meaning": "核心团队",
-      "example": "Please add the core team to today’s notes.",
-      "exampleZh": "请把核心团队写进今天的记录。",
+      "example": "The core team meets for fifteen minutes at the start of each morning.",
+      "exampleZh": "核心团队每天早晨开十五分钟的会。",
       "category": "office"
     },
     {
       "word": "extended team",
       "phonetic": "/ɪkˈstendɪd tiːm/",
       "meaning": "扩展团队",
-      "example": "Who will own the extended team this week?",
-      "exampleZh": "这周这个扩展团队谁来负责？",
+      "example": "The extended team joins the meeting only when we need them.",
+      "exampleZh": "只有我们需要的时候，扩展团队才来参加会议。",
       "category": "office"
     },
     {
       "word": "project team",
       "phonetic": "/ˈprɒdʒekt tiːm/",
       "meaning": "项目组",
-      "example": "Who will own the project team this week?",
-      "exampleZh": "这周这个项目组谁来负责？",
+      "example": "The project team will show the new calling screen on Friday.",
+      "exampleZh": "项目组周五会展示新的叫号屏。",
       "category": "office"
     },
     {
       "word": "stripe",
       "phonetic": "/straɪp/",
       "meaning": "条带",
-      "example": "The ward asked us to check the stripe.",
-      "exampleZh": "病区让我们看一下这个条带。",
+      "example": "Each stripe spreads one write across all six disks in the imaging set.",
+      "exampleZh": "每一条条带都把一次写入分到影像组的六块盘上。",
       "category": "it"
     },
     {
       "word": "mirror",
       "phonetic": "/ˈmɪrə/",
       "meaning": "镜像盘",
-      "example": "Please test the mirror on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个镜像盘。",
+      "example": "The mirror still has a full copy, so the array survived the loss of disk two.",
+      "exampleZh": "镜像盘上还有完整副本，所以丢了二号盘阵列也撑住了。",
       "category": "it"
     },
     {
       "word": "parity",
       "phonetic": "/ˈpærəti/",
       "meaning": "校验",
-      "example": "Please test the parity on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个校验。",
+      "example": "Parity on this set can rebuild one missing disk, but not two at once.",
+      "exampleZh": "这组盘的校验能重建一块丢失的盘，不能同时重建两块。",
       "category": "it"
     },
     {
       "word": "RAID 1",
       "phonetic": "/reɪd wʌn/",
       "meaning": "镜像阵列（Redundant Array of Independent Disks）",
-      "example": "Please test the RAID 1 on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个镜像阵列。",
+      "example": "RAID 1 keeps a second copy of the database logs on the paired disk.",
+      "exampleZh": "镜像阵列在配对盘上留着数据库日志的第二份。",
       "category": "it"
     },
     {
       "word": "RAID 5",
       "phonetic": "/reɪd faɪv/",
       "meaning": "校验阵列（Redundant Array of Independent Disks）",
-      "example": "We will verify the RAID 5 after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个校验阵列。",
+      "example": "RAID 5 on the file server can lose one disk and still serve the ward shares.",
+      "exampleZh": "文件服务器上的校验阵列可以坏一块盘，病区共享仍然能用。",
       "category": "it"
     }
   ]

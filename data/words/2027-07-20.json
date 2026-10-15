@@ -5,80 +5,80 @@
       "word": "pool staff",
       "phonetic": "/puːl stɑːf/",
       "meaning": "机动库人员",
-      "example": "The pool staff still needs a decision today.",
-      "exampleZh": "这个机动库人员今天还得拍个板。",
+      "example": "Pool staff can come in when two clerks call in sick together.",
+      "exampleZh": "有两名文员同时请病假时，可以叫机动库人员来。",
       "category": "office"
     },
     {
       "word": "surge staff",
       "phonetic": "/sɜːdʒ stɑːf/",
       "meaning": "应急增援人员",
-      "example": "Please add the surge staff to today’s notes.",
-      "exampleZh": "请把应急增援人员写进今天的记录。",
+      "example": "Surge staff will join registration if the morning queue doubles.",
+      "exampleZh": "如果早晨的队伍翻倍，应急增援人员就会加入挂号处。",
       "category": "office"
     },
     {
       "word": "overtime roster",
       "phonetic": "/ˈəʊvətaɪm ˈrɒstə/",
       "meaning": "加班排班",
-      "example": "Who will own the overtime roster this week?",
-      "exampleZh": "这周这个加班排班谁来负责？",
+      "example": "The overtime roster for the holiday week is on the staff board.",
+      "exampleZh": "假期那一周的加班排班贴在员工公告栏上。",
       "category": "office"
     },
     {
       "word": "swap shift",
       "phonetic": "/swɒp ʃɪft/",
       "meaning": "换班",
-      "example": "Can you swap shift with night duty?",
-      "exampleZh": "你能和夜班换班吗？",
+      "example": "May I swap shift with you so I can go to the wedding?",
+      "exampleZh": "我能和你换班吗？我想去参加婚礼。",
       "category": "office"
     },
     {
       "word": "cover shift",
       "phonetic": "/ˈkʌvə ʃɪft/",
       "meaning": "顶班",
-      "example": "Who can cover shift on Saturday?",
-      "exampleZh": "周六谁能顶班？",
+      "example": "Can you cover shift for me on Thursday evening?",
+      "exampleZh": "周四晚上你能帮我顶班吗？",
       "category": "office"
     },
     {
       "word": "hot swap",
       "phonetic": "/hɒt swɒp/",
       "meaning": "热插拔",
-      "example": "I logged the hot swap in today’s change ticket.",
-      "exampleZh": "我把这个热插拔记进了今天的变更单。",
+      "example": "Hot swap let us replace disk four while the imaging array kept serving studies.",
+      "exampleZh": "靠热插拔，我们在影像阵列继续提供检查的同时换掉了四号盘。",
       "category": "it"
     },
     {
       "word": "caddy",
       "phonetic": "/ˈkædi/",
       "meaning": "硬盘托架",
-      "example": "The vendor asked for a screenshot of the caddy.",
-      "exampleZh": "厂商要一张这个硬盘托架的截图。",
+      "example": "Seat the replacement disk in the caddy before you slide it into bay four.",
+      "exampleZh": "先把替换盘固定进硬盘托架，再推进四号盘位。",
       "category": "it"
     },
     {
       "word": "backplane",
       "phonetic": "/ˈbækpleɪn/",
       "meaning": "硬盘背板",
-      "example": "I logged the backplane in today’s change ticket.",
-      "exampleZh": "我把这个硬盘背板记进了今天的变更单。",
+      "example": "Two bays on the backplane stopped seeing disks after we reseated the cable.",
+      "exampleZh": "线重新插过之后，硬盘背板上有两个盘位不再认盘。",
       "category": "it"
     },
     {
       "word": "RAID controller",
       "phonetic": "/reɪd kənˈtrəʊlə/",
       "meaning": "阵列卡（Redundant Array of Independent Disks）",
-      "example": "Do not touch the RAID controller during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个阵列卡。",
+      "example": "The RAID controller battery is dead, so the array fell back to write-through.",
+      "exampleZh": "阵列卡的电池没电了，阵列退回到直写。",
       "category": "it"
     },
     {
       "word": "battery backup unit",
       "phonetic": "/ˈbætri ˈbækʌp ˈjuːnɪt/",
       "meaning": "阵列电池",
-      "example": "The ward asked us to check the battery backup unit.",
-      "exampleZh": "病区让我们看一下这个阵列电池。",
+      "example": "Replace the battery backup unit so the array can turn write-back on again.",
+      "exampleZh": "把阵列电池换掉，阵列才能重新打开回写。",
       "category": "it"
     }
   ]

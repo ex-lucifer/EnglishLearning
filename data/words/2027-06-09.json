@@ -5,80 +5,80 @@
       "word": "room booking",
       "phonetic": "/ruːm ˈbʊkɪŋ/",
       "meaning": "会议室预订",
-      "example": "I put the room booking on the shared drive.",
-      "exampleZh": "我把会议室预订放到了共享盘。",
+      "example": "Finance made the room booking for the three o'clock discussion.",
+      "exampleZh": "三点那场讨论的会议室预订是财务做的。",
       "category": "office"
     },
     {
       "word": "room conflict",
       "phonetic": "/ruːm ˈkɒnflɪkt/",
       "meaning": "会议室冲突",
-      "example": "We talked about the room conflict with the department head.",
-      "exampleZh": "我们和科主任谈了这个会议室冲突。",
+      "example": "We have a room conflict at two o'clock between HR and payroll.",
+      "exampleZh": "两点钟，人力资源和薪酬处有会议室冲突。",
       "category": "office"
     },
     {
       "word": "double booking",
       "phonetic": "/ˈdʌbl ˈbʊkɪŋ/",
       "meaning": "重复预订",
-      "example": "We talked about the double booking with the department head.",
-      "exampleZh": "我们和科主任谈了这个重复预订。",
+      "example": "That double booking left both teams standing outside one door.",
+      "exampleZh": "那次重复预订让两个团队都站在同一扇门外。",
       "category": "office"
     },
     {
       "word": "no-show meeting",
       "phonetic": "/nəʊ ʃəʊ ˈmiːtɪŋ/",
       "meaning": "无人到会",
-      "example": "I put the no-show meeting on the shared drive.",
-      "exampleZh": "我把无人到会放到了共享盘。",
+      "example": "Yesterday's no-show meeting took the only free room all afternoon.",
+      "exampleZh": "昨天那场无人到会，把下午唯一的空房间占掉了。",
       "category": "office"
     },
     {
       "word": "empty room",
       "phonetic": "/ˈempti ruːm/",
       "meaning": "空会议室",
-      "example": "Could you send the empty room to the project group?",
-      "exampleZh": "你能把空会议室发到项目群吗？",
+      "example": "The empty room on the third floor stays free until four o'clock.",
+      "exampleZh": "三楼那间空会议室一直空到四点。",
       "category": "office"
     },
     {
       "word": "WUAgent",
       "phonetic": "/ˈdʌbljuː juː ˈeɪdʒənt/",
       "meaning": "更新代理",
-      "example": "We will verify the WUAgent after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个更新代理。",
+      "example": "WUAgent on the clinic image is pointed at our update server, not the public one.",
+      "exampleZh": "门诊镜像里的更新代理指向我们自己的更新服务器，不是公网那台。",
       "category": "it"
     },
     {
       "word": "WSUS",
       "phonetic": "/ˈwɪsəs/",
       "meaning": "补丁分发服务器（Windows Server Update Services）",
-      "example": "Do not restart WSUS (Windows Server Update Services) during morning rounds.",
-      "exampleZh": "早交班时段不要重启 WSUS（Windows Server Update Services）。",
+      "example": "WSUS (Windows Server Update Services) approved the May rollup for the clinic PCs only.",
+      "exampleZh": "WSUS（补丁分发服务器）只给门诊电脑批准了五月的累积包。",
       "category": "it"
     },
     {
       "word": "catalog file",
       "phonetic": "/ˈkætəlɒɡ faɪl/",
       "meaning": "目录文件",
-      "example": "I logged the catalog file in today’s change ticket.",
-      "exampleZh": "我把这个目录文件记进了今天的变更单。",
+      "example": "The catalog file for this offline patch did not match the package we downloaded.",
+      "exampleZh": "这个离线补丁的目录文件和我们下到的安装包对不上。",
       "category": "it"
     },
     {
       "word": "offline patch",
       "phonetic": "/ˈɒflaɪn pætʃ/",
       "meaning": "离线补丁",
-      "example": "I logged the offline patch in today’s change ticket.",
-      "exampleZh": "我把这个离线补丁记进了今天的变更单。",
+      "example": "Use the offline patch on the isolated lab host that cannot reach the update server.",
+      "exampleZh": "那台连不上更新服务器的隔离检验主机，用离线补丁来打。",
       "category": "it"
     },
     {
       "word": "online update",
       "phonetic": "/ˈɒnlaɪn ˌʌpˈdeɪt/",
       "meaning": "在线更新",
-      "example": "Who is on call for the online update this week?",
-      "exampleZh": "这周这个在线更新谁值班？",
+      "example": "An online update on the guest network pulled a driver the clinic image does not want.",
+      "exampleZh": "访客网络上的一次在线更新拉来了门诊镜像不想要的驱动。",
       "category": "it"
     }
   ]

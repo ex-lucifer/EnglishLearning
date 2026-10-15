@@ -5,80 +5,80 @@
       "word": "floor walker",
       "phonetic": "/flɔː ˈwɔːkə/",
       "meaning": "现场巡视员",
-      "example": "I put the floor walker on the shared drive.",
-      "exampleZh": "我把现场巡视员放到了共享盘。",
+      "example": "One floor walker will remain in the lobby through the morning.",
+      "exampleZh": "整个上午都会有一名现场巡视员留在大厅。",
       "category": "office"
     },
     {
       "word": "super user",
       "phonetic": "/ˈsuːpə ˈjuːzə/",
       "meaning": "业务骨干用户",
-      "example": "Could you send the super user to the project group?",
-      "exampleZh": "你能把业务骨干用户发到项目群吗？",
+      "example": "Each clinic has named a super user for the new scheduling tool.",
+      "exampleZh": "每个门诊都为新的排班工具指定了一名业务骨干用户。",
       "category": "office"
     },
     {
       "word": "champion",
       "phonetic": "/ˈtʃæmpiən/",
       "meaning": "推广骨干",
-      "example": "Please add the champion to today’s notes.",
-      "exampleZh": "请把推广骨干写进今天的记录。",
+      "example": "The night shift needs a champion who can explain the new form.",
+      "exampleZh": "夜班需要一位能把新表格讲清楚的推广骨干。",
       "category": "office"
     },
     {
       "word": "change agent",
       "phonetic": "/tʃeɪndʒ ˈeɪdʒənt/",
       "meaning": "变革推动者",
-      "example": "Could you send the change agent to the project group?",
-      "exampleZh": "你能把变革推动者发到项目群吗？",
+      "example": "Our change agent will explain the new sign-in steps in every clinic.",
+      "exampleZh": "我们的变革推动者会到每个门诊讲解新的签到步骤。",
       "category": "office"
     },
     {
       "word": "sponsor update",
       "phonetic": "/ˈspɒnsə ˌʌpdeɪt/",
       "meaning": "发起人通报",
-      "example": "We talked about the sponsor update with the department head.",
-      "exampleZh": "我们和科主任谈了这个发起人通报。",
+      "example": "The sponsor update comes first, right after everyone has sat down.",
+      "exampleZh": "大家落座之后，首先是发起人通报。",
       "category": "office"
     },
     {
       "word": "smart-card logon",
       "phonetic": "/smɑːt kɑːd ˈlɒɡɒn/",
       "meaning": "智能卡登录",
-      "example": "Do not touch the smart-card logon during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个智能卡登录。",
+      "example": "Smart-card logon failed at the pharmacy window because the reader cable was loose.",
+      "exampleZh": "药房窗口的智能卡登录失败了，读卡器的线是松的。",
       "category": "it"
     },
     {
       "word": "failed logon",
       "phonetic": "/feɪld ˈlɒɡɒn/",
       "meaning": "登录失败",
-      "example": "The vendor asked for a screenshot of the failed logon.",
-      "exampleZh": "厂商要一张这个登录失败的截图。",
+      "example": "A burst of failed logon events hit the pharmacy account just after midnight.",
+      "exampleZh": "刚过午夜，药房账号上涌来一批登录失败事件。",
       "category": "it"
     },
     {
       "word": "lockout policy",
       "phonetic": "/ˈlɒkaʊt ˈpɒləsi/",
       "meaning": "锁定策略",
-      "example": "I logged the lockout policy in today’s change ticket.",
-      "exampleZh": "我把这个锁定策略记进了今天的变更单。",
+      "example": "The lockout policy trips after five bad passwords, which is why her account locked.",
+      "exampleZh": "锁定策略在五次错误密码后触发，所以她的账号被锁了。",
       "category": "it"
     },
     {
       "word": "account disabled",
       "phonetic": "/əˈkaʊnt dɪsˈeɪbld/",
       "meaning": "账号已禁用",
-      "example": "Do not touch the account disabled during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个账号已禁用。",
+      "example": "We found her account disabled after she transferred out of the ward.",
+      "exampleZh": "她调离病区之后，我们发现账号已禁用。",
       "category": "it"
     },
     {
       "word": "account enabled",
       "phonetic": "/əˈkaʊnt ɪˈneɪbld/",
       "meaning": "账号已启用",
-      "example": "The vendor asked for a screenshot of the account enabled.",
-      "exampleZh": "厂商要一张这个账号已启用的截图。",
+      "example": "We set account enabled again, and he can log on in the clinic.",
+      "exampleZh": "我们又把账号设成已启用，他在门诊可以登录了。",
       "category": "it"
     }
   ]

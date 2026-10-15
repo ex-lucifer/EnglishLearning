@@ -5,8 +5,8 @@
       "word": "core hours",
       "phonetic": "/kɔː kˈaʊəz/",
       "meaning": "核心工时",
-      "example": "We talked about the core hours with the department head.",
-      "exampleZh": "我们和科主任谈了这个核心工时。",
+      "example": "During core hours, the information desk must be staffed.",
+      "exampleZh": "核心工时内，问询台必须有人。",
       "category": "office"
     },
     {
@@ -29,56 +29,56 @@
       "word": "overtime pay",
       "phonetic": "/ˈəʊvətaɪm peɪ/",
       "meaning": "加班费",
-      "example": "Could you send the overtime pay to the project group?",
-      "exampleZh": "你能把加班费发到项目群吗？",
+      "example": "Overtime pay for a public holiday is higher than for a normal Sunday.",
+      "exampleZh": "公共假期的加班费高于普通周日。",
       "category": "office"
     },
     {
       "word": "meal break",
       "phonetic": "/miːl breɪk/",
       "meaning": "用餐休息",
-      "example": "Could you send the meal break to the project group?",
-      "exampleZh": "你能把用餐休息发到项目群吗？",
+      "example": "Take your meal break before the afternoon clinics become busy.",
+      "exampleZh": "请在下午门诊忙起来之前，先去用餐休息。",
       "category": "office"
     },
     {
       "word": "REST API",
       "phonetic": "/rest ˌeɪ piː ˈaɪ/",
       "meaning": "REST接口",
-      "example": "The vendor asked for a screenshot of the REST API.",
-      "exampleZh": "厂商要一张这个REST接口的截图。",
+      "example": "The REST API for bed status returned an empty list at shift change.",
+      "exampleZh": "交接班时，床位状态的REST接口返回了一个空列表。",
       "category": "it"
     },
     {
       "word": "webhook",
       "phonetic": "/ˈwebhʊk/",
       "meaning": "回调接口",
-      "example": "The ward asked us to check the webhook.",
-      "exampleZh": "病区让我们看一下这个回调接口。",
+      "example": "The webhook told pharmacy the order was signed, then sent the same notice again.",
+      "exampleZh": "回调接口通知药房医嘱已签名，然后又把同一条通知发了一遍。",
       "category": "it"
     },
     {
       "word": "endpoint",
       "phonetic": "/ˈendpɔɪnt/",
       "meaning": "接口地址",
-      "example": "The ward asked us to check the endpoint.",
-      "exampleZh": "病区让我们看一下这个接口地址。",
+      "example": "The endpoint for critical results moved, and our caller still uses the old path.",
+      "exampleZh": "危急值的接口地址已经换了，我们的调用端还在走旧路径。",
       "category": "it"
     },
     {
       "word": "HTTP status",
       "phonetic": "/ˌeɪtʃ tiː tiː ˈpiː ˈsteɪtəs/",
       "meaning": "网页状态码（Hypertext Transfer Protocol）",
-      "example": "The ward asked us to check the HTTP status.",
-      "exampleZh": "病区让我们看一下这个网页状态码。",
+      "example": "HTTP status 503 came back from the appointment site for ten minutes.",
+      "exampleZh": "预约网站连续十分钟返回网页状态码503。",
       "category": "it"
     },
     {
       "word": "timeout error",
       "phonetic": "/ˈtaɪmaʊt ˈerə/",
       "meaning": "超时错误",
-      "example": "The vendor asked for a screenshot of the timeout error.",
-      "exampleZh": "厂商要一张这个超时错误的截图。",
+      "example": "A timeout error stopped the discharge summary from saving.",
+      "exampleZh": "超时错误让出院小结没有保存成功。",
       "category": "it"
     }
   ]

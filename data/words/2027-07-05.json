@@ -5,80 +5,80 @@
       "word": "bereavement leave",
       "phonetic": "/bɪˈriːvmənt liːv/",
       "meaning": "丧假",
-      "example": "Please bring the bereavement leave to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个丧假。",
+      "example": "Bereavement leave has been approved for three working days.",
+      "exampleZh": "丧假已经批准，一共三个工作日。",
       "category": "office"
     },
     {
       "word": "maternity leave",
       "phonetic": "/məˈtɜːnəti liːv/",
       "meaning": "产假",
-      "example": "Could you send the maternity leave to the project group?",
-      "exampleZh": "你能把产假发到项目群吗？",
+      "example": "Her maternity leave begins two weeks before the due date.",
+      "exampleZh": "她的产假从预产期前两周开始。",
       "category": "office"
     },
     {
       "word": "paternity leave",
       "phonetic": "/pəˈtɜːnəti liːv/",
       "meaning": "陪产假",
-      "example": "We talked about the paternity leave with the department head.",
-      "exampleZh": "我们和科主任谈了这个陪产假。",
+      "example": "He plans to take paternity leave during the week the baby arrives.",
+      "exampleZh": "他计划在宝宝出生的那一周休陪产假。",
       "category": "office"
     },
     {
       "word": "parental leave",
       "phonetic": "/pəˈrentl liːv/",
       "meaning": "育儿假",
-      "example": "Please add the parental leave to today’s notes.",
-      "exampleZh": "请把育儿假写进今天的记录。",
+      "example": "Parental leave may be taken in blocks during the baby's first year.",
+      "exampleZh": "育儿假可以在宝宝出生后的第一年里分段休。",
       "category": "office"
     },
     {
       "word": "unpaid leave",
       "phonetic": "/ˌʌnˈpeɪd liːv/",
       "meaning": "无薪假",
-      "example": "Please add the unpaid leave to today’s notes.",
-      "exampleZh": "请把无薪假写进今天的记录。",
+      "example": "Unpaid leave has to be approved by the director in writing.",
+      "exampleZh": "无薪假必须经过主任的书面批准。",
       "category": "office"
     },
     {
       "word": "pre-boot",
       "phonetic": "/priː buːt/",
       "meaning": "开机前验证",
-      "example": "Please test the pre-boot on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个开机前验证。",
+      "example": "Pre-boot asks for the PIN before Windows loads, so a stolen laptop stays sealed.",
+      "exampleZh": "开机前验证会在 Windows 加载前索要密码，偷走的笔记本因此打不开盘。",
       "category": "it"
     },
     {
       "word": "BitLocker PIN",
       "phonetic": "/ˈbɪtlɒkə pɪn/",
       "meaning": "磁盘开机密码",
-      "example": "I logged the BitLocker PIN in today’s change ticket.",
-      "exampleZh": "我把这个磁盘开机密码记进了今天的变更单。",
+      "example": "She forgot the BitLocker PIN, so the laptop stopped at the pre-boot screen.",
+      "exampleZh": "她忘了磁盘开机密码，笔记本停在开机前的界面上。",
       "category": "it"
     },
     {
       "word": "startup key",
       "phonetic": "/ˈstɑːtʌp kiː/",
       "meaning": "启动密钥",
-      "example": "The ward asked us to check the startup key.",
-      "exampleZh": "病区让我们看一下这个启动密钥。",
+      "example": "The startup key lives on a USB stick that must be plugged in before this kiosk boots.",
+      "exampleZh": "启动密钥在一个 U 盘上，这台查询机开机前必须插着它。",
       "category": "it"
     },
     {
       "word": "USB key",
       "phonetic": "/ˌjuː es ˈbiː kiː/",
       "meaning": "U盘密钥",
-      "example": "The vendor asked for a screenshot of the USB key.",
-      "exampleZh": "厂商要一张这个U盘密钥的截图。",
+      "example": "This kiosk will not pass pre-boot unless the USB key is plugged into the front port.",
+      "exampleZh": "U 盘密钥不插在前面的口上，这台查询机就过不了开机前验证。",
       "category": "it"
     },
     {
       "word": "network unlock",
       "phonetic": "/ˈnetwɜːk ʌnˈlɒk/",
       "meaning": "网络解锁",
-      "example": "Do not touch the network unlock during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个网络解锁。",
+      "example": "Network unlock let the desktop boot without a PIN because it could see the key server.",
+      "exampleZh": "这台台式机能看到密钥服务器，网络解锁让它不用密码就启动了。",
       "category": "it"
     }
   ]

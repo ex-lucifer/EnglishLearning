@@ -5,80 +5,80 @@
       "word": "shift allowance",
       "phonetic": "/ʃɪft əˈlaʊəns/",
       "meaning": "班次津贴",
-      "example": "Could you send the shift allowance to the project group?",
-      "exampleZh": "你能把班次津贴发到项目群吗？",
+      "example": "The shift allowance goes up on Sundays and public holidays.",
+      "exampleZh": "星期日和法定假日的班次津贴会高一些。",
       "category": "office"
     },
     {
       "word": "night differential",
       "phonetic": "/naɪt ˌdɪfəˈrenʃl/",
       "meaning": "夜班补贴",
-      "example": "I put the night differential on the shared drive.",
-      "exampleZh": "我把夜班补贴放到了共享盘。",
+      "example": "Night differential covers work done from ten at night until six.",
+      "exampleZh": "夜班补贴覆盖晚上十点到早上六点的工作。",
       "category": "office"
     },
     {
       "word": "on-call pay",
       "phonetic": "/ɒn kɔːl peɪ/",
       "meaning": "值班津贴",
-      "example": "We talked about the on-call pay with the department head.",
-      "exampleZh": "我们和科主任谈了这个值班津贴。",
+      "example": "On-call pay shows as its own line on the March pay slip.",
+      "exampleZh": "值班津贴在三月的工资单上单独列一行。",
       "category": "office"
     },
     {
       "word": "meal voucher",
       "phonetic": "/miːl ˈvaʊtʃə/",
       "meaning": "餐券",
-      "example": "I put the meal voucher on the shared drive.",
-      "exampleZh": "我把餐券放到了共享盘。",
+      "example": "Each full training day comes with one meal voucher for the canteen.",
+      "exampleZh": "每个完整的培训日都配一张食堂餐券。",
       "category": "office"
     },
     {
       "word": "transport allowance",
       "phonetic": "/ˈtrænspɔːt əˈlaʊəns/",
       "meaning": "交通补贴",
-      "example": "The transport allowance still needs a decision today.",
-      "exampleZh": "这个交通补贴今天还得拍个板。",
+      "example": "The transport allowance does not pay for taxi rides home.",
+      "exampleZh": "交通补贴不报销坐出租车回家的费用。",
       "category": "office"
     },
     {
       "word": "secure boot",
       "phonetic": "/sɪˈkjʊə buːt/",
       "meaning": "安全启动",
-      "example": "The vendor asked for a screenshot of the secure boot.",
-      "exampleZh": "厂商要一张这个安全启动的截图。",
+      "example": "Secure boot stopped the host because the bootloader signature did not match.",
+      "exampleZh": "安全启动拦住了这台主机，因为引导程序签名对不上。",
       "category": "it"
     },
     {
       "word": "measured boot",
       "phonetic": "/ˈmeʒəd buːt/",
       "meaning": "度量启动",
-      "example": "We will verify the measured boot after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个度量启动。",
+      "example": "Measured boot recorded a firmware change, and the host asked for the recovery key.",
+      "exampleZh": "度量启动记录到固件变了，主机于是索要恢复密钥。",
       "category": "it"
     },
     {
       "word": "TPM",
       "phonetic": "/ˌtiː piː ˈem/",
       "meaning": "可信平台模块（Trusted Platform Module）",
-      "example": "Do not move the TPM (Trusted Platform Module) during outpatient hours.",
-      "exampleZh": "门诊时段不要挪动 TPM（Trusted Platform Module）。",
+      "example": "The TPM (Trusted Platform Module) on this laptop failed, so disk unlock now asks for the key.",
+      "exampleZh": "这台笔记本的 TPM（可信平台模块）坏了，磁盘解锁现在会要密钥。",
       "category": "it"
     },
     {
       "word": "PCR",
       "phonetic": "/ˌpiː siː ˈɑː/",
       "meaning": "平台配置寄存器（Platform Configuration Register）",
-      "example": "Replace the PCR (Platform Configuration Register) after hours.",
-      "exampleZh": "下班后再更换 PCR（Platform Configuration Register）。",
+      "example": "A firmware change moved PCR (Platform Configuration Register) 7, so the PIN no longer matches.",
+      "exampleZh": "固件一改，PCR（平台配置寄存器）7 变了，开机密码就对不上。",
       "category": "it"
     },
     {
       "word": "BitLocker recovery",
       "phonetic": "/ˈbɪtlɒkə rɪˈkʌvəri/",
       "meaning": "磁盘恢复密钥",
-      "example": "Please test the BitLocker recovery on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个磁盘恢复密钥。",
+      "example": "She is locked out and needs the BitLocker recovery key from the escrow console.",
+      "exampleZh": "她进不了系统，得从密钥托管控制台拿磁盘恢复密钥。",
       "category": "it"
     }
   ]

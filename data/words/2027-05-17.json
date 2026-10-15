@@ -5,80 +5,80 @@
       "word": "KPI review",
       "phonetic": "/ˌkeɪ piː ˈaɪ rɪˈvjuː/",
       "meaning": "指标回顾（Key Performance Indicator）",
-      "example": "The KPI review still needs a decision today.",
-      "exampleZh": "这个指标回顾今天还得拍个板。",
+      "example": "Thursday's staff meeting opens with the KPI review.",
+      "exampleZh": "周四的员工会从指标回顾开始。",
       "category": "office"
     },
     {
       "word": "RAG status",
       "phonetic": "/ræɡ ˈsteɪtəs/",
       "meaning": "红黄绿状态",
-      "example": "We talked about the RAG status with the department head.",
-      "exampleZh": "我们和科主任谈了这个红黄绿状态。",
+      "example": "Training's RAG status went yellow after two classes were postponed.",
+      "exampleZh": "两门课推迟之后，培训的红黄绿状态变成了黄色。",
       "category": "office"
     },
     {
       "word": "amber",
       "phonetic": "/ˈæmbə/",
       "meaning": "黄色预警",
-      "example": "We talked about the amber with the department head.",
-      "exampleZh": "我们和科主任谈了这个黄色预警。",
+      "example": "Training moved to amber once two classes had to be postponed.",
+      "exampleZh": "有两门课不得不推迟之后，培训进入了黄色预警。",
       "category": "office"
     },
     {
       "word": "red status",
       "phonetic": "/red ˈsteɪtəs/",
       "meaning": "红色状态",
-      "example": "We talked about the red status with the department head.",
-      "exampleZh": "我们和科主任谈了这个红色状态。",
+      "example": "Registration went to red status when the calling screen stopped.",
+      "exampleZh": "叫号屏一停，挂号就进入了红色状态。",
       "category": "office"
     },
     {
       "word": "green status",
       "phonetic": "/ɡriːn ˈsteɪtəs/",
       "meaning": "绿色正常",
-      "example": "The green status still needs a decision today.",
-      "exampleZh": "这个绿色正常今天还得拍个板。",
+      "example": "Payroll moved back to green status once the salary file went through.",
+      "exampleZh": "工资文件一通过，薪酬就回到了绿色正常。",
       "category": "office"
     },
     {
       "word": "kernel panic",
       "phonetic": "/ˈkɜːnl ˈpænɪk/",
       "meaning": "内核崩溃",
-      "example": "The vendor asked for a screenshot of the kernel panic.",
-      "exampleZh": "厂商要一张这个内核崩溃的截图。",
+      "example": "A kernel panic on the imaging host froze every viewer session in that rack.",
+      "exampleZh": "影像主机内核崩溃，那个机柜里的阅片会话全部冻住了。",
       "category": "it"
     },
     {
       "word": "oops",
       "phonetic": "/uːps/",
       "meaning": "内核异常",
-      "example": "We will verify the oops after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个内核异常。",
+      "example": "The kernel wrote an oops to the log just before the archive host hung.",
+      "exampleZh": "归档主机卡死之前，内核刚在日志里写了一条内核异常。",
       "category": "it"
     },
     {
       "word": "watchdog",
       "phonetic": "/ˈwɒtʃdɒɡ/",
       "meaning": "看门狗",
-      "example": "We will verify the watchdog after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个看门狗。",
+      "example": "The watchdog rebooted the archive host after the kernel stopped answering.",
+      "exampleZh": "内核不再响应之后，看门狗重启了归档主机。",
       "category": "it"
     },
     {
       "word": "kdump",
       "phonetic": "/ˈkeɪdʌmp/",
       "meaning": "内核转储",
-      "example": "We will verify the kdump after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个内核转储。",
+      "example": "Last night kdump captured the crash from the imaging host, so we can see why it panicked.",
+      "exampleZh": "昨晚的内核转储存下了影像主机的崩溃现场，我们才看得出它为什么崩溃。",
       "category": "it"
     },
     {
       "word": "core pattern",
       "phonetic": "/kɔː ˈpætn/",
       "meaning": "转储路径",
-      "example": "We will verify the core pattern after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个转储路径。",
+      "example": "The core pattern points crash dumps at /var/crash, and that disk is almost full.",
+      "exampleZh": "转储路径指向 /var/crash，那块盘快满了。",
       "category": "it"
     }
   ]

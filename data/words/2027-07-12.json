@@ -5,80 +5,80 @@
       "word": "buddy assignment",
       "phonetic": "/ˈbʌdi əˈsaɪnmənt/",
       "meaning": "带教安排",
-      "example": "Could you send the buddy assignment to the project group?",
-      "exampleZh": "你能把带教安排发到项目群吗？",
+      "example": "The buddy assignment matches every new clerk with a senior colleague.",
+      "exampleZh": "带教安排会给每位新文员配一名资深同事。",
       "category": "office"
     },
     {
       "word": "desk assignment",
       "phonetic": "/desk əˈsaɪnmənt/",
       "meaning": "工位安排",
-      "example": "Could you send the desk assignment to the project group?",
-      "exampleZh": "你能把工位安排发到项目群吗？",
+      "example": "The desk assignment places the new clerk next to her supervisor.",
+      "exampleZh": "工位安排把新文员放在她主管的旁边。",
       "category": "office"
     },
     {
       "word": "phone extension",
       "phonetic": "/fəʊn ɪkˈstenʃn/",
       "meaning": "电话分机",
-      "example": "I put the phone extension on the shared drive.",
-      "exampleZh": "我把电话分机放到了共享盘。",
+      "example": "Her new phone extension should be working on Monday morning.",
+      "exampleZh": "她的新电话分机周一早上应该就能用了。",
       "category": "office"
     },
     {
       "word": "email account",
       "phonetic": "/ˈiːmeɪl əˈkaʊnt/",
       "meaning": "邮箱账号",
-      "example": "Please add the email account to today’s notes.",
-      "exampleZh": "请把邮箱账号写进今天的记录。",
+      "example": "The email account exists, but nobody has set the password yet.",
+      "exampleZh": "邮箱账号已经建好了，但密码还没有人设置。",
       "category": "office"
     },
     {
       "word": "system access",
       "phonetic": "/ˈsɪstəm ˈækses/",
       "meaning": "系统权限",
-      "example": "We talked about the system access with the department head.",
-      "exampleZh": "我们和科主任谈了这个系统权限。",
+      "example": "System access to the roster tool is still with the security team.",
+      "exampleZh": "排班工具的系统权限还在安全组那边。",
       "category": "office"
     },
     {
       "word": "disk wipe",
       "phonetic": "/dɪsk waɪp/",
       "meaning": "磁盘擦除",
-      "example": "I logged the disk wipe in today’s change ticket.",
-      "exampleZh": "我把这个磁盘擦除记进了今天的变更单。",
+      "example": "The disk wipe on that retired array finished overnight and the drives are ready to leave.",
+      "exampleZh": "那套退役阵列的磁盘擦除夜里做完了，硬盘可以拿走了。",
       "category": "it"
     },
     {
       "word": "degauss",
       "phonetic": "/diːˈɡaʊs/",
       "meaning": "消磁",
-      "example": "Degauss the failed disk before it leaves the computer room.",
-      "exampleZh": "坏盘出机房前请先消磁。",
+      "example": "Degauss the old backup tapes before they leave the records room.",
+      "exampleZh": "旧备份磁带离开病案室之前，先消磁。",
       "category": "it"
     },
     {
       "word": "physical destruction",
       "phonetic": "/ˈfɪzɪkl dɪˈstrʌkʃn/",
       "meaning": "物理销毁",
-      "example": "The ward asked us to check the physical destruction.",
-      "exampleZh": "病区让我们看一下这个物理销毁。",
+      "example": "Physical destruction is required for drives that failed a wipe and still spin up.",
+      "exampleZh": "擦除失败但还能转起来的硬盘，必须做物理销毁。",
       "category": "it"
     },
     {
       "word": "media sanitization",
       "phonetic": "/ˈmiːdiə ˌsænɪtaɪˈzeɪʃn/",
       "meaning": "介质净化",
-      "example": "The ward asked us to check the media sanitization.",
-      "exampleZh": "病区让我们看一下这个介质净化。",
+      "example": "Media sanitization for the retired array has to finish before the vendor takes the disks.",
+      "exampleZh": "厂商把盘拿走之前，退役阵列的介质净化必须做完。",
       "category": "it"
     },
     {
       "word": "NIST wipe",
       "phonetic": "/nɪst waɪp/",
       "meaning": "标准擦除",
-      "example": "The ward asked us to check the NIST wipe.",
-      "exampleZh": "病区让我们看一下这个标准擦除。",
+      "example": "Use a NIST wipe on drives that will be reused inside the hospital.",
+      "exampleZh": "医院内部还要继续用的硬盘，按标准擦除来做。",
       "category": "it"
     }
   ]

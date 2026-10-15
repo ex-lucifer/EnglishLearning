@@ -5,80 +5,80 @@
       "word": "board round",
       "phonetic": "/bɔːd raʊnd/",
       "meaning": "看板交班",
-      "example": "The board round still needs a decision today.",
-      "exampleZh": "这个看板交班今天还得拍个板。",
+      "example": "At the board round we decide who can go home today.",
+      "exampleZh": "看板交班时我们决定今天谁可以回家。",
       "category": "office"
     },
     {
       "word": "bed meeting",
       "phonetic": "/bed ˈmiːtɪŋ/",
       "meaning": "床位会",
-      "example": "Who will own the bed meeting this week?",
-      "exampleZh": "这周这个床位会谁来负责？",
+      "example": "The bed meeting wants discharge predictions, not just the census.",
+      "exampleZh": "床位会要的是预计出院情况，不只是在院人数。",
       "category": "office"
     },
     {
       "word": "ops meeting",
       "phonetic": "/ɒps ˈmiːtɪŋ/",
       "meaning": "运营会",
-      "example": "I put the ops meeting on the shared drive.",
-      "exampleZh": "我把运营会放到了共享盘。",
+      "example": "The ops meeting this week will focus on the registration queue.",
+      "exampleZh": "这周的运营会重点看挂号排队。",
       "category": "office"
     },
     {
       "word": "quality meeting",
       "phonetic": "/ˈkwɒləti ˈmiːtɪŋ/",
       "meaning": "质量会",
-      "example": "We talked about the quality meeting with the department head.",
-      "exampleZh": "我们和科主任谈了这个质量会。",
+      "example": "The quality meeting asked each ward for one lesson learned.",
+      "exampleZh": "质量会要求每个病区交一条经验教训。",
       "category": "office"
     },
     {
       "word": "safety huddle",
       "phonetic": "/ˈseɪfti ˈhʌdl/",
       "meaning": "安全短会",
-      "example": "Could you send the safety huddle to the project group?",
-      "exampleZh": "你能把安全短会发到项目群吗？",
+      "example": "Yesterday's safety huddle covered a missing patient label.",
+      "exampleZh": "昨天的安全短会谈了一例患者标签缺失。",
       "category": "office"
     },
     {
       "word": "fingerprint",
       "phonetic": "/ˈfɪŋɡəprɪnt/",
       "meaning": "指纹",
-      "example": "Do not touch the fingerprint during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个指纹。",
+      "example": "The fingerprint reader on the pharmacy cabinet rejects wet fingers.",
+      "exampleZh": "药房柜子上的指纹读取器不认湿的手指。",
       "category": "it"
     },
     {
       "word": "face ID",
       "phonetic": "/feɪs aɪ ˈdiː/",
       "meaning": "人脸识别",
-      "example": "Who is on call for the face ID this week?",
-      "exampleZh": "这周这个人脸识别谁值班？",
+      "example": "Face ID at the drug room fails when the nurse wears a surgical cap.",
+      "exampleZh": "护士戴着手术帽时，药品间的人脸识别会失败。",
       "category": "it"
     },
     {
       "word": "single sign-on",
       "phonetic": "/ˈsɪŋɡl saɪn ɒn/",
       "meaning": "单点登录",
-      "example": "The vendor asked for a screenshot of the single sign-on.",
-      "exampleZh": "厂商要一张这个单点登录的截图。",
+      "example": "Single sign-on failed, so the ward typed passwords into four separate systems.",
+      "exampleZh": "单点登录失败之后，病区只好在四个系统里分别输入密码。",
       "category": "it"
     },
     {
       "word": "password vault",
       "phonetic": "/ˈpɑːswɜːd vɔːlt/",
       "meaning": "密码保险箱",
-      "example": "Do not touch the password vault during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个密码保险箱。",
+      "example": "The password vault has no entry yet for the new lab analyzer.",
+      "exampleZh": "密码保险箱里还没有这台新检验分析仪的条目。",
       "category": "it"
     },
     {
       "word": "privileged account",
       "phonetic": "/ˈprɪvəlɪdʒd əˈkaʊnt/",
       "meaning": "特权账号",
-      "example": "I logged the privileged account in today’s change ticket.",
-      "exampleZh": "我把这个特权账号记进了今天的变更单。",
+      "example": "The privileged account for database changes was used at two in the morning.",
+      "exampleZh": "用来改数据库的特权账号在凌晨两点被使用了。",
       "category": "it"
     }
   ]

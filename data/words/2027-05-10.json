@@ -29,56 +29,56 @@
       "word": "end of day",
       "phonetic": "/end əv deɪ/",
       "meaning": "当天结束前",
-      "example": "We talked about the end of day with the department head.",
-      "exampleZh": "我们和科主任谈了这个当天结束前。",
+      "example": "Bring the meeting-room keys back by end of day, please.",
+      "exampleZh": "请在当天结束前把会议室钥匙还回来。",
       "category": "office"
     },
     {
       "word": "start of day",
       "phonetic": "/stɑːt əv deɪ/",
       "meaning": "当天开始时",
-      "example": "Please add the start of day to today’s notes.",
-      "exampleZh": "请把当天开始时写进今天的记录。",
+      "example": "At the start of day, make sure every counter has coins for change.",
+      "exampleZh": "当天开始时，请确认每个柜台都备有零钱。",
       "category": "office"
     },
     {
       "word": "control plane",
       "phonetic": "/kənˈtrəʊl pleɪn/",
       "meaning": "控制平面",
-      "example": "We will verify the control plane after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个控制平面。",
+      "example": "The control plane is healthy again, and new pods are scheduling normally.",
+      "exampleZh": "控制平面已经恢复，新容器组正在正常调度。",
       "category": "it"
     },
     {
       "word": "worker node",
       "phonetic": "/ˈwɜːkə nəʊd/",
       "meaning": "工作节点",
-      "example": "Please test the worker node on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个工作节点。",
+      "example": "That worker node ran out of disk, so image pulls for the lab pods failed.",
+      "exampleZh": "那台工作节点磁盘满了，检验容器组拉取镜像因此失败。",
       "category": "it"
     },
     {
       "word": "etcd",
       "phonetic": "/ˈetsidiː/",
       "meaning": "集群键值库",
-      "example": "We will verify the etcd after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个集群键值库。",
+      "example": "We restored etcd from the 02:00 snapshot after the control plane disk filled.",
+      "exampleZh": "控制平面的磁盘写满之后，我们用凌晨两点的快照恢复了集群键值库。",
       "category": "it"
     },
     {
       "word": "scheduler",
       "phonetic": "/ˈʃedjuːlə/",
       "meaning": "调度器",
-      "example": "We will verify the scheduler after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个调度器。",
+      "example": "The scheduler kept placing both database pods on one worker until we set a rule.",
+      "exampleZh": "在我们加规则之前，调度器一直把两个数据库容器组放在同一台工作节点上。",
       "category": "it"
     },
     {
       "word": "kubelet",
       "phonetic": "/ˈkjuːbəlet/",
       "meaning": "节点代理",
-      "example": "The vendor asked for a screenshot of the kubelet.",
-      "exampleZh": "厂商要一张这个节点代理的截图。",
+      "example": "The kubelet on worker six stopped reporting, and that node went NotReady.",
+      "exampleZh": "六号工作节点上的节点代理停止上报后，该节点变成了 NotReady。",
       "category": "it"
     }
   ]

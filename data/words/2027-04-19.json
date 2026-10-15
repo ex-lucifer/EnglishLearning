@@ -29,56 +29,56 @@
       "word": "any other business",
       "phonetic": "/ˈeni ˈʌðə ˈbɪznəs/",
       "meaning": "其他事项",
-      "example": "Please bring the any other business to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个其他事项。",
+      "example": "Hold any other business until every listed item has been handled.",
+      "exampleZh": "请把其他事项留到所列事项都处理完之后。",
       "category": "office"
     },
     {
       "word": "AOB",
       "phonetic": "/ˌeɪ əʊ ˈbiː/",
       "meaning": "其他事项（Any Other Business）",
-      "example": "Any AOB (any other business) before we adjourn?",
-      "exampleZh": "休会前还有 AOB（其他事项）吗？",
+      "example": "Before we adjourn, is there any AOB (Any Other Business)?",
+      "exampleZh": "散会之前，还有其他事项吗？",
       "category": "office"
     },
     {
       "word": "hash",
       "phonetic": "/hæʃ/",
       "meaning": "哈希",
-      "example": "Do not touch the hash during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个哈希。",
+      "example": "Check the hash on the vendor installer before it goes on any clinic PC.",
+      "exampleZh": "厂商安装包装到任何门诊电脑之前，先核对哈希。",
       "category": "it"
     },
     {
       "word": "encryption key",
       "phonetic": "/ɪnˈkrɪpʃn kiː/",
       "meaning": "加密密钥",
-      "example": "I logged the encryption key in today’s change ticket.",
-      "exampleZh": "我把这个加密密钥记进了今天的变更单。",
+      "example": "The encryption key for the archive left with the old admin and nobody else has it.",
+      "exampleZh": "归档的加密密钥跟着老管理员走了，别人手里都没有。",
       "category": "it"
     },
     {
       "word": "public key",
       "phonetic": "/ˈpʌblɪk kiː/",
       "meaning": "公钥",
-      "example": "The vendor asked for a screenshot of the public key.",
-      "exampleZh": "厂商要一张这个公钥的截图。",
+      "example": "Publish the public key for the results mailbox so partner labs can encrypt files.",
+      "exampleZh": "把结果邮箱的公钥公布出去，合作检验所才能加密文件。",
       "category": "it"
     },
     {
       "word": "private key",
       "phonetic": "/ˈpraɪvət kiː/",
       "meaning": "私钥",
-      "example": "Who is on call for the private key this week?",
-      "exampleZh": "这周这个私钥谁值班？",
+      "example": "The private key for the portal certificate never leaves the application server.",
+      "exampleZh": "门户证书的私钥不能离开应用服务器。",
       "category": "it"
     },
     {
       "word": "certificate chain",
       "phonetic": "/səˈtɪfɪkət tʃeɪn/",
       "meaning": "证书链",
-      "example": "We will verify the certificate chain after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个证书链。",
+      "example": "The certificate chain is missing the intermediate, so browsers warn on the portal.",
+      "exampleZh": "证书链缺了中间证书，浏览器会在门户上报警。",
       "category": "it"
     }
   ]

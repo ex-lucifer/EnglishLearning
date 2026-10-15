@@ -45,40 +45,40 @@
       "word": "scavenging",
       "phonetic": "/ˈskævɪndʒɪŋ/",
       "meaning": "过期记录清理",
-      "example": "Do not touch the scavenging during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个过期记录清理。",
+      "example": "Scavenging removed stale address records from the ward DNS zone last night.",
+      "exampleZh": "过期记录清理昨晚从病区 DNS 区域删掉了过时的地址记录。",
       "category": "it"
     },
     {
       "word": "aging",
       "phonetic": "/ˈeɪdʒɪŋ/",
       "meaning": "记录老化",
-      "example": "The ward asked us to check the aging.",
-      "exampleZh": "病区让我们看一下这个记录老化。",
+      "example": "Aging marks old host records so they can be removed later.",
+      "exampleZh": "记录老化会标出旧的主机记录，方便以后删除。",
       "category": "it"
     },
     {
       "word": "dynamic update",
       "phonetic": "/daɪˈnæmɪk ˌʌpˈdeɪt/",
       "meaning": "动态更新",
-      "example": "The vendor asked for a screenshot of the dynamic update.",
-      "exampleZh": "厂商要一张这个动态更新的截图。",
+      "example": "A dynamic update registered the new clinic computer in DNS this morning.",
+      "exampleZh": "今天早上，一次动态更新把新的门诊电脑登记进了 DNS。",
       "category": "it"
     },
     {
       "word": "secure update",
       "phonetic": "/sɪˈkjʊə ˌʌpˈdeɪt/",
       "meaning": "安全更新",
-      "example": "Do not touch the secure update during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个安全更新。",
+      "example": "A secure update requires the computer to prove its domain identity first.",
+      "exampleZh": "安全更新要求电脑先证明自己的域身份。",
       "category": "it"
     },
     {
       "word": "zone transfer",
       "phonetic": "/zəʊn ˈtrænsfɜː/",
       "meaning": "区域传送",
-      "example": "Do not touch the zone transfer during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个区域传送。",
+      "example": "The zone transfer failed when the secondary server rejected the request.",
+      "exampleZh": "辅助服务器拒绝了请求，区域传送因此失败。",
       "category": "it"
     }
   ]

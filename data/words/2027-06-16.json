@@ -5,80 +5,80 @@
       "word": "sign-in sheet",
       "phonetic": "/saɪn ɪn ʃiːt/",
       "meaning": "签到单",
-      "example": "We talked about the sign-in sheet with the department head.",
-      "exampleZh": "我们和科主任谈了这个签到单。",
+      "example": "Ask visitors to sign the sign-in sheet before you hand over a badge.",
+      "exampleZh": "把工牌交给访客之前，请让他们先在签到单上签名。",
       "category": "office"
     },
     {
       "word": "welcome pack",
       "phonetic": "/ˈwelkəm pæk/",
       "meaning": "欢迎材料",
-      "example": "The welcome pack still needs a decision today.",
-      "exampleZh": "这个欢迎材料今天还得拍个板。",
+      "example": "Each welcome pack holds a map, a visitor badge, and the agenda.",
+      "exampleZh": "每份欢迎材料里都有地图、访客工牌和议程。",
       "category": "office"
     },
     {
       "word": "water station",
       "phonetic": "/ˈwɔːtə ˈsteɪʃn/",
       "meaning": "饮水处",
-      "example": "We talked about the water station with the department head.",
-      "exampleZh": "我们和科主任谈了这个饮水处。",
+      "example": "The water station sits at the back of the large meeting room.",
+      "exampleZh": "饮水处在大会议室的后部。",
       "category": "office"
     },
     {
       "word": "breakout",
       "phonetic": "/ˈbreɪkaʊt/",
       "meaning": "分组讨论",
-      "example": "Please bring the breakout to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个分组讨论。",
+      "example": "After the main session we move into a breakout for each department.",
+      "exampleZh": "主会结束之后，我们按部门进行分组讨论。",
       "category": "office"
     },
     {
       "word": "plenary",
       "phonetic": "/ˈpliːnəri/",
       "meaning": "全体会议",
-      "example": "The plenary still needs a decision today.",
-      "exampleZh": "这个全体会议今天还得拍个板。",
+      "example": "The plenary begins at nine sharp in the main auditorium.",
+      "exampleZh": "全体会议九点整在大礼堂开始。",
       "category": "office"
     },
     {
       "word": "subscription",
       "phonetic": "/səbˈskrɪpʃn/",
       "meaning": "订阅",
-      "example": "We will verify the subscription after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个订阅。",
+      "example": "This subscription collects only failed logons, not every process start on the ward.",
+      "exampleZh": "这个订阅只收登录失败，不收病区上每一次进程启动。",
       "category": "it"
     },
     {
       "word": "query filter",
       "phonetic": "/ˈkwɪəri ˈfɪltə/",
       "meaning": "查询过滤",
-      "example": "Please test the query filter on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个查询过滤。",
+      "example": "Tighten the query filter or the collector will drown in process-start events.",
+      "exampleZh": "把查询过滤收紧，不然事件收集器会被进程启动事件淹没。",
       "category": "it"
     },
     {
       "word": "xpath",
       "phonetic": "/ˈekspæθ/",
       "meaning": "路径查询",
-      "example": "We will verify the xpath after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个路径查询。",
+      "example": "The xpath in this subscription keeps failed logons and drops the rest.",
+      "exampleZh": "这个订阅里的路径查询只留下登录失败，其余都丢掉。",
       "category": "it"
     },
     {
       "word": "event ID",
       "phonetic": "/ɪˈvent aɪ ˈdiː/",
       "meaning": "事件编号",
-      "example": "We will verify the event ID after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个事件编号。",
+      "example": "Filter on event ID 4625 if you want only the failed logons from last night.",
+      "exampleZh": "如果只要昨晚的登录失败，就按事件编号 4625 过滤。",
       "category": "it"
     },
     {
       "word": "logon type",
       "phonetic": "/ˈlɒɡɒn taɪp/",
       "meaning": "登录类型",
-      "example": "The vendor asked for a screenshot of the logon type.",
-      "exampleZh": "厂商要一张这个登录类型的截图。",
+      "example": "Logon type 3 on those events means a network logon, not someone at the keyboard.",
+      "exampleZh": "那些事件里的登录类型 3 是网络登录，不是有人坐在键盘前。",
       "category": "it"
     }
   ]

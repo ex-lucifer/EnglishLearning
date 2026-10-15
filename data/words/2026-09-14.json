@@ -5,80 +5,80 @@
       "word": "agenda",
       "phonetic": "/əˈdʒendə/",
       "meaning": "议程",
-      "example": "Who will own the agenda this week?",
-      "exampleZh": "这周这个议程谁来负责？",
+      "example": "The agenda starts with discharges and ends with staffing gaps.",
+      "exampleZh": "议程先谈出院，最后谈人手缺口。",
       "category": "office"
     },
     {
       "word": "follow-up",
       "phonetic": "/ˈfɒləʊ ʌp/",
       "meaning": "跟进",
-      "example": "Could you send the follow-up to the project group?",
-      "exampleZh": "你能把跟进发到项目群吗？",
+      "example": "The follow-up with that family is booked for Friday morning.",
+      "exampleZh": "和那户家属的跟进约在周五上午。",
       "category": "office"
     },
     {
       "word": "handover",
       "phonetic": "/ˈhændəʊvə/",
       "meaning": "交接",
-      "example": "Could you send the handover to the project group?",
-      "exampleZh": "你能把交接发到项目群吗？",
+      "example": "A clear handover saves the night team from guessing what changed.",
+      "exampleZh": "交接写清楚，夜班就不用猜白天发生了什么。",
       "category": "office"
     },
     {
       "word": "deadline",
       "phonetic": "/ˈdedlaɪn/",
       "meaning": "截止日期",
-      "example": "The deadline still needs a decision today.",
-      "exampleZh": "这个截止日期今天还得拍个板。",
+      "example": "The deadline for comments on the policy is Thursday at noon.",
+      "exampleZh": "对这份制度提意见的截止日期是周四中午。",
       "category": "office"
     },
     {
       "word": "briefing",
       "phonetic": "/ˈbriːfɪŋ/",
       "meaning": "简报",
-      "example": "The briefing still needs a decision today.",
-      "exampleZh": "这个简报今天还得拍个板。",
+      "example": "The briefing for new clerks covers badges, phones, and confidentiality.",
+      "exampleZh": "新文员的简报会讲工牌、电话和保密要求。",
       "category": "office"
     },
     {
       "word": "deploy",
       "phonetic": "/dɪˈplɔɪ/",
       "meaning": "部署",
-      "example": "We will deploy the patch after the outpatient clinic closes.",
-      "exampleZh": "门诊结束后我们再部署这个补丁。",
+      "example": "We deploy the pharmacy update after the evening clinic closes.",
+      "exampleZh": "晚间门诊结束后，我们再部署药房更新。",
       "category": "it"
     },
     {
       "word": "outage",
       "phonetic": "/ˈaʊtɪdʒ/",
       "meaning": "停机中断",
-      "example": "Do not touch the outage during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个停机中断。",
+      "example": "The pharmacy outage stopped dispensing for almost forty minutes.",
+      "exampleZh": "药房这次停机中断让发药停了将近四十分钟。",
       "category": "it"
     },
     {
       "word": "EMR",
       "phonetic": "/ˌiː em ˈɑː/",
       "meaning": "电子病历（Electronic Medical Record）",
-      "example": "The ward called because EMR (Electronic Medical Record) would not open.",
-      "exampleZh": "病区来电，说 EMR（Electronic Medical Record）打不开。",
+      "example": "EMR (Electronic Medical Record) lost the afternoon notes from ward five.",
+      "exampleZh": "EMR（电子病历）丢了五病区下午的病程记录。",
       "category": "it"
     },
     {
       "word": "rollback",
       "phonetic": "/ˈrəʊlbæk/",
       "meaning": "回滚",
-      "example": "We will verify the rollback after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个回滚。",
+      "example": "The rollback brought yesterday's order screen back for the nurses.",
+      "exampleZh": "这次回滚把昨天的医嘱界面还给了护士。",
       "category": "it"
     },
     {
       "word": "ticket",
       "phonetic": "/ˈtɪkɪt/",
       "meaning": "工单",
-      "example": "The ward asked us to check the ticket.",
-      "exampleZh": "病区让我们看一下这个工单。",
+      "example": "Please open a ticket before you change the lab printer.",
+      "exampleZh": "改检验科打印机之前，请先开一张工单。",
       "category": "it"
     }
   ]

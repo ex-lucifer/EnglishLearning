@@ -5,80 +5,80 @@
       "word": "minutes taker",
       "phonetic": "/ˈmɪnɪts ˈteɪkə/",
       "meaning": "纪要记录人",
-      "example": "Please bring the minutes taker to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个纪要记录人。",
+      "example": "Thursday's committee meeting still has no minutes taker.",
+      "exampleZh": "周四的委员会会议还没有纪要记录人。",
       "category": "office"
     },
     {
       "word": "chair's notes",
       "phonetic": "/tʃeəz nəʊts/",
       "meaning": "主持备忘",
-      "example": "The chair's notes still needs a decision today.",
-      "exampleZh": "这个主持备忘今天还得拍个板。",
+      "example": "Yesterday's three decisions are all listed in the chair's notes.",
+      "exampleZh": "昨天的三项决定都记在主持备忘里。",
       "category": "office"
     },
     {
       "word": "quorum call",
       "phonetic": "/ˈkwɔːrəm kɔːl/",
       "meaning": "人数确认",
-      "example": "I put the quorum call on the shared drive.",
-      "exampleZh": "我把人数确认放到了共享盘。",
+      "example": "The quorum call confirmed that we were short by one member.",
+      "exampleZh": "人数确认的结果是，我们还少一名成员。",
       "category": "office"
     },
     {
       "word": "roll call",
       "phonetic": "/rəʊl kɔːl/",
       "meaning": "点名",
-      "example": "I put the roll call on the shared drive.",
-      "exampleZh": "我把点名放到了共享盘。",
+      "example": "Begin with a roll call so the minutes show exactly who was here.",
+      "exampleZh": "请先点名，这样纪要才能准确记下谁在场。",
       "category": "office"
     },
     {
       "word": "apology for absence",
       "phonetic": "/əˈpɒlədʒi fər ˈæbsəns/",
       "meaning": "缺席致歉",
-      "example": "Please bring the apology for absence to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个缺席致歉。",
+      "example": "Her apology for absence reached us a few minutes before we began.",
+      "exampleZh": "她的缺席致歉在我们开始前几分钟才送到。",
       "category": "office"
     },
     {
       "word": "password manager",
       "phonetic": "/ˈpɑːswɜːd ˈmænɪdʒə/",
       "meaning": "密码管理器",
-      "example": "Do not touch the password manager during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个密码管理器。",
+      "example": "The password manager holds the firewall admin secret so we stop sharing it in chat.",
+      "exampleZh": "防火墙管理员密钥放在密码管理器里，我们就不用再在聊天里传。",
       "category": "it"
     },
     {
       "word": "shared password",
       "phonetic": "/ʃeəd ˈpɑːswɜːd/",
       "meaning": "共享密码",
-      "example": "Who is on call for the shared password this week?",
-      "exampleZh": "这周这个共享密码谁值班？",
+      "example": "The shared password on the clinic kiosk was posted on a sticky note.",
+      "exampleZh": "门诊查询机的共享密码被写在便签上贴了出来。",
       "category": "it"
     },
     {
       "word": "default password",
       "phonetic": "/dɪˈfɔːlt ˈpɑːswɜːd/",
       "meaning": "默认密码",
-      "example": "The ward asked us to check the default password.",
-      "exampleZh": "病区让我们看一下这个默认密码。",
+      "example": "Change the default password on that new switch before it joins the clinic network.",
+      "exampleZh": "那台新交换机接入门诊网之前，先把默认密码改掉。",
       "category": "it"
     },
     {
       "word": "hard-coded password",
       "phonetic": "/hɑːd kəʊdɪd ˈpɑːswɜːd/",
       "meaning": "写死的密码",
-      "example": "Do not touch the hard-coded password during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个写死的密码。",
+      "example": "A hard-coded password in the lab script survived three staff changes.",
+      "exampleZh": "检验脚本里写死的密码熬过了三次人员变动。",
       "category": "it"
     },
     {
       "word": "secrets in code",
       "phonetic": "/ˈsiːkrɪts ɪn kəʊd/",
       "meaning": "代码中的密钥",
-      "example": "The vendor asked for a screenshot of the secrets in code.",
-      "exampleZh": "厂商要一张这个代码中的密钥的截图。",
+      "example": "Secrets in code showed up in the lab interface repo during yesterday's review.",
+      "exampleZh": "昨天审查代码时，在检验接口仓库里看到了代码中的密钥。",
       "category": "it"
     }
   ]

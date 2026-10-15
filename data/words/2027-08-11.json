@@ -45,40 +45,40 @@
       "word": "failover order",
       "phonetic": "/ˈfeɪləʊvə ˈɔːdə/",
       "meaning": "故障切换顺序",
-      "example": "Please test the failover order on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个故障切换顺序。",
+      "example": "The failover order uses the 10-gig port first and the 1-gig port only as backup.",
+      "exampleZh": "故障切换顺序先用万兆口，千兆口只作备用。",
       "category": "it"
     },
     {
       "word": "beacon probing",
       "phonetic": "/ˈbiːkən ˈprəʊbɪŋ/",
       "meaning": "信标探测",
-      "example": "Who is on call for the beacon probing this week?",
-      "exampleZh": "这周这个信标探测谁值班？",
+      "example": "Beacon probing marked the uplink failed even though the switch port still showed link.",
+      "exampleZh": "交换机口还显示链路是通的，信标探测却把上联标成了故障。",
       "category": "it"
     },
     {
       "word": "network isolation",
       "phonetic": "/ˈnetwɜːk ˌaɪsəˈleɪʃn/",
       "meaning": "网络隔离",
-      "example": "I logged the network isolation in today’s change ticket.",
-      "exampleZh": "我把这个网络隔离记进了今天的变更单。",
+      "example": "Network isolation put the infected registration PC on a VLAN with no routes out.",
+      "exampleZh": "网络隔离把那台中招的挂号电脑放进了一个出不去的 VLAN。",
       "category": "it"
     },
     {
       "word": "microsegmentation",
       "phonetic": "/ˈmaɪkrəʊˌseɡmənˈteɪʃn/",
       "meaning": "微分段",
-      "example": "The ward asked us to check the microsegmentation.",
-      "exampleZh": "病区让我们看一下这个微分段。",
+      "example": "Microsegmentation stops the pharmacy VLAN from talking to the imaging archive directly.",
+      "exampleZh": "微分段不让药房 VLAN 直接和影像归档通信。",
       "category": "it"
     },
     {
       "word": "distributed firewall",
       "phonetic": "/dɪˈstrɪbjuːtɪd ˈfaɪəwɔːl/",
       "meaning": "分布式防火墙",
-      "example": "The ward asked us to check the distributed firewall.",
-      "exampleZh": "病区让我们看一下这个分布式防火墙。",
+      "example": "The distributed firewall drops lab traffic that tries to reach the medical-record subnet.",
+      "exampleZh": "分布式防火墙会丢掉试图进入病历子网的检验流量。",
       "category": "it"
     }
   ]

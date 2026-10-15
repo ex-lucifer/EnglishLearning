@@ -5,80 +5,80 @@
       "word": "training roster",
       "phonetic": "/ˈtreɪnɪŋ ˈrɒstə/",
       "meaning": "培训名单",
-      "example": "Please add the training roster to today’s notes.",
-      "exampleZh": "请把培训名单写进今天的记录。",
+      "example": "Does Thursday's training roster include the people on night shift?",
+      "exampleZh": "周四的培训名单里有夜班人员吗？",
       "category": "office"
     },
     {
       "word": "attendance sheet",
       "phonetic": "/əˈtendəns ʃiːt/",
       "meaning": "签到表",
-      "example": "Please add the attendance sheet to today’s notes.",
-      "exampleZh": "请把签到表写进今天的记录。",
+      "example": "Send the attendance sheet around the table before training begins.",
+      "exampleZh": "培训开始前，请把签到表在桌上传递一圈。",
       "category": "office"
     },
     {
       "word": "feedback form",
       "phonetic": "/ˈfiːdbæk fɔːm/",
       "meaning": "反馈表",
-      "example": "We talked about the feedback form with the department head.",
-      "exampleZh": "我们和科主任谈了这个反馈表。",
+      "example": "After class, put a feedback form on the seat of every chair.",
+      "exampleZh": "下课之后，请在每张椅子上放一份反馈表。",
       "category": "office"
     },
     {
       "word": "satisfaction survey",
       "phonetic": "/ˌsætɪsˈfækʃn ˈsɜːveɪ/",
       "meaning": "满意度调查",
-      "example": "Please bring the satisfaction survey to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个满意度调查。",
+      "example": "Remember that the satisfaction survey closes at five on Friday.",
+      "exampleZh": "请记住，满意度调查在周五五点截止。",
       "category": "office"
     },
     {
       "word": "pulse survey",
       "phonetic": "/pʌls ˈsɜːveɪ/",
       "meaning": "快问快答调查",
-      "example": "Could you send the pulse survey to the project group?",
-      "exampleZh": "你能把快问快答调查发到项目群吗？",
+      "example": "This pulse survey only asks the front desk three short questions.",
+      "exampleZh": "这次快问快答调查只向前台提三个简短问题。",
       "category": "office"
     },
     {
       "word": "security group",
       "phonetic": "/sɪˈkjʊərəti ɡruːp/",
       "meaning": "安全组",
-      "example": "I logged the security group in today’s change ticket.",
-      "exampleZh": "我把这个安全组记进了今天的变更单。",
+      "example": "Add her to the security group that can open the pharmacy share.",
+      "exampleZh": "把她加进能打开药房共享的那个安全组。",
       "category": "it"
     },
     {
       "word": "distribution group",
       "phonetic": "/ˌdɪstrɪˈbjuːʃn ɡruːp/",
       "meaning": "通讯组",
-      "example": "Do not touch the distribution group during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个通讯组。",
+      "example": "Mail to the distribution group for charge nurses never reached the night shift.",
+      "exampleZh": "发给责任护士通讯组的邮件没有送到夜班。",
       "category": "it"
     },
     {
       "word": "nested group",
       "phonetic": "/ˈnestɪd ɡruːp/",
       "meaning": "嵌套组",
-      "example": "Do not touch the nested group during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个嵌套组。",
+      "example": "A nested group hid her access, so the pharmacy share denied her this morning.",
+      "exampleZh": "嵌套组把她的权限藏住了，今天早上药房共享拒绝了她。",
       "category": "it"
     },
     {
       "word": "group membership",
       "phonetic": "/ɡruːp ˈmembəʃɪp/",
       "meaning": "组成员关系",
-      "example": "Who is on call for the group membership this week?",
-      "exampleZh": "这周这个组成员关系谁值班？",
+      "example": "Her group membership changed at noon, but the old token lasts until she signs in again.",
+      "exampleZh": "她的组成员关系中午改了，但旧令牌要等她重新登录才失效。",
       "category": "it"
     },
     {
       "word": "sid",
       "phonetic": "/sɪd/",
       "meaning": "安全标识",
-      "example": "The vendor asked for a screenshot of the sid.",
-      "exampleZh": "厂商要一张这个安全标识的截图。",
+      "example": "The sid on this cloned PC matches another machine, so domain join fails.",
+      "exampleZh": "这台克隆电脑的安全标识和另一台机器重复，加域因此失败。",
       "category": "it"
     }
   ]

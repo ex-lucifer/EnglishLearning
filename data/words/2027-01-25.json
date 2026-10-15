@@ -5,80 +5,80 @@
       "word": "cost center",
       "phonetic": "/kɒst ˈsentə/",
       "meaning": "成本中心",
-      "example": "Please add the cost center to today’s notes.",
-      "exampleZh": "请把成本中心写进今天的记录。",
+      "example": "Taxi vouchers should be charged to the administration cost center.",
+      "exampleZh": "出租车凭证应记到行政成本中心。",
       "category": "office"
     },
     {
       "word": "purchase order",
       "phonetic": "/ˈpɜːtʃəs ˈɔːdə/",
       "meaning": "采购订单",
-      "example": "Please add the purchase order to today’s notes.",
-      "exampleZh": "请把采购订单写进今天的记录。",
+      "example": "No delivery will start without a purchase order from procurement.",
+      "exampleZh": "没有采购部门的采购订单，送货不会开始。",
       "category": "office"
     },
     {
       "word": "requisition",
       "phonetic": "/ˌrekwɪˈzɪʃn/",
       "meaning": "请购单",
-      "example": "Please add the requisition to today’s notes.",
-      "exampleZh": "请把请购单写进今天的记录。",
+      "example": "I raised a requisition for thirty visitor passes this morning.",
+      "exampleZh": "我今天早上开了三十张访客证的请购单。",
       "category": "office"
     },
     {
       "word": "quote",
       "phonetic": "/kwəʊt/",
       "meaning": "询价报价",
-      "example": "Please add the quote to today’s notes.",
-      "exampleZh": "请把询价报价写进今天的记录。",
+      "example": "Could you chase the quote for the replacement lockers?",
+      "exampleZh": "你能去追一下更换储物柜的询价报价吗？",
       "category": "office"
     },
     {
       "word": "lead time",
       "phonetic": "/liːd taɪm/",
       "meaning": "供货周期",
-      "example": "Please add the lead time to today’s notes.",
-      "exampleZh": "请把供货周期写进今天的记录。",
+      "example": "Ask the vendor what the lead time is for printed letterhead.",
+      "exampleZh": "问问供应商，印公文抬头纸的供货周期是多久。",
       "category": "office"
     },
     {
       "word": "stack trace",
       "phonetic": "/stæk treɪs/",
       "meaning": "堆栈跟踪",
-      "example": "Please test the stack trace on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个堆栈跟踪。",
+      "example": "The stack trace names the dose calculator inside the failed order save.",
+      "exampleZh": "堆栈跟踪指出，医嘱保存失败出在剂量计算那一段。",
       "category": "it"
     },
     {
       "word": "debug mode",
       "phonetic": "/diːˈbʌɡ məʊd/",
       "meaning": "调试模式",
-      "example": "The ward asked us to check the debug mode.",
-      "exampleZh": "病区让我们看一下这个调试模式。",
+      "example": "Leave debug mode off on the ward PCs once you finish tracing.",
+      "exampleZh": "跟踪结束之后，把病区电脑上的调试模式关掉。",
       "category": "it"
     },
     {
       "word": "verbose logging",
       "phonetic": "/vɜːˈbəʊs ˈlɒɡɪŋ/",
       "meaning": "详细日志",
-      "example": "Do not touch the verbose logging during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个详细日志。",
+      "example": "Verbose logging on the interface filled the disk before morning rounds.",
+      "exampleZh": "接口上的详细日志在早晨查房前把磁盘写满了。",
       "category": "it"
     },
     {
       "word": "log rotation",
       "phonetic": "/lɒɡ rəʊˈteɪʃn/",
       "meaning": "日志轮转",
-      "example": "Who is on call for the log rotation this week?",
-      "exampleZh": "这周这个日志轮转谁值班？",
+      "example": "Log rotation failed, and one file grew past twenty gigabytes.",
+      "exampleZh": "日志轮转失败了，单个文件涨过了二十吉字节。",
       "category": "it"
     },
     {
       "word": "log retention",
       "phonetic": "/lɒɡ rɪˈtenʃn/",
       "meaning": "日志保存",
-      "example": "Do not touch the log retention during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个日志保存。",
+      "example": "Log retention keeps audit records for three years on the archive server.",
+      "exampleZh": "日志保存要求审计记录在归档服务器上留存三年。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "mock survey",
       "phonetic": "/mɒk ˈsɜːveɪ/",
       "meaning": "模拟评审",
-      "example": "Please add the mock survey to today’s notes.",
-      "exampleZh": "请把模拟评审写进今天的记录。",
+      "example": "The mock survey will spend a morning on the surgical ward.",
+      "exampleZh": "模拟评审会在外科病区待一个上午。",
       "category": "office"
     },
     {
       "word": "scorecard",
       "phonetic": "/ˈskɔːkɑːd/",
       "meaning": "计分卡",
-      "example": "Could you send the scorecard to the project group?",
-      "exampleZh": "你能把计分卡发到项目群吗？",
+      "example": "Our scorecard improved after we shortened the registration queue.",
+      "exampleZh": "挂号排队缩短之后，计分卡有了改善。",
       "category": "office"
     },
     {
       "word": "dashboard review",
       "phonetic": "/ˈdæʃbɔːd rɪˈvjuː/",
       "meaning": "看板回顾",
-      "example": "Please bring the dashboard review to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个看板回顾。",
+      "example": "Monday's dashboard review will focus on waiting time.",
+      "exampleZh": "周一的看板回顾会聚焦等候时间。",
       "category": "office"
     },
     {
       "word": "target",
       "phonetic": "/ˈtɑːɡɪt/",
       "meaning": "目标",
-      "example": "Who will own the target this week?",
-      "exampleZh": "这周这个目标谁来负责？",
+      "example": "Our target for answering the main phone is three rings.",
+      "exampleZh": "总机电话的目标是三声之内接起。",
       "category": "office"
     },
     {
       "word": "baseline",
       "phonetic": "/ˈbeɪslaɪn/",
       "meaning": "基线",
-      "example": "Who will own the baseline this week?",
-      "exampleZh": "这周这个基线谁来负责？",
+      "example": "Use last January as the baseline when you describe waiting times.",
+      "exampleZh": "描述等候时间时，请用去年一月作为基线。",
       "category": "office"
     },
     {
       "word": "MTTR",
       "phonetic": "/ˌem tiː tiː ˈɑː/",
       "meaning": "平均修复时间（Mean Time To Repair）",
-      "example": "We missed the MTTR (Mean Time To Repair) last night.",
-      "exampleZh": "昨晚我们没达到 MTTR（Mean Time To Repair）。",
+      "example": "MTTR (Mean Time To Repair) for pharmacy outages improved after the new cluster.",
+      "exampleZh": "新集群上线之后，药房停机的MTTR（平均修复时间）有所改善。",
       "category": "it"
     },
     {
       "word": "MTBF",
       "phonetic": "/ˌem tiː biː ˈef/",
       "meaning": "平均无故障时间（Mean Time Between Failures）",
-      "example": "The change must meet the MTBF (Mean Time Between Failures).",
-      "exampleZh": "这次变更必须达到 MTBF（Mean Time Between Failures）。",
+      "example": "MTBF (Mean Time Between Failures) for these label printers is shorter than the vendor claimed.",
+      "exampleZh": "这些标签打印机的MTBF（平均无故障时间）比厂商声称的更短。",
       "category": "it"
     },
     {
       "word": "service availability",
       "phonetic": "/ˈsɜːvɪs əˌveɪləˈbɪləti/",
       "meaning": "服务可用性",
-      "example": "Do not touch the service availability during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个服务可用性。",
+      "example": "Service availability for orders stayed above target despite the noon spike.",
+      "exampleZh": "尽管午间有一波冲高，医嘱的服务可用性仍然高于目标。",
       "category": "it"
     },
     {
       "word": "error log",
       "phonetic": "/ˈerə lɒɡ/",
       "meaning": "错误日志",
-      "example": "The ward asked us to check the error log.",
-      "exampleZh": "病区让我们看一下这个错误日志。",
+      "example": "The error log shows the order service throwing empty values since midnight.",
+      "exampleZh": "错误日志显示，医嘱服务从午夜起就在抛出空值。",
       "category": "it"
     },
     {
       "word": "event log",
       "phonetic": "/ɪˈvent lɒɡ/",
       "meaning": "事件日志",
-      "example": "We will verify the event log after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个事件日志。",
+      "example": "The event log on this PC records a driver crash every few hours.",
+      "exampleZh": "这台电脑的事件日志每隔几个小时就记一次驱动程序崩溃。",
       "category": "it"
     }
   ]

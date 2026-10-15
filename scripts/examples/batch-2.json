@@ -1,0 +1,1942 @@
+{
+  "listen port": [
+    "The HIS listen port on the app server stopped answering after the patch.",
+    "补丁之后，应用服务器上的 HIS 监听端口不再应答了。"
+  ],
+  "open port": [
+    "An open port on the lab printer is accepting connections from the whole ward.",
+    "实验室那台打印机上有一个开放端口，整间病区都能连上去。"
+  ],
+  "closed port": [
+    "That closed port is why the pharmacy client cannot reach the billing host.",
+    "那个端口是关着的，所以药房客户端连不上收费主机。"
+  ],
+  "firewall rule": [
+    "This firewall rule lets only the clinic subnet reach the lab interface.",
+    "这条防火墙规则只允许门诊子网访问检验接口。"
+  ],
+  "NAT": [
+    "NAT (Network Address Translation) hides every ward PC behind one public address.",
+    "NAT（网络地址转换）把每台病区电脑都藏在同一个公网地址后面。"
+  ],
+  "port forward": [
+    "The port forward sends vendor support straight to the PACS admin host.",
+    "这条端口转发把厂商支持直接送到 PACS 管理主机。"
+  ],
+  "DMZ": [
+    "DMZ (Demilitarized Zone) holds the patient portal so the ward LAN stays separate.",
+    "DMZ（隔离区）放着患者门户，病区局域网因此和它隔开。"
+  ],
+  "intranet": [
+    "Staff open the intranet for policies, but patients never see that site.",
+    "员工上内网查制度，患者看不到那个站点。"
+  ],
+  "extranet": [
+    "The extranet lets partner labs upload results without entering our core network.",
+    "外联网让合作检验所上传结果，而不进入我们的核心网。"
+  ],
+  "internet breakout": [
+    "All clinic browsing leaves through the east internet breakout during office hours.",
+    "上班时间，门诊上网流量都从东侧上网出口出去。"
+  ],
+  "proxy bypass": [
+    "A proxy bypass for the local PACS viewer keeps images from loading slowly.",
+    "本地 PACS 阅片端绕过代理之后，图像才不会加载得很慢。"
+  ],
+  "PAC file": [
+    "The PAC file sends clinic browsers to the proxy and skips local servers.",
+    "这份代理自动配置把门诊浏览器送到代理，并跳过本地服务器。"
+  ],
+  "DNS cache": [
+    "The DNS cache on this PC still points HIS to the old address.",
+    "这台电脑的域名缓存还把 HIS 指到旧地址。"
+  ],
+  "flush DNS": [
+    "Flush DNS on the registration PC before you retry the new HIS name.",
+    "在挂号电脑上先刷新域名缓存，再试新的 HIS 名称。"
+  ],
+  "hosts file": [
+    "Someone put a stale lab address in the hosts file on that counter PC.",
+    "有人在那台窗口电脑的主机映射文件里写了一个过期的检验地址。"
+  ],
+  "CNAME": [
+    "The CNAME (Canonical Name) for mail follows the new records server name.",
+    "邮件的 CNAME（别名记录）跟着新病历服务器的名称走。"
+  ],
+  "A record": [
+    "Change the A record so the portal name points at the new web host.",
+    "改掉地址记录，让门户名称指向新的网站主机。"
+  ],
+  "MX record": [
+    "The MX record must point at the hospital mail gateway, not the old relay.",
+    "邮件交换记录必须指向医院邮件网关，不能指向旧中继。"
+  ],
+  "TTL": [
+    "Lower the TTL (Time To Live) before we rename the lab server tonight.",
+    "今晚给检验服务器改名之前，先把 TTL（生存时间）调低。"
+  ],
+  "DHCP reservation": [
+    "The DHCP reservation keeps this anesthesia PC on the same address.",
+    "这条地址保留让这台麻醉电脑一直用同一个地址。"
+  ],
+  "static IP": [
+    "Give the infusion pump gateway a static IP so nurses can always find it.",
+    "给输液泵网关一个静态地址，护士才总能找到它。"
+  ],
+  "dynamic IP": [
+    "A dynamic IP on the label printer changed, and pharmacy lost the queue.",
+    "标签打印机的动态地址变了，药房打印队列就断了。"
+  ],
+  "link down": [
+    "Link down on the clinic closet switch cut off six registration PCs.",
+    "门诊弱电间交换机链路断开，六台挂号电脑跟着断了。"
+  ],
+  "link up": [
+    "Link up came back at 06:10, and the ward phones registered again.",
+    "链路在 06:10 恢复，病区电话又重新注册上了。"
+  ],
+  "duplex mismatch": [
+    "A duplex mismatch on the radiology uplink is dropping large image transfers.",
+    "放射上联口双工不匹配，大图像传输正在丢包。"
+  ],
+  "speed mismatch": [
+    "Speed mismatch between the phone and the switch port made calls choppy.",
+    "电话和交换机端口速率不匹配，通话就变得断断续续。"
+  ],
+  "CRC error": [
+    "CRC error counters climbed on the fiber to building C after the storm.",
+    "暴风雨之后，通往 C 座那根光纤上的校验错误计数一直在涨。"
+  ],
+  "broadcast storm": [
+    "A broadcast storm in the lobby VLAN slowed badge readers to a crawl.",
+    "大厅 VLAN 里的广播风暴把门禁读卡器拖得几乎没反应。"
+  ],
+  "loop": [
+    "A loop between two ward switches flooded every port with broadcasts.",
+    "两台病区交换机之间的环路把每个端口都灌满了广播。"
+  ],
+  "spanning tree": [
+    "Spanning tree blocked the extra link and stopped the clinic loop.",
+    "生成树堵住了多余的那条链路，门诊的环路就停了。"
+  ],
+  "trunk": [
+    "The trunk to the emergency building carries voice, badge, and guest VLANs.",
+    "通往急诊楼的中继链路承载语音、门禁和访客 VLAN。"
+  ],
+  "access port": [
+    "Set this access port to the nurse-call VLAN before the phone goes live.",
+    "电话启用前，把这个接入端口划到护士呼叫 VLAN。"
+  ],
+  "uplink": [
+    "The uplink from clinic closet two is saturated during morning registration.",
+    "二号门诊弱电间的上联口在早高峰挂号时已经打满。"
+  ],
+  "core switch": [
+    "The core switch in room A feeds every building, so we reboot it only at night.",
+    "A 机房的核心交换机供着每栋楼，所以我们只在夜里重启它。"
+  ],
+  "distribution switch": [
+    "The distribution switch for the west wing lost one power supply at noon.",
+    "西楼的汇聚交换机中午掉了一块电源。"
+  ],
+  "access switch": [
+    "Replace the access switch in treatment room four; half its ports are dead.",
+    "换掉四号治疗室的接入交换机，它有一半端口已经不通了。"
+  ],
+  "stack": [
+    "The stack in pharmacy closet lost the master after a short power dip.",
+    "药房弱电间的交换机堆叠在短暂停电后丢了主设备。"
+  ],
+  "power supply": [
+    "One power supply in the core switch failed, and the spare is already online.",
+    "核心交换机有一块电源模块坏了，备用的已经在线。"
+  ],
+  "UPS": [
+    "The UPS (Uninterruptible Power Supply) kept the core running through the ten-minute outage.",
+    "UPS（不间断电源）让核心设备撑过了那十分钟停电。"
+  ],
+  "PDU": [
+    "PDU (Power Distribution Unit) B in rack twelve tripped and dropped two hosts.",
+    "十二号机柜的 PDU（电源分配单元）B 跳闸，两台主机掉电了。"
+  ],
+  "generator": [
+    "The generator took the data hall load eight seconds after utility power failed.",
+    "市电中断八秒后，发电机接上了机房负载。"
+  ],
+  "cooling": [
+    "Cooling in row C fell behind, and inlet temperatures passed the alarm line.",
+    "C 列的机房制冷跟不上，进风温度过了告警线。"
+  ],
+  "CRAC": [
+    "CRAC (Computer Room Air Conditioner) two is offline, so row B is running warm.",
+    "二号 CRAC（机房空调）停了，B 列现在偏热。"
+  ],
+  "raised floor": [
+    "Lift the raised floor tile carefully; the fiber tray sits just underneath.",
+    "掀架空地板的地板砖时慢一点，光纤桥架就在正下面。"
+  ],
+  "rack": [
+    "Leave the bottom of this rack empty so the new storage array fits.",
+    "这个机柜底部先空着，新存储阵列才放得下。"
+  ],
+  "U space": [
+    "This rack has only two U space left, and the new array needs four.",
+    "这个机柜只剩两个机柜高度单位，新阵列却需要四个。"
+  ],
+  "KVM": [
+    "Use the KVM (Keyboard Video Mouse) in rack six to reach the host with no network.",
+    "用六号机柜的 KVM（键盘视频鼠标切换）去连那台没有网络的主机。"
+  ],
+  "console cable": [
+    "Bring a console cable; the switch lost its address and SSH will not answer.",
+    "带一根控制台线，这台交换机地址丢了，SSH 不会有应答。"
+  ],
+  "serial console": [
+    "The serial console still answers when the management network is down.",
+    "管理网断了的时候，串口控制台仍然能连。"
+  ],
+  "IPMI": [
+    "IPMI (Intelligent Platform Management Interface) lets us power-cycle the host from the office.",
+    "IPMI（服务器底板管理）让我们在办公室就能给主机断电再开机。"
+  ],
+  "iLO": [
+    "The iLO (Integrated Lights-Out) address is printed on the bezel of this ProLiant.",
+    "这台 ProLiant 的面板上印着 iLO（远程管理口）地址。"
+  ],
+  "iDRAC": [
+    "iDRAC (Integrated Dell Remote Access Controller) shows a failed fan on the lab host.",
+    "iDRAC（远程管理卡）显示实验室主机有一个风扇故障。"
+  ],
+  "BMC": [
+    "The BMC (Baseboard Management Controller) hung, so the remote console froze too.",
+    "BMC（基板管理控制器）卡死了，远程控制台也跟着冻住。"
+  ],
+  "firmware update": [
+    "Schedule the firmware update for the storage array after radiology closes.",
+    "等放射科下班，再安排存储阵列的固件更新。"
+  ],
+  "BIOS update": [
+    "The BIOS update fixes the memory error we saw on three identical hosts.",
+    "这次主板固件更新修好了三台相同主机上的内存报错。"
+  ],
+  "driver pack": [
+    "Install the new driver pack before you join these clinic PCs to the domain.",
+    "这些门诊电脑加域之前，先装上新的驱动包。"
+  ],
+  "image": [
+    "Capture a fresh image from the reference PC after the viewer is licensed.",
+    "阅片软件授权好之后，从参考电脑抓一份新的系统镜像。"
+  ],
+  "golden image": [
+    "The golden image already includes the badge driver and the ward print queue.",
+    "标准镜像里已经带了门禁驱动和病区打印队列。"
+  ],
+  "PXE boot": [
+    "PXE boot failed in clinic B because the DHCP helper was on the wrong VLAN.",
+    "门诊 B 的网络启动失败了，因为 DHCP 中继落在错误的 VLAN。"
+  ],
+  "MDT": [
+    "MDT (Microsoft Deployment Toolkit) builds the clinic image from the task sequence we saved.",
+    "MDT（批量部署工具）按我们保存的任务序列生成门诊镜像。"
+  ],
+  "SCCM": [
+    "SCCM (System Center Configuration Manager) is pushing the viewer to every reading room PC.",
+    "SCCM（系统中心配置管理）正在把阅片软件推到每台读片室电脑。"
+  ],
+  "Intune": [
+    "Intune enrolled the new ward tablets and applied the hospital Wi-Fi profile.",
+    "Intune 注册了新的病区平板，并套上了医院的 Wi-Fi 配置。"
+  ],
+  "MDM": [
+    "MDM (Mobile Device Management) can wipe a lost tablet without touching the SIM.",
+    "MDM（移动设备管理）可以清空丢失的平板，不用动 SIM 卡。"
+  ],
+  "BYOD": [
+    "BYOD (Bring Your Own Device) phones stay off the medical-record VLAN.",
+    "BYOD（自带设备）的手机不能进入病历 VLAN。"
+  ],
+  "mobile device": [
+    "Each mobile device on the ward must check in before it can open mail.",
+    "病区每台移动设备都要先登记，才能打开邮件。"
+  ],
+  "tablet": [
+    "The tablet at bed twelve lost the ward Wi-Fi and cannot chart meds.",
+    "十二床的平板掉了病区无线，没法录入用药。"
+  ],
+  "smartphone": [
+    "A personal smartphone on the guest SSID cannot reach the lab system.",
+    "连在访客无线上的个人智能手机进不了检验系统。"
+  ],
+  "pager": [
+    "The night engineer still wears a pager because the basement blocks cell signal.",
+    "夜班工程师还带着传呼机，因为地下室没有手机信号。"
+  ],
+  "VoIP": [
+    "VoIP (Voice over Internet Protocol) phones in the ICU reboot if the voice VLAN flaps.",
+    "语音 VLAN 一抖动，ICU 的 VoIP（网络电话）就会重启。"
+  ],
+  "SIP": [
+    "SIP (Session Initiation Protocol) registration failed, so the nurse desk phone stays unregistered.",
+    "SIP（会话启动协议）注册失败，护士站电话一直挂在未注册。"
+  ],
+  "PBX": [
+    "The PBX (Private Branch Exchange) routes emergency calls out the analog trunks first.",
+    "PBX（程控交换机）会先把急救电话从模拟中继送出去。"
+  ],
+  "softphone": [
+    "The softphone on her laptop drops when the clinic Wi-Fi changes access points.",
+    "门诊 Wi-Fi 切换接入点时，她笔记本上的软电话会掉线。"
+  ],
+  "call recording": [
+    "Call recording on the advice line failed after the disk hit ninety percent.",
+    "磁盘用到百分之九十以后，咨询热线的通话录音就失败了。"
+  ],
+  "IVR": [
+    "IVR (Interactive Voice Response) still offers the old clinic hours from last winter.",
+    "IVR（语音导航）还在报去年冬天的旧门诊时间。"
+  ],
+  "ACD": [
+    "ACD (Automatic Call Distribution) sent the surge of calls to the overflow nurses.",
+    "ACD（自动呼叫分配）把突然增多的来电分给了溢出组护士。"
+  ],
+  "queue wait": [
+    "Queue wait on the main advice line passed four minutes during lunch.",
+    "午餐时段，主咨询线的排队等待超过了四分钟。"
+  ],
+  "call drop": [
+    "We saw a call drop every time the handoff crossed from closet two to three.",
+    "每次漫游从二号弱电间切到三号，我们都会看到通话中断。"
+  ],
+  "codec": [
+    "The codec on the new phones does not match the old ward gateway.",
+    "新话机的编解码和旧病区网关对不上。"
+  ],
+  "jitter buffer": [
+    "Raise the jitter buffer slightly if ICU calls keep sounding broken.",
+    "如果 ICU 的通话一直断断续续，就把抖动缓冲稍微加大。"
+  ],
+  "QoS": [
+    "QoS (Quality of Service) marks nurse-call traffic so a large file copy cannot drown it.",
+    "QoS（服务质量）给护士呼叫流量打标，大文件拷贝就不能把它淹没。"
+  ],
+  "DSCP": [
+    "We set DSCP (Differentiated Services Code Point) EF on the voice VLAN only.",
+    "我们只在语音 VLAN 上把 DSCP（差分服务标记）设成 EF。"
+  ],
+  "traffic shaping": [
+    "Traffic shaping on the guest link keeps streaming from crowding the clinic uplink.",
+    "访客链路上的流量整形，是为了不让视频流挤占门诊上联。"
+  ],
+  "bandwidth cap": [
+    "A bandwidth cap on the guest SSID stops one laptop from filling the link.",
+    "访客无线上的带宽上限能防止一台笔记本把链路占满。"
+  ],
+  "WAN": [
+    "The WAN (Wide Area Network) link to the east campus saturated during image transfers.",
+    "往东院区传图像时，WAN（广域网）链路被打满了。"
+  ],
+  "LAN": [
+    "The LAN (Local Area Network) in building C stayed up while the WAN link failed.",
+    "WAN 链路中断时，C 座的 LAN（局域网）仍然是通的。"
+  ],
+  "MAN": [
+    "Our MAN (Metropolitan Area Network) ties the three city campuses on hospital fiber.",
+    "我们的 MAN（城域网）用医院自己的光纤把市区三个院区连起来。"
+  ],
+  "MPLS": [
+    "MPLS (Multiprotocol Label Switching) carries the east campus traffic separate from internet.",
+    "MPLS（多协议标签交换）把东院区业务和上网流量分开承载。"
+  ],
+  "SD-WAN": [
+    "SD-WAN (Software-Defined Wide Area Network) moved clinic traffic to the backup circuit at noon.",
+    "中午 SD-WAN（软件定义广域网）把门诊流量切到了备用专线。"
+  ],
+  "dark fiber": [
+    "The dark fiber between the two campuses is ours, and the carrier only lights the path.",
+    "两院区之间的裸光纤是我们的，运营商只负责把光打通。"
+  ],
+  "last mile": [
+    "The last mile to the clinic annex is copper, and it fails whenever it rains.",
+    "到门诊附楼的最后一公里还是铜缆，一下雨就出故障。"
+  ],
+  "circuit ID": [
+    "Quote the circuit ID when you call the carrier about the east campus outage.",
+    "给运营商报东院区中断时，把专线编号一起报上。"
+  ],
+  "carrier": [
+    "The carrier swapped the failed fiber pair at the east campus handoff.",
+    "运营商在东院区的交接点换掉了那对故障光纤。"
+  ],
+  "BGP": [
+    "BGP (Border Gateway Protocol) dropped the east campus prefix for twelve minutes.",
+    "BGP（边界网关协议）把东院区前缀撤掉了十二分钟。"
+  ],
+  "OSPF": [
+    "OSPF (Open Shortest Path First) reconverged after the core link came back.",
+    "核心链路恢复后，OSPF（开放最短路径优先）重新收敛了。"
+  ],
+  "static route": [
+    "A static route on the lab firewall still points at the retired gateway.",
+    "实验室防火墙上有一条静态路由还指向已退役的网关。"
+  ],
+  "default route": [
+    "The default route vanished, so the ward could reach local servers but not mail.",
+    "默认路由没了，病区能访问本地服务器，但邮件不通。"
+  ],
+  "routing table": [
+    "The routing table on the clinic router has no path back to the lab.",
+    "门诊路由器的路由表里没有回检验网的路径。"
+  ],
+  "ARP": [
+    "ARP (Address Resolution Protocol) failed for the gateway, so every PC in the closet lost the network.",
+    "网关的 ARP（地址解析协议）失败了，弱电间里每台电脑都断了网。"
+  ],
+  "ICMP": [
+    "ICMP (Internet Control Message Protocol) is allowed to the gateway but blocked to the servers.",
+    "ICMP（网络控制消息）允许到网关，到服务器则被拦住。"
+  ],
+  "TCP": [
+    "TCP (Transmission Control Protocol) port 1433 to the HIS database is open from the app tier only.",
+    "只有应用层能访问 HIS 数据库的 TCP（传输控制协议）1433 端口。"
+  ],
+  "UDP": [
+    "UDP (User Datagram Protocol) 514 must reach the syslog server from every switch.",
+    "每台交换机都要把 UDP（用户数据报协议）514 送到日志服务器。"
+  ],
+  "TLS": [
+    "TLS (Transport Layer Security) on the patient portal still allows an old version.",
+    "患者门户的 TLS（传输层安全）还允许一个旧版本。"
+  ],
+  "HTTPS": [
+    "HTTPS (Hypertext Transfer Protocol Secure) is required on the patient portal now.",
+    "患者门户现在必须走 HTTPS（加密网页协议）。"
+  ],
+  "HTTP": [
+    "HTTP (Hypertext Transfer Protocol) on the old lab page redirects to the secure site.",
+    "旧检验页面的 HTTP（网页协议）会跳到加密站点。"
+  ],
+  "FTP": [
+    "FTP (File Transfer Protocol) to the instrument PC should close once the lab moves off it.",
+    "等检验迁走，仪器电脑上的 FTP（文件传输协议）就该关掉。"
+  ],
+  "SFTP": [
+    "SFTP (SSH File Transfer Protocol) is how the reference lab drops results each hour.",
+    "合作检验所每小时用 SFTP（安全文件传输）投递一次结果。"
+  ],
+  "SMB": [
+    "SMB (Server Message Block) signing is required before the file server returns to the ward.",
+    "文件服务器重新给病区用之前，必须打开 SMB（文件共享协议）签名。"
+  ],
+  "NFS": [
+    "NFS (Network File System) exports on the imaging archive are mounted read-only by the viewers.",
+    "影像归档上的 NFS（网络文件系统）导出，阅片端是只读挂载的。"
+  ],
+  "CIFS": [
+    "CIFS (Common Internet File System) shares from the old file server still feed two lab instruments.",
+    "旧文件服务器上的 CIFS（通用互联网文件系统）共享还在给两台检验仪器送数据。"
+  ],
+  "RDP": [
+    "RDP (Remote Desktop Protocol) to the jump host is the only path into the server VLAN.",
+    "进服务器 VLAN 只能走跳板机上的 RDP（远程桌面协议）。"
+  ],
+  "SSH": [
+    "SSH (Secure Shell) to the Linux archive works only from the admin jump host.",
+    "只有从管理跳板机才能用 SSH（安全外壳协议）连上 Linux 归档。"
+  ],
+  "Telnet": [
+    "Telnet is still enabled on that old lab switch, so turn it off today.",
+    "那台旧检验交换机上还开着 Telnet，今天把它关掉。"
+  ],
+  "SNMP": [
+    "SNMP (Simple Network Management Protocol) on the closet switches uses the new community string.",
+    "弱电间交换机上的 SNMP（简单网络管理）已经改用新的团体名。"
+  ],
+  "Syslog server": [
+    "Point every closet switch at the Syslog server before the change window starts.",
+    "变更窗口开始前，把每台弱电间交换机的日志指到日志服务器。"
+  ],
+  "NTP server": [
+    "If the NTP server is unreachable, badge readers and Kerberos both start failing.",
+    "时间服务器要是连不上，门禁读卡器和 Kerberos 都会开始失败。"
+  ],
+  "time drift": [
+    "Time drift on the lab PCs passed five minutes, and ticket logons began to fail.",
+    "实验室电脑的时间漂移超过五分钟后，票据登录开始失败。"
+  ],
+  "clock skew": [
+    "Clock skew between the two domain controllers broke logons in the east clinic.",
+    "两台域控制器之间的时钟偏差，让东门诊登录失败了。"
+  ],
+  "Kerberos": [
+    "Kerberos rejected the lab PCs because their clocks were six minutes fast.",
+    "实验室电脑的时钟快了六分钟，Kerberos 把它们拒绝了。"
+  ],
+  "NTLM": [
+    "NTLM (NT LAN Manager) is still required by one old instrument in microbiology.",
+    "微生物室有一台旧仪器还要求用 NTLM（Windows认证）。"
+  ],
+  "token cache": [
+    "Clear the token cache on her PC if the new group rights still do not apply.",
+    "如果新的组权限还没生效，就清掉她电脑上的令牌缓存。"
+  ],
+  "ticket-granting": [
+    "The ticket-granting service was down, so nobody in the clinic could get a new ticket.",
+    "票据授予服务停了，门诊里没人能拿到新票据。"
+  ],
+  "service principal": [
+    "The service principal for the lab app is missing a secret, so sign-in fails.",
+    "检验应用的服务主体少了一把密钥，登录因此失败。"
+  ],
+  "SPN": [
+    "The SPN (Service Principal Name) for the HIS database was registered on the wrong account.",
+    "HIS 数据库的 SPN（服务主体名称）注册到了错误的账号上。"
+  ],
+  "GPO": [
+    "This GPO (Group Policy Object) turns on the screen lock after ten idle minutes.",
+    "这条 GPO（组策略对象）会在空闲十分钟后锁定屏幕。"
+  ],
+  "OU": [
+    "Move the new scanners into the clinic OU (Organizational Unit) before policy applies.",
+    "策略套用前，把新扫描仪移进门诊 OU（组织单元）。"
+  ],
+  "security group": [
+    "Add her to the security group that can open the pharmacy share.",
+    "把她加进能打开药房共享的那个安全组。"
+  ],
+  "distribution group": [
+    "Mail to the distribution group for charge nurses never reached the night shift.",
+    "发给责任护士通讯组的邮件没有送到夜班。"
+  ],
+  "nested group": [
+    "A nested group hid her access, so the pharmacy share denied her this morning.",
+    "嵌套组把她的权限藏住了，今天早上药房共享拒绝了她。"
+  ],
+  "group membership": [
+    "Her group membership changed at noon, but the old token lasts until she signs in again.",
+    "她的组成员关系中午改了，但旧令牌要等她重新登录才失效。"
+  ],
+  "sid": [
+    "The sid on this cloned PC matches another machine, so domain join fails.",
+    "这台克隆电脑的安全标识和另一台机器重复，加域因此失败。"
+  ],
+  "GUID": [
+    "The GUID (Globally Unique Identifier) on the duplicated policy made the second copy fail to link.",
+    "复制出来的策略带着同一个 GUID（全局唯一标识），第二份因此链接不上。"
+  ],
+  "UPN": [
+    "Her UPN (User Principal Name) still uses the old hospital domain after the rename.",
+    "域名改完之后，她的 UPN（用户主体名称）还是旧的医院域名。"
+  ],
+  "sAMAccountName": [
+    "The sAMAccountName cannot exceed twenty characters or the old lab app rejects it.",
+    "登录名不能超过二十个字符，否则旧检验程序会拒绝。"
+  ],
+  "password hash": [
+    "Never copy a password hash into a ticket or a chat with the vendor.",
+    "不要把密码哈希写进工单，也不要发到和厂商的聊天里。"
+  ],
+  "salt": [
+    "A unique salt on each password hash keeps identical passwords from looking alike.",
+    "每个密码哈希都有独立加盐，相同的密码看起来也不会一样。"
+  ],
+  "hash": [
+    "Check the hash on the vendor installer before it goes on any clinic PC.",
+    "厂商安装包装到任何门诊电脑之前，先核对哈希。"
+  ],
+  "encryption key": [
+    "The encryption key for the archive left with the old admin and nobody else has it.",
+    "归档的加密密钥跟着老管理员走了，别人手里都没有。"
+  ],
+  "public key": [
+    "Publish the public key for the results mailbox so partner labs can encrypt files.",
+    "把结果邮箱的公钥公布出去，合作检验所才能加密文件。"
+  ],
+  "private key": [
+    "The private key for the portal certificate never leaves the application server.",
+    "门户证书的私钥不能离开应用服务器。"
+  ],
+  "certificate chain": [
+    "The certificate chain is missing the intermediate, so browsers warn on the portal.",
+    "证书链缺了中间证书，浏览器会在门户上报警。"
+  ],
+  "intermediate CA": [
+    "Install the intermediate CA on the portal host or phones will not trust the site.",
+    "在门户主机上装好中间证书机构，否则手机不会信任这个站点。"
+  ],
+  "root CA": [
+    "Our root CA lives offline, and we bring it up only to sign a new intermediate.",
+    "我们的根证书机构平时离线，只在签发新中间证书时才开机。"
+  ],
+  "CSR": [
+    "Send the CSR (Certificate Signing Request) to the team that runs the hospital CA.",
+    "把 CSR（证书申请）交给管医院证书机构的那组同事。"
+  ],
+  "SAN name": [
+    "Add the short HIS name as a SAN name or the ward PCs will warn.",
+    "把 HIS 短名称加进证书备用名，否则病区电脑会报警。"
+  ],
+  "certificate store": [
+    "The certificate store on the clinic image is missing the new hospital root.",
+    "门诊镜像的证书存储里没有新的医院根证书。"
+  ],
+  "trusted root": [
+    "The trusted root for the partner lab expired, and result downloads started warning.",
+    "合作检验所的受信任根过期了，结果下载开始报警。"
+  ],
+  "untrusted cert": [
+    "An untrusted cert on the infusion server popped a warning on every pump browser.",
+    "输液服务器上那张不受信任证书，让每台泵的浏览器都弹出了警告。"
+  ],
+  "expired cert": [
+    "The expired cert on the patient portal started warning visitors at midnight.",
+    "患者门户上的过期证书从午夜开始给访问者报警。"
+  ],
+  "revoked cert": [
+    "The revoked cert was still presented by one old lab interface this morning.",
+    "今天早上还有一个旧检验接口在出示已吊销证书。"
+  ],
+  "OCSP staple": [
+    "The OCSP staple on the portal is stale, so some phones refuse the certificate.",
+    "门户上的证书装订过期了，有些手机会拒绝这张证书。"
+  ],
+  "HSTS": [
+    "HSTS (HTTP Strict Transport Security) forces browsers back to the encrypted portal.",
+    "HSTS（强制加密传输）会把浏览器拉回加密的门户。"
+  ],
+  "cipher suite": [
+    "The cipher suite on the lab gateway is too old for the new scanner.",
+    "检验网关上的加密套件对新扫描枪来说太旧了。"
+  ],
+  "deprecated TLS": [
+    "Deprecated TLS on the instrument interface will be refused by next month's browsers.",
+    "仪器接口上的过时加密，下个月的浏览器会拒绝。"
+  ],
+  "weak cipher": [
+    "A weak cipher on the old results portal showed up in last night's scan.",
+    "昨晚扫描发现，旧结果门户还在用弱加密。"
+  ],
+  "perfect forward secrecy": [
+    "Perfect forward secrecy on the portal keeps a stolen key from decrypting old sessions.",
+    "门户开了前向保密，偷到的密钥也解不开过去的会话。"
+  ],
+  "key exchange": [
+    "The key exchange failed because the scanner and the gateway share no common group.",
+    "密钥交换失败了，扫描枪和网关没有共同的算法组。"
+  ],
+  "session key": [
+    "Each session key is thrown away when the portal connection closes.",
+    "门户连接一关，会话密钥就会被丢掉。"
+  ],
+  "token expiry": [
+    "Token expiry hit halfway through her charting, and the app asked her to sign in again.",
+    "她写到一半时令牌到期，应用要求重新登录。"
+  ],
+  "refresh token": [
+    "Her refresh token was revoked, so the bedside app cannot renew the session quietly.",
+    "她的刷新令牌被吊销了，床旁应用没法悄悄把会话续上。"
+  ],
+  "access token": [
+    "The access token in that request expired, and the API returned 401.",
+    "那个请求里的访问令牌过期了，接口返回了 401。"
+  ],
+  "ID token": [
+    "The ID token is missing the ward claim, so the app cannot tell which unit she works on.",
+    "身份令牌里没有病区声明，应用分不清她在哪个科室。"
+  ],
+  "JWT": [
+    "The JWT (JSON Web Token) from the bedside app failed signature checks on the gateway.",
+    "床旁应用发出的 JWT（JSON令牌）在网关上没通过签名校验。"
+  ],
+  "bearer token": [
+    "Do not paste a bearer token into chat; anyone who copies it can call the API.",
+    "不要把持有者令牌贴到聊天里，谁复制走都能调接口。"
+  ],
+  "API gateway": [
+    "The API gateway rejected the lab call because the client certificate was absent.",
+    "接口网关拒绝了检验调用，因为请求里没有客户端证书。"
+  ],
+  "rate limiting": [
+    "Rate limiting slowed the results feed after the lab sent a burst of repeats.",
+    "检验端突然大量重发之后，限流控制把结果推送拖慢了。"
+  ],
+  "API quota": [
+    "The API quota for the partner lab resets at midnight, and they already hit it.",
+    "合作检验所的接口配额要到午夜才重置，他们已经用完了。"
+  ],
+  "API version": [
+    "The old API version retires in June, and three clinic apps still call it.",
+    "旧接口版本六月停用，还有三个门诊应用在调它。"
+  ],
+  "breaking change": [
+    "This breaking change removes a field the pharmacy robot still reads.",
+    "这次破坏性变更删掉了药房机器人还在读的字段。"
+  ],
+  "backward compatible": [
+    "Keep the results feed backward compatible until every clinic app is upgraded.",
+    "在所有门诊应用升级完之前，结果推送要保持向后兼容。"
+  ],
+  "deprecation": [
+    "The deprecation notice gives clinics six months before that results method disappears.",
+    "废弃通知给了门诊六个月，之后那个结果方法就会下线。"
+  ],
+  "sunset date": [
+    "The sunset date for the old lab feed is 30 June, printed in the interface header.",
+    "旧检验推送的下线日期是 6 月 30 日，写在接口头里。"
+  ],
+  "feature toggle": [
+    "The feature toggle for bedside meds is on for one ward and off everywhere else.",
+    "床旁用药的功能开关只对一个病区打开，别处都关着。"
+  ],
+  "dark launch": [
+    "The dark launch sent real orders to the new service but hid the answers from users.",
+    "这次暗发布把真实医嘱送到了新服务，但没有把结果给用户看。"
+  ],
+  "canary host": [
+    "The canary host took five percent of portal traffic and showed no new errors.",
+    "金丝雀主机接了百分之五的门户流量，没有出现新报错。"
+  ],
+  "blue environment": [
+    "The blue environment still serves the clinic while we finish checks on green.",
+    "绿色环境还在做检查，蓝色环境继续给门诊提供服务。"
+  ],
+  "green environment": [
+    "The green environment passed the pharmacy checks, so we can shift traffic tonight.",
+    "绿色环境通过了药房检查，今晚可以把流量切过去。"
+  ],
+  "traffic shift": [
+    "The traffic shift to green starts at 21:00, with blue kept warm for an hour.",
+    "切到绿色环境的流量切换 21:00 开始，蓝色环境再热备一小时。"
+  ],
+  "weighted routing": [
+    "Weighted routing sends most portal users to blue and a small slice to green.",
+    "加权路由把大多数门户用户送到蓝色环境，只把一小部分送到绿色环境。"
+  ],
+  "health probe": [
+    "The health probe marked the lab API down after three failed checks in a row.",
+    "健康探测连续失败三次后，把检验接口标成了不可用。"
+  ],
+  "unhealthy node": [
+    "The unhealthy node stopped receiving portal pods until its disk pressure cleared.",
+    "磁盘压力解除之前，那台不健康节点不再接收门户容器组。"
+  ],
+  "drain node": [
+    "Drain node four before the patch so running pods move to the other workers.",
+    "打补丁前先排空四号节点，让正在跑的容器组迁到其他工作节点。"
+  ],
+  "cordon": [
+    "Cordon the noisy worker so the scheduler stops placing new pods there.",
+    "把那台异常的工作节点封锁掉，调度器就不会再往上放新容器组。"
+  ],
+  "pod": [
+    "The results pod restarted twice, and the lab feed paused for a minute each time.",
+    "结果容器组重启了两次，每次检验推送都会停大约一分钟。"
+  ],
+  "namespace": [
+    "Keep the lab tools in their own namespace so they cannot see production secrets.",
+    "把检验工具放在自己的命名空间里，这样它们看不到生产密文。"
+  ],
+  "ingress": [
+    "The ingress for the patient portal routes /results to the new API pods.",
+    "患者门户的入口路由把 /results 转到新的接口容器组。"
+  ],
+  "egress": [
+    "Egress from the lab namespace is limited to the results broker and DNS.",
+    "检验命名空间的出口流量只允许去结果中转和 DNS。"
+  ],
+  "sidecar": [
+    "The sidecar beside the results pod ships logs without changing the app itself.",
+    "结果容器组旁边的边车容器负责送日志，应用本身不用改。"
+  ],
+  "service mesh": [
+    "The service mesh encrypts calls between the portal pods and the lab API.",
+    "服务网格把门户容器组和检验接口之间的调用加密了。"
+  ],
+  "config map": [
+    "The config map holds the lab endpoint, so we can change it without a new image.",
+    "配置映射里放着检验地址，改地址就不用重做镜像。"
+  ],
+  "secret": [
+    "The database password sits in a secret, and the pod reads it at startup.",
+    "数据库密码放在密文对象里，容器组启动时才读。"
+  ],
+  "volume mount": [
+    "The volume mount for audit logs points at the wrong path, so files land in the container.",
+    "审计日志的卷挂载指错了路径，文件就落在容器里面。"
+  ],
+  "persistent volume": [
+    "The persistent volume for the results queue survived the pod restart this morning.",
+    "今天早上容器组重启后，结果队列的持久卷还在。"
+  ],
+  "storage class": [
+    "Use the fast storage class for the database volume and the cheap one for logs.",
+    "数据库卷用快的存储类，日志用便宜的那种。"
+  ],
+  "node pool": [
+    "The node pool for GPU jobs is full, so the imaging rebuild is waiting.",
+    "跑 GPU 任务的节点池满了，影像重建还在等。"
+  ],
+  "cluster": [
+    "The cluster stopped scheduling when the control plane lost its quorum.",
+    "控制平面失去法定人数后，集群不再调度。"
+  ],
+  "control plane": [
+    "The control plane is healthy again, and new pods are scheduling normally.",
+    "控制平面已经恢复，新容器组正在正常调度。"
+  ],
+  "worker node": [
+    "That worker node ran out of disk, so image pulls for the lab pods failed.",
+    "那台工作节点磁盘满了，检验容器组拉取镜像因此失败。"
+  ],
+  "etcd": [
+    "We restored etcd from the 02:00 snapshot after the control plane disk filled.",
+    "控制平面的磁盘写满之后，我们用凌晨两点的快照恢复了集群键值库。"
+  ],
+  "scheduler": [
+    "The scheduler kept placing both database pods on one worker until we set a rule.",
+    "在我们加规则之前，调度器一直把两个数据库容器组放在同一台工作节点上。"
+  ],
+  "kubelet": [
+    "The kubelet on worker six stopped reporting, and that node went NotReady.",
+    "六号工作节点上的节点代理停止上报后，该节点变成了 NotReady。"
+  ],
+  "container runtime": [
+    "The container runtime crashed on worker two, and every pod there exited.",
+    "二号工作节点的容器运行时崩溃了，上面的容器组全部退出。"
+  ],
+  "image pull": [
+    "The image pull failed because the worker cannot reach the hospital registry.",
+    "镜像拉取失败了，因为工作节点连不上医院的镜像仓库。"
+  ],
+  "image registry": [
+    "The image registry certificate expired, and every new pull started failing.",
+    "镜像仓库的证书过期了，之后每次拉取都失败。"
+  ],
+  "image tag": [
+    "Do not deploy the latest image tag; pin the lab API to the build from Tuesday.",
+    "不要部署 latest 这个镜像标签，把检验接口固定到周二那个构建。"
+  ],
+  "digest": [
+    "Pin the deployment to the digest so a retagged image cannot slip into production.",
+    "把部署钉在镜像摘要上，重新打过标签的镜像就进不了生产。"
+  ],
+  "vulnerability CVE": [
+    "This vulnerability CVE in the base image is why we rebuilt the lab API today.",
+    "基础镜像里的这个镜像漏洞编号，就是我们今天重建检验接口的原因。"
+  ],
+  "base image": [
+    "The base image we used last month now has a critical flaw in its library.",
+    "我们上个月用的基础镜像，现在它的库里有一个严重缺陷。"
+  ],
+  "distroless": [
+    "The distroless build dropped the shell, so we debug the lab API from the sidecar.",
+    "精简镜像的构建去掉了 shell，我们只能从边车容器调试检验接口。"
+  ],
+  "rootless": [
+    "Run the results container rootless so a break-in cannot own the worker.",
+    "让结果容器以非特权方式运行，就算被突破也拿不下工作节点。"
+  ],
+  "read-only root": [
+    "A read-only root stopped the bad script from writing into the container filesystem.",
+    "只读根文件系统拦住了那个坏脚本，它写不进容器的文件系统。"
+  ],
+  "seccomp": [
+    "Seccomp blocked an unexpected syscall from the lab container this morning.",
+    "今天早上，系统调用过滤拦住了检验容器里一次不该出现的系统调用。"
+  ],
+  "AppArmor": [
+    "AppArmor denied the lab container when it tried to read the host shadow file.",
+    "检验容器试图读宿主机的 shadow 文件时，应用防护拒绝了它。"
+  ],
+  "SELinux": [
+    "SELinux blocked the viewer from writing outside its own data directory.",
+    "强制访问控制拦住了阅片程序，不让它写到自己的数据目录外面。"
+  ],
+  "capabilities": [
+    "Drop unused capabilities on the lab container so it cannot change network routes.",
+    "去掉检验容器用不到的权限能力，它就不能改网络路由。"
+  ],
+  "sysctl": [
+    "That sysctl raised the connection backlog so the portal survives the morning rush.",
+    "那个内核参数把连接队列调大了，门户才撑得住早高峰。"
+  ],
+  "kernel panic": [
+    "A kernel panic on the imaging host froze every viewer session in that rack.",
+    "影像主机内核崩溃，那个机柜里的阅片会话全部冻住了。"
+  ],
+  "oops": [
+    "The kernel wrote an oops to the log just before the archive host hung.",
+    "归档主机卡死之前，内核刚在日志里写了一条内核异常。"
+  ],
+  "watchdog": [
+    "The watchdog rebooted the archive host after the kernel stopped answering.",
+    "内核不再响应之后，看门狗重启了归档主机。"
+  ],
+  "kdump": [
+    "Last night kdump captured the crash from the imaging host, so we can see why it panicked.",
+    "昨晚的内核转储存下了影像主机的崩溃现场，我们才看得出它为什么崩溃。"
+  ],
+  "core pattern": [
+    "The core pattern points crash dumps at /var/crash, and that disk is almost full.",
+    "转储路径指向 /var/crash，那块盘快满了。"
+  ],
+  "ulimit": [
+    "The ulimit for open files was too low, and the interface stopped accepting connections.",
+    "打开文件数的资源上限太低，接口就不再接受新连接了。"
+  ],
+  "nice value": [
+    "Check the nice value if the backup is stealing CPU from noon charting.",
+    "如果备份在抢中午写病历的 CPU，就去看进程优先级。"
+  ],
+  "process ID": [
+    "Note the process ID before you kill the stuck print spooler on the ward PC.",
+    "在病区电脑上结束卡住的打印服务之前，先记下进程号。"
+  ],
+  "parent process": [
+    "The parent process of that stuck job is the print spooler, not the browser.",
+    "那个卡住任务的父进程是打印服务，不是浏览器。"
+  ],
+  "zombie process": [
+    "A zombie process from the old viewer is still listed, but it holds no memory.",
+    "旧阅片程序留下的僵尸进程还在列表里，但它不占内存。"
+  ],
+  "orphan process": [
+    "The orphan process kept writing logs after its parent viewer had already exited.",
+    "父阅片程序已经退出了，孤儿进程还在写日志。"
+  ],
+  "daemon": [
+    "The backup daemon skipped the archive because the target disk was full.",
+    "目标盘满了，备份守护进程就跳过了这次归档。"
+  ],
+  "cron job": [
+    "The cron job that pulls lab results did not run after the clock jumped.",
+    "时钟跳了之后，拉取检验结果的定时任务没有跑。"
+  ],
+  "scheduled task": [
+    "The scheduled task that archives scans is disabled on the new file server.",
+    "新文件服务器上，归档扫描件的计划任务是停用的。"
+  ],
+  "Windows service": [
+    "The Windows service for the interface stopped and did not start again after the patch.",
+    "接口的 Windows 服务停了，补丁之后也没有再起来。"
+  ],
+  "service account lock": [
+    "A service account lock stopped the interface from logging on at 03:00.",
+    "服务账号锁定让接口在凌晨三点登不上。"
+  ],
+  "logon as service": [
+    "The interface account needs logon as service or it cannot start after a reboot.",
+    "接口账号得有作为服务登录的权限，否则重启后起不来。"
+  ],
+  "interactive logon": [
+    "Interactive logon is denied for service accounts, so use a personal admin instead.",
+    "服务账号不允许交互登录，请改用个人的管理员账号。"
+  ],
+  "network logon": [
+    "A network logon from the interface host failed because the account was locked.",
+    "接口主机发起的网络登录失败了，因为账号处于锁定。"
+  ],
+  "cached logon": [
+    "Cached logon let her into the laptop on the ward, even though the domain was unreachable.",
+    "域已经连不上，缓存登录仍让她进了病区那台笔记本。"
+  ],
+  "smart-card logon": [
+    "Smart-card logon failed at the pharmacy window because the reader cable was loose.",
+    "药房窗口的智能卡登录失败了，读卡器的线是松的。"
+  ],
+  "failed logon": [
+    "A burst of failed logon events hit the pharmacy account just after midnight.",
+    "刚过午夜，药房账号上涌来一批登录失败事件。"
+  ],
+  "lockout policy": [
+    "The lockout policy trips after five bad passwords, which is why her account locked.",
+    "锁定策略在五次错误密码后触发，所以她的账号被锁了。"
+  ],
+  "account disabled": [
+    "We found her account disabled after she transferred out of the ward.",
+    "她调离病区之后，我们发现账号已禁用。"
+  ],
+  "account enabled": [
+    "We set account enabled again, and he can log on in the clinic.",
+    "我们又把账号设成已启用，他在门诊可以登录了。"
+  ],
+  "password expired": [
+    "Her password expired overnight, so the bedside app rejected the logon.",
+    "她的密码在夜里过期了，床旁应用拒绝了这次登录。"
+  ],
+  "complex password": [
+    "A complex password is required on every clinical account, including shared kiosks.",
+    "每个临床账号都要复杂密码，公用查询机也不例外。"
+  ],
+  "passphrase": [
+    "Use a long passphrase for the archive key instead of a short complex password.",
+    "归档密钥用一长串密码短语，别用又短又复杂的那种密码。"
+  ],
+  "password manager": [
+    "The password manager holds the firewall admin secret so we stop sharing it in chat.",
+    "防火墙管理员密钥放在密码管理器里，我们就不用再在聊天里传。"
+  ],
+  "shared password": [
+    "The shared password on the clinic kiosk was posted on a sticky note.",
+    "门诊查询机的共享密码被写在便签上贴了出来。"
+  ],
+  "default password": [
+    "Change the default password on that new switch before it joins the clinic network.",
+    "那台新交换机接入门诊网之前，先把默认密码改掉。"
+  ],
+  "hard-coded password": [
+    "A hard-coded password in the lab script survived three staff changes.",
+    "检验脚本里写死的密码熬过了三次人员变动。"
+  ],
+  "secrets in code": [
+    "Secrets in code showed up in the lab interface repo during yesterday's review.",
+    "昨天审查代码时，在检验接口仓库里看到了代码中的密钥。"
+  ],
+  "credential leak": [
+    "The credential leak came from a spreadsheet mailed to the vendor last week.",
+    "这次凭据泄露来自上周寄给厂商的一份表格。"
+  ],
+  "keylogger": [
+    "A keylogger on the registration PC captured passwords until Defender removed it.",
+    "挂号电脑上的键盘记录一直在抓密码，直到系统防护把它清掉。"
+  ],
+  "screen capture": [
+    "Screen capture on the billing PC recorded card numbers until we blocked the tool.",
+    "收费电脑上的屏幕截取一直在录卡号，直到我们封掉那个工具。"
+  ],
+  "clipboard": [
+    "Malware read the clipboard on the billing PC and stole a copied card number.",
+    "恶意程序读了收费电脑的剪贴板，偷走一个刚复制的卡号。"
+  ],
+  "USB drop": [
+    "A USB drop in the lobby parking lot is how that worm reached a clinic PC.",
+    "大厅停车场的一次 U 盘投放，就是那只蠕虫进到门诊电脑的途径。"
+  ],
+  "shadow IT": [
+    "Shadow IT grew when clinics bought their own chat tool and stored patient names there.",
+    "门诊自己买了聊天工具，还把患者姓名存在里面，影子信息化就是这样长出来的。"
+  ],
+  "unsanctioned app": [
+    "An unsanctioned app on the ward tablet was syncing schedules to a personal cloud.",
+    "病区平板上有个未批准软件，正在把排班同步到个人云。"
+  ],
+  "software whitelist": [
+    "The software whitelist blocked the new viewer until we approved its publisher.",
+    "在我们批准发布者之前，软件白名单拦住了新的阅片程序。"
+  ],
+  "software inventory": [
+    "The software inventory shows three clinic PCs still running the retired viewer.",
+    "软件清单显示还有三台门诊电脑在跑已经退役的阅片程序。"
+  ],
+  "license count": [
+    "The license count for the viewer is short by twelve seats this quarter.",
+    "这个季度阅片软件的授权数量少了十二个席位。"
+  ],
+  "license server": [
+    "The license server was unreachable, and the reading room viewers all dropped into grace mode.",
+    "授权服务器连不上，读片室的阅片程序全部进了宽限模式。"
+  ],
+  "license key": [
+    "The license key for the dictation software was issued to the old reading room.",
+    "听写软件的授权密钥是签发给旧读片室的。"
+  ],
+  "trial license": [
+    "The trial license on the new viewer expires Friday, before purchasing finishes.",
+    "新阅片程序的试用授权周五到期，采购还没走完。"
+  ],
+  "perpetual license": [
+    "The perpetual license for the old viewer stays valid even after we stop upgrades.",
+    "就算我们停止升级，旧阅片程序的永久授权也仍然有效。"
+  ],
+  "subscription license": [
+    "The subscription license for dictation renews in March, or the microphones stop.",
+    "听写的订阅授权三月要续，否则麦克风会停。"
+  ],
+  "concurrent license": [
+    "The concurrent license cap was hit at 09:10, and a fourth radiologist could not start.",
+    "并发授权在 09:10 用满，第四位放射科医生开不了程序。"
+  ],
+  "named user": [
+    "Each named user on the dictation license is tied to one physician, not a shared PC.",
+    "听写授权上的每个指定用户都绑一位医生，不是绑一台公用电脑。"
+  ],
+  "floating license": [
+    "A floating license returned to the pool when the radiologist closed the viewer.",
+    "放射科医生关掉阅片程序后，浮动授权回到了授权池。"
+  ],
+  "license compliance": [
+    "License compliance failed the audit because twelve viewers were installed past the count.",
+    "授权合规没过审计，因为阅片程序比授权数多装了十二套。"
+  ],
+  "true-up": [
+    "The true-up in June will bill us for every viewer installed above the contract.",
+    "六月的授权对账会按超出合同的每套阅片安装向我们收费。"
+  ],
+  "software audit": [
+    "The software audit found dictation installed on PCs that were never in the contract.",
+    "软件审计发现，听写软件装在了合同里从未列入的电脑上。"
+  ],
+  "unlicensed install": [
+    "An unlicensed install of the viewer showed up on a PC in clinic storage.",
+    "门诊库房的一台电脑上出现了阅片程序的未授权安装。"
+  ],
+  "silent install": [
+    "The silent install of the viewer finished overnight and no one had to click through.",
+    "阅片程序的静默安装在夜里完成了，没有人需要一路点下去。"
+  ],
+  "push install": [
+    "The push install reached the reading room PCs but skipped two that were offline.",
+    "推送安装到了读片室电脑，但跳过了两台不在线的。"
+  ],
+  "uninstall": [
+    "Uninstall the retired viewer from clinic PCs before the new one is pushed.",
+    "新阅片程序推下去之前，先把退役版本从门诊电脑上卸载。"
+  ],
+  "repair install": [
+    "A repair install fixed the viewer after the last patch removed a needed file.",
+    "上次补丁删掉一个必要文件之后，修复安装把阅片程序修好了。"
+  ],
+  "msi package": [
+    "The msi package for the viewer must be the one signed by the vendor this month.",
+    "阅片程序的安装包必须是厂商这个月签名的那一版。"
+  ],
+  "exe installer": [
+    "The exe installer asked for an admin password on every clinic PC.",
+    "那个可执行安装程序在每台门诊电脑上都要管理员密码。"
+  ],
+  "patch file": [
+    "The patch file from the vendor failed its signature check, so we did not apply it.",
+    "厂商来的补丁文件没通过签名校验，所以我们没有装。"
+  ],
+  "hotfix rollup": [
+    "The hotfix rollup includes the six printer fixes we have been waiting on.",
+    "这个累积热修复里有我们一直在等的六个打印修复。"
+  ],
+  "cumulative update": [
+    "The cumulative update for May rebooted three clinic PCs that were left on.",
+    "五月的累积更新把三台没关机的门诊电脑重启了。"
+  ],
+  "security bulletin": [
+    "The security bulletin describes a spooler flaw that hits every ward print server.",
+    "这份安全公告写的是一个影响每台病区打印服务器的打印后台漏洞。"
+  ],
+  "KB number": [
+    "Quote the KB number when you ask the vendor why this patch broke printing.",
+    "问厂商这个补丁为什么把打印弄坏时，把知识库编号一起报上。"
+  ],
+  "reboot pending": [
+    "Reboot pending has been set on the pharmacy PC since Tuesday's patch.",
+    "从周二的补丁起，药房电脑就一直是等待重启。"
+  ],
+  "pending reboot": [
+    "A pending reboot is blocking further patches on the registration PCs.",
+    "待重启状态挡住了挂号电脑上后面的补丁。"
+  ],
+  "WUAgent": [
+    "WUAgent on the clinic image is pointed at our update server, not the public one.",
+    "门诊镜像里的更新代理指向我们自己的更新服务器，不是公网那台。"
+  ],
+  "WSUS": [
+    "WSUS (Windows Server Update Services) approved the May rollup for the clinic PCs only.",
+    "WSUS（补丁分发服务器）只给门诊电脑批准了五月的累积包。"
+  ],
+  "catalog file": [
+    "The catalog file for this offline patch did not match the package we downloaded.",
+    "这个离线补丁的目录文件和我们下到的安装包对不上。"
+  ],
+  "offline patch": [
+    "Use the offline patch on the isolated lab host that cannot reach the update server.",
+    "那台连不上更新服务器的隔离检验主机，用离线补丁来打。"
+  ],
+  "online update": [
+    "An online update on the guest network pulled a driver the clinic image does not want.",
+    "访客网络上的一次在线更新拉来了门诊镜像不想要的驱动。"
+  ],
+  "metered network": [
+    "The cellular failover is a metered network, so large updates wait until fiber returns.",
+    "蜂窝备用线路是按流量计费的网络，大更新会等到光纤恢复再下。"
+  ],
+  "delivery optimization": [
+    "Delivery optimization let nearby clinic PCs share the May update instead of each pulling it.",
+    "分发优化让旁边的门诊电脑互相传五月的更新，不用各自去拉。"
+  ],
+  "peer cache": [
+    "Peer cache on the ward subnet served the viewer package to PCs that missed the push.",
+    "病区子网的对等缓存把阅片安装包给了没接到推送的电脑。"
+  ],
+  "branch cache": [
+    "Branch cache at the east campus kept the policy files local after the WAN blip.",
+    "广域网抖了一下之后，东院区的分支缓存仍把策略文件留在本地。"
+  ],
+  "content server": [
+    "The content server in building C holds the viewer package for that campus.",
+    "C 座的内容服务器放着这个院区的阅片安装包。"
+  ],
+  "distribution point": [
+    "The distribution point at the east campus ran out of disk during the viewer push.",
+    "推送阅片程序的时候，东院区分发点的磁盘用完了。"
+  ],
+  "management point": [
+    "Clients at the annex cannot find a management point, so they never pick up policy.",
+    "附楼的客户端找不到管理点，所以一直拿不到策略。"
+  ],
+  "client agent": [
+    "The client agent on the pharmacy PC stopped reporting after yesterday's patch.",
+    "昨天的补丁之后，药房电脑上的客户端代理停止上报了。"
+  ],
+  "heartbeat interval": [
+    "Shorten the heartbeat interval if you need faster notice when a clinic PC drops.",
+    "如果希望门诊电脑掉线时更快知道，就把心跳间隔缩短。"
+  ],
+  "policy refresh": [
+    "Policy refresh on the ward PCs picked up the new screen-lock setting within the hour.",
+    "病区电脑的策略刷新在一小时内拿到了新的锁屏设置。"
+  ],
+  "gpupdate": [
+    "Sign in to the nurse station and gpupdate after the password policy changes.",
+    "密码策略改完之后，登录护士站电脑并刷新组策略。"
+  ],
+  "rsop": [
+    "Run rsop (Resultant Set of Policy) if the clinic screen lock is not applying.",
+    "如果门诊电脑的锁屏没生效，就跑一下 rsop（策略结果集）。"
+  ],
+  "event forwarding": [
+    "Event forwarding from the ward PCs stopped when the collector certificate expired.",
+    "收集器证书过期后，病区电脑的事件转发停了。"
+  ],
+  "WEF": [
+    "WEF (Windows Event Forwarding) is how we collect logon failures from every ward PC.",
+    "我们靠 WEF（Windows事件转发）从每台病区电脑收集登录失败。"
+  ],
+  "collector": [
+    "The collector filled its disk and stopped accepting forwarded security events.",
+    "事件收集器磁盘满了，不再收转发来的安全事件。"
+  ],
+  "subscription": [
+    "This subscription collects only failed logons, not every process start on the ward.",
+    "这个订阅只收登录失败，不收病区上每一次进程启动。"
+  ],
+  "query filter": [
+    "Tighten the query filter or the collector will drown in process-start events.",
+    "把查询过滤收紧，不然事件收集器会被进程启动事件淹没。"
+  ],
+  "xpath": [
+    "The xpath in this subscription keeps failed logons and drops the rest.",
+    "这个订阅里的路径查询只留下登录失败，其余都丢掉。"
+  ],
+  "event ID": [
+    "Filter on event ID 4625 if you want only the failed logons from last night.",
+    "如果只要昨晚的登录失败，就按事件编号 4625 过滤。"
+  ],
+  "logon type": [
+    "Logon type 3 on those events means a network logon, not someone at the keyboard.",
+    "那些事件里的登录类型 3 是网络登录，不是有人坐在键盘前。"
+  ],
+  "privileged logon": [
+    "A privileged logon from a clinic PC at 02:00 is worth a closer look.",
+    "凌晨两点从一台门诊电脑发起的特权登录，值得再看一眼。"
+  ],
+  "explicit creds": [
+    "Explicit creds were used for that admin logon, so it was not a stolen ticket.",
+    "那次管理员登录用的是显式凭据，不是一张被偷走的票据。"
+  ],
+  "pass-the-hash": [
+    "Pass-the-hash from the compromised kiosk reached a file server in the same VLAN.",
+    "从失陷查询机发起的哈希传递，碰到了同一 VLAN 里的文件服务器。"
+  ],
+  "kerberoasting": [
+    "Kerberoasting against the HIS service account showed up in last night's authentication logs.",
+    "昨晚的认证日志里出现了针对 HIS 服务账号的票据攻击手法。"
+  ],
+  "lateral movement": [
+    "Lateral movement from the lobby PC reached the file server within twenty minutes.",
+    "从大厅那台电脑开始的横向移动，二十分钟内就到了文件服务器。"
+  ],
+  "living off the land": [
+    "Living off the land let the attacker use PowerShell already installed on the ward PC.",
+    "对方利用系统自带工具，用上了病区电脑里已经装着的 PowerShell。"
+  ],
+  "IOC": [
+    "This IOC (Indicator of Compromise) matches a file we found on two registration PCs.",
+    "这个 IOC（失陷指标）和我们在两台挂号电脑上找到的文件对得上。"
+  ],
+  "IOA": [
+    "That IOA (Indicator of Attack) is the sequence of a credential dump, not a single file.",
+    "那个 IOA（攻击行为指标）是一串凭据转储动作，不是单个文件。"
+  ],
+  "threat intel": [
+    "Threat intel from the peer hospital named the same sender we saw this morning.",
+    "兄弟医院的威胁情报点名的发件人，和我们今早看到的是同一个。"
+  ],
+  "indicator": [
+    "That file hash is an indicator from the phishing wave that hit clinics in May.",
+    "那个文件哈希是五月打到门诊的那波钓鱼里的一个威胁指标。"
+  ],
+  "hash reputation": [
+    "Hash reputation for this installer is unknown, so do not run it on a clinic PC.",
+    "这个安装包的哈希信誉未知，不要在门诊电脑上运行。"
+  ],
+  "file hash": [
+    "Send me the file hash of the viewer build before it is pushed to the ward.",
+    "阅片构建推到病区之前，先把文件哈希发给我。"
+  ],
+  "SHA-256": [
+    "SHA-256 (Secure Hash Algorithm 256) of the installer matches the value on the vendor site.",
+    "安装包的 SHA-256（哈希算法）和厂商网站上的值一致。"
+  ],
+  "MD5": [
+    "MD5 (Message Digest 5) is too weak for new packages, so ask the vendor for SHA-256.",
+    "MD5（旧哈希算法）对新安装包来说太弱，向厂商要 SHA-256。"
+  ],
+  "quarantine": [
+    "Quarantine the installer that Defender flagged before anyone on the ward runs it.",
+    "病区有人运行之前，先把系统防护标出的那个安装包隔离掉。"
+  ],
+  "allow exception": [
+    "An allow exception for that signed viewer lets it run where the whitelist would block it.",
+    "给那个已签名的阅片程序加一条放行例外，白名单本会拦住的地方它就能跑。"
+  ],
+  "block hash": [
+    "A block hash stopped the known bad installer on every managed clinic PC.",
+    "按哈希拦截在每台受管门诊电脑上挡住了那个已知的坏安装包。"
+  ],
+  "block path": [
+    "The block path rule stops anything launched from the user download folder.",
+    "按路径拦截会阻止从用户下载目录启动的任何程序。"
+  ],
+  "block publisher": [
+    "The block publisher rule stopped the untrusted toolbar that came with a printer driver.",
+    "按发布者拦截挡住了随打印驱动一起进来的那个不受信任工具栏。"
+  ],
+  "code signing": [
+    "Code signing on the viewer lets the whitelist trust it without a path exception.",
+    "阅片程序有代码签名，白名单就可以信任它，不必再加路径例外。"
+  ],
+  "unsigned binary": [
+    "An unsigned binary in the temp folder tried to start on the registration PC.",
+    "挂号电脑的临时目录里有一个未签名程序试图启动。"
+  ],
+  "trusted publisher": [
+    "Add the viewer vendor as a trusted publisher so updates install without a prompt.",
+    "把阅片厂商加为受信任发布者，更新就可以不再弹提示。"
+  ],
+  "SmartScreen": [
+    "SmartScreen warned on the dictation installer because the download was rare.",
+    "这个听写安装包很少有人下，智能筛选因此弹了警告。"
+  ],
+  "Defender": [
+    "Defender quarantined the installer on the registration PC before anyone opened it.",
+    "有人打开之前，系统防护已经隔离了挂号电脑上的那个安装包。"
+  ],
+  "ASR": [
+    "ASR (Attack Surface Reduction) blocked Office from creating a child process on the billing PC.",
+    "ASR（攻击面减少）阻止了收费电脑上的 Office 拉起子进程。"
+  ],
+  "exploit protection": [
+    "Exploit protection on the billing PC blocked a memory exploit against the old reader.",
+    "收费电脑上的漏洞利用防护拦住了一次针对旧读卡程序的内存利用。"
+  ],
+  "DEP": [
+    "DEP (Data Execution Prevention) stopped the old viewer when it tried to run a data page.",
+    "旧阅片程序试图把数据页当代码跑的时候，DEP（数据执行保护）把它拦住了。"
+  ],
+  "ASLR": [
+    "ASLR (Address Space Layout Randomization) is on, so the old exploit misses its target address.",
+    "ASLR（地址随机化）开着，旧的利用代码打不中目标地址。"
+  ],
+  "Control Flow Guard": [
+    "Control Flow Guard stopped the call into an unexpected address inside the viewer.",
+    "控制流防护拦住了阅片程序里一次跳向意外地址的调用。"
+  ],
+  "WDAC": [
+    "WDAC (Windows Defender Application Control) allows only signed binaries on the kiosk image.",
+    "WDAC（应用控制）只允许查询机镜像运行已签名程序。"
+  ],
+  "AppLocker": [
+    "AppLocker stopped the user from running a portable browser out of Downloads.",
+    "应用锁阻止用户从下载目录运行便携版浏览器。"
+  ],
+  "Software Restriction": [
+    "Software Restriction on the kiosk blocks executables that are not under Program Files.",
+    "查询机上的软件限制策略会拦截不在 Program Files 里的可执行文件。"
+  ],
+  "Device Guard": [
+    "Device Guard on the kiosk image refuses any kernel driver we have not signed.",
+    "查询机镜像上的设备防护会拒绝我们没有签名的内核驱动。"
+  ],
+  "Credential Guard": [
+    "Credential Guard kept the stolen process from reading hashes out of memory.",
+    "凭据防护让那个被盗用的进程读不到内存里的哈希。"
+  ],
+  "LSA protection": [
+    "LSA protection is enabled, so untrusted tools cannot read credentials from that process.",
+    "认证进程保护已经打开，不受信任的工具读不到那个进程里的凭据。"
+  ],
+  "secure boot": [
+    "Secure boot stopped the host because the bootloader signature did not match.",
+    "安全启动拦住了这台主机，因为引导程序签名对不上。"
+  ],
+  "measured boot": [
+    "Measured boot recorded a firmware change, and the host asked for the recovery key.",
+    "度量启动记录到固件变了，主机于是索要恢复密钥。"
+  ],
+  "TPM": [
+    "The TPM (Trusted Platform Module) on this laptop failed, so disk unlock now asks for the key.",
+    "这台笔记本的 TPM（可信平台模块）坏了，磁盘解锁现在会要密钥。"
+  ],
+  "PCR": [
+    "A firmware change moved PCR (Platform Configuration Register) 7, so the PIN no longer matches.",
+    "固件一改，PCR（平台配置寄存器）7 变了，开机密码就对不上。"
+  ],
+  "BitLocker recovery": [
+    "She is locked out and needs the BitLocker recovery key from the escrow console.",
+    "她进不了系统，得从密钥托管控制台拿磁盘恢复密钥。"
+  ],
+  "recovery key": [
+    "Write down the recovery key before this laptop leaves for the offsite clinic.",
+    "这台笔记本送去院外门诊之前，先把恢复密钥抄下来。"
+  ],
+  "TPM owner": [
+    "Nobody knows the TPM owner password, so we cannot clear the module without a wipe.",
+    "没人知道可信模块属主密码，不擦数据就清不了这块模块。"
+  ],
+  "escrow": [
+    "Put the new recovery key into escrow before the laptop goes to the ward.",
+    "笔记本送到病区之前，先把新的恢复密钥放进密钥托管。"
+  ],
+  "MBAM": [
+    "MBAM (Microsoft BitLocker Administration and Monitoring) stores recovery keys for every nursing laptop.",
+    "MBAM（磁盘加密管理）存着每台护理笔记本的恢复密钥。"
+  ],
+  "disk unlock": [
+    "Disk unlock failed on her laptop because the TPM saw a firmware change.",
+    "她笔记本的磁盘解锁失败了，因为可信模块发现固件变过。"
+  ],
+  "pre-boot": [
+    "Pre-boot asks for the PIN before Windows loads, so a stolen laptop stays sealed.",
+    "开机前验证会在 Windows 加载前索要密码，偷走的笔记本因此打不开盘。"
+  ],
+  "BitLocker PIN": [
+    "She forgot the BitLocker PIN, so the laptop stopped at the pre-boot screen.",
+    "她忘了磁盘开机密码，笔记本停在开机前的界面上。"
+  ],
+  "startup key": [
+    "The startup key lives on a USB stick that must be plugged in before this kiosk boots.",
+    "启动密钥在一个 U 盘上，这台查询机开机前必须插着它。"
+  ],
+  "USB key": [
+    "This kiosk will not pass pre-boot unless the USB key is plugged into the front port.",
+    "U 盘密钥不插在前面的口上，这台查询机就过不了开机前验证。"
+  ],
+  "network unlock": [
+    "Network unlock let the desktop boot without a PIN because it could see the key server.",
+    "这台台式机能看到密钥服务器，网络解锁让它不用密码就启动了。"
+  ],
+  "protector": [
+    "The only protector left on this disk is the recovery password, not the TPM.",
+    "这块盘上只剩恢复密码这一个保护器，没有可信模块。"
+  ],
+  "numerical password": [
+    "Read the numerical password in groups of six so she can type it at the pre-boot screen.",
+    "把数字恢复密码按六位一组读给她，她才能在开机前界面输入。"
+  ],
+  "FIPS": [
+    "FIPS (Federal Information Processing Standards) mode is required on laptops that leave the campus.",
+    "带出院区的笔记本必须打开 FIPS（联邦加密标准）模式。"
+  ],
+  "HSM": [
+    "The HSM (Hardware Security Module) holds the root key, and the application servers never see it.",
+    "HSM（硬件安全模块）保管着根密钥，应用服务器始终看不到它。"
+  ],
+  "KMS": [
+    "KMS (Key Management Service) wrapped the data key so the database file stays encrypted at rest.",
+    "KMS（密钥管理服务）包住了数据密钥，数据库文件在落盘后仍是加密的。"
+  ],
+  "CMK": [
+    "The CMK (Customer Master Key) for the archive never leaves the hardware module.",
+    "归档用的 CMK（客户主密钥）始终不离开硬件模块。"
+  ],
+  "envelope encryption": [
+    "Envelope encryption wraps the data key with the master key so we can rotate one without rewriting files.",
+    "信封加密用主密钥包住数据密钥，这样轮换其中一把就不用重写文件。"
+  ],
+  "data key": [
+    "The data key encrypts the archive file, and the master key encrypts that data key.",
+    "数据密钥负责加密归档文件，主密钥再去加密这把数据密钥。"
+  ],
+  "key alias": [
+    "Point the app at the key alias so we can rotate the key without a config change.",
+    "让应用指向密钥别名，轮换密钥时就不用改配置。"
+  ],
+  "key policy": [
+    "The key policy lets the archive role encrypt and denies everyone else.",
+    "密钥策略允许归档角色做加密，其他人一律拒绝。"
+  ],
+  "key deletion": [
+    "Key deletion is scheduled for seven days from now, so we can still cancel it.",
+    "密钥删除排在七天之后，现在还取消得了。"
+  ],
+  "key disable": [
+    "After key disable, that archive key can no longer encrypt new files.",
+    "密钥停用之后，那把归档密钥不能再加密新文件。"
+  ],
+  "key enable": [
+    "After key enable, the archive key accepted new writes again.",
+    "密钥启用之后，归档密钥又能接受新的写入了。"
+  ],
+  "cryptographic erase": [
+    "Cryptographic erase destroys the media key, and the leftover bits become unreadable.",
+    "加密擦除毁掉介质密钥之后，盘上剩下的数据就读不出来了。"
+  ],
+  "secure wipe": [
+    "A secure wipe of the retired PC takes hours, so start it before the pickup.",
+    "退役电脑的安全擦除要好几个小时，来收机器之前就开始。"
+  ],
+  "disk wipe": [
+    "The disk wipe on that retired array finished overnight and the drives are ready to leave.",
+    "那套退役阵列的磁盘擦除夜里做完了，硬盘可以拿走了。"
+  ],
+  "degauss": [
+    "Degauss the old backup tapes before they leave the records room.",
+    "旧备份磁带离开病案室之前，先消磁。"
+  ],
+  "physical destruction": [
+    "Physical destruction is required for drives that failed a wipe and still spin up.",
+    "擦除失败但还能转起来的硬盘，必须做物理销毁。"
+  ],
+  "media sanitization": [
+    "Media sanitization for the retired array has to finish before the vendor takes the disks.",
+    "厂商把盘拿走之前，退役阵列的介质净化必须做完。"
+  ],
+  "NIST wipe": [
+    "Use a NIST wipe on drives that will be reused inside the hospital.",
+    "医院内部还要继续用的硬盘，按标准擦除来做。"
+  ],
+  "DoD wipe": [
+    "A DoD wipe takes longer, so reserve it for drives that stored patient identifiers.",
+    "国防部擦除更花时间，留给存过患者标识的硬盘。"
+  ],
+  "spare disk": [
+    "Keep a spare disk of the same size on the shelf beside the imaging array.",
+    "在影像阵列旁边的架子上留一块同样大小的备用磁盘。"
+  ],
+  "hot spare": [
+    "The hot spare took over within a minute after disk three dropped out of the set.",
+    "三号盘掉出阵列后，热备盘在一分钟内接上了。"
+  ],
+  "cold spare": [
+    "The cold spare is on the shelf, so someone has to seat it before the rebuild starts.",
+    "冷备盘在架子上，得有人把它装进去，重建才会开始。"
+  ],
+  "rebuild time": [
+    "Rebuild time on this wide set is about a day, so leave the hot spare assigned.",
+    "这么宽的一组盘，重建时间大约一天，热备盘先别拆。"
+  ],
+  "degraded array": [
+    "The degraded array is still serving images, but a second disk failure would stop it.",
+    "降级阵列还在出图像，但再坏一块盘它就会停。"
+  ],
+  "failed disk": [
+    "Pull the failed disk from slot four only after the hot spare has finished rebuilding.",
+    "等热备盘重建完，再从四号槽拔出故障磁盘。"
+  ],
+  "predictive failure": [
+    "Predictive failure on disk two means we should replace it before the array degrades.",
+    "二号盘已经预警故障，应该在阵列降级之前把它换掉。"
+  ],
+  "SMART": [
+    "SMART (Self-Monitoring, Analysis and Reporting Technology) flagged disk two a week before it failed.",
+    "SMART（磁盘健康监测）在二号盘坏掉前一周就报了警。"
+  ],
+  "bad sector": [
+    "A growing bad sector count on disk five is why that virtual disk feels slow.",
+    "五号盘的坏扇区越来越多，那块虚拟磁盘因此变慢。"
+  ],
+  "uncorrectable error": [
+    "An uncorrectable error on disk five means the array can no longer repair that block.",
+    "五号盘出现不可纠正错误，阵列已经修不好那个块了。"
+  ],
+  "reallocated sector": [
+    "The reallocated sector count on disk five jumped overnight, so order a replacement.",
+    "五号盘的重映射扇区计数夜里跳了一截，去订一块替换盘。"
+  ],
+  "spin-up": [
+    "Spin-up of the archive shelves takes almost a minute after the nightly idle.",
+    "夜间休眠之后，归档盘柜的磁盘启动差不多要一分钟。"
+  ],
+  "head crash": [
+    "A head crash on that old shelf destroyed the only copy of the 2014 studies.",
+    "那个旧盘柜磁头损坏，把 2014 年检查的唯一副本毁了。"
+  ],
+  "SSD": [
+    "Put the database on SSD (Solid State Drive) and leave the bulk images on spinning disks.",
+    "数据库放在 SSD（固态硬盘）上，大批影像仍放在机械盘上。"
+  ],
+  "HDD": [
+    "The HDD (Hard Disk Drive) in the archive shelf is louder and slower than the new flash tier.",
+    "归档柜里的 HDD（机械硬盘）比新的闪存层更吵，也更慢。"
+  ],
+  "NVMe": [
+    "NVMe (Non-Volatile Memory Express) on the database host made log writes several times faster.",
+    "数据库主机上的 NVMe（高速固态接口）让日志写入快了好几倍。"
+  ],
+  "SATA": [
+    "The SATA (Serial ATA) bay in this old host is too slow for the database logs.",
+    "这台旧主机上的 SATA（串口硬盘接口）盘位对数据库日志来说太慢。"
+  ],
+  "SAS": [
+    "Use SAS (Serial Attached SCSI) disks in the array; the SATA bay is only for the boot device.",
+    "阵列里用 SAS（服务器硬盘接口）盘，SATA 盘位只留给启动盘。"
+  ],
+  "M.2": [
+    "The M.2 boot drive on this host is loose, and the server drops into setup.",
+    "这台主机的 M.2 启动盘松了，服务器会掉进设置界面。"
+  ],
+  "hot swap": [
+    "Hot swap let us replace disk four while the imaging array kept serving studies.",
+    "靠热插拔，我们在影像阵列继续提供检查的同时换掉了四号盘。"
+  ],
+  "caddy": [
+    "Seat the replacement disk in the caddy before you slide it into bay four.",
+    "先把替换盘固定进硬盘托架，再推进四号盘位。"
+  ],
+  "backplane": [
+    "Two bays on the backplane stopped seeing disks after we reseated the cable.",
+    "线重新插过之后，硬盘背板上有两个盘位不再认盘。"
+  ],
+  "RAID controller": [
+    "The RAID controller battery is dead, so the array fell back to write-through.",
+    "阵列卡的电池没电了，阵列退回到直写。"
+  ],
+  "battery backup unit": [
+    "Replace the battery backup unit so the array can turn write-back on again.",
+    "把阵列电池换掉，阵列才能重新打开回写。"
+  ],
+  "write cache": [
+    "Write cache on the array is disabled until the battery holds a charge again.",
+    "电池重新蓄上电之前，阵列的写缓存一直关着。"
+  ],
+  "read cache": [
+    "Read cache on the array is serving the same study films to several viewers.",
+    "阵列的读缓存正在把同一份检查影像同时给好几台阅片端。"
+  ],
+  "cache battery": [
+    "The cache battery failed its test, and the array switched itself to write-through.",
+    "缓存电池自检没过，阵列自己切到了直写。"
+  ],
+  "write-through": [
+    "Write-through is slower, but a power loss cannot strand data that was only in cache.",
+    "直写更慢，但停电不会把只待在缓存里的数据弄丢。"
+  ],
+  "write-back": [
+    "Write-back is safe again now that the cache battery holds a full charge.",
+    "缓存电池已经充满，回写又安全了。"
+  ],
+  "stripe": [
+    "Each stripe spreads one write across all six disks in the imaging set.",
+    "每一条条带都把一次写入分到影像组的六块盘上。"
+  ],
+  "mirror": [
+    "The mirror still has a full copy, so the array survived the loss of disk two.",
+    "镜像盘上还有完整副本，所以丢了二号盘阵列也撑住了。"
+  ],
+  "parity": [
+    "Parity on this set can rebuild one missing disk, but not two at once.",
+    "这组盘的校验能重建一块丢失的盘，不能同时重建两块。"
+  ],
+  "RAID 1": [
+    "RAID 1 keeps a second copy of the database logs on the paired disk.",
+    "镜像阵列在配对盘上留着数据库日志的第二份。"
+  ],
+  "RAID 5": [
+    "RAID 5 on the file server can lose one disk and still serve the ward shares.",
+    "文件服务器上的校验阵列可以坏一块盘，病区共享仍然能用。"
+  ],
+  "RAID 6": [
+    "RAID 6 survived two failed disks in the archive, and the studies stayed online.",
+    "归档上的双校验阵列扛住了两块故障盘，检查仍然在线。"
+  ],
+  "RAID 10": [
+    "RAID 10 mirrors each pair and then stripes across those pairs for the database.",
+    "镜像条带先镜像每一对盘，再在这些盘对上做条带，给数据库用。"
+  ],
+  "JBOD": [
+    "JBOD (Just a Bunch of Disks) on that shelf has no parity, so one disk loss is permanent.",
+    "那个盘柜上的 JBOD（简单磁盘组合）没有校验，坏一块盘数据就没了。"
+  ],
+  "thin provision": [
+    "Thin provision let us assign more space than the pool holds, so watch the free capacity.",
+    "精简配置让我们划出的空间超过了池子实有容量，所以要盯着剩余空间。"
+  ],
+  "thick provision": [
+    "Thick provision reserved the full disk up front, so this database cannot be starved later.",
+    "厚配置一开始就占满了整块空间，这个数据库以后不会被挤掉容量。"
+  ],
+  "overcommit": [
+    "Do not overcommit storage on the pool that holds the HIS database.",
+    "存放 HIS 数据库的那个存储池不要超分。"
+  ],
+  "storage pool": [
+    "The storage pool for images is down to eight percent free after the weekend studies.",
+    "周末的检查做完，影像存储池的剩余空间只剩百分之八。"
+  ],
+  "datastore": [
+    "The datastore that holds the HIS disks is the one running low on free space.",
+    "放 HIS 磁盘的那个数据存储，就是剩余空间见底的那个。"
+  ],
+  "VMDK": [
+    "The VMDK (Virtual Machine Disk) for the HIS data disk grew past the datastore free space.",
+    "HIS 数据盘的 VMDK（虚拟磁盘文件）已经长过数据存储的剩余空间。"
+  ],
+  "VHD": [
+    "The VHD (Virtual Hard Disk) for that lab VM sits on a volume that is nearly full.",
+    "那台检验虚拟机的 VHD（虚拟硬盘）放在一个快满的卷上。"
+  ],
+  "snapshot chain": [
+    "The snapshot chain on the HIS VM is six levels deep and slowing every write.",
+    "HIS 虚拟机的快照链已经六层，每次写入都变慢。"
+  ],
+  "delta disk": [
+    "The delta disk from last week's snapshot is larger than the base disk now.",
+    "上周快照留下的增量盘，现在比基础盘还大。"
+  ],
+  "linked clone": [
+    "A linked clone of the training VM shares the base disk and only stores changes.",
+    "培训虚拟机的链接克隆和基础盘共用空间，只另外存变更。"
+  ],
+  "full clone": [
+    "A full clone of the HIS VM copies every block and can move to another datastore.",
+    "HIS 虚拟机的完整克隆会复制每一个块，也能迁到别的数据存储。"
+  ],
+  "template VM": [
+    "Deploy each clinic desktop from the template VM so every desk starts from the same build.",
+    "每台门诊桌面都从虚拟机模板部署，每个工位的起点才是同一套构建。"
+  ],
+  "instant clone": [
+    "An instant clone of the training desktop was ready before the class sat down.",
+    "上课入座之前，培训桌面的即时克隆就已经好了。"
+  ],
+  "vMotion": [
+    "vMotion moved the HIS VM off the failing host without dropping the clinic sessions.",
+    "在线迁移把 HIS 虚拟机挪离了那台故障主机，门诊会话没有断。"
+  ],
+  "storage vMotion": [
+    "Storage vMotion is moving the HIS disks onto the new array while users stay connected.",
+    "存储在线迁移正在把 HIS 磁盘迁到新阵列，用户保持连接。"
+  ],
+  "HA cluster": [
+    "The HA cluster restarted the HIS VM on another host after host two died.",
+    "二号主机宕了之后，高可用集群在另一台主机上把 HIS 虚拟机拉了起来。"
+  ],
+  "DRS": [
+    "DRS (Distributed Resource Scheduler) moved a noisy lab VM off the host that runs HIS.",
+    "DRS（动态资源调度）把一台抢资源的检验虚拟机挪离了跑 HIS 的主机。"
+  ],
+  "affinity": [
+    "Set affinity so the database VM stays on the same host as its log VM.",
+    "设好亲和性，让数据库虚拟机和它的日志虚拟机留在同一台主机。"
+  ],
+  "anti-affinity": [
+    "Anti-affinity keeps the two domain controllers on different hosts.",
+    "反亲和性让两台域控制器跑在不同的主机上。"
+  ],
+  "resource pool": [
+    "The resource pool for lab VMs is capped so they cannot starve the HIS host.",
+    "实验室虚拟机的资源池加了上限，免得把 HIS 那台主机的资源吃光。"
+  ],
+  "reservation": [
+    "Set a memory reservation on the HIS VM so ballooning cannot reclaim it.",
+    "给 HIS 虚拟机设内存资源预留，内存回收就收不走这部分。"
+  ],
+  "limit": [
+    "The CPU limit on the lab VM is why that test build runs so slowly.",
+    "实验室虚拟机的处理器资源上限，就是那个测试构建这么慢的原因。"
+  ],
+  "shares": [
+    "Raise the CPU shares for the pharmacy VM during the morning dispensing peak.",
+    "早晨发药高峰时，把药房虚拟机的处理器资源份额调高。"
+  ],
+  "ballooning": [
+    "Ballooning on host two started when the lab VMs grabbed the free memory.",
+    "实验室虚拟机把空闲内存抢走之后，二号主机上的内存回收开始了。"
+  ],
+  "swap file": [
+    "The swap file for the HIS VM grew when the host ran out of physical memory.",
+    "主机物理内存用尽时，HIS 虚拟机的交换文件变大了。"
+  ],
+  "CPU ready": [
+    "CPU ready on the HIS VM climbed at 09:00, and the clinic screens lagged.",
+    "09:00 时 HIS 虚拟机的处理器等待升高，门诊界面开始卡。"
+  ],
+  "co-stop": [
+    "Co-stop spiked because the wide HIS VM could not schedule all its processors together.",
+    "共同停顿飙高了，因为那台处理器很多的 HIS 虚拟机没法同时排上全部处理器。"
+  ],
+  "NUMA": [
+    "NUMA (Non-Uniform Memory Access) alignment matters on the wide HIS VM, or memory latency jumps.",
+    "处理器很多的 HIS 虚拟机必须对齐 NUMA（内存亲和架构），否则内存延迟会跳上去。"
+  ],
+  "vCPU": [
+    "The lab VM has eight vCPU and spends the morning waiting to be scheduled.",
+    "实验室虚拟机有八个虚拟处理器，一上午都在等着被调度。"
+  ],
+  "vRAM": [
+    "Give the HIS VM more vRAM before month-end reporting or it will swap.",
+    "月末出报表之前给 HIS 虚拟机加虚拟内存，否则它会开始交换。"
+  ],
+  "guest OS": [
+    "The guest OS on the lab VM is still the old build the vendor refuses to support.",
+    "实验室虚拟机里的客户机系统还是厂商已经不支持的旧版本。"
+  ],
+  "host OS": [
+    "Patch the host OS only after the HIS VM has moved to the other node.",
+    "等 HIS 虚拟机迁到另一台节点，再给宿主机系统打补丁。"
+  ],
+  "tools agent": [
+    "The tools agent inside the HIS VM is two versions behind, so clean shutdown fails.",
+    "HIS 虚拟机里的虚拟化工具代理落后两个版本，正常关机因此失败。"
+  ],
+  "guest customization": [
+    "Guest customization set the clinic hostname and joined the desktop to the domain.",
+    "客户机定制写好了门诊主机名，并把这台桌面加入了域。"
+  ],
+  "sysprep": [
+    "Run sysprep on the reference PC before you capture the clinic image.",
+    "抓门诊镜像之前，先在参考电脑上做系统封装。"
+  ],
+  "SID duplication": [
+    "SID duplication on the cloned PCs made domain join fail for the whole clinic row.",
+    "克隆电脑的安全标识重复，整排门诊机器加域都失败了。"
+  ],
+  "IP conflict": [
+    "An IP conflict appeared when two label printers came up with the same address.",
+    "两台标签打印机带着同一个地址起来，地址冲突就出现了。"
+  ],
+  "duplicate MAC": [
+    "A duplicate MAC on the cloned VM made the switch flap the pharmacy port.",
+    "克隆虚拟机的网卡地址重复，交换机把药房那个端口打得一直抖。"
+  ],
+  "promiscuous mode": [
+    "Promiscuous mode is enabled on the sensor port group and nowhere else.",
+    "混杂模式只开在传感器那个端口组上，别处都没有。"
+  ],
+  "forged transmit": [
+    "Leave forged transmit blocked so a guest VM cannot send with another host's address.",
+    "伪造发送继续保持拦截，客户机就不能冒用别的主机地址发包。"
+  ],
+  "MAC change": [
+    "MAC change is rejected on the clinic port group, so a VM cannot spoof its neighbor.",
+    "门诊端口组拒绝网卡地址更改，虚拟机就不能伪装成旁边那一台。"
+  ],
+  "port group": [
+    "Put the pharmacy phones on the voice port group, not the PC port group.",
+    "药房电话放进语音端口组，不要放进电脑端口组。"
+  ],
+  "virtual switch": [
+    "The virtual switch for the server VLAN lost its uplink when the physical NIC died.",
+    "物理网卡一坏，服务器 VLAN 的虚拟交换机就失去了上联。"
+  ],
+  "uplink NIC": [
+    "The uplink NIC on host two is down, and every VM there lost the server VLAN.",
+    "二号主机的上联网卡断了，上面每台虚拟机都掉出了服务器 VLAN。"
+  ],
+  "NIC teaming": [
+    "NIC teaming kept the host online when one physical port on the rack switch died.",
+    "机柜交换机有一个物理口坏了，网卡绑定仍让主机保持在线。"
+  ],
+  "LACP": [
+    "LACP (Link Aggregation Control Protocol) on the host uplinks needs the matching channel on the switch.",
+    "主机上联如果做了 LACP（链路聚合），交换机上必须有对应的通道。"
+  ],
+  "load balance": [
+    "The load balance across the two uplinks is uneven, and one port is near full.",
+    "两条上联之间的负载分担不均，有一个口已经接近打满。"
+  ],
+  "failover order": [
+    "The failover order uses the 10-gig port first and the 1-gig port only as backup.",
+    "故障切换顺序先用万兆口，千兆口只作备用。"
+  ],
+  "beacon probing": [
+    "Beacon probing marked the uplink failed even though the switch port still showed link.",
+    "交换机口还显示链路是通的，信标探测却把上联标成了故障。"
+  ],
+  "network isolation": [
+    "Network isolation put the infected registration PC on a VLAN with no routes out.",
+    "网络隔离把那台中招的挂号电脑放进了一个出不去的 VLAN。"
+  ],
+  "microsegmentation": [
+    "Microsegmentation stops the pharmacy VLAN from talking to the imaging archive directly.",
+    "微分段不让药房 VLAN 直接和影像归档通信。"
+  ],
+  "distributed firewall": [
+    "The distributed firewall drops lab traffic that tries to reach the medical-record subnet.",
+    "分布式防火墙会丢掉试图进入病历子网的检验流量。"
+  ],
+  "east-west traffic": [
+    "East-west traffic between the app tier and the database never leaves the host.",
+    "应用层和数据库之间的东西向流量始终不离开这台主机。"
+  ],
+  "north-south traffic": [
+    "North-south traffic from the clinics to the portal passes the perimeter firewall.",
+    "门诊到门户的南北向流量会经过边界防火墙。"
+  ],
+  "hairpin": [
+    "Hairpin on the firewall sends the return path back out the same clinic link.",
+    "防火墙上的回流转发把回程从同一条门诊链路送回去。"
+  ],
+  "anycast": [
+    "Anycast lets every campus reach the nearest DNS resolver with the same address.",
+    "任播让每个院区用同一个地址访问离自己最近的 DNS 解析器。"
+  ],
+  "unicast": [
+    "Unicast is how the HIS app reaches one database host, not the whole subnet.",
+    "HIS 应用访问某一台数据库主机靠的是单播，不是对整个子网说话。"
+  ],
+  "multicast": [
+    "Multicast carries the nurse-call alerts, so a missing querier silenced a whole floor.",
+    "护士呼叫告警走组播，查询器一缺，整层楼就没了声音。"
+  ],
+  "broadcast": [
+    "A broadcast from the bad printer NIC filled the clinic VLAN within a minute.",
+    "那块坏掉的打印机网卡发出的广播，一分钟内灌满了门诊 VLAN。"
+  ],
+  "IGMP": [
+    "IGMP (Internet Group Management Protocol) snooping stopped the nurse-call flood from reaching every port.",
+    "IGMP（组播管理协议）侦听拦住了护士呼叫的泛洪，没有让它冲到每个端口。"
+  ],
+  "protocol independent multicast": [
+    "Protocol independent multicast builds the tree that carries nurse-call video between closets.",
+    "协议无关组播建好了树，护士呼叫的视频才在各个弱电间之间传送。"
+  ],
+  "mDNS": [
+    "mDNS (Multicast DNS) from a personal printer answered names that belong to the hospital.",
+    "一台个人打印机发出的 mDNS（组播域名）应答了本属于医院的名称。"
+  ],
+  "LLMNR": [
+    "LLMNR (Link-Local Multicast Name Resolution) is disabled on clinic PCs so a rogue host cannot answer.",
+    "门诊电脑上关了 LLMNR（本地链路名称解析），冒充的主机就不能抢答名称。"
+  ],
+  "NetBIOS": [
+    "NetBIOS name queries are still leaking on the clinic VLAN from old label printers.",
+    "旧标签打印机还在门诊 VLAN 上泄漏网上基本输入输出的名称查询。"
+  ],
+  "WINS": [
+    "WINS (Windows Internet Name Service) is still required by one old instrument that cannot use DNS.",
+    "有一台不能用 DNS 的旧仪器，仍然需要 WINS（Windows名称服务）。"
+  ],
+  "name resolution": [
+    "Name resolution for the lab server failed on the ward, but the raw address still worked.",
+    "病区上检验服务器的名称解析失败了，但直接用地址仍然能通。"
+  ],
+  "split-brain DNS": [
+    "Split-brain DNS gives staff the internal portal address and guests the public one.",
+    "脑裂域名给员工内部门户地址，给外来访客公网地址。"
+  ],
+  "conditional forwarder": [
+    "The conditional forwarder sends partner-lab names to their DNS and keeps ours local.",
+    "条件转发把合作检验所的名称送到他们的 DNS，我们自己的名称仍在本地解析。"
+  ],
+  "stub zone": [
+    "The stub zone for the partner lab holds only the list of their name servers.",
+    "合作检验所的存根区域里只放着他们域名服务器的名单。"
+  ]
+}

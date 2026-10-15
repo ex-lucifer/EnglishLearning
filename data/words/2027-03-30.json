@@ -5,80 +5,80 @@
       "word": "read receipt",
       "phonetic": "/riːd rɪˈsiːt/",
       "meaning": "已读回执",
-      "example": "We talked about the read receipt with the department head.",
-      "exampleZh": "我们和科主任谈了这个已读回执。",
+      "example": "Turn on a read receipt when you send the new policy announcement.",
+      "exampleZh": "发送新的制度通知时，请打开已读回执。",
       "category": "office"
     },
     {
       "word": "delivery failure",
       "phonetic": "/dɪˈlɪvəri ˈfeɪljə/",
       "meaning": "发送失败",
-      "example": "Please bring the delivery failure to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个发送失败。",
+      "example": "Sending the roster to payroll produced a delivery failure this morning.",
+      "exampleZh": "今早把排班表发给薪酬处时，出现了发送失败。",
       "category": "office"
     },
     {
       "word": "bounce",
       "phonetic": "/baʊns/",
       "meaning": "退信",
-      "example": "Please bring the bounce to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个退信。",
+      "example": "According to the bounce, her previous mailbox has been closed.",
+      "exampleZh": "从退信来看，她以前的邮箱已经关闭了。",
       "category": "office"
     },
     {
       "word": "outbox",
       "phonetic": "/ˈaʊtbɒks/",
       "meaning": "发件箱",
-      "example": "Please add the outbox to today’s notes.",
-      "exampleZh": "请把发件箱写进今天的记录。",
+      "example": "Look in the outbox; the announcement has not actually gone out.",
+      "exampleZh": "看一下发件箱，那份通知其实还没发出去。",
       "category": "office"
     },
     {
       "word": "drafts folder",
       "phonetic": "/drɑːfts ˈfəʊldə/",
       "meaning": "草稿箱",
-      "example": "Who will own the drafts folder this week?",
-      "exampleZh": "这周这个草稿箱谁来负责？",
+      "example": "You still have that unfinished notice saved in the drafts folder.",
+      "exampleZh": "那份没写完的通知还保存在草稿箱里。",
       "category": "office"
     },
     {
       "word": "DSCP",
       "phonetic": "/ˌdiː es siː ˈpiː/",
       "meaning": "差分服务标记（Differentiated Services Code Point）",
-      "example": "The report is missing a DSCP (Differentiated Services Code Point).",
-      "exampleZh": "这份报告少了 DSCP（Differentiated Services Code Point）。",
+      "example": "We set DSCP (Differentiated Services Code Point) EF on the voice VLAN only.",
+      "exampleZh": "我们只在语音 VLAN 上把 DSCP（差分服务标记）设成 EF。",
       "category": "it"
     },
     {
       "word": "traffic shaping",
       "phonetic": "/ˈtræfɪk ˈʃeɪpɪŋ/",
       "meaning": "流量整形",
-      "example": "Do not touch the traffic shaping during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个流量整形。",
+      "example": "Traffic shaping on the guest link keeps streaming from crowding the clinic uplink.",
+      "exampleZh": "访客链路上的流量整形，是为了不让视频流挤占门诊上联。",
       "category": "it"
     },
     {
       "word": "bandwidth cap",
       "phonetic": "/ˈbændwɪdθ kæp/",
       "meaning": "带宽上限",
-      "example": "The ward asked us to check the bandwidth cap.",
-      "exampleZh": "病区让我们看一下这个带宽上限。",
+      "example": "A bandwidth cap on the guest SSID stops one laptop from filling the link.",
+      "exampleZh": "访客无线上的带宽上限能防止一台笔记本把链路占满。",
       "category": "it"
     },
     {
       "word": "WAN",
       "phonetic": "/wæn/",
       "meaning": "广域网（Wide Area Network）",
-      "example": "Document the WAN (Wide Area Network) change on the ticket.",
-      "exampleZh": "请把 WAN（Wide Area Network）变更写进工单。",
+      "example": "The WAN (Wide Area Network) link to the east campus saturated during image transfers.",
+      "exampleZh": "往东院区传图像时，WAN（广域网）链路被打满了。",
       "category": "it"
     },
     {
       "word": "LAN",
       "phonetic": "/læn/",
       "meaning": "局域网（Local Area Network）",
-      "example": "Test LAN (Local Area Network) from the backup site first.",
-      "exampleZh": "请先从备站点测试 LAN（Local Area Network）。",
+      "example": "The LAN (Local Area Network) in building C stayed up while the WAN link failed.",
+      "exampleZh": "WAN 链路中断时，C 座的 LAN（局域网）仍然是通的。",
       "category": "it"
     }
   ]

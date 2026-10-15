@@ -5,80 +5,80 @@
       "word": "procurement",
       "phonetic": "/prəˈkjʊəmənt/",
       "meaning": "采购",
-      "example": "Please bring the procurement to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个采购。",
+      "example": "Procurement will not treat a verbal quote as a commitment.",
+      "exampleZh": "采购不把口头询价当成承诺。",
       "category": "office"
     },
     {
       "word": "invoice",
       "phonetic": "/ˈɪnvɔɪs/",
       "meaning": "发票",
-      "example": "Could you send the invoice to the project group?",
-      "exampleZh": "你能把发票发到项目群吗？",
+      "example": "The invoice number does not match the purchase order.",
+      "exampleZh": "这张发票的号码和采购订单对不上。",
       "category": "office"
     },
     {
       "word": "reimbursement",
       "phonetic": "/ˌriːɪmˈbɜːsmənt/",
       "meaning": "报销",
-      "example": "Please bring the reimbursement to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个报销。",
+      "example": "Reimbursement was delayed because the hotel bill had no name.",
+      "exampleZh": "报销被拖了，因为酒店账单上没有姓名。",
       "category": "office"
     },
     {
       "word": "itinerary",
       "phonetic": "/aɪˈtɪnərəri/",
       "meaning": "行程",
-      "example": "Please add the itinerary to today’s notes.",
-      "exampleZh": "请把行程写进今天的记录。",
+      "example": "Check the itinerary again if the bureau changes the start time.",
+      "exampleZh": "如果卫健委改了开始时间，再对一遍行程。",
       "category": "office"
     },
     {
       "word": "logistics",
       "phonetic": "/ləˈdʒɪstɪks/",
       "meaning": "后勤安排",
-      "example": "Please add the logistics to today’s notes.",
-      "exampleZh": "请把后勤安排写进今天的记录。",
+      "example": "The logistics for the offsite include a bus and boxed lunches.",
+      "exampleZh": "外出研讨的后勤安排包括一辆大巴和盒饭。",
       "category": "office"
     },
     {
       "word": "field mapping",
       "phonetic": "/fiːld ˈmæpɪŋ/",
       "meaning": "字段对照",
-      "example": "I logged the field mapping in today’s change ticket.",
-      "exampleZh": "我把这个字段对照记进了今天的变更单。",
+      "example": "Field mapping swapped the family name and the given name.",
+      "exampleZh": "字段对照把姓和名对调了。",
       "category": "it"
     },
     {
       "word": "retry queue",
       "phonetic": "/ˈriːtraɪ kjuː/",
       "meaning": "重试队列",
-      "example": "Who is on call for the retry queue this week?",
-      "exampleZh": "这周这个重试队列谁值班？",
+      "example": "The retry queue held two thousand lab results after the outage.",
+      "exampleZh": "停机之后，重试队列里积了两千条检验结果。",
       "category": "it"
     },
     {
       "word": "dead-letter queue",
       "phonetic": "/ded ˈletə kjuː/",
       "meaning": "死信队列",
-      "example": "Who is on call for the dead-letter queue this week?",
-      "exampleZh": "这周这个死信队列谁值班？",
+      "example": "The dead-letter queue caught orders that failed ten times.",
+      "exampleZh": "死信队列收住了失败十次的医嘱。",
       "category": "it"
     },
     {
       "word": "poison message",
       "phonetic": "/ˈpɔɪzn ˈmesɪdʒ/",
       "meaning": "毒化消息",
-      "example": "Do not touch the poison message during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个毒化消息。",
+      "example": "One poison message keeps crashing the result consumer.",
+      "exampleZh": "有一条毒化消息一直把结果消费程序打崩。",
       "category": "it"
     },
     {
       "word": "throttle",
       "phonetic": "/ˈθrɒtl/",
       "meaning": "限流",
-      "example": "Throttle the interface if the lab analyzer falls behind.",
-      "exampleZh": "检验仪器跟不上时请把接口限流。",
+      "example": "Throttle the result feed if the pharmacy queue keeps growing.",
+      "exampleZh": "药房队列要是一直在涨，就把结果流限下来。",
       "category": "it"
     }
   ]

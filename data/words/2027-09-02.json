@@ -5,80 +5,80 @@
       "word": "invalid request",
       "phonetic": "/ɪnˈvælɪd rɪˈkwest/",
       "meaning": "无效请求",
-      "example": "Who will own the invalid request this week?",
-      "exampleZh": "这周这个无效请求谁来负责？",
+      "example": "An invalid request with no patient name cannot be processed today.",
+      "exampleZh": "没有患者姓名的无效请求，今天无法办理。",
       "category": "office"
     },
     {
       "word": "incomplete form",
       "phonetic": "/ˌɪnkəmˈpliːt fɔːm/",
       "meaning": "不完整表格",
-      "example": "Could you send the incomplete form to the project group?",
-      "exampleZh": "你能把不完整表格发到项目群吗？",
+      "example": "Send any incomplete form back before it reaches the file room.",
+      "exampleZh": "不完整的表格在送到档案室之前请退回去。",
       "category": "office"
     },
     {
       "word": "missing field",
       "phonetic": "/ˈmɪsɪŋ fiːld/",
       "meaning": "漏填字段",
-      "example": "The missing field still needs a decision today.",
-      "exampleZh": "这个漏填字段今天还得拍个板。",
+      "example": "The missing field on page one is the patient's date of birth.",
+      "exampleZh": "第一页的漏填字段是患者的出生日期。",
       "category": "office"
     },
     {
       "word": "wrong date",
       "phonetic": "/rɒŋ deɪt/",
       "meaning": "日期填错",
-      "example": "The wrong date still needs a decision today.",
-      "exampleZh": "这个日期填错今天还得拍个板。",
+      "example": "The wrong date on the leave form pushed the claim into last month.",
+      "exampleZh": "请假表上日期填错了，这笔申报被算进了上个月。",
       "category": "office"
     },
     {
       "word": "illegible",
       "phonetic": "/ɪˈledʒəbl/",
       "meaning": "字迹难认的",
-      "example": "The signature is illegible; please write it again.",
-      "exampleZh": "签名看不清，请再写一次。",
+      "example": "The signature is illegible, so we cannot see who approved the form.",
+      "exampleZh": "签名字迹难认，看不出是谁批准了这份表格。",
       "category": "office"
     },
     {
       "word": "mailbox database",
       "phonetic": "/ˈmeɪlbɒks ˈdeɪtəbeɪs/",
       "meaning": "邮箱数据库",
-      "example": "Who is on call for the mailbox database this week?",
-      "exampleZh": "这周这个邮箱数据库谁值班？",
+      "example": "The mailbox database for nursing grew quickly after the new ward opened.",
+      "exampleZh": "新病区启用后，护理部的邮箱数据库涨得很快。",
       "category": "it"
     },
     {
       "word": "mailbox quota",
       "phonetic": "/ˈmeɪlbɒks ˈkwəʊtə/",
       "meaning": "邮箱配额",
-      "example": "I logged the mailbox quota in today’s change ticket.",
-      "exampleZh": "我把这个邮箱配额记进了今天的变更单。",
+      "example": "Her mailbox quota is full, so the shift roster bounced back.",
+      "exampleZh": "她的邮箱配额满了，排班表因此被退了回来。",
       "category": "it"
     },
     {
       "word": "archive mailbox",
       "phonetic": "/ˈɑːkaɪv ˈmeɪlbɒks/",
       "meaning": "归档邮箱",
-      "example": "The vendor asked for a screenshot of the archive mailbox.",
-      "exampleZh": "厂商要一张这个归档邮箱的截图。",
+      "example": "Older messages move into her archive mailbox when the main box fills.",
+      "exampleZh": "主邮箱一满，较旧的邮件就会进到她的归档邮箱。",
       "category": "it"
     },
     {
       "word": "litigation hold",
       "phonetic": "/ˌlɪtɪˈɡeɪʃn həʊld/",
       "meaning": "诉讼保留",
-      "example": "I logged the litigation hold in today’s change ticket.",
-      "exampleZh": "我把这个诉讼保留记进了今天的变更单。",
+      "example": "Litigation hold keeps every message in that mailbox until the case ends.",
+      "exampleZh": "在案件结束前，诉讼保留会留下该邮箱的每一封邮件。",
       "category": "it"
     },
     {
       "word": "in-place hold",
       "phonetic": "/ɪn pleɪs həʊld/",
       "meaning": "就地保留",
-      "example": "The vendor asked for a screenshot of the in-place hold.",
-      "exampleZh": "厂商要一张这个就地保留的截图。",
+      "example": "An in-place hold preserves deleted mail without moving it elsewhere.",
+      "exampleZh": "就地保留会留下已删除的邮件，而不把它挪到别处。",
       "category": "it"
     }
   ]

@@ -45,40 +45,40 @@
       "word": "virtual machine",
       "phonetic": "/ˈvɜːtʃuəl məˈʃiːn/",
       "meaning": "虚拟机",
-      "example": "Do not touch the virtual machine during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个虚拟机。",
+      "example": "The virtual machine for the lab interface ran out of memory at dawn.",
+      "exampleZh": "检验接口那台虚拟机在黎明时把内存用尽了。",
       "category": "it"
     },
     {
       "word": "hypervisor",
       "phonetic": "/ˈhaɪpəvaɪzə/",
       "meaning": "虚拟化平台",
-      "example": "The vendor asked for a screenshot of the hypervisor.",
-      "exampleZh": "厂商要一张这个虚拟化平台的截图。",
+      "example": "The hypervisor hosting PACS reported a storage path error at dawn.",
+      "exampleZh": "承载影像系统的虚拟化平台在黎明时报了存储路径错误。",
       "category": "it"
     },
     {
       "word": "container image",
       "phonetic": "/kənˈteɪnə ˈɪmɪdʒ/",
       "meaning": "容器镜像",
-      "example": "Please test the container image on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个容器镜像。",
+      "example": "The container image for the order API is two releases behind.",
+      "exampleZh": "医嘱接口的容器镜像落后了两个版本。",
       "category": "it"
     },
     {
       "word": "Kubernetes",
       "phonetic": "/ˌkuːbəˈnetiːz/",
       "meaning": "容器编排",
-      "example": "Do not touch the Kubernetes during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个容器编排。",
+      "example": "Kubernetes restarted the result pod six times in one hour.",
+      "exampleZh": "容器编排在一小时内把结果容器重启了六次。",
       "category": "it"
     },
     {
       "word": "Docker host",
       "phonetic": "/ˈdɒkə həʊst/",
       "meaning": "容器宿主机",
-      "example": "The vendor asked for a screenshot of the Docker host.",
-      "exampleZh": "厂商要一张这个容器宿主机的截图。",
+      "example": "The Docker host on the integration node filled its disk with old images.",
+      "exampleZh": "集成节点上的容器宿主机被旧镜像把磁盘占满了。",
       "category": "it"
     }
   ]

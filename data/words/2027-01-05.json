@@ -5,80 +5,80 @@
       "word": "nurse station",
       "phonetic": "/nɜːs ˈsteɪʃn/",
       "meaning": "护士站",
-      "example": "Who will own the nurse station this week?",
-      "exampleZh": "这周这个护士站谁来负责？",
+      "example": "Leave the discharge papers at the nurse station rather than at reception.",
+      "exampleZh": "出院材料放在护士站，不要放在接待处。",
       "category": "office"
     },
     {
       "word": "information desk",
       "phonetic": "/ˌɪnfəˈmeɪʃn desk/",
       "meaning": "问询台",
-      "example": "Please add the information desk to today’s notes.",
-      "exampleZh": "请把问询台写进今天的记录。",
+      "example": "The information desk keeps paper maps for the new wing.",
+      "exampleZh": "问询台备有新病房楼的纸质地图。",
       "category": "office"
     },
     {
       "word": "duty",
       "phonetic": "/ˈdjuːti/",
       "meaning": "值班职责",
-      "example": "I put the duty on the shared drive.",
-      "exampleZh": "我把值班职责放到了共享盘。",
+      "example": "Listing visitor passes is part of your duty this week.",
+      "exampleZh": "本周登记访客证是你的值班职责之一。",
       "category": "office"
     },
     {
       "word": "assignment",
       "phonetic": "/əˈsaɪnmənt/",
       "meaning": "任务分配",
-      "example": "The assignment still needs a decision today.",
-      "exampleZh": "这个任务分配今天还得拍个板。",
+      "example": "Your assignment today is the lobby desk until two.",
+      "exampleZh": "你今天的任务分配是两点前守大厅服务台。",
       "category": "office"
     },
     {
       "word": "department head",
       "phonetic": "/dɪˈpɑːtmənt hed/",
       "meaning": "科室主任",
-      "example": "I put the department head on the shared drive.",
-      "exampleZh": "我把科室主任放到了共享盘。",
+      "example": "The department head asked for the complaint summary before lunch.",
+      "exampleZh": "科室主任要求午饭前拿到投诉摘要。",
       "category": "office"
     },
     {
       "word": "VLAN",
       "phonetic": "/ˈviːlæn/",
       "meaning": "虚拟局域网（Virtual Local Area Network）",
-      "example": "We will cut over VLAN (Virtual Local Area Network) after hours.",
-      "exampleZh": "下班后我们再切换 VLAN（Virtual Local Area Network）。",
+      "example": "VLAN (Virtual Local Area Network) for the medical devices was merged into the office network.",
+      "exampleZh": "医疗设备用的VLAN（虚拟局域网）被并进了办公网络。",
       "category": "it"
     },
     {
       "word": "subnet",
       "phonetic": "/ˈsʌbnet/",
       "meaning": "子网",
-      "example": "The ward asked us to check the subnet.",
-      "exampleZh": "病区让我们看一下这个子网。",
+      "example": "This subnet for the monitors has no free addresses left.",
+      "exampleZh": "监护仪使用的这个子网已经没有空闲地址了。",
       "category": "it"
     },
     {
       "word": "gateway",
       "phonetic": "/ˈɡeɪtweɪ/",
       "meaning": "网关",
-      "example": "We will verify the gateway after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个网关。",
+      "example": "The gateway for the radiology floor stopped forwarding at noon.",
+      "exampleZh": "放射楼层的网关从中午起不再转发。",
       "category": "it"
     },
     {
       "word": "router",
       "phonetic": "/ˈruːtə/",
       "meaning": "路由器",
-      "example": "We will verify the router after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个路由器。",
+      "example": "The router between the wards and the data center rebooted by itself.",
+      "exampleZh": "病区和数据中心之间的路由器自己重启了。",
       "category": "it"
     },
     {
       "word": "switch",
       "phonetic": "/swɪtʃ/",
       "meaning": "交换机",
-      "example": "Who is on call for the switch this week?",
-      "exampleZh": "这周这个交换机谁值班？",
+      "example": "The switch in the clinic closet is running far too hot.",
+      "exampleZh": "门诊弱电间里的那台交换机温度过高。",
       "category": "it"
     }
   ]

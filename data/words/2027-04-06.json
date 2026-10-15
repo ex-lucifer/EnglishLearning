@@ -5,80 +5,80 @@
       "word": "cover letter",
       "phonetic": "/ˈkʌvə ˈletə/",
       "meaning": "说明函",
-      "example": "We talked about the cover letter with the department head.",
-      "exampleZh": "我们和科主任谈了这个说明函。",
+      "example": "When the contract goes to legal, put a cover letter on the front.",
+      "exampleZh": "合同送法务时，请在最前面附上说明函。",
       "category": "office"
     },
     {
       "word": "transmittal",
       "phonetic": "/trænzˈmɪtl/",
       "meaning": "送文单",
-      "example": "Please add the transmittal to today’s notes.",
-      "exampleZh": "请把送文单写进今天的记录。",
+      "example": "List every attachment on the transmittal that goes with this packet.",
+      "exampleZh": "请在随这套材料附上的送文单里列出每一份附件。",
       "category": "office"
     },
     {
       "word": "routing slip",
       "phonetic": "/ˈruːtɪŋ slɪp/",
       "meaning": "传阅单",
-      "example": "Who will own the routing slip this week?",
-      "exampleZh": "这周这个传阅单谁来负责？",
+      "example": "Put a routing slip on the folder before it goes to the next office.",
+      "exampleZh": "文件夹送到下一个办公室之前，请放上一张传阅单。",
       "category": "office"
     },
     {
       "word": "approval chain",
       "phonetic": "/əˈpruːvl tʃeɪn/",
       "meaning": "审批链",
-      "example": "Please bring the approval chain to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个审批链。",
+      "example": "Leave requests travel up the approval chain from supervisor to director.",
+      "exampleZh": "请假单沿着审批链，从主管报到主任。",
       "category": "office"
     },
     {
       "word": "counter-sign",
       "phonetic": "/ˈkaʊntə saɪn/",
       "meaning": "会签",
-      "example": "Please counter-sign this before you leave.",
-      "exampleZh": "走之前请把这件事会签。",
+      "example": "Before payroll runs, finance has to counter-sign every overtime claim.",
+      "exampleZh": "发薪之前，每一份加班申报都要经财务会签。",
       "category": "office"
     },
     {
       "word": "UDP",
       "phonetic": "/ˌjuː diː ˈpiː/",
       "meaning": "用户数据报协议（User Datagram Protocol）",
-      "example": "Enable UDP (User Datagram Protocol) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 UDP（User Datagram Protocol）。",
+      "example": "UDP (User Datagram Protocol) 514 must reach the syslog server from every switch.",
+      "exampleZh": "每台交换机都要把 UDP（用户数据报协议）514 送到日志服务器。",
       "category": "it"
     },
     {
       "word": "TLS",
       "phonetic": "/ˌtiː el ˈes/",
       "meaning": "传输层安全（Transport Layer Security）",
-      "example": "Document TLS (Transport Layer Security) in the interface spec.",
-      "exampleZh": "接口说明里请写上 TLS（Transport Layer Security）。",
+      "example": "TLS (Transport Layer Security) on the patient portal still allows an old version.",
+      "exampleZh": "患者门户的 TLS（传输层安全）还允许一个旧版本。",
       "category": "it"
     },
     {
       "word": "HTTPS",
       "phonetic": "/ˌeɪtʃ tiː tiː piː ˈes/",
       "meaning": "加密网页协议（Hypertext Transfer Protocol Secure）",
-      "example": "Document HTTPS (Hypertext Transfer Protocol Secure) in the interface spec.",
-      "exampleZh": "接口说明里请写上 HTTPS（Hypertext Transfer Protocol Secure）。",
+      "example": "HTTPS (Hypertext Transfer Protocol Secure) is required on the patient portal now.",
+      "exampleZh": "患者门户现在必须走 HTTPS（加密网页协议）。",
       "category": "it"
     },
     {
       "word": "HTTP",
       "phonetic": "/ˌeɪtʃ tiː tiː ˈpiː/",
       "meaning": "网页协议（Hypertext Transfer Protocol）",
-      "example": "Please confirm HTTP (Hypertext Transfer Protocol) is allowed through the firewall.",
-      "exampleZh": "请确认防火墙放行 HTTP（Hypertext Transfer Protocol）。",
+      "example": "HTTP (Hypertext Transfer Protocol) on the old lab page redirects to the secure site.",
+      "exampleZh": "旧检验页面的 HTTP（网页协议）会跳到加密站点。",
       "category": "it"
     },
     {
       "word": "FTP",
       "phonetic": "/ˌef tiː ˈpiː/",
       "meaning": "文件传输协议（File Transfer Protocol）",
-      "example": "We use FTP (File Transfer Protocol) for this integration.",
-      "exampleZh": "这条集成用的是 FTP（File Transfer Protocol）。",
+      "example": "FTP (File Transfer Protocol) to the instrument PC should close once the lab moves off it.",
+      "exampleZh": "等检验迁走，仪器电脑上的 FTP（文件传输协议）就该关掉。",
       "category": "it"
     }
   ]

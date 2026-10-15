@@ -5,80 +5,80 @@
       "word": "overbooked",
       "phonetic": "/ˌəʊvəˈbʊkt/",
       "meaning": "排程过满",
-      "example": "The training room is overbooked this morning.",
-      "exampleZh": "培训室今天上午排程过满。",
+      "example": "Thursday afternoon looks overbooked, so cancel the extra briefing.",
+      "exampleZh": "周四下午看起来排程过满，把多加的说明会取消吧。",
       "category": "office"
     },
     {
       "word": "free slot",
       "phonetic": "/friː slɒt/",
       "meaning": "空档",
-      "example": "Please bring the free slot to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个空档。",
+      "example": "Friday at two is the only free slot the vendor can offer.",
+      "exampleZh": "周五两点是供应商能给出的唯一空档。",
       "category": "office"
     },
     {
       "word": "busy",
       "phonetic": "/ˈbɪzi/",
       "meaning": "忙碌的",
-      "example": "The triage desk is busy; please wait.",
-      "exampleZh": "分诊台正忙，请稍等。",
+      "example": "Registration stays busy until that long morning queue has gone.",
+      "exampleZh": "那条长长的早晨队伍散去之前，挂号处一直很忙碌。",
       "category": "office"
     },
     {
       "word": "available",
       "phonetic": "/əˈveɪləbl/",
       "meaning": "有空的",
-      "example": "I am available after the huddle.",
-      "exampleZh": "晨会后我有空。",
+      "example": "Is meeting room two available from half past three?",
+      "exampleZh": "二号会议室从三点半开始有空吗？",
       "category": "office"
     },
     {
       "word": "unavailable",
       "phonetic": "/ˌʌnəˈveɪləbl/",
       "meaning": "没空的",
-      "example": "She is unavailable until Thursday.",
-      "exampleZh": "她周四前没空。",
+      "example": "She is unavailable for the whole of next week.",
+      "exampleZh": "她下周整周都没有空。",
       "category": "office"
     },
     {
       "word": "API quota",
       "phonetic": "/ˌeɪ piː ˈaɪ ˈkwəʊtə/",
       "meaning": "接口配额",
-      "example": "Do not touch the API quota during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个接口配额。",
+      "example": "The API quota for the partner lab resets at midnight, and they already hit it.",
+      "exampleZh": "合作检验所的接口配额要到午夜才重置，他们已经用完了。",
       "category": "it"
     },
     {
       "word": "API version",
       "phonetic": "/ˌeɪ piː ˈaɪ ˈvɜːʃn/",
       "meaning": "接口版本",
-      "example": "The vendor asked for a screenshot of the API version.",
-      "exampleZh": "厂商要一张这个接口版本的截图。",
+      "example": "The old API version retires in June, and three clinic apps still call it.",
+      "exampleZh": "旧接口版本六月停用，还有三个门诊应用在调它。",
       "category": "it"
     },
     {
       "word": "breaking change",
       "phonetic": "/ˈbreɪkɪŋ tʃeɪndʒ/",
       "meaning": "破坏性变更",
-      "example": "I logged the breaking change in today’s change ticket.",
-      "exampleZh": "我把这个破坏性变更记进了今天的变更单。",
+      "example": "This breaking change removes a field the pharmacy robot still reads.",
+      "exampleZh": "这次破坏性变更删掉了药房机器人还在读的字段。",
       "category": "it"
     },
     {
       "word": "backward compatible",
       "phonetic": "/ˈbækwəd kəmˈpætəbl/",
       "meaning": "向后兼容",
-      "example": "Keep the interface backward compatible for the old analyzers.",
-      "exampleZh": "接口要对旧仪器保持向后兼容。",
+      "example": "Keep the results feed backward compatible until every clinic app is upgraded.",
+      "exampleZh": "在所有门诊应用升级完之前，结果推送要保持向后兼容。",
       "category": "it"
     },
     {
       "word": "deprecation",
       "phonetic": "/ˌdeprəˈkeɪʃn/",
       "meaning": "即将废弃",
-      "example": "I logged the deprecation in today’s change ticket.",
-      "exampleZh": "我把这个即将废弃记进了今天的变更单。",
+      "example": "The deprecation notice gives clinics six months before that results method disappears.",
+      "exampleZh": "废弃通知给了门诊六个月，之后那个结果方法就会下线。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "introduce",
       "phonetic": "/ˌɪntrəˈdjuːs/",
       "meaning": "介绍",
-      "example": "Can you introduce it today?",
-      "exampleZh": "你今天能把它介绍吗？",
+      "example": "Before the briefing I will introduce the new person guiding the lobby.",
+      "exampleZh": "情况说明之前，我会介绍新来的大厅引导员。",
       "category": "office"
     },
     {
       "word": "welcome",
       "phonetic": "/ˈwelkəm/",
       "meaning": "欢迎",
-      "example": "Please welcome the new intern at the front desk.",
-      "exampleZh": "请在前台迎接新来的实习生。",
+      "example": "When the new clerks reach the counter, welcome them by name.",
+      "exampleZh": "新文员走到柜台时，请称呼姓名欢迎他们。",
       "category": "office"
     },
     {
       "word": "thank",
       "phonetic": "/θæŋk/",
       "meaning": "感谢",
-      "example": "Thank the night shift for covering the drill.",
-      "exampleZh": "谢谢夜班顶了这次演练。",
+      "example": "Thank the night crew when you see them; they covered the late clinic.",
+      "exampleZh": "见到夜班同事时请感谢他们，晚间门诊是他们值的。",
       "category": "office"
     },
     {
       "word": "apologize",
       "phonetic": "/əˈpɒlədʒaɪz/",
       "meaning": "道歉",
-      "example": "Please apologize to the ward for the late notice.",
-      "exampleZh": "通知晚了，请向病区道歉。",
+      "example": "I apologize for the minutes; they went to the wrong mailbox.",
+      "exampleZh": "纪要发错了邮箱，我为此道歉。",
       "category": "office"
     },
     {
       "word": "congratulate",
       "phonetic": "/kənˈɡrætʃuleɪt/",
       "meaning": "祝贺",
-      "example": "Congratulate the team after the go-live.",
-      "exampleZh": "上线后请祝贺一下团队。",
+      "example": "She passed probation, so we should congratulate her before she leaves today.",
+      "exampleZh": "她通过了试用，我们该在她今天下班前祝贺她。",
       "category": "office"
     },
     {
       "word": "success rate",
       "phonetic": "/səkˈses reɪt/",
       "meaning": "成功率",
-      "example": "Please test the success rate on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个成功率。",
+      "example": "Success rate for lab messages dropped once the interface began retrying.",
+      "exampleZh": "接口一开始重试，检验消息的成功率就下降了。",
       "category": "it"
     },
     {
       "word": "p95 latency",
       "phonetic": "/piː naɪnti faɪv ˈleɪtənsi/",
       "meaning": "百分之九十五延迟",
-      "example": "The ward asked us to check the p95 latency.",
-      "exampleZh": "病区让我们看一下这个百分之九十五延迟。",
+      "example": "P95 latency on the order screen crossed three seconds at the morning peak.",
+      "exampleZh": "早高峰时，医嘱界面的百分之九十五延迟超过了三秒。",
       "category": "it"
     },
     {
       "word": "p99 latency",
       "phonetic": "/piː naɪnti naɪn ˈleɪtənsi/",
       "meaning": "百分之九十九延迟",
-      "example": "Who is on call for the p99 latency this week?",
-      "exampleZh": "这周这个百分之九十九延迟谁值班？",
+      "example": "P99 latency for opening a chart reached twelve seconds for a few doctors.",
+      "exampleZh": "少数医生打开病历时，百分之九十九延迟到了十二秒。",
       "category": "it"
     },
     {
       "word": "cold start",
       "phonetic": "/kəʊld stɑːt/",
       "meaning": "冷启动",
-      "example": "The ward asked us to check the cold start.",
-      "exampleZh": "病区让我们看一下这个冷启动。",
+      "example": "Cold start of the report service takes almost a minute after each deploy.",
+      "exampleZh": "每次部署之后，报表服务的冷启动要将近一分钟。",
       "category": "it"
     },
     {
       "word": "warm start",
       "phonetic": "/wɔːm stɑːt/",
       "meaning": "热启动",
-      "example": "Do not touch the warm start during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个热启动。",
+      "example": "Warm start of the order service came back within a few seconds.",
+      "exampleZh": "医嘱服务的热启动几秒钟就回来了。",
       "category": "it"
     }
   ]

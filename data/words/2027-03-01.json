@@ -5,80 +5,80 @@
       "word": "enforce",
       "phonetic": "/ɪnˈfɔːs/",
       "meaning": "执行落实",
-      "example": "Please enforce this before you leave.",
-      "exampleZh": "走之前请把这件事执行落实。",
+      "example": "At the staff entrance, security has to enforce the rule about badges.",
+      "exampleZh": "在员工入口，安保必须把工牌规定执行落实。",
       "category": "office"
     },
     {
       "word": "comply",
       "phonetic": "/kəmˈplaɪ/",
       "meaning": "遵守",
-      "example": "We must comply with the privacy notice.",
-      "exampleZh": "我们必须遵守这份隐私告知。",
+      "example": "Visitor rules are strict, and every on-site vendor must comply with them.",
+      "exampleZh": "访客规定很严，所有在院供应商都必须遵守。",
       "category": "office"
     },
     {
       "word": "waive",
       "phonetic": "/weɪv/",
       "meaning": "豁免",
-      "example": "Please waive this before you leave.",
-      "exampleZh": "走之前请把这件事豁免。",
+      "example": "If the lateness was payroll's fault, finance should waive the charge.",
+      "exampleZh": "如果延误是薪酬处造成的，财务应豁免这笔费用。",
       "category": "office"
     },
     {
       "word": "grant",
       "phonetic": "/ɡrɑːnt/",
       "meaning": "批准给予",
-      "example": "We still need to grant this.",
-      "exampleZh": "这件事还得批准给予。",
+      "example": "For the licensing exam, the director can grant two days away from the desk.",
+      "exampleZh": "为了执业考试，主任可以批准离开柜台两天。",
       "category": "office"
     },
     {
       "word": "deny",
       "phonetic": "/dɪˈnaɪ/",
       "meaning": "拒绝批准",
-      "example": "We still need to deny this.",
-      "exampleZh": "这件事还得拒绝批准。",
+      "example": "Next week's roster is full, so HR will deny that extra leave.",
+      "exampleZh": "下周排班已满，人力资源会拒绝批准那份额外的假。",
       "category": "office"
     },
     {
       "word": "CPU saturation",
       "phonetic": "/ˌsiː piː ˈjuː ˌsætʃəˈreɪʃn/",
       "meaning": "处理器打满",
-      "example": "The vendor asked for a screenshot of the CPU saturation.",
-      "exampleZh": "厂商要一张这个处理器打满的截图。",
+      "example": "CPU saturation on the order host began when the census jobs overlapped.",
+      "exampleZh": "几份在院统计叠在一起跑时，医嘱主机出现了处理器打满。",
       "category": "it"
     },
     {
       "word": "disk full",
       "phonetic": "/dɪsk fʊl/",
       "meaning": "磁盘已满",
-      "example": "Do not touch the disk full during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个磁盘已满。",
+      "example": "Disk full on the interface host stopped new lab results at dawn.",
+      "exampleZh": "黎明时接口主机磁盘已满，新的检验结果进不来了。",
       "category": "it"
     },
     {
       "word": "inode",
       "phonetic": "/ˈaɪnəʊd/",
       "meaning": "文件节点",
-      "example": "The ward asked us to check the inode.",
-      "exampleZh": "病区让我们看一下这个文件节点。",
+      "example": "The inode count on the log disk hit its limit before the free space did.",
+      "exampleZh": "日志盘上的文件节点先到了上限，剩余空间还没用完。",
       "category": "it"
     },
     {
       "word": "file handle",
       "phonetic": "/faɪl ˈhændl/",
       "meaning": "文件句柄",
-      "example": "I logged the file handle in today’s change ticket.",
-      "exampleZh": "我把这个文件句柄记进了今天的变更单。",
+      "example": "The file handle limit stopped the interface from opening more result files.",
+      "exampleZh": "文件句柄到了上限，接口无法再打开更多结果文件。",
       "category": "it"
     },
     {
       "word": "port conflict",
       "phonetic": "/pɔːt ˈkɒnflɪkt/",
       "meaning": "端口冲突",
-      "example": "The vendor asked for a screenshot of the port conflict.",
-      "exampleZh": "厂商要一张这个端口冲突的截图。",
+      "example": "A port conflict stopped the lab listener from binding during startup.",
+      "exampleZh": "端口冲突让检验监听在启动时绑不上端口。",
       "category": "it"
     }
   ]

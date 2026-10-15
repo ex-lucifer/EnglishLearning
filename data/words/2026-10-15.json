@@ -5,80 +5,80 @@
       "word": "bandwidth",
       "phonetic": "/ˈbændwɪdθ/",
       "meaning": "可用精力",
-      "example": "Please add the bandwidth to today’s notes.",
-      "exampleZh": "请把可用精力写进今天的记录。",
+      "example": "I don't have the bandwidth for another project this week.",
+      "exampleZh": "我这周没有精力再接一个项目。",
       "category": "office"
     },
     {
       "word": "capacity",
       "phonetic": "/kəˈpæsəti/",
       "meaning": "承载能力",
-      "example": "Who will own the capacity this week?",
-      "exampleZh": "这周这个承载能力谁来负责？",
+      "example": "The front desk has no capacity to cover phones and the queue together.",
+      "exampleZh": "前台没有同时接电话又维持排队的承载能力。",
       "category": "office"
     },
     {
       "word": "allocation",
       "phonetic": "/ˌæləˈkeɪʃn/",
       "meaning": "资源分配",
-      "example": "Please add the allocation to today’s notes.",
-      "exampleZh": "请把资源分配写进今天的记录。",
+      "example": "The allocation gives two clerks to clinic and one to the wards.",
+      "exampleZh": "这次资源分配是门诊两名文员、病区一名。",
       "category": "office"
     },
     {
       "word": "estimate",
       "phonetic": "/ˈestɪmət/",
       "meaning": "估算",
-      "example": "The estimate still needs a decision today.",
-      "exampleZh": "这个估算今天还得拍个板。",
+      "example": "My estimate is three days to rewrite the visitor procedure.",
+      "exampleZh": "我的估算是，重写访客流程要三天。",
       "category": "office"
     },
     {
       "word": "KPI",
       "phonetic": "/ˌkeɪ piː ˈaɪ/",
       "meaning": "关键绩效指标（Key Performance Indicator）",
-      "example": "This month’s KPI (key performance indicator) is ticket close time.",
-      "exampleZh": "这个月的 KPI（关键绩效指标）是工单关闭时长。",
+      "example": "On-time discharge is the KPI (Key Performance Indicator) for the bed meeting.",
+      "exampleZh": "准时出院是床位会的 KPI（关键绩效指标）。",
       "category": "office"
     },
     {
       "word": "disk encryption",
       "phonetic": "/dɪsk ɪnˈkrɪpʃn/",
       "meaning": "磁盘加密",
-      "example": "The vendor asked for a screenshot of the disk encryption.",
-      "exampleZh": "厂商要一张这个磁盘加密的截图。",
+      "example": "Turn on disk encryption before this laptop leaves the building.",
+      "exampleZh": "这台笔记本离开大楼前请打开磁盘加密。",
       "category": "it"
     },
     {
       "word": "BitLocker",
       "phonetic": "/ˈbɪtlɒkə/",
       "meaning": "磁盘加密工具",
-      "example": "I logged the BitLocker in today’s change ticket.",
-      "exampleZh": "我把这个磁盘加密工具记进了今天的变更单。",
+      "example": "BitLocker is waiting for the recovery key on this clinic laptop.",
+      "exampleZh": "这台门诊笔记本上的磁盘加密工具正在等恢复密钥。",
       "category": "it"
     },
     {
       "word": "USB control",
       "phonetic": "/ˌjuː es ˈbiː kənˈtrəʊl/",
       "meaning": "U盘管控",
-      "example": "We will verify the USB control after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个U盘管控。",
+      "example": "USB control stopped a nurse from copying files onto a flash drive.",
+      "exampleZh": "U盘管控拦住了护士往闪存盘拷文件。",
       "category": "it"
     },
     {
       "word": "DLP",
       "phonetic": "/ˌdiː el ˈpiː/",
       "meaning": "数据防泄漏（Data Loss Prevention）",
-      "example": "DLP stands for Data Loss Prevention. Check it before the clinic opens.",
-      "exampleZh": "DLP 的全称是 Data Loss Prevention。开诊前请先检查。",
+      "example": "DLP (Data Loss Prevention) blocked the file from leaving the hospital network.",
+      "exampleZh": "DLP（数据防泄漏）拦住了这份要传出医院网络的文件。",
       "category": "it"
     },
     {
       "word": "printer mapping",
       "phonetic": "/ˈprɪntə ˈmæpɪŋ/",
       "meaning": "打印机映射",
-      "example": "The vendor asked for a screenshot of the printer mapping.",
-      "exampleZh": "厂商要一张这个打印机映射的截图。",
+      "example": "Printer mapping sends ward four jobs to the clinic printer downstairs.",
+      "exampleZh": "打印机映射把四病区的任务送到了楼下的门诊打印机。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "checklist audit",
       "phonetic": "/ˈtʃeklɪst ˈɔːdɪt/",
       "meaning": "清单抽查",
-      "example": "We talked about the checklist audit with the department head.",
-      "exampleZh": "我们和科主任谈了这个清单抽查。",
+      "example": "The checklist audit sampled twenty consent forms on the surgical ward.",
+      "exampleZh": "清单抽查在外科病区抽了二十份知情同意书。",
       "category": "office"
     },
     {
       "word": "spot check",
       "phonetic": "/spɒt tʃek/",
       "meaning": "突击检查",
-      "example": "The spot check still needs a decision today.",
-      "exampleZh": "这个突击检查今天还得拍个板。",
+      "example": "A spot check at lunch found the stamp left on the counter.",
+      "exampleZh": "午餐时的突击检查发现公章留在了台面上。",
       "category": "office"
     },
     {
       "word": "walkthrough",
       "phonetic": "/ˈwɔːkθruː/",
       "meaning": "现场走查",
-      "example": "We talked about the walkthrough with the department head.",
-      "exampleZh": "我们和科主任谈了这个现场走查。",
+      "example": "The walkthrough will follow a visitor from the lobby to the ward.",
+      "exampleZh": "现场走查会跟着一位访客从大厅走到病区。",
       "category": "office"
     },
     {
       "word": "inspection",
       "phonetic": "/ɪnˈspekʃn/",
       "meaning": "检查",
-      "example": "Please bring the inspection to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个检查。",
+      "example": "The linen inspection is on Tuesday, so the carts should be tidy.",
+      "exampleZh": "布草检查在周二，所以布草车要收拾整齐。",
       "category": "office"
     },
     {
       "word": "finding",
       "phonetic": "/ˈfaɪndɪŋ/",
       "meaning": "检查发现",
-      "example": "We talked about the finding with the department head.",
-      "exampleZh": "我们和科主任谈了这个检查发现。",
+      "example": "The main finding was a fridge temperature that nobody had signed.",
+      "exampleZh": "主要检查发现是冰箱温度没有人签字。",
       "category": "office"
     },
     {
       "word": "knowledge base",
       "phonetic": "/ˈnɒlɪdʒ beɪs/",
       "meaning": "知识库",
-      "example": "Do not touch the knowledge base during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个知识库。",
+      "example": "The knowledge base article about wristband errors is two versions old.",
+      "exampleZh": "知识库里讲腕带报错的那篇文章还是两个版本以前的。",
       "category": "it"
     },
     {
       "word": "runbook",
       "phonetic": "/ˈrʌnbʊk/",
       "meaning": "操作手册",
-      "example": "I logged the runbook in today’s change ticket.",
-      "exampleZh": "我把这个操作手册记进了今天的变更单。",
+      "example": "The runbook for a PACS outage starts by checking the archive disk.",
+      "exampleZh": "影像停机的操作手册，第一步是检查归档磁盘。",
       "category": "it"
     },
     {
       "word": "playbook",
       "phonetic": "/ˈpleɪbʊk/",
       "meaning": "应急剧本",
-      "example": "Do not touch the playbook during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个应急剧本。",
+      "example": "The playbook for ransomware says to isolate the PC before anything else.",
+      "exampleZh": "勒索软件的应急剧本要求先把电脑隔离，再做别的。",
       "category": "it"
     },
     {
       "word": "escalation path IT",
       "phonetic": "/ˌeskəˈleɪʃn pɑːθ aɪ ˈtiː/",
       "meaning": "技术升级路径",
-      "example": "Who is on call for the escalation path IT this week?",
-      "exampleZh": "这周这个技术升级路径谁值班？",
+      "example": "The escalation path IT for a pharmacy outage names the on-call database owner second.",
+      "exampleZh": "药房停机的技术升级路径把待命的数据库负责人排在第二位。",
       "category": "it"
     },
     {
       "word": "ticket queue",
       "phonetic": "/ˈtɪkɪt kjuː/",
       "meaning": "工单队列",
-      "example": "The vendor asked for a screenshot of the ticket queue.",
-      "exampleZh": "厂商要一张这个工单队列的截图。",
+      "example": "The ticket queue for printers still holds forty open items from the wards.",
+      "exampleZh": "打印机的工单队列里还压着病区的四十张未关闭单。",
       "category": "it"
     }
   ]

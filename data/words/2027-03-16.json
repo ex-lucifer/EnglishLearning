@@ -5,80 +5,80 @@
       "word": "measure",
       "phonetic": "/ˈmeʒə/",
       "meaning": "衡量",
-      "example": "Please measure this before you leave.",
-      "exampleZh": "走之前请把这件事衡量。",
+      "example": "Every Monday morning we measure how long people wait at registration.",
+      "exampleZh": "每周一上午，我们衡量人们在挂号处等候多久。",
       "category": "office"
     },
     {
       "word": "evaluate",
       "phonetic": "/ɪˈvæljueɪt/",
       "meaning": "评估",
-      "example": "Who will evaluate this after the huddle?",
-      "exampleZh": "晨会后谁来评估？",
+      "example": "After the visit, the review group will evaluate the two suppliers.",
+      "exampleZh": "走访结束后，评审小组会评估这两家供应商。",
       "category": "office"
     },
     {
       "word": "assess",
       "phonetic": "/əˈses/",
       "meaning": "评定",
-      "example": "We still need to assess this.",
-      "exampleZh": "这件事还得评定。",
+      "example": "Before the probation meeting, HR will assess whether she is ready.",
+      "exampleZh": "试用考核会之前，人力资源会评定她是否已经胜任。",
       "category": "office"
     },
     {
       "word": "train",
       "phonetic": "/treɪn/",
       "meaning": "培训",
-      "example": "We still need to train this.",
-      "exampleZh": "这件事还得培训。",
+      "example": "This week, can you train the new clerks to call the queue?",
+      "exampleZh": "这周你能培训新文员叫号吗？",
       "category": "office"
     },
     {
       "word": "coach",
       "phonetic": "/kəʊtʃ/",
       "meaning": "辅导",
-      "example": "Please coach this before you leave.",
-      "exampleZh": "走之前请把这件事辅导。",
+      "example": "Coach him through one shift before you leave him on the counter alone.",
+      "exampleZh": "先辅导他完成一个班次，再让他独自看柜台。",
       "category": "office"
     },
     {
       "word": "generator",
       "phonetic": "/ˈdʒenəreɪtə/",
       "meaning": "发电机",
-      "example": "The vendor asked for a screenshot of the generator.",
-      "exampleZh": "厂商要一张这个发电机的截图。",
+      "example": "The generator took the data hall load eight seconds after utility power failed.",
+      "exampleZh": "市电中断八秒后，发电机接上了机房负载。",
       "category": "it"
     },
     {
       "word": "cooling",
       "phonetic": "/ˈkuːlɪŋ/",
       "meaning": "机房制冷",
-      "example": "The ward asked us to check the cooling.",
-      "exampleZh": "病区让我们看一下这个机房制冷。",
+      "example": "Cooling in row C fell behind, and inlet temperatures passed the alarm line.",
+      "exampleZh": "C 列的机房制冷跟不上，进风温度过了告警线。",
       "category": "it"
     },
     {
       "word": "CRAC",
       "phonetic": "/kræk/",
       "meaning": "机房空调（Computer Room Air Conditioner）",
-      "example": "Do not move the CRAC (Computer Room Air Conditioner) during outpatient hours.",
-      "exampleZh": "门诊时段不要挪动 CRAC（Computer Room Air Conditioner）。",
+      "example": "CRAC (Computer Room Air Conditioner) two is offline, so row B is running warm.",
+      "exampleZh": "二号 CRAC（机房空调）停了，B 列现在偏热。",
       "category": "it"
     },
     {
       "word": "raised floor",
       "phonetic": "/reɪzd flɔː/",
       "meaning": "架空地板",
-      "example": "Please test the raised floor on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个架空地板。",
+      "example": "Lift the raised floor tile carefully; the fiber tray sits just underneath.",
+      "exampleZh": "掀架空地板的地板砖时慢一点，光纤桥架就在正下面。",
       "category": "it"
     },
     {
       "word": "rack",
       "phonetic": "/ræk/",
       "meaning": "机柜",
-      "example": "Please test the rack on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个机柜。",
+      "example": "Leave the bottom of this rack empty so the new storage array fits.",
+      "exampleZh": "这个机柜底部先空着，新存储阵列才放得下。",
       "category": "it"
     }
   ]

@@ -1,0 +1,1939 @@
+it	v	deploy	部署
+it	n	outage	停机中断
+it	acr	EMR	电子病历
+it	n	rollback	回滚
+it	n	ticket	工单
+it	acr	HIS	医院信息系统
+it	n	patch	补丁
+it	n	backup	备份
+it	n	firewall	防火墙
+it	n	latency	延迟
+it	acr	PACS	医学影像系统
+it	acr	LIS	检验信息系统
+it	acr	RIS	放射信息系统
+it	acr	CIS	临床信息系统
+it	acr	NIS	护理信息系统
+it	acr	CPOE	医嘱录入
+it	acr	CDSS	临床决策支持
+it	acr	ADT	出入院转科
+it	acr	MPI	主患者索引
+it	acr	EHR	电子健康档案
+it	acr	PHR	个人健康档案
+it	acr	DICOM	医学影像标准
+it	acr	HL7	医疗信息交换标准
+it	acr	FHIR	快速医疗互操作资源
+it	acr	IHE	医疗集成规范
+it	acr	ICD-10	疾病分类编码
+it	acr	SNOMED	临床术语标准
+it	acr	LOINC	检验指标编码
+it	acr	CPT	操作编码
+it	acr	DRG	疾病相关分组
+it	n	interface engine	接口引擎
+it	n	middleware	中间件
+it	n	worklist	工作列表
+it	n	accession number	检查号
+it	n	study UID	检查唯一号
+it	n	modality	检查设备类型
+it	n	PACS archive	影像归档
+it	n	diagnostic workstation	诊断工作站
+it	n	clinical workstation	临床工作站
+it	n	nurse call	护士呼叫
+it	n	infusion pump	输液泵
+it	n	vital monitor	生命体征监护仪
+it	n	barcode scanner	条码扫描枪
+it	acr	RFID	射频识别
+it	acr	RTLS	实时定位系统
+it	n	asset tracking	资产定位
+it	acr	CMMS	设备维修系统
+it	n	lab analyzer	检验分析仪
+it	n	integration engine	集成引擎
+it	n	ADT feed	出入院消息流
+it	n	order message	医嘱消息
+it	n	result message	结果消息
+it	acr	ORM	医嘱消息类型
+it	acr	ORU	结果消息类型
+it	acr	ACK	确认应答
+it	acr	NACK	否定应答
+it	n	PID segment	患者信息段
+it	n	OBX segment	观察结果段
+it	n	OBR segment	检查申请段
+it	n	HL7 mapping	消息字段映射
+it	n	field mapping	字段对照
+it	n	retry queue	重试队列
+it	n	dead-letter queue	死信队列
+it	n	poison message	毒化消息
+it	v	throttle	限流
+it	n	rate limit	速率限制
+it	n	circuit breaker	熔断器
+it	n	health endpoint	健康检查接口
+it	n	readiness probe	就绪探针
+it	n	liveness probe	存活探针
+it	n	blue-green	蓝绿发布
+it	n	canary release	金丝雀发布
+it	n	feature flag	功能开关
+it	n	config file	配置文件
+it	n	environment variable	环境变量
+it	n	secrets vault	密钥库
+it	n	key rotation	密钥轮换
+it	n	vulnerability scan	漏洞扫描
+it	n	antivirus	杀毒软件
+it	acr	EDR	终端检测响应
+it	n	malware	恶意软件
+it	n	ransomware	勒索软件
+it	n	phishing	钓鱼攻击
+it	n	spam filter	垃圾过滤
+it	n	sandbox	沙箱
+it	n	allowlist	允许名单
+it	n	blocklist	拦截名单
+it	acr	IDS	入侵检测系统
+it	acr	IPS	入侵防护系统
+it	acr	WAF	Web应用防火墙
+it	acr	DDoS	分布式拒绝服务
+it	n	zero-day	零日漏洞
+it	acr	CVE	公开漏洞编号
+it	n	patch management	补丁管理
+it	n	endpoint protection	终端防护
+it	n	disk encryption	磁盘加密
+it	n	BitLocker	磁盘加密工具
+it	n	USB control	U盘管控
+it	acr	DLP	数据防泄漏
+it	n	printer mapping	打印机映射
+it	n	default printer	默认打印机
+it	n	print spooler	打印队列服务
+it	n	label printer	标签打印机
+it	n	wristband printer	腕带打印机
+it	n	barcode printer	条码打印机
+it	n	card printer	卡片打印机
+it	n	handheld terminal	手持终端
+it	n	workstation	工作站
+it	n	thin client	瘦客户机
+it	n	fat client	胖客户机
+it	n	kiosk	自助终端
+it	n	bedside terminal	床旁终端
+it	n	computer on wheels	移动查房电脑
+it	n	workstation on wheels	移动护理工作站
+it	n	medication cart PC	发药车电脑
+it	n	nurse-station PC	护士站电脑
+it	n	OR workstation	手术室工作站
+it	n	radiology workstation	放射工作站
+it	n	PACS viewer	影像浏览器
+it	n	dictation	语音口述
+it	n	voice recognition	语音识别
+it	n	speech-to-text	语音转文字
+it	n	allergy alert	过敏警示
+it	n	drug interaction	药物相互作用
+it	n	duplicate order	重复医嘱
+it	n	order set	医嘱套餐
+it	n	care plan	护理计划
+it	n	flowsheet	护理记录单
+it	acr	MAR	用药执行单
+it	acr	eMAR	电子用药执行单
+it	n	lab result	检验结果
+it	n	critical result	危急值
+it	n	panic value	危急值结果
+it	n	result acknowledgement	结果确认
+it	n	specimen tracking	标本追踪
+it	n	blood bank	血库系统
+it	n	blood product	血液制品
+it	n	pharmacy system	药房系统
+it	n	e-prescribing	电子处方
+it	n	formulary	药品目录
+it	n	automated dispensing	自动发药柜
+it	acr	ADC	自动发药柜
+it	n	infusion library	输液泵药库
+it	n	device integration	设备集成
+it	acr	NTP	网络时间协议
+it	n	domain time	域时间
+it	n	certificate authority	证书颁发机构
+it	acr	CRL	证书吊销列表
+it	acr	OCSP	在线证书状态
+it	n	password reset	密码重置
+it	n	account lockout	账号锁定
+it	n	disk space	磁盘空间
+it	n	CPU usage	处理器占用
+it	n	memory leak	内存泄漏
+it	n	network share	网络共享
+it	n	mapped drive	映射盘符
+it	n	print queue	打印队列
+it	n	default gateway	默认网关
+it	n	IP address	IP地址
+it	n	MAC address	网卡地址
+it	n	subnet mask	子网掩码
+it	n	DNS server	域名服务器
+it	n	DHCP lease	地址租约
+it	n	SSL certificate	安全证书
+it	n	VPN tunnel	虚拟专网隧道
+it	n	remote desktop	远程桌面
+it	n	service account	服务账号
+it	n	admin rights	管理员权限
+it	n	user account	用户账号
+it	n	group policy	组策略
+it	n	domain controller	域控制器
+it	n	file server	文件服务器
+it	n	app server	应用服务器
+it	n	web server	网页服务器
+it	n	mail server	邮件服务器
+it	n	proxy server	代理服务器
+it	n	backup job	备份任务
+it	n	restore point	还原点
+it	n	snapshot	快照
+it	n	cold backup	冷备份
+it	n	hot backup	热备份
+it	n	incremental backup	增量备份
+it	n	full backup	全量备份
+it	n	differential backup	差异备份
+it	n	disaster recovery	灾难恢复
+it	n	business continuity	业务连续性
+it	n	high availability	高可用
+it	n	failover cluster	故障转移集群
+it	n	load balancer	负载均衡器
+it	n	reverse proxy	反向代理
+it	n	virtual machine	虚拟机
+it	n	hypervisor	虚拟化平台
+it	n	container image	容器镜像
+it	n	Kubernetes	容器编排
+it	n	Docker host	容器宿主机
+it	n	CI pipeline	持续集成流水线
+it	n	CD pipeline	持续交付流水线
+it	n	git repository	代码仓库
+it	n	merge conflict	合并冲突
+it	n	pull request	合并请求
+it	n	release notes	发布说明
+it	n	change window	变更窗口
+it	n	maintenance freeze	维护冻结
+it	n	incident severity	事件级别
+it	n	root-cause analysis	根因分析
+it	n	postmortem	事后分析
+it	n	known error	已知错误
+it	n	service catalog	服务目录
+it	n	configuration item	配置项
+it	acr	CMDB	配置管理库
+it	n	monitoring alert	监控告警
+it	n	log aggregation	日志汇聚
+it	acr	SIEM	安全信息事件管理
+it	acr	SOC	安全运营中心
+it	acr	MFA	多因素认证
+it	acr	SSO	单点登录
+it	acr	LDAP	目录访问协议
+it	n	Active Directory	活动目录
+it	acr	RBAC	基于角色的权限
+it	acr	ACL	访问控制列表
+it	n	least privilege	最小权限
+it	n	privileged access	特权访问
+it	n	session timeout	会话超时
+it	n	idle timeout	空闲超时
+it	n	account expiry	账号到期
+it	n	password policy	密码策略
+it	n	encryption at rest	静态加密
+it	n	encryption in transit	传输加密
+it	n	TLS handshake	加密握手
+it	n	certificate expiry	证书到期
+it	n	wildcard cert	通配符证书
+it	n	self-signed cert	自签名证书
+it	acr	PKI	公钥基础设施
+it	n	API key	接口密钥
+it	acr	OAuth	授权协议
+it	acr	SAML	安全断言标记
+it	acr	OpenID	开放身份
+it	n	JSON payload	JSON报文
+it	n	XML message	XML报文
+it	n	SOAP service	SOAP服务
+it	n	REST API	REST接口
+it	n	webhook	回调接口
+it	n	endpoint	接口地址
+it	n	HTTP status	网页状态码
+it	n	timeout error	超时错误
+it	n	connection pool	连接池
+it	n	deadlock	死锁
+it	n	query timeout	查询超时
+it	n	index rebuild	索引重建
+it	n	replica lag	副本延迟
+it	n	primary database	主库
+it	n	read replica	只读副本
+it	n	stored procedure	存储过程
+it	n	ETL job	数据抽取任务
+it	n	data warehouse	数据仓库
+it	n	data lake	数据湖
+it	n	report server	报表服务器
+it	n	SQL Server	数据库服务器
+it	n	cache	缓存
+it	n	message queue	消息队列
+it	n	service bus	服务总线
+it	n	uptime	可用时长
+it	n	downtime	停机时长
+it	n	SLA clock	服务时限
+it	n	P1 incident	一级故障
+it	n	P2 incident	二级故障
+it	n	P3 incident	三级故障
+it	n	major incident	重大故障
+it	n	service degradation	服务降级
+it	n	workaround	临时规避
+it	n	hotfix	紧急修复
+it	n	bugfix	缺陷修复
+it	n	release	版本发布
+it	n	build	构建包
+it	n	artifact	构建产物
+it	n	changelog	变更日志
+it	n	version tag	版本标签
+it	n	branch	代码分支
+it	n	commit	提交记录
+it	v	merge	合并代码
+it	v	rebase	变基
+it	v	checkout	检出代码
+it	v	clone	克隆仓库
+it	n	fork	派生仓库
+it	n	pipeline	流水线
+it	n	build agent	构建代理
+it	n	test coverage	测试覆盖
+it	n	unit test	单元测试
+it	n	integration test	集成测试
+it	n	smoke test	冒烟测试
+it	n	regression test	回归测试
+it	n	user acceptance	用户验收
+it	acr	UAT	用户验收测试
+it	n	staging	预发布环境
+it	n	production	生产环境
+it	n	sandbox environment	沙箱环境
+it	n	dev environment	开发环境
+it	n	test environment	测试环境
+it	n	DR site	灾备站点
+it	n	primary site	主站点
+it	n	secondary site	备站点
+it	acr	RTO	恢复时间目标
+it	acr	RPO	恢复点目标
+it	n	failover	故障切换
+it	n	failback	故障切回
+it	n	heartbeat	心跳检测
+it	n	quorum disk	仲裁磁盘
+it	n	shared storage	共享存储
+it	acr	SAN	存储区域网
+it	acr	NAS	网络附加存储
+it	acr	RAID	磁盘阵列
+it	acr	LUN	逻辑单元号
+it	acr	HBA	主机总线适配器
+it	n	fiber switch	光纤交换机
+it	acr	iSCSI	网络磁盘协议
+it	n	snapshot replica	快照副本
+it	n	replication	数据复制
+it	n	sync job	同步任务
+it	n	bandwidth usage	带宽占用
+it	n	packet loss	丢包
+it	n	jitter	抖动
+it	n	traceroute	路由跟踪
+it	n	packet capture	抓包
+it	n	Wireshark	抓包工具
+it	acr	NIC	网卡
+it	acr	VLAN	虚拟局域网
+it	n	subnet	子网
+it	n	gateway	网关
+it	n	router	路由器
+it	n	switch	交换机
+it	acr	PoE	以太网供电
+it	n	access point	无线接入点
+it	acr	SSID	无线网络名
+it	n	Wi-Fi	无线网
+it	n	5G	第五代移动网
+it	n	Bluetooth	蓝牙
+it	n	VPN client	虚拟专网客户端
+it	n	split tunnel	分流隧道
+it	n	full tunnel	全流量隧道
+it	n	MFA prompt	二次验证提示
+it	n	one-time password	一次性密码
+it	acr	OTP	一次性口令
+it	n	smart card	智能卡
+it	n	badge reader	门禁读卡器
+it	n	biometric	生物识别
+it	n	fingerprint	指纹
+it	n	face ID	人脸识别
+it	n	single sign-on	单点登录
+it	n	password vault	密码保险箱
+it	n	privileged account	特权账号
+it	n	local admin	本地管理员
+it	n	domain admin	域管理员
+it	n	service desk	服务台
+it	n	helpdesk	技术支持台
+it	n	L1 support	一线支持
+it	n	L2 support	二线支持
+it	n	L3 support	三线支持
+it	n	on-site engineer	现场工程师
+it	n	remote support	远程支持
+it	n	screen control	远程控屏
+it	n	knowledge base	知识库
+it	n	runbook	操作手册
+it	n	playbook	应急剧本
+it	n	escalation path IT	技术升级路径
+it	n	ticket queue	工单队列
+it	n	ticket priority	工单优先级
+it	n	ticket SLA	工单时限
+it	n	first-time fix	一次解决
+it	n	reopen rate	重开工单率
+it	n	mean time to repair	平均修复时间
+it	acr	MTTR	平均修复时间
+it	acr	MTBF	平均无故障时间
+it	n	service availability	服务可用性
+it	n	error log	错误日志
+it	n	event log	事件日志
+it	n	syslog	系统日志
+it	n	audit log	审计日志
+it	n	application log	应用日志
+it	n	crash dump	崩溃转储
+it	n	core dump	核心转储
+it	n	stack trace	堆栈跟踪
+it	n	debug mode	调试模式
+it	n	verbose logging	详细日志
+it	n	log rotation	日志轮转
+it	n	log retention	日志保存
+it	n	alert threshold	告警阈值
+it	n	alert storm	告警风暴
+it	n	false positive	误报
+it	n	false negative	漏报
+it	n	dashboard widget	看板控件
+it	n	uptime chart	可用性图表
+it	n	capacity plan	容量规划
+it	n	disk forecast	磁盘预测
+it	n	CPU spike	处理器突增
+it	n	memory pressure	内存压力
+it	n	swap usage	交换分区占用
+it	acr	IOPS	每秒读写次数
+it	n	throughput	吞吐量
+it	n	queue depth	队列深度
+it	n	slow query	慢查询
+it	n	table lock	表锁
+it	n	row lock	行锁
+it	n	index scan	索引扫描
+it	n	full table scan	全表扫描
+it	n	query plan	执行计划
+it	n	statistics update	统计信息更新
+it	acr	DBA	数据库管理员
+it	n	schema	数据库结构
+it	n	table	数据表
+it	n	view	视图
+it	n	trigger	触发器
+it	n	constraint	约束
+it	n	foreign key	外键
+it	n	primary key	主键
+it	n	unique index	唯一索引
+it	n	null value	空值
+it	n	data type	数据类型
+it	n	character set	字符集
+it	n	collation	排序规则
+it	n	transaction	事务
+it	n	commit log	提交日志
+it	n	rollback segment	回滚段
+it	n	tempdb	临时库
+it	n	backup compression	备份压缩
+it	n	restore test	恢复演练
+it	n	backup catalog	备份目录
+it	n	tape library	磁带库
+it	n	offsite backup	异地备份
+it	n	immutable backup	不可篡改备份
+it	n	air gap	物理隔离
+it	n	jump host	跳板机
+it	n	bastion	堡垒机
+it	n	privileged session	特权会话
+it	n	session recording	会话录像
+it	n	command filter	命令过滤
+it	n	sudo	提权命令
+it	n	root account	超级管理员
+it	n	service restart	服务重启
+it	n	graceful restart	平滑重启
+it	n	hard reboot	强制重启
+it	n	safe mode	安全模式
+it	acr	BIOS	基本输入输出系统
+it	acr	UEFI	统一固件接口
+it	n	firmware	固件
+it	n	driver	驱动程序
+it	n	kernel	内核
+it	n	patch Tuesday	补丁日
+it	n	reboot window	重启窗口
+it	n	change advisory	变更评审
+it	acr	CAB	变更顾问委员会
+it	n	emergency change	紧急变更
+it	n	standard change	标准变更
+it	n	normal change	常规变更
+it	n	change freeze	变更冻结
+it	n	release train	发布列车
+it	n	cutover	切换上线
+it	n	backout	退出回退
+it	n	smoke after release	发布后冒烟
+it	n	health check job	健康检查任务
+it	n	synthetic monitor	模拟拨测
+it	n	real-user monitor	真实用户监测
+it	acr	APM	应用性能监控
+it	n	trace ID	追踪编号
+it	n	span	调用片段
+it	n	correlation ID	关联编号
+it	n	request ID	请求编号
+it	n	error budget	错误预算
+it	acr	SLO	服务水平目标
+it	acr	SLI	服务水平指标
+it	n	error rate	错误率
+it	n	success rate	成功率
+it	n	p95 latency	百分之九十五延迟
+it	n	p99 latency	百分之九十九延迟
+it	n	cold start	冷启动
+it	n	warm start	热启动
+it	n	connection leak	连接泄漏
+it	n	thread dump	线程转储
+it	n	heap dump	堆转储
+it	n	garbage collection	垃圾回收
+it	n	out of memory	内存耗尽
+it	n	CPU saturation	处理器打满
+it	n	disk full	磁盘已满
+it	n	inode	文件节点
+it	n	file handle	文件句柄
+it	n	port conflict	端口冲突
+it	n	listen port	监听端口
+it	n	open port	开放端口
+it	n	closed port	关闭端口
+it	n	firewall rule	防火墙规则
+it	acr	NAT	网络地址转换
+it	n	port forward	端口转发
+it	acr	DMZ	隔离区
+it	n	intranet	内网
+it	n	extranet	外联网
+it	n	internet breakout	上网出口
+it	n	proxy bypass	绕过代理
+it	n	PAC file	代理自动配置
+it	n	DNS cache	域名缓存
+it	v	flush DNS	刷新域名缓存
+it	n	hosts file	主机映射文件
+it	acr	CNAME	别名记录
+it	n	A record	地址记录
+it	n	MX record	邮件交换记录
+it	acr	TTL	生存时间
+it	n	DHCP reservation	地址保留
+it	n	static IP	静态地址
+it	n	dynamic IP	动态地址
+it	n	link down	链路断开
+it	n	link up	链路恢复
+it	n	duplex mismatch	双工不匹配
+it	n	speed mismatch	速率不匹配
+it	n	CRC error	校验错误
+it	n	broadcast storm	广播风暴
+it	n	loop	环路
+it	n	spanning tree	生成树
+it	n	trunk	中继链路
+it	n	access port	接入端口
+it	n	uplink	上联口
+it	n	core switch	核心交换机
+it	n	distribution switch	汇聚交换机
+it	n	access switch	接入交换机
+it	n	stack	交换机堆叠
+it	n	power supply	电源模块
+it	acr	UPS	不间断电源
+it	acr	PDU	电源分配单元
+it	n	generator	发电机
+it	n	cooling	机房制冷
+it	acr	CRAC	机房空调
+it	n	raised floor	架空地板
+it	n	rack	机柜
+it	n	U space	机柜高度单位
+it	acr	KVM	键盘视频鼠标切换
+it	n	console cable	控制台线
+it	n	serial console	串口控制台
+it	acr	IPMI	服务器底板管理
+it	acr	iLO	远程管理口
+it	acr	iDRAC	远程管理卡
+it	acr	BMC	基板管理控制器
+it	n	firmware update	固件更新
+it	n	BIOS update	主板固件更新
+it	n	driver pack	驱动包
+it	n	image	系统镜像
+it	n	golden image	标准镜像
+it	n	PXE boot	网络启动
+it	acr	MDT	批量部署工具
+it	acr	SCCM	系统中心配置管理
+it	n	Intune	云端设备管理
+it	acr	MDM	移动设备管理
+it	acr	BYOD	自带设备
+it	n	mobile device	移动设备
+it	n	tablet	平板
+it	n	smartphone	智能手机
+it	n	pager	传呼机
+it	acr	VoIP	网络电话
+it	acr	SIP	会话启动协议
+it	acr	PBX	程控交换机
+it	n	softphone	软电话
+it	n	call recording	通话录音
+it	acr	IVR	语音导航
+it	acr	ACD	自动呼叫分配
+it	n	queue wait	排队等待
+it	n	call drop	通话中断
+it	n	codec	编解码
+it	n	jitter buffer	抖动缓冲
+it	acr	QoS	服务质量
+it	acr	DSCP	差分服务标记
+it	n	traffic shaping	流量整形
+it	n	bandwidth cap	带宽上限
+it	acr	WAN	广域网
+it	acr	LAN	局域网
+it	acr	MAN	城域网
+it	acr	MPLS	多协议标签交换
+it	acr	SD-WAN	软件定义广域网
+it	n	dark fiber	裸光纤
+it	n	last mile	最后一公里
+it	n	circuit ID	专线编号
+it	n	carrier	运营商
+it	acr	BGP	边界网关协议
+it	acr	OSPF	开放最短路径优先
+it	n	static route	静态路由
+it	n	default route	默认路由
+it	n	routing table	路由表
+it	acr	ARP	地址解析协议
+it	acr	ICMP	网络控制消息
+it	acr	TCP	传输控制协议
+it	acr	UDP	用户数据报协议
+it	acr	TLS	传输层安全
+it	acr	HTTPS	加密网页协议
+it	acr	HTTP	网页协议
+it	acr	FTP	文件传输协议
+it	acr	SFTP	安全文件传输
+it	acr	SMB	文件共享协议
+it	acr	NFS	网络文件系统
+it	acr	CIFS	通用互联网文件系统
+it	acr	RDP	远程桌面协议
+it	acr	SSH	安全外壳协议
+it	n	Telnet	远程终端协议
+it	acr	SNMP	简单网络管理
+it	n	Syslog server	日志服务器
+it	n	NTP server	时间服务器
+it	n	time drift	时间漂移
+it	n	clock skew	时钟偏差
+it	n	Kerberos	票据认证
+it	acr	NTLM	Windows认证
+it	n	token cache	令牌缓存
+it	n	ticket-granting	票据授予
+it	n	service principal	服务主体
+it	acr	SPN	服务主体名称
+it	acr	GPO	组策略对象
+it	acr	OU	组织单元
+it	n	security group	安全组
+it	n	distribution group	通讯组
+it	n	nested group	嵌套组
+it	n	group membership	组成员关系
+it	n	sid	安全标识
+it	acr	GUID	全局唯一标识
+it	acr	UPN	用户主体名称
+it	n	sAMAccountName	登录名
+it	n	password hash	密码哈希
+it	n	salt	加盐
+it	n	hash	哈希
+it	n	encryption key	加密密钥
+it	n	public key	公钥
+it	n	private key	私钥
+it	n	certificate chain	证书链
+it	n	intermediate CA	中间证书机构
+it	n	root CA	根证书机构
+it	acr	CSR	证书申请
+it	n	SAN name	证书备用名
+it	n	certificate store	证书存储
+it	n	trusted root	受信任根
+it	n	untrusted cert	不受信任证书
+it	n	expired cert	过期证书
+it	n	revoked cert	已吊销证书
+it	n	OCSP staple	证书装订
+it	acr	HSTS	强制加密传输
+it	n	cipher suite	加密套件
+it	n	deprecated TLS	过时加密
+it	n	weak cipher	弱加密
+it	n	perfect forward secrecy	前向保密
+it	n	key exchange	密钥交换
+it	n	session key	会话密钥
+it	n	token expiry	令牌到期
+it	n	refresh token	刷新令牌
+it	n	access token	访问令牌
+it	n	ID token	身份令牌
+it	acr	JWT	JSON令牌
+it	n	bearer token	持有者令牌
+it	n	API gateway	接口网关
+it	n	rate limiting	限流控制
+it	n	API quota	接口配额
+it	n	API version	接口版本
+it	n	breaking change	破坏性变更
+it	adj	backward compatible	向后兼容
+it	n	deprecation	即将废弃
+it	n	sunset date	下线日期
+it	n	feature toggle	功能开关
+it	n	dark launch	暗发布
+it	n	canary host	金丝雀主机
+it	n	blue environment	蓝色环境
+it	n	green environment	绿色环境
+it	n	traffic shift	流量切换
+it	n	weighted routing	加权路由
+it	n	health probe	健康探测
+it	n	unhealthy node	不健康节点
+it	v	drain node	排空节点
+it	v	cordon	封锁节点
+it	n	pod	容器组
+it	n	namespace	命名空间
+it	n	ingress	入口路由
+it	n	egress	出口流量
+it	n	sidecar	边车容器
+it	n	service mesh	服务网格
+it	n	config map	配置映射
+it	n	secret	密文对象
+it	n	volume mount	卷挂载
+it	n	persistent volume	持久卷
+it	n	storage class	存储类
+it	n	node pool	节点池
+it	n	cluster	集群
+it	n	control plane	控制平面
+it	n	worker node	工作节点
+it	n	etcd	集群键值库
+it	n	scheduler	调度器
+it	n	kubelet	节点代理
+it	n	container runtime	容器运行时
+it	n	image pull	拉取镜像
+it	n	image registry	镜像仓库
+it	n	image tag	镜像标签
+it	n	digest	镜像摘要
+it	n	vulnerability CVE	镜像漏洞编号
+it	n	base image	基础镜像
+it	n	distroless	精简镜像
+it	adj	rootless	非特权运行
+it	n	read-only root	只读根文件系统
+it	n	seccomp	系统调用过滤
+it	n	AppArmor	应用防护
+it	n	SELinux	强制访问控制
+it	n	capabilities	权限能力
+it	n	sysctl	内核参数
+it	n	kernel panic	内核崩溃
+it	n	oops	内核异常
+it	n	watchdog	看门狗
+it	n	kdump	内核转储
+it	n	core pattern	转储路径
+it	n	ulimit	资源上限
+it	n	nice value	进程优先级
+it	n	process ID	进程号
+it	n	parent process	父进程
+it	n	zombie process	僵尸进程
+it	n	orphan process	孤儿进程
+it	n	daemon	守护进程
+it	n	cron job	定时任务
+it	n	scheduled task	计划任务
+it	n	Windows service	Windows服务
+it	n	service account lock	服务账号锁定
+it	n	logon as service	作为服务登录
+it	n	interactive logon	交互登录
+it	n	network logon	网络登录
+it	n	cached logon	缓存登录
+it	n	smart-card logon	智能卡登录
+it	n	failed logon	登录失败
+it	n	lockout policy	锁定策略
+it	n	account disabled	账号已禁用
+it	n	account enabled	账号已启用
+it	n	password expired	密码已过期
+it	n	complex password	复杂密码
+it	n	passphrase	密码短语
+it	n	password manager	密码管理器
+it	n	shared password	共享密码
+it	n	default password	默认密码
+it	n	hard-coded password	写死的密码
+it	n	secrets in code	代码中的密钥
+it	n	credential leak	凭据泄露
+it	n	keylogger	键盘记录
+it	n	screen capture	屏幕截取
+it	n	clipboard	剪贴板
+it	n	USB drop	U盘投放
+it	n	shadow IT	影子信息化
+it	n	unsanctioned app	未批准软件
+it	n	software whitelist	软件白名单
+it	n	software inventory	软件清单
+it	n	license count	授权数量
+it	n	license server	授权服务器
+it	n	license key	授权密钥
+it	n	trial license	试用授权
+it	n	perpetual license	永久授权
+it	n	subscription license	订阅授权
+it	n	concurrent license	并发授权
+it	n	named user	指定用户
+it	n	floating license	浮动授权
+it	n	license compliance	授权合规
+it	n	true-up	授权对账
+it	n	software audit	软件审计
+it	n	unlicensed install	未授权安装
+it	n	silent install	静默安装
+it	n	push install	推送安装
+it	v	uninstall	卸载
+it	n	repair install	修复安装
+it	n	msi package	安装包
+it	n	exe installer	可执行安装程序
+it	n	patch file	补丁文件
+it	n	hotfix rollup	累积热修复
+it	n	cumulative update	累积更新
+it	n	security bulletin	安全公告
+it	n	KB number	知识库编号
+it	n	reboot pending	等待重启
+it	n	pending reboot	待重启
+it	n	WUAgent	更新代理
+it	acr	WSUS	补丁分发服务器
+it	n	catalog file	目录文件
+it	n	offline patch	离线补丁
+it	n	online update	在线更新
+it	n	metered network	按流量网络
+it	n	delivery optimization	分发优化
+it	n	peer cache	对等缓存
+it	n	branch cache	分支缓存
+it	n	content server	内容服务器
+it	n	distribution point	分发点
+it	n	management point	管理点
+it	n	client agent	客户端代理
+it	n	heartbeat interval	心跳间隔
+it	n	policy refresh	策略刷新
+it	v	gpupdate	刷新组策略
+it	acr	rsop	策略结果集
+it	n	event forwarding	事件转发
+it	acr	WEF	Windows事件转发
+it	n	collector	事件收集器
+it	n	subscription	订阅
+it	n	query filter	查询过滤
+it	n	xpath	路径查询
+it	n	event ID	事件编号
+it	n	logon type	登录类型
+it	n	privileged logon	特权登录
+it	n	explicit creds	显式凭据
+it	n	pass-the-hash	哈希传递
+it	n	kerberoasting	票据攻击手法
+it	n	lateral movement	横向移动
+it	n	living off the land	利用系统自带工具
+it	acr	IOC	失陷指标
+it	acr	IOA	攻击行为指标
+it	n	threat intel	威胁情报
+it	n	indicator	威胁指标
+it	n	hash reputation	哈希信誉
+it	n	file hash	文件哈希
+it	acr	SHA-256	哈希算法
+it	acr	MD5	旧哈希算法
+it	v	quarantine	隔离
+it	n	allow exception	放行例外
+it	n	block hash	按哈希拦截
+it	n	block path	按路径拦截
+it	n	block publisher	按发布者拦截
+it	n	code signing	代码签名
+it	n	unsigned binary	未签名程序
+it	n	trusted publisher	受信任发布者
+it	n	SmartScreen	智能筛选
+it	n	Defender	系统防护
+it	acr	ASR	攻击面减少
+it	n	exploit protection	漏洞利用防护
+it	acr	DEP	数据执行保护
+it	acr	ASLR	地址随机化
+it	n	Control Flow Guard	控制流防护
+it	acr	WDAC	应用控制
+it	n	AppLocker	应用锁
+it	n	Software Restriction	软件限制策略
+it	n	Device Guard	设备防护
+it	n	Credential Guard	凭据防护
+it	n	LSA protection	认证进程保护
+it	n	secure boot	安全启动
+it	n	measured boot	度量启动
+it	acr	TPM	可信平台模块
+it	acr	PCR	平台配置寄存器
+it	n	BitLocker recovery	磁盘恢复密钥
+it	n	recovery key	恢复密钥
+it	n	TPM owner	可信模块属主
+it	n	escrow	密钥托管
+it	acr	MBAM	磁盘加密管理
+it	n	disk unlock	磁盘解锁
+it	n	pre-boot	开机前验证
+it	n	BitLocker PIN	磁盘开机密码
+it	n	startup key	启动密钥
+it	n	USB key	U盘密钥
+it	n	network unlock	网络解锁
+it	n	protector	保护器
+it	n	numerical password	数字恢复密码
+it	acr	FIPS	联邦加密标准
+it	acr	HSM	硬件安全模块
+it	acr	KMS	密钥管理服务
+it	acr	CMK	客户主密钥
+it	n	envelope encryption	信封加密
+it	n	data key	数据密钥
+it	n	key alias	密钥别名
+it	n	key policy	密钥策略
+it	n	key deletion	密钥删除
+it	n	key disable	密钥停用
+it	n	key enable	密钥启用
+it	n	cryptographic erase	加密擦除
+it	n	secure wipe	安全擦除
+it	n	disk wipe	磁盘擦除
+it	v	degauss	消磁
+it	n	physical destruction	物理销毁
+it	n	media sanitization	介质净化
+it	n	NIST wipe	标准擦除
+it	n	DoD wipe	国防部擦除
+it	n	spare disk	备用磁盘
+it	n	hot spare	热备盘
+it	n	cold spare	冷备盘
+it	n	rebuild time	重建时间
+it	n	degraded array	降级阵列
+it	n	failed disk	故障磁盘
+it	n	predictive failure	预警故障
+it	acr	SMART	磁盘健康监测
+it	n	bad sector	坏扇区
+it	n	uncorrectable error	不可纠正错误
+it	n	reallocated sector	重映射扇区
+it	n	spin-up	磁盘启动
+it	n	head crash	磁头损坏
+it	acr	SSD	固态硬盘
+it	acr	HDD	机械硬盘
+it	acr	NVMe	高速固态接口
+it	acr	SATA	串口硬盘接口
+it	acr	SAS	服务器硬盘接口
+it	n	M.2	板载固态接口
+it	n	hot swap	热插拔
+it	n	caddy	硬盘托架
+it	n	backplane	硬盘背板
+it	n	RAID controller	阵列卡
+it	n	battery backup unit	阵列电池
+it	n	write cache	写缓存
+it	n	read cache	读缓存
+it	n	cache battery	缓存电池
+it	n	write-through	直写
+it	n	write-back	回写
+it	n	stripe	条带
+it	n	mirror	镜像盘
+it	n	parity	校验
+it	n	RAID 1	镜像阵列
+it	n	RAID 5	校验阵列
+it	n	RAID 6	双校验阵列
+it	n	RAID 10	镜像条带
+it	acr	JBOD	简单磁盘组合
+it	n	thin provision	精简配置
+it	n	thick provision	厚配置
+it	v	overcommit	超分
+it	n	storage pool	存储池
+it	n	datastore	数据存储
+it	acr	VMDK	虚拟磁盘文件
+it	acr	VHD	虚拟硬盘
+it	n	snapshot chain	快照链
+it	n	delta disk	增量盘
+it	n	linked clone	链接克隆
+it	n	full clone	完整克隆
+it	n	template VM	虚拟机模板
+it	n	instant clone	即时克隆
+it	n	vMotion	在线迁移
+it	n	storage vMotion	存储在线迁移
+it	n	HA cluster	高可用集群
+it	acr	DRS	动态资源调度
+it	n	affinity	亲和性
+it	n	anti-affinity	反亲和性
+it	n	resource pool	资源池
+it	n	reservation	资源预留
+it	n	limit	资源上限
+it	n	shares	资源份额
+it	n	ballooning	内存回收
+it	n	swap file	交换文件
+it	n	CPU ready	处理器等待
+it	n	co-stop	共同停顿
+it	acr	NUMA	内存亲和架构
+it	n	vCPU	虚拟处理器
+it	n	vRAM	虚拟内存
+it	n	guest OS	客户机系统
+it	n	host OS	宿主机系统
+it	n	tools agent	虚拟化工具代理
+it	n	guest customization	客户机定制
+it	n	sysprep	系统封装
+it	n	SID duplication	安全标识重复
+it	n	IP conflict	地址冲突
+it	n	duplicate MAC	网卡地址重复
+it	n	promiscuous mode	混杂模式
+it	n	forged transmit	伪造发送
+it	n	MAC change	网卡地址更改
+it	n	port group	端口组
+it	n	virtual switch	虚拟交换机
+it	n	uplink NIC	上联网卡
+it	n	NIC teaming	网卡绑定
+it	acr	LACP	链路聚合
+it	n	load balance	负载分担
+it	n	failover order	故障切换顺序
+it	n	beacon probing	信标探测
+it	n	network isolation	网络隔离
+it	n	microsegmentation	微分段
+it	n	distributed firewall	分布式防火墙
+it	n	east-west traffic	东西向流量
+it	n	north-south traffic	南北向流量
+it	n	hairpin	回流转发
+it	n	anycast	任播
+it	n	unicast	单播
+it	n	multicast	组播
+it	n	broadcast	广播
+it	acr	IGMP	组播管理协议
+it	n	protocol independent multicast	协议无关组播
+it	acr	mDNS	组播域名
+it	acr	LLMNR	本地链路名称解析
+it	n	NetBIOS	网上基本输入输出
+it	acr	WINS	Windows名称服务
+it	n	name resolution	名称解析
+it	n	split-brain DNS	脑裂域名
+it	n	conditional forwarder	条件转发
+it	n	stub zone	存根区域
+it	n	secondary zone	辅助区域
+it	n	primary zone	主要区域
+it	n	AD-integrated zone	目录集成区域
+it	n	scavenging	过期记录清理
+it	n	aging	记录老化
+it	n	dynamic update	动态更新
+it	n	secure update	安全更新
+it	n	zone transfer	区域传送
+it	acr	AXFR	全量区域传送
+it	acr	IXFR	增量区域传送
+it	n	DNS notify	区域变更通知
+it	acr	TSIG	事务签名
+it	acr	DNSSEC	域名安全扩展
+it	acr	RRSIG	资源记录签名
+it	n	DS record	委托签名记录
+it	n	glue record	粘合记录
+it	n	root hints	根提示
+it	n	forwarder	转发器
+it	n	recursion	递归查询
+it	n	iterative query	迭代查询
+it	n	cache poisoning	缓存投毒
+it	n	DNS tunneling	域名隧道
+it	acr	DoH	加密域名查询
+it	acr	DoT	加密域名传输
+it	n	split DNS	内外域名分离
+it	n	internal zone	内网区域
+it	n	external zone	外网区域
+it	n	reverse zone	反向区域
+it	acr	PTR	反向解析记录
+it	acr	SOA	起始授权记录
+it	n	NS record	域名服务器记录
+it	n	TXT record	文本记录
+it	acr	SPF	发件人策略
+it	acr	DKIM	邮件签名
+it	acr	DMARC	邮件认证报告
+it	n	MX failover	邮件交换切换
+it	n	smarthost	智能中继
+it	n	relay	邮件中继
+it	n	open relay	开放中继
+it	n	spam score	垃圾评分
+it	n	quarantine mailbox	隔离邮箱
+it	acr	NDR	未送达报告
+it	acr	DSN	投递状态通知
+it	n	mailbox database	邮箱数据库
+it	n	mailbox quota	邮箱配额
+it	n	archive mailbox	归档邮箱
+it	n	litigation hold	诉讼保留
+it	n	in-place hold	就地保留
+it	n	eDiscovery	电子取证
+it	n	journaling	邮件日志
+it	n	transport rule	传输规则
+it	n	mail flow	邮件流
+it	n	connector	连接器
+it	n	send connector	发送连接器
+it	n	receive connector	接收连接器
+it	n	accepted domain	接受域名
+it	n	authoritative domain	权威域名
+it	n	internal relay domain	内部中继域名
+it	n	autodiscover	自动发现
+it	n	Outlook profile	邮件配置文件
+it	acr	OST	脱机数据文件
+it	acr	PST	个人存储文件
+it	n	cached mode	缓存模式
+it	n	online mode	在线模式
+it	n	mailbox move	邮箱迁移
+it	n	hybrid mail	混合邮件
+it	n	exchange	邮件系统
+it	n	calendar free-busy	忙闲状态
+office	n	agenda	议程
+office	n	follow-up	跟进
+office	n	handover	交接
+office	n	deadline	截止日期
+office	n	briefing	简报
+office	v	clarify	澄清
+office	v	postpone	推迟
+office	n	minutes	会议纪要
+office	n	owner	负责人
+office	n	update	更新
+office	n	attendee	参会人
+office	n	quorum	法定人数
+office	v	adjourn	休会
+office	n	chairperson	主持人
+office	n	facilitator	引导人
+office	n	kickoff	启动会
+office	n	wrap-up	收尾
+office	n	recap	回顾摘要
+office	n	takeaway	会议要点
+office	n	action item	待办事项
+office	n	talking point	讨论要点
+office	n	parking lot	待议事项
+office	n	workshop	研讨会
+office	n	offsite	外出研讨
+office	n	town hall	全员大会
+office	n	webinar	网络研讨会
+office	n	conference call	电话会议
+office	n	dial-in	拨入号
+office	v	mute	静音
+office	v	unmute	取消静音
+office	n	screen share	屏幕共享
+office	n	timeslot	时间段
+office	acr	RSVP	回复出席
+office	n	calendar	日历
+office	n	invitation	邀请
+office	v	decline	拒绝
+office	v	accept	接受
+office	adj	tentative	暂定的
+office	n	availability	可出席时间
+office	v	reschedule	改期
+office	v	cancel	取消
+office	v	confirm	确认
+office	n	reminder	提醒
+office	n	announcement	通知
+office	n	memo	内部备忘
+office	n	notice	通告
+office	n	circular	传阅文件
+office	n	newsletter	简讯
+office	n	one-pager	一页摘要
+office	n	slide deck	幻灯片稿
+office	n	appendix	附录
+office	n	summary	摘要
+office	n	overview	概览
+office	n	outline	提纲
+office	n	proposal	提案
+office	n	pitch	方案陈述
+office	n	quotation	报价
+office	n	bid	投标
+office	n	contract	合同
+office	n	vendor	供应商
+office	n	procurement	采购
+office	n	invoice	发票
+office	n	reimbursement	报销
+office	n	itinerary	行程
+office	n	logistics	后勤安排
+office	v	onboard	入职对接
+office	v	offboard	离职交接
+office	n	probation	试用期
+office	n	appraisal	绩效考核
+office	n	overtime	加班
+office	n	shift	班次
+office	n	roster	排班表
+office	n	coverage	顶班安排
+office	n	deputy	代理人
+office	n	proxy	授权代表
+office	v	delegate	委派
+office	v	authorize	授权
+office	n	headcount	编制人数
+office	n	vacancy	空缺岗位
+office	n	interview	面试
+office	n	offer	录用通知
+office	n	milestone	里程碑
+office	n	deliverable	交付物
+office	n	scope	范围
+office	n	stakeholder	相关方
+office	n	sponsor	发起人
+office	n	timeline	时间线
+office	n	backlog	待办积压
+office	n	blocker	阻塞项
+office	n	dependency	依赖项
+office	n	risk	风险
+office	n	mitigation	缓解措施
+office	n	contingency	应急预案
+office	v	escalate	升级上报
+office	n	bottleneck	瓶颈
+office	n	bandwidth	可用精力
+office	n	capacity	承载能力
+office	n	allocation	资源分配
+office	n	estimate	估算
+office	acr	KPI	关键绩效指标
+office	n	metric	衡量指标
+office	n	sign-off	签字确认
+office	n	approval	审批
+office	n	phase	阶段
+office	v	prioritize	排出优先级
+office	v	negotiate	协商
+office	n	compromise	折中
+office	n	consensus	共识
+office	n	feedback	反馈
+office	adj	confidential	保密的
+office	adj	urgent	紧急的
+office	n	template	模板
+office	n	checklist	核对清单
+office	acr	SOP	标准作业程序
+office	n	policy	制度
+office	n	guideline	指引
+office	n	procedure	流程步骤
+office	n	workflow	工作流程
+office	n	compliance	合规
+office	n	audit	审计
+office	v	archive	归档
+office	n	revision	修订版
+office	n	draft	草稿
+office	acr	CC	抄送
+office	acr	BCC	密送
+office	n	subject line	邮件主题
+office	n	attachment	附件
+office	n	thread	邮件串
+office	n	inbox	收件箱
+office	acr	FYI	仅供参考
+office	acr	EOD	下班前
+office	adv	ASAP	尽快
+office	v	reply-all	全部回复
+office	v	forward	转发
+office	n	signature	签名档
+office	v	acknowledge	确认收到
+office	v	align	对齐共识
+office	v	sync	同步沟通
+office	n	catch-up	补会沟通
+office	v	ping	快速提醒
+office	v	nudge	催一下
+office	v	circulate	传阅
+office	n	next steps	下一步
+office	n	status update	进展通报
+office	n	weekly report	周报
+office	n	monthly report	月报
+office	n	quarterly review	季度回顾
+office	n	annual review	年度回顾
+office	n	performance review	绩效面谈
+office	n	project plan	项目计划
+office	n	work plan	工作计划
+office	n	meeting invite	会议邀请
+office	n	calendar invite	日历邀请
+office	n	standing meeting	例会
+office	adj	ad hoc	临时安排
+office	n	one-on-one	一对一面谈
+office	n	skip-level	越级沟通
+office	n	all-hands	全员会
+office	n	brown-bag	午餐分享会
+office	n	icebreaker	破冰环节
+office	n	roundtable	圆桌讨论
+office	n	brainstorm	头脑风暴
+office	n	whiteboard	白板
+office	n	flipchart	挂纸板
+office	n	handout	会发材料
+office	n	attendance	出席情况
+office	n	regrets	请假缺席
+office	n	latecomer	迟到者
+office	n	timekeeper	计时员
+office	n	scribe	会议记录员
+office	n	ground rules	会议规则
+office	n	parking-lot item	暂记事项
+office	n	decision log	决策记录
+office	acr	RACI	权责矩阵
+office	adj	responsible	负责执行的
+office	adj	accountable	最终负责的
+office	adj	consulted	需征询的
+office	adj	informed	需知会的
+office	n	due date	到期日
+office	n	extension	延期
+office	adj	overdue	已逾期
+office	adj	pending	待处理
+office	v	complete	完成
+office	v	assign	指派
+office	v	reassign	改派
+office	v	reopen	重新打开
+office	n	bottom line	关键结论
+office	n	heads-up	事先提醒
+office	n	green light	放行批准
+office	n	red flag	警示信号
+office	n	gray area	模糊地带
+office	n	chain of command	汇报链条
+office	n	org chart	组织架构图
+office	n	job description	岗位说明书
+office	n	duty roster	值班表
+office	adj	on-call	值班待命
+office	n	standby	待命
+office	n	night shift	夜班
+office	n	day shift	白班
+office	n	weekend cover	周末顶班
+office	n	leave request	请假申请
+office	n	sick leave	病假
+office	n	annual leave	年假
+office	n	compensatory leave	调休
+office	n	public holiday	公共假期
+office	n	time off	休假时间
+office	n	flex time	弹性工时
+office	n	core hours	核心工时
+office	n	overtime pay	加班费
+office	n	meal break	用餐休息
+office	n	handover note	交接说明
+office	n	duty log	值班日志
+office	n	secondment	借调
+office	n	rotation	轮岗
+office	n	intern	实习生
+office	n	mentor	导师
+office	n	buddy	带教搭档
+office	n	orientation	入职介绍
+office	n	induction	入职培训
+office	n	training plan	培训计划
+office	n	refresher	复习培训
+office	n	certificate	证书
+office	n	license	执照
+office	n	credential	资质证明
+office	n	badge	工牌
+office	n	access card	门禁卡
+office	n	visitor pass	访客证
+office	n	escort	陪同
+office	n	lobby	大厅
+office	n	conference room	会议室
+office	n	huddle room	小讨论室
+office	n	training room	培训室
+office	n	front desk	前台
+office	n	mailroom	收发室
+office	n	stationery	文具
+office	n	letterhead	公文抬头纸
+office	n	stamp	公章
+office	n	seal	印章
+office	n	watermark	水印
+office	n	binder	文件夹
+office	n	filing	归档装订
+office	n	folder	文件夹目录
+office	n	version	版本
+office	n	final copy	终稿
+office	n	tracked changes	修订痕迹
+office	n	comment	批注
+office	n	footnote	脚注
+office	n	header	页眉
+office	n	footer	页脚
+office	n	page number	页码
+office	n	distribution list	分发名单
+office	n	mailing list	邮件名单
+office	n	contact list	联系人名单
+office	n	org directory	通讯录
+office	n	extension number	分机号
+office	n	switchboard	总机
+office	n	voicemail	语音留言
+office	n	callback	回拨
+office	n	admission	入院
+office	n	discharge	出院
+office	n	transfer	转科转院
+office	n	referral	转诊
+office	n	appointment	预约
+office	n	registration	挂号登记
+office	n	reception	接待
+office	n	waiting list	等候名单
+office	n	queue	排队
+office	n	census	在院人数
+office	n	occupancy	床位占用率
+office	n	bed management	床位管理
+office	n	ward round	查房
+office	n	clinic	门诊
+office	n	outpatient	门诊患者
+office	n	inpatient	住院患者
+office	adj	elective	择期的
+office	n	consent form	知情同意书
+office	n	insurance	医保保险
+office	n	copay	自付费用
+office	n	billing	计费收费
+office	n	claim	报销申请
+office	n	encounter	就诊记录
+office	n	visit	就诊
+office	n	no-show	爽约未到
+office	n	triage desk	分诊台
+office	n	nurse station	护士站
+office	n	information desk	问询台
+office	n	duty	值班职责
+office	n	assignment	任务分配
+office	n	department head	科室主任
+office	n	director	主任
+office	n	secretary	秘书
+office	n	clerk	文员
+office	n	coordinator	协调员
+office	n	liaison	联络人
+office	n	counterpart	对口同事
+office	n	colleague	同事
+office	n	supervisor	上级主管
+office	n	manager	经理
+office	n	team lead	组长
+office	n	staff	员工
+office	n	workforce	人力
+office	n	shift handover	交接班
+office	n	morning huddle	晨会
+office	n	evening report	晚交班
+office	n	board round	看板交班
+office	n	bed meeting	床位会
+office	n	ops meeting	运营会
+office	n	quality meeting	质量会
+office	n	safety huddle	安全短会
+office	n	incident report	不良事件报告
+office	n	near miss	未遂事件
+office	n	root cause	根本原因
+office	n	corrective action	纠正措施
+office	n	preventive action	预防措施
+office	n	lesson learned	经验教训
+office	n	best practice	最佳实践
+office	n	standard	标准
+office	n	protocol	规程
+office	n	pathway	路径
+office	n	checklist audit	清单抽查
+office	n	spot check	突击检查
+office	n	walkthrough	现场走查
+office	n	inspection	检查
+office	n	finding	检查发现
+office	n	nonconformity	不符合项
+office	acr	CAPA	纠正预防措施
+office	n	accreditation	评审认证
+office	n	survey	现场评审
+office	n	tracer	追踪检查
+office	n	mock survey	模拟评审
+office	n	scorecard	计分卡
+office	n	dashboard review	看板回顾
+office	n	target	目标
+office	n	baseline	基线
+office	n	trend	趋势
+office	n	variance	偏差
+office	n	actuals	实际数
+office	n	forecast	预测
+office	n	budget	预算
+office	n	cost center	成本中心
+office	n	purchase order	采购订单
+office	n	requisition	请购单
+office	n	quote	询价报价
+office	n	lead time	供货周期
+office	n	stock	库存
+office	n	inventory	盘点库存
+office	n	shortage	短缺
+office	n	surplus	多余
+office	n	consumable	耗材
+office	n	asset	资产
+office	n	label	标签
+office	n	serial number	序列号
+office	n	asset tag	资产标签
+office	n	depreciation	折旧
+office	n	write-off	核销
+office	n	petty cash	备用金
+office	n	receipt	收据
+office	n	expense	费用
+office	n	travel request	出差申请
+office	n	travel claim	差旅报销
+office	n	per diem	每日补贴
+office	n	accommodation	住宿
+office	n	transport	交通
+office	n	taxi voucher	出租车凭证
+office	n	parking permit	停车许可
+office	n	canteen	食堂
+office	n	locker	储物柜
+office	n	uniform	工装
+office	n	notice board	公告栏
+office	n	suggestion box	意见箱
+office	n	complaint	投诉
+office	n	compliment	表扬
+office	n	patient feedback	患者反馈
+office	n	service recovery	服务补救
+office	n	apology	道歉
+office	n	courtesy	礼貌
+office	n	professionalism	职业素养
+office	n	punctuality	准时
+office	n	courtesy copy	礼节抄送
+office	n	hard copy	纸质件
+office	n	soft copy	电子件
+office	n	original	原件
+office	n	duplicate	副本
+office	n	photocopy	复印件
+office	n	scan	扫描件
+office	n	fax	传真
+office	n	courier	快递
+office	v	dispatch	发出
+office	v	receive	签收
+office	v	return	退回
+office	v	revise	修订
+office	v	amend	修改
+office	v	finalize	定稿
+office	v	issue	印发
+office	v	announce	宣布
+office	v	communicate	沟通
+office	v	discuss	讨论
+office	v	consult	征询
+office	v	recommend	建议
+office	v	suggest	提议
+office	v	propose	提出
+office	v	present	汇报展示
+office	v	report	报告
+office	v	debrief	复盘
+office	v	summarize	总结
+office	v	highlight	标出重点
+office	v	emphasize	强调
+office	v	compile	汇总
+office	v	distribute	分发
+office	v	notify	通知
+office	v	inform	告知
+office	v	request	申请
+office	v	submit	提交
+office	v	review	审阅
+office	v	approve	批准
+office	v	reject	驳回
+office	v	schedule	安排时间
+office	v	coordinate	协调
+office	v	facilitate	促成
+office	v	prepare	准备
+office	n	arrange	安排
+office	v	organize	组织
+office	v	book	预订
+office	v	reserve	预留
+office	v	attend	出席
+office	v	chair	主持
+office	v	host	主办
+office	v	moderate	主持讨论
+office	v	introduce	介绍
+office	v	welcome	欢迎
+office	v	thank	感谢
+office	v	apologize	道歉
+office	v	congratulate	祝贺
+office	v	raise	提出问题
+office	v	address	处理回应
+office	v	resolve	解决
+office	v	settle	谈妥
+office	v	mediate	调解
+office	v	enforce	执行落实
+office	v	comply	遵守
+office	v	waive	豁免
+office	v	grant	批准给予
+office	v	deny	拒绝批准
+office	v	permit	允许
+office	v	restrict	限制
+office	v	expand	扩大
+office	v	reduce	减少
+office	v	maintain	维持
+office	v	improve	改进
+office	v	streamline	精简
+office	v	simplify	简化
+office	v	standardize	标准化
+office	v	customize	定制
+office	v	adapt	调整适应
+office	v	adjust	微调
+office	v	document	形成书面记录
+office	v	record	记录
+office	v	note	记下
+office	v	translate	翻译
+office	v	explain	解释
+office	v	describe	描述
+office	v	define	界定
+office	v	specify	明确
+office	v	itemize	逐项列出
+office	v	compare	比较
+office	v	analyze	分析
+office	v	calculate	计算
+office	v	plan	规划
+office	v	initiate	启动
+office	v	launch	推出
+office	v	pause	暂停
+office	v	resume	恢复进行
+office	v	suspend	中止
+office	v	delay	延误
+office	v	accelerate	加快
+office	v	expedite	加急办理
+office	v	omit	省略
+office	v	include	纳入
+office	v	exclude	排除
+office	v	replace	替换
+office	v	combine	合并
+office	v	split	拆分
+office	v	track	跟踪
+office	v	measure	衡量
+office	v	evaluate	评估
+office	v	assess	评定
+office	v	train	培训
+office	v	coach	辅导
+office	v	hire	招聘
+office	v	recruit	招募
+office	v	nominate	提名
+office	v	appoint	任命
+office	v	promote	晋升
+office	v	relocate	调岗搬迁
+office	n	handover meeting	交接会
+office	n	kick-off memo	启动备忘
+office	n	closing remarks	结束讲话
+office	n	opening remarks	开场讲话
+office	n	talking paper	发言提纲
+office	n	briefing note	情况说明
+office	n	position paper	立场说明
+office	n	white paper	白皮书
+office	n	terms of reference	职责范围
+office	n	code of conduct	行为规范
+office	n	conflict of interest	利益冲突
+office	n	declaration	申报声明
+office	n	confidentiality	保密义务
+office	n	non-disclosure	保密约定
+office	n	privacy notice	隐私告知
+office	n	data request	数据申请
+office	n	access request	权限申请
+office	n	change request	变更申请
+office	n	service request	服务申请
+office	n	work order	派工单
+office	n	priority	优先级
+office	n	severity	严重程度
+office	n	impact	影响
+office	n	urgency	紧急程度
+office	n	business hours	工作时间
+office	n	after hours	下班后
+office	n	cut-off	截止时点
+office	n	lead-in	开场铺垫
+office	n	wrap-up email	收尾邮件
+office	n	read receipt	已读回执
+office	n	delivery failure	发送失败
+office	n	bounce	退信
+office	n	outbox	发件箱
+office	n	drafts folder	草稿箱
+office	n	junk mail	垃圾邮件
+office	v	recall	撤回邮件
+office	v	unsubscribe	退订
+office	v	flag	标旗标记
+office	v	pin	置顶
+office	n	archive folder	归档文件夹
+office	n	shared mailbox	共享邮箱
+office	n	group email	组邮箱
+office	n	email etiquette	邮件礼仪
+office	n	plain language	通俗表达
+office	n	tone	语气
+office	n	wording	措辞
+office	n	bullet point	条目要点
+office	n	call to action	行动号召
+office	n	executive summary	高管摘要
+office	n	cover letter	说明函
+office	n	transmittal	送文单
+office	n	routing slip	传阅单
+office	n	approval chain	审批链
+office	v	counter-sign	会签
+office	n	wet signature	手写签名
+office	n	e-signature	电子签名
+office	n	initials	姓名缩写签
+office	n	date stamp	日期章
+office	n	official seal	公章
+office	n	letter of thanks	感谢信
+office	n	letter of complaint	投诉信
+office	n	meeting pack	会议材料包
+office	n	pre-read	会前阅读材料
+office	n	post-meeting note	会后说明
+office	n	action log	行动清单
+office	n	risk log	风险台账
+office	n	issue log	问题台账
+office	n	decision register	决策台账
+office	n	lessons log	经验台账
+office	n	project charter	项目章程
+office	n	business case	立项论证
+office	n	feasibility	可行性
+office	n	go-live plan	上线计划
+office	n	training roster	培训名单
+office	n	attendance sheet	签到表
+office	n	feedback form	反馈表
+office	n	satisfaction survey	满意度调查
+office	n	pulse survey	快问快答调查
+office	n	town-hall Q&A	全员问答
+office	n	open floor	自由发言
+office	v	time-box	限时讨论
+office	n	any other business	其他事项
+office	acr	AOB	其他事项
+office	n	meeting cadence	开会节奏
+office	adj	biweekly	双周一次
+office	adj	fortnightly	每两周
+office	adj	quarterly	每季度
+office	adj	year-end	年底的
+office	adj	mid-year	年中的
+office	n	year to date	年初至今
+office	n	month to date	月初至今
+office	n	week to date	本周至今
+office	n	effective date	生效日期
+office	n	expiry date	到期日期
+office	n	grace period	宽限期
+office	n	notice period	通知期
+office	n	handover window	交接窗口
+office	n	cooling-off	冷静期
+office	n	blackout period	冻结期
+office	n	peak hours	高峰时段
+office	n	off-peak	低峰时段
+office	n	rush hour	高峰时间
+office	n	late running	晚点延误
+office	adj	double-booked	时间冲突
+office	adj	overbooked	排程过满
+office	n	free slot	空档
+office	adj	busy	忙碌的
+office	adj	available	有空的
+office	adj	unavailable	没空的
+office	adj	reachable	能联系到的
+office	adj	unreachable	联系不上的
+office	n	end of day	当天结束前
+office	n	start of day	当天开始时
+office	n	mid-morning	上午过半
+office	n	mid-afternoon	下午过半
+office	acr	COB	下班前
+office	acr	EOB	业务结束前
+office	acr	ETA	预计到达时间
+office	acr	ETD	预计出发时间
+office	acr	TBA	待公布
+office	acr	TBD	待确定
+office	acr	N/A	不适用
+office	acr	WIP	进行中工作
+office	acr	POC	对接人
+office	acr	SME	业务专家
+office	acr	PMO	项目管理办公室
+office	acr	SLA	服务级别协议
+office	acr	OLA	运营级别协议
+office	n	KPI review	指标回顾
+office	n	RAG status	红黄绿状态
+office	n	amber	黄色预警
+office	n	red status	红色状态
+office	n	green status	绿色正常
+office	n	traffic light	红黄绿标识
+office	n	health check	健康检查
+office	n	pulse check	快速摸底
+office	n	temperature check	气氛摸底
+office	n	morale	士气
+office	n	workload	工作量
+office	n	work-life balance	工作生活平衡
+office	n	burnout	过劳倦怠
+office	n	coverage plan	顶班计划
+office	n	backup person	替补人员
+office	v	shadow	跟岗见习
+office	v	cross-train	交叉培训
+office	v	upskill	提升技能
+office	n	knowledge transfer	知识交接
+office	n	desk-side support	工位旁支持
+office	n	floor walker	现场巡视员
+office	n	super user	业务骨干用户
+office	n	champion	推广骨干
+office	n	change agent	变革推动者
+office	n	sponsor update	发起人通报
+office	n	steering committee	指导委员会
+office	n	working group	工作组
+office	n	task force	专项组
+office	n	committee	委员会
+office	n	subcommittee	分委会
+office	n	minutes taker	纪要记录人
+office	n	chair's notes	主持备忘
+office	n	quorum call	人数确认
+office	n	roll call	点名
+office	n	apology for absence	缺席致歉
+office	n	late arrival	迟到
+office	n	early leave	早退
+office	n	proxy vote	代投票
+office	n	motion	动议
+office	adj	carried	通过的
+office	adj	defeated	未通过的
+office	adj	unanimous	一致通过的
+office	n	majority	多数
+office	n	minority view	少数意见
+office	n	dissent	异议
+office	v	abstain	弃权
+office	v	vote	表决
+office	n	ballot	无记名票
+office	n	show of hands	举手表决
+office	n	silent agreement	默许
+office	n	spoken agreement	口头约定
+office	n	written agreement	书面约定
+office	n	gentle reminder	温和提醒
+office	n	final reminder	最后提醒
+office	n	escalation note	升级说明
+office	n	courtesy reminder	礼貌催办
+office	n	chaser	催办邮件
+office	n	nudge email	轻催邮件
+office	n	follow-up call	跟进电话
+office	n	courtesy visit	礼节拜访
+office	n	site visit	现场走访
+office	n	walk-in	未预约来访
+office	n	drop-in	顺便来访
+office	n	waiting area	等候区
+office	n	reception log	接待登记
+office	n	visitor log	访客登记
+office	n	badge return	工牌归还
+office	n	key register	钥匙登记
+office	n	room booking	会议室预订
+office	n	room conflict	会议室冲突
+office	n	double booking	重复预订
+office	n	no-show meeting	无人到会
+office	n	empty room	空会议室
+office	n	overrun	超时占用
+office	n	buffer time	缓冲时间
+office	n	travel time	路上时间
+office	n	setup time	布置时间
+office	n	cleanup	清理现场
+office	n	housekeeping	会务杂务
+office	n	AV check	音视频检查
+office	n	microphone	麦克风
+office	n	speakerphone	免提电话
+office	n	projector	投影仪
+office	n	pointer	激光笔
+office	n	clicker	翻页笔
+office	n	nameplate	席卡
+office	n	seating plan	座位表
+office	n	place card	座位卡
+office	n	sign-in sheet	签到单
+office	n	welcome pack	欢迎材料
+office	n	water station	饮水处
+office	n	breakout	分组讨论
+office	n	plenary	全体会议
+office	n	keynote	主旨发言
+office	n	panel	专题小组
+office	n	moderator	主持人
+office	n	rapporteur	报告人
+office	n	time-out	暂停讨论
+office	n	stretch break	伸展休息
+office	n	coffee break	茶歇
+office	n	networking	会间交流
+office	n	photo op	合影环节
+office	n	group photo	集体照
+office	n	debrief note	复盘说明
+office	n	thank-you note	感谢短笺
+office	n	appreciation	感谢认可
+office	n	recognition	表彰
+office	n	award	奖项
+office	n	citation	嘉奖
+office	n	warning letter	警告信
+office	n	verbal warning	口头警告
+office	n	written warning	书面警告
+office	n	counseling note	约谈记录
+office	n	improvement plan	改进计划
+office	acr	PIP	绩效改进计划
+office	n	probation review	试用考核
+office	n	exit interview	离职面谈
+office	n	handover checklist	交接清单
+office	n	clearance form	离职清算单
+office	n	last day	最后工作日
+office	n	notice to leave	离职通知
+office	n	reference letter	推荐信
+office	n	employment letter	在职证明
+office	n	salary slip	工资单
+office	n	pay day	发薪日
+office	n	allowance	津贴
+office	n	bonus	奖金
+office	n	overtime claim	加班申报
+office	n	shift allowance	班次津贴
+office	n	night differential	夜班补贴
+office	n	on-call pay	值班津贴
+office	n	meal voucher	餐券
+office	n	transport allowance	交通补贴
+office	n	housing allowance	住房补贴
+office	n	uniform allowance	工装补贴
+office	n	training allowance	培训补贴
+office	n	exam leave	考试假
+office	n	marriage leave	婚假
+office	n	bereavement leave	丧假
+office	n	maternity leave	产假
+office	n	paternity leave	陪产假
+office	n	parental leave	育儿假
+office	n	unpaid leave	无薪假
+office	n	study leave	进修假
+office	n	compassionate leave	恩恤假
+office	n	jury duty	陪审公务
+office	n	military leave	服役假
+office	n	return-to-work	复工
+office	n	fit note	康复证明
+office	n	sick note	病假条
+office	n	occupational health	职业健康
+office	n	pre-employment check	入职体检
+office	n	background check	背景审查
+office	n	reference check	背景询问
+office	n	conflict check	利益冲突核查
+office	n	onboarding pack	入职材料包
+office	n	welcome email	欢迎邮件
+office	n	first-day agenda	首日安排
+office	n	buddy assignment	带教安排
+office	n	desk assignment	工位安排
+office	n	phone extension	电话分机
+office	n	email account	邮箱账号
+office	n	system access	系统权限
+office	n	training schedule	培训日程
+office	n	competency	能力要求
+office	n	skill matrix	技能矩阵
+office	n	job grade	职级
+office	n	pay band	薪级
+office	n	title	职务名称
+office	n	reporting line	汇报关系
+office	n	dotted line	虚线汇报
+office	n	solid line	实线汇报
+office	n	span of control	管理幅度
+office	adj	acting	代理的
+office	adj	interim	临时的
+office	adj	permanent	正式的
+office	adj	temporary	临时的
+office	adj	full-time	全职的
+office	adj	part-time	兼职的
+office	n	contract staff	合同制员工
+office	n	agency staff	派遣员工
+office	n	locum	代班人员
+office	n	floater	机动人员
+office	n	pool staff	机动库人员
+office	n	surge staff	应急增援人员
+office	n	overtime roster	加班排班
+office	v	swap shift	换班
+office	v	cover shift	顶班
+office	n	no-pay day	无薪缺勤日
+office	n	tardiness	迟到记录
+office	n	absenteeism	缺勤
+office	n	attendance record	出勤记录
+office	n	time sheet	工时表
+office	n	hours worked	实际工时
+office	n	core team	核心团队
+office	n	extended team	扩展团队
+office	n	project team	项目组
+office	n	ops team	运营组
+office	n	support team	支持组
+office	n	frontline	一线
+office	n	back office	后台
+office	n	shared services	共享服务
+office	n	help window	服务窗口
+office	n	service counter	服务台
+office	n	ticket window	窗口
+office	n	queue number	排队号
+office	n	calling system	叫号系统
+office	n	display board	显示屏
+office	n	wayfinding	导引标识
+office	n	directory board	楼层索引
+office	n	floor plan	平面图
+office	n	room number	房间号
+office	n	building	楼宇
+office	n	wing	楼翼
+office	n	ward	病区
+office	n	unit	单元
+office	n	bay	床位区
+office	n	cubicle	隔间
+office	n	workstation area	工位区
+office	n	quiet room	安静室
+office	n	on-call room	值班室
+office	n	duty room	值班房
+office	n	changing room	更衣室
+office	n	storage room	库房
+office	n	records room	病案室
+office	n	medical records	病案
+office	n	chart request	调阅病历
+office	n	release of information	信息调取
+office	n	authorization form	授权书
+office	n	identity check	身份核验
+office	n	next of kin	近亲属
+office	n	emergency contact	紧急联系人
+office	n	guardian	监护人
+office	n	interpreter	口译员
+office	n	language line	翻译专线
+office	n	plain explanation	通俗解释
+office	n	teach-back	复述确认
+office	n	informed consent	知情同意
+office	n	patient rights	患者权利
+office	n	privacy screen	隐私屏
+office	n	last item	最后一项
+office	n	busy morning	忙碌的上午
+office	n	quiet afternoon	清闲的下午
+office	n	heavy day	繁忙的一天
+office	n	light day	轻松的一天
+office	n	typical day	平常的一天
+office	n	unusual request	少见的请求
+office	n	routine request	常规请求
+office	n	special request	特殊请求
+office	n	urgent request	紧急请求
+office	n	standing request	长期固定请求
+office	n	one-off request	一次性请求
+office	n	repeat request	重复请求
+office	n	duplicate request	重复提交的请求
+office	n	invalid request	无效请求
+office	n	incomplete form	不完整表格
+office	n	missing field	漏填字段
+office	n	wrong date	日期填错
+office	adj	illegible	字迹难认的
+office	adj	unsigned	未签字的
+office	adj	unstamped	未盖章的
+office	adj	outdated	过时的
+office	adj	superseded	已被替代的
+office	n	current version	当前版本
+office	n	obsolete version	作废版本
+office	n	controlled document	受控文件
+office	n	uncontrolled copy	非受控副本
+office	n	master copy	正本
+office	n	working copy	工作副本
+office	n	reference copy	查阅副本
+office	n	display copy	展示用副本
+office	n	archived copy	归档副本
+office	n	retention	保存期限
+office	n	destruction	销毁
+office	v	shred	粉碎销毁
+office	n	confidential bin	保密回收桶
+office	n	locked cabinet	上锁柜
+office	n	key control	钥匙管理
+office	n	access log	进出记录

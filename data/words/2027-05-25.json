@@ -5,48 +5,48 @@
       "word": "steering committee",
       "phonetic": "/ˈstɪərɪŋ kəˈmɪti/",
       "meaning": "指导委员会",
-      "example": "The steering committee still needs a decision today.",
-      "exampleZh": "这个指导委员会今天还得拍个板。",
+      "example": "The steering committee gathers on the first Monday of every month.",
+      "exampleZh": "指导委员会在每个月的第一个周一开会。",
       "category": "office"
     },
     {
       "word": "working group",
       "phonetic": "/ˈwɜːkɪŋ ɡruːp/",
       "meaning": "工作组",
-      "example": "The working group still needs a decision today.",
-      "exampleZh": "这个工作组今天还得拍个板。",
+      "example": "Our working group is drafting a cleaner set of visitor rules.",
+      "exampleZh": "我们的工作组正在起草一套更清楚的访客规定。",
       "category": "office"
     },
     {
       "word": "task force",
       "phonetic": "/tɑːsk fɔːs/",
       "meaning": "专项组",
-      "example": "Could you send the task force to the project group?",
-      "exampleZh": "你能把专项组发到项目群吗？",
+      "example": "A small task force is studying the long queues at registration.",
+      "exampleZh": "一个小型专项组正在研究挂号处的长队问题。",
       "category": "office"
     },
     {
       "word": "committee",
       "phonetic": "/kəˈmɪti/",
       "meaning": "委员会",
-      "example": "Please bring the committee to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个委员会。",
+      "example": "This afternoon the committee votes on the holiday duty roster.",
+      "exampleZh": "今天下午委员会要表决假期值班表。",
       "category": "office"
     },
     {
       "word": "subcommittee",
       "phonetic": "/ˈsʌbkəmɪti/",
       "meaning": "分委会",
-      "example": "I put the subcommittee on the shared drive.",
-      "exampleZh": "我把分委会放到了共享盘。",
+      "example": "The subcommittee on training meets in the small room at two o'clock.",
+      "exampleZh": "培训分委会两点在小会议室开会。",
       "category": "office"
     },
     {
       "word": "password expired",
       "phonetic": "/ˈpɑːswɜːd ɪkˈspaɪəd/",
       "meaning": "密码已过期",
-      "example": "Do not touch the password expired during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个密码已过期。",
+      "example": "Her password expired overnight, so the bedside app rejected the logon.",
+      "exampleZh": "她的密码在夜里过期了，床旁应用拒绝了这次登录。",
       "category": "it"
     },
     {
@@ -69,16 +69,16 @@
       "word": "complex password",
       "phonetic": "/ˈkɒmpleks ˈpɑːswɜːd/",
       "meaning": "复杂密码",
-      "example": "We will verify the complex password after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个复杂密码。",
+      "example": "A complex password is required on every clinical account, including shared kiosks.",
+      "exampleZh": "每个临床账号都要复杂密码，公用查询机也不例外。",
       "category": "it"
     },
     {
       "word": "passphrase",
       "phonetic": "/ˈpɑːsfreɪz/",
       "meaning": "密码短语",
-      "example": "Please test the passphrase on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个密码短语。",
+      "example": "Use a long passphrase for the archive key instead of a short complex password.",
+      "exampleZh": "归档密钥用一长串密码短语，别用又短又复杂的那种密码。",
       "category": "it"
     }
   ]

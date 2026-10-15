@@ -5,80 +5,80 @@
       "word": "ops team",
       "phonetic": "/ɒps tiːm/",
       "meaning": "运营组",
-      "example": "Please add the ops team to today’s notes.",
-      "exampleZh": "请把运营组写进今天的记录。",
+      "example": "The ops team answers roster questions after the counter closes.",
+      "exampleZh": "柜台关门之后，排班方面的问题由运营组答复。",
       "category": "office"
     },
     {
       "word": "support team",
       "phonetic": "/səˈpɔːt tiːm/",
       "meaning": "支持组",
-      "example": "Could you send the support team to the project group?",
-      "exampleZh": "你能把支持组发到项目群吗？",
+      "example": "The support team stays behind the counter until six o'clock.",
+      "exampleZh": "支持组在柜台后面一直待到六点。",
       "category": "office"
     },
     {
       "word": "frontline",
       "phonetic": "/ˈfrʌntlaɪn/",
       "meaning": "一线",
-      "example": "We talked about the frontline with the department head.",
-      "exampleZh": "我们和科主任谈了这个一线。",
+      "example": "Frontline clerks meet the queue before anyone sitting behind them.",
+      "exampleZh": "一线文员比坐在后面的人更早面对排队的人群。",
       "category": "office"
     },
     {
       "word": "back office",
       "phonetic": "/bæk ˈɒfɪs/",
       "meaning": "后台",
-      "example": "Could you send the back office to the project group?",
-      "exampleZh": "你能把后台发到项目群吗？",
+      "example": "Back office can make the badges while the front counter stays open.",
+      "exampleZh": "前台柜台照常开放的时候，后台可以制作工牌。",
       "category": "office"
     },
     {
       "word": "shared services",
       "phonetic": "/ʃeəd ˈsɜːvɪsɪz/",
       "meaning": "共享服务",
-      "example": "Please add the shared services to today’s notes.",
-      "exampleZh": "请把共享服务写进今天的记录。",
+      "example": "Shared services prints staff badges for every clinical department.",
+      "exampleZh": "共享服务为每个临床科室印制员工工牌。",
       "category": "office"
     },
     {
       "word": "RAID 6",
       "phonetic": "/reɪd sɪks/",
       "meaning": "双校验阵列（Redundant Array of Independent Disks）",
-      "example": "Do not touch the RAID 6 during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个双校验阵列。",
+      "example": "RAID 6 survived two failed disks in the archive, and the studies stayed online.",
+      "exampleZh": "归档上的双校验阵列扛住了两块故障盘，检查仍然在线。",
       "category": "it"
     },
     {
       "word": "RAID 10",
       "phonetic": "/reɪd ten/",
       "meaning": "镜像条带（Redundant Array of Independent Disks）",
-      "example": "Who is on call for the RAID 10 this week?",
-      "exampleZh": "这周这个镜像条带谁值班？",
+      "example": "RAID 10 mirrors each pair and then stripes across those pairs for the database.",
+      "exampleZh": "镜像条带先镜像每一对盘，再在这些盘对上做条带，给数据库用。",
       "category": "it"
     },
     {
       "word": "JBOD",
       "phonetic": "/ˈdʒeɪbɒd/",
       "meaning": "简单磁盘组合（Just a Bunch of Disks）",
-      "example": "Do not move the JBOD (Just a Bunch of Disks) during outpatient hours.",
-      "exampleZh": "门诊时段不要挪动 JBOD（Just a Bunch of Disks）。",
+      "example": "JBOD (Just a Bunch of Disks) on that shelf has no parity, so one disk loss is permanent.",
+      "exampleZh": "那个盘柜上的 JBOD（简单磁盘组合）没有校验，坏一块盘数据就没了。",
       "category": "it"
     },
     {
       "word": "thin provision",
       "phonetic": "/θɪn prəˈvɪʒn/",
       "meaning": "精简配置",
-      "example": "The ward asked us to check the thin provision.",
-      "exampleZh": "病区让我们看一下这个精简配置。",
+      "example": "Thin provision let us assign more space than the pool holds, so watch the free capacity.",
+      "exampleZh": "精简配置让我们划出的空间超过了池子实有容量，所以要盯着剩余空间。",
       "category": "it"
     },
     {
       "word": "thick provision",
       "phonetic": "/θɪk prəˈvɪʒn/",
       "meaning": "厚配置",
-      "example": "The vendor asked for a screenshot of the thick provision.",
-      "exampleZh": "厂商要一张这个厚配置的截图。",
+      "example": "Thick provision reserved the full disk up front, so this database cannot be starved later.",
+      "exampleZh": "厚配置一开始就占满了整块空间，这个数据库以后不会被挤掉容量。",
       "category": "it"
     }
   ]

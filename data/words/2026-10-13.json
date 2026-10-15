@@ -5,80 +5,80 @@
       "word": "sponsor",
       "phonetic": "/ˈspɒnsə/",
       "meaning": "发起人",
-      "example": "Please add the sponsor to today’s notes.",
-      "exampleZh": "请把发起人写进今天的记录。",
+      "example": "Our sponsor wants a monthly note, not a long slide deck.",
+      "exampleZh": "发起人要的是每月一页说明，不是一长套幻灯片。",
       "category": "office"
     },
     {
       "word": "timeline",
       "phonetic": "/ˈtaɪmlaɪn/",
       "meaning": "时间线",
-      "example": "Please add the timeline to today’s notes.",
-      "exampleZh": "请把时间线写进今天的记录。",
+      "example": "The timeline slips if the vendor misses the letterhead date.",
+      "exampleZh": "供应商若误了抬头纸的日期，时间线就会往后滑。",
       "category": "office"
     },
     {
       "word": "backlog",
       "phonetic": "/ˈbæklɒɡ/",
       "meaning": "待办积压",
-      "example": "Could you send the backlog to the project group?",
-      "exampleZh": "你能把待办积压发到项目群吗？",
+      "example": "The backlog of unsigned minutes goes back three meetings.",
+      "exampleZh": "没签字的会议纪要已经积压了三次会议。",
       "category": "office"
     },
     {
       "word": "blocker",
       "phonetic": "/ˈblɒkə/",
       "meaning": "阻塞项",
-      "example": "I put the blocker on the shared drive.",
-      "exampleZh": "我把阻塞项放到了共享盘。",
+      "example": "The missing seal is the blocker on sending the letter today.",
+      "exampleZh": "信今天发不出去，阻塞项是缺了印章。",
       "category": "office"
     },
     {
       "word": "dependency",
       "phonetic": "/dɪˈpendənsi/",
       "meaning": "依赖项",
-      "example": "Please add the dependency to today’s notes.",
-      "exampleZh": "请把依赖项写进今天的记录。",
+      "example": "This task has a dependency on Legal finishing the contract.",
+      "exampleZh": "这件事依赖法务先把合同看完。",
       "category": "office"
     },
     {
       "word": "allowlist",
       "phonetic": "/ˈəlaʊlɪst/",
       "meaning": "允许名单",
-      "example": "Please test the allowlist on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个允许名单。",
+      "example": "Add the regional lab host to the allowlist so results can arrive.",
+      "exampleZh": "把区域检验主机加进允许名单，结果才能进来。",
       "category": "it"
     },
     {
       "word": "blocklist",
       "phonetic": "/ˈblɒklɪst/",
       "meaning": "拦截名单",
-      "example": "Please test the blocklist on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个拦截名单。",
+      "example": "The blocklist stopped a known bad address from mailing the clinic.",
+      "exampleZh": "拦截名单挡住了一个已知坏地址，没让它给门诊发信。",
       "category": "it"
     },
     {
       "word": "IDS",
       "phonetic": "/ˌaɪ diː ˈes/",
       "meaning": "入侵检测系统（Intrusion Detection System）",
-      "example": "Do not restart IDS (Intrusion Detection System) during morning rounds.",
-      "exampleZh": "早交班时段不要重启 IDS（Intrusion Detection System）。",
+      "example": "IDS (Intrusion Detection System) flagged repeated logins from outside the hospital.",
+      "exampleZh": "IDS（入侵检测系统）标出了来自院外的反复登录。",
       "category": "it"
     },
     {
       "word": "IPS",
       "phonetic": "/ˌaɪ piː ˈes/",
       "meaning": "入侵防护系统（Intrusion Prevention System）",
-      "example": "We tested IPS (Intrusion Prevention System) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 IPS（Intrusion Prevention System）。",
+      "example": "IPS (Intrusion Prevention System) cut off the scan hitting the patient portal.",
+      "exampleZh": "IPS（入侵防护系统）切断了正在打患者门户的扫描。",
       "category": "it"
     },
     {
       "word": "WAF",
       "phonetic": "/wæf/",
       "meaning": "Web应用防火墙（Web Application Firewall）",
-      "example": "We tested WAF (Web Application Firewall) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 WAF（Web Application Firewall）。",
+      "example": "WAF (Web Application Firewall) blocked a script posted to the appointment page.",
+      "exampleZh": "WAF（Web应用防火墙）拦住了发到预约页面的一段脚本。",
       "category": "it"
     }
   ]

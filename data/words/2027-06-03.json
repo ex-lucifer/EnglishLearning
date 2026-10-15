@@ -5,80 +5,80 @@
       "word": "escalation note",
       "phonetic": "/ˌeskəˈleɪʃn nəʊt/",
       "meaning": "升级说明",
-      "example": "I put the escalation note on the shared drive.",
-      "exampleZh": "我把升级说明放到了共享盘。",
+      "example": "I added an escalation note because the badge has been delayed four days.",
+      "exampleZh": "工牌已经耽误了四天，我补了一份升级说明。",
       "category": "office"
     },
     {
       "word": "courtesy reminder",
       "phonetic": "/ˈkɜːtəsi rɪˈmaɪndə/",
       "meaning": "礼貌催办",
-      "example": "We talked about the courtesy reminder with the department head.",
-      "exampleZh": "我们和科主任谈了这个礼貌催办。",
+      "example": "A courtesy reminder about the missing quote went out to the vendor.",
+      "exampleZh": "关于报价还没到的礼貌催办，已经发给供应商了。",
       "category": "office"
     },
     {
       "word": "chaser",
       "phonetic": "/ˈtʃeɪsə/",
       "meaning": "催办邮件",
-      "example": "The chaser still needs a decision today.",
-      "exampleZh": "这个催办邮件今天还得拍个板。",
+      "example": "Send one chaser if the signed form has not come back by noon.",
+      "exampleZh": "如果签好的表格到中午还没回来，就发一封催办邮件。",
       "category": "office"
     },
     {
       "word": "nudge email",
       "phonetic": "/nʌdʒ ˈiːmeɪl/",
       "meaning": "轻催邮件",
-      "example": "We talked about the nudge email with the department head.",
-      "exampleZh": "我们和科主任谈了这个轻催邮件。",
+      "example": "One nudge email is enough; a formal letter can wait.",
+      "exampleZh": "一封轻催邮件就够了，正式函件可以再等等。",
       "category": "office"
     },
     {
       "word": "follow-up call",
       "phonetic": "/ˈfɒləʊ ʌp kɔːl/",
       "meaning": "跟进电话",
-      "example": "Please bring the follow-up call to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个跟进电话。",
+      "example": "I will place a follow-up call if we have no vendor reply by noon.",
+      "exampleZh": "如果到中午供应商还没回复，我会打一个跟进电话。",
       "category": "office"
     },
     {
       "word": "software audit",
       "phonetic": "/ˈsɒftweə ˈɔːdɪt/",
       "meaning": "软件审计",
-      "example": "The vendor asked for a screenshot of the software audit.",
-      "exampleZh": "厂商要一张这个软件审计的截图。",
+      "example": "The software audit found dictation installed on PCs that were never in the contract.",
+      "exampleZh": "软件审计发现，听写软件装在了合同里从未列入的电脑上。",
       "category": "it"
     },
     {
       "word": "unlicensed install",
       "phonetic": "/ʌnˈlaɪsnst ɪnˈstɔːl/",
       "meaning": "未授权安装",
-      "example": "Please test the unlicensed install on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个未授权安装。",
+      "example": "An unlicensed install of the viewer showed up on a PC in clinic storage.",
+      "exampleZh": "门诊库房的一台电脑上出现了阅片程序的未授权安装。",
       "category": "it"
     },
     {
       "word": "silent install",
       "phonetic": "/ˈsaɪlənt ɪnˈstɔːl/",
       "meaning": "静默安装",
-      "example": "The ward asked us to check the silent install.",
-      "exampleZh": "病区让我们看一下这个静默安装。",
+      "example": "The silent install of the viewer finished overnight and no one had to click through.",
+      "exampleZh": "阅片程序的静默安装在夜里完成了，没有人需要一路点下去。",
       "category": "it"
     },
     {
       "word": "push install",
       "phonetic": "/pʊʃ ɪnˈstɔːl/",
       "meaning": "推送安装",
-      "example": "Who is on call for the push install this week?",
-      "exampleZh": "这周这个推送安装谁值班？",
+      "example": "The push install reached the reading room PCs but skipped two that were offline.",
+      "exampleZh": "推送安装到了读片室电脑，但跳过了两台不在线的。",
       "category": "it"
     },
     {
       "word": "uninstall",
       "phonetic": "/ˌʌnɪnˈstɔːl/",
       "meaning": "卸载",
-      "example": "Uninstall the old client after the night batch.",
-      "exampleZh": "夜批结束后再卸载旧客户端。",
+      "example": "Uninstall the retired viewer from clinic PCs before the new one is pushed.",
+      "exampleZh": "新阅片程序推下去之前，先把退役版本从门诊电脑上卸载。",
       "category": "it"
     }
   ]

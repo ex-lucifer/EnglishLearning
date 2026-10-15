@@ -5,80 +5,80 @@
       "word": "reference check",
       "phonetic": "/ˈrefrəns tʃek/",
       "meaning": "背景询问",
-      "example": "Who will own the reference check this week?",
-      "exampleZh": "这周这个背景询问谁来负责？",
+      "example": "HR will complete a reference check with her last supervisor.",
+      "exampleZh": "人力资源会向她的上一任主管做背景询问。",
       "category": "office"
     },
     {
       "word": "conflict check",
       "phonetic": "/ˈkɒnflɪkt tʃek/",
       "meaning": "利益冲突核查",
-      "example": "Please bring the conflict check to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个利益冲突核查。",
+      "example": "Run a conflict check before you sit on the vendor scoring panel.",
+      "exampleZh": "参加供应商评分小组之前，请先做利益冲突核查。",
       "category": "office"
     },
     {
       "word": "onboarding pack",
       "phonetic": "/ˌɒnˈbɔːdɪŋ pæk/",
       "meaning": "入职材料包",
-      "example": "The onboarding pack still needs a decision today.",
-      "exampleZh": "这个入职材料包今天还得拍个板。",
+      "example": "The onboarding pack is waiting for her at the HR counter.",
+      "exampleZh": "入职材料包在人力资源柜台等她来取。",
       "category": "office"
     },
     {
       "word": "welcome email",
       "phonetic": "/ˈwelkəm ˈiːmeɪl/",
       "meaning": "欢迎邮件",
-      "example": "Could you send the welcome email to the project group?",
-      "exampleZh": "你能把欢迎邮件发到项目群吗？",
+      "example": "Send out the welcome email on the morning she picks up her badge.",
+      "exampleZh": "请在她领工牌的那天早上发出欢迎邮件。",
       "category": "office"
     },
     {
       "word": "first-day agenda",
       "phonetic": "/fɜːst deɪ əˈdʒendə/",
       "meaning": "首日安排",
-      "example": "We talked about the first-day agenda with the department head.",
-      "exampleZh": "我们和科主任谈了这个首日安排。",
+      "example": "Her first-day agenda begins with a short tour of registration.",
+      "exampleZh": "她的首日安排从简短参观挂号处开始。",
       "category": "office"
     },
     {
       "word": "key deletion",
       "phonetic": "/kiː dɪˈliːʃn/",
       "meaning": "密钥删除",
-      "example": "I logged the key deletion in today’s change ticket.",
-      "exampleZh": "我把这个密钥删除记进了今天的变更单。",
+      "example": "Key deletion is scheduled for seven days from now, so we can still cancel it.",
+      "exampleZh": "密钥删除排在七天之后，现在还取消得了。",
       "category": "it"
     },
     {
       "word": "key disable",
       "phonetic": "/kiː dɪsˈeɪbl/",
       "meaning": "密钥停用",
-      "example": "I logged the key disable in today’s change ticket.",
-      "exampleZh": "我把这个密钥停用记进了今天的变更单。",
+      "example": "After key disable, that archive key can no longer encrypt new files.",
+      "exampleZh": "密钥停用之后，那把归档密钥不能再加密新文件。",
       "category": "it"
     },
     {
       "word": "key enable",
       "phonetic": "/kiː ɪˈneɪbl/",
       "meaning": "密钥启用",
-      "example": "We will verify the key enable after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个密钥启用。",
+      "example": "After key enable, the archive key accepted new writes again.",
+      "exampleZh": "密钥启用之后，归档密钥又能接受新的写入了。",
       "category": "it"
     },
     {
       "word": "cryptographic erase",
       "phonetic": "/ˌkrɪptəˈɡræfɪk ɪˈreɪz/",
       "meaning": "加密擦除",
-      "example": "We will verify the cryptographic erase after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个加密擦除。",
+      "example": "Cryptographic erase destroys the media key, and the leftover bits become unreadable.",
+      "exampleZh": "加密擦除毁掉介质密钥之后，盘上剩下的数据就读不出来了。",
       "category": "it"
     },
     {
       "word": "secure wipe",
       "phonetic": "/sɪˈkjʊə waɪp/",
       "meaning": "安全擦除",
-      "example": "Do not touch the secure wipe during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个安全擦除。",
+      "example": "A secure wipe of the retired PC takes hours, so start it before the pickup.",
+      "exampleZh": "退役电脑的安全擦除要好几个小时，来收机器之前就开始。",
       "category": "it"
     }
   ]

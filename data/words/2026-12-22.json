@@ -5,80 +5,80 @@
       "word": "distribution list",
       "phonetic": "/ˌdɪstrɪˈbjuːʃn lɪst/",
       "meaning": "分发名单",
-      "example": "We talked about the distribution list with the department head.",
-      "exampleZh": "我们和科主任谈了这个分发名单。",
+      "example": "Take people who have left the hospital off the distribution list.",
+      "exampleZh": "请把已经离开医院的人从分发名单里去掉。",
       "category": "office"
     },
     {
       "word": "mailing list",
       "phonetic": "/ˈmeɪlɪŋ lɪst/",
       "meaning": "邮件名单",
-      "example": "Who will own the mailing list this week?",
-      "exampleZh": "这周这个邮件名单谁来负责？",
+      "example": "The clinical mailing list should not be used for social events.",
+      "exampleZh": "临床邮件名单不应用于聚会通知。",
       "category": "office"
     },
     {
       "word": "contact list",
       "phonetic": "/ˈkɒntækt lɪst/",
       "meaning": "联系人名单",
-      "example": "The contact list still needs a decision today.",
-      "exampleZh": "这个联系人名单今天还得拍个板。",
+      "example": "The contact list for on-call managers is in the duty folder.",
+      "exampleZh": "值班待命经理的联系人名单在值班文件夹里。",
       "category": "office"
     },
     {
       "word": "org directory",
       "phonetic": "/ɔːɡ dəˈrektəri/",
       "meaning": "通讯录",
-      "example": "Please add the org directory to today’s notes.",
-      "exampleZh": "请把通讯录写进今天的记录。",
+      "example": "The org directory still lists her under the old department.",
+      "exampleZh": "通讯录里她还挂在原来的科室下面。",
       "category": "office"
     },
     {
       "word": "extension number",
       "phonetic": "/ɪkˈstenʃn ˈnʌmbə/",
       "meaning": "分机号",
-      "example": "I put the extension number on the shared drive.",
-      "exampleZh": "我把分机号放到了共享盘。",
+      "example": "If you change desks, tell the switchboard your new extension number.",
+      "exampleZh": "换了工位，请把新分机号告诉总机。",
       "category": "office"
     },
     {
       "word": "build agent",
       "phonetic": "/bɪld ˈeɪdʒənt/",
       "meaning": "构建代理",
-      "example": "Please test the build agent on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个构建代理。",
+      "example": "The build agent ran out of disk while packaging the order service.",
+      "exampleZh": "打包医嘱服务时，构建代理的磁盘用尽了。",
       "category": "it"
     },
     {
       "word": "test coverage",
       "phonetic": "/test ˈkʌvərɪdʒ/",
       "meaning": "测试覆盖",
-      "example": "The vendor asked for a screenshot of the test coverage.",
-      "exampleZh": "厂商要一张这个测试覆盖的截图。",
+      "example": "Test coverage for the allergy rules is still below the bar we agreed.",
+      "exampleZh": "过敏规则的测试覆盖还没有达到我们说好的标准。",
       "category": "it"
     },
     {
       "word": "unit test",
       "phonetic": "/ˈjuːnɪt test/",
       "meaning": "单元测试",
-      "example": "The ward asked us to check the unit test.",
-      "exampleZh": "病区让我们看一下这个单元测试。",
+      "example": "The unit test for dose rounding failed on half-tablet orders.",
+      "exampleZh": "剂量取整的单元测试在半片药医嘱上失败了。",
       "category": "it"
     },
     {
       "word": "integration test",
       "phonetic": "/ˌɪntɪˈɡreɪʃn test/",
       "meaning": "集成测试",
-      "example": "We will verify the integration test after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个集成测试。",
+      "example": "The integration test between orders and pharmacy failed on a narcotic.",
+      "exampleZh": "医嘱和药房之间的集成测试在一种麻醉药上失败了。",
       "category": "it"
     },
     {
       "word": "smoke test",
       "phonetic": "/sməʊk test/",
       "meaning": "冒烟测试",
-      "example": "We will verify the smoke test after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个冒烟测试。",
+      "example": "The smoke test after lunch only checks login and one simple order.",
+      "exampleZh": "午饭后的冒烟测试只检查登录和一张简单医嘱。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "training schedule",
       "phonetic": "/ˈtreɪnɪŋ ˈʃedjuːl/",
       "meaning": "培训日程",
-      "example": "We talked about the training schedule with the department head.",
-      "exampleZh": "我们和科主任谈了这个培训日程。",
+      "example": "The May training schedule is posted in the staff room.",
+      "exampleZh": "五月的培训日程贴在员工休息室里。",
       "category": "office"
     },
     {
       "word": "competency",
       "phonetic": "/kəmˈpetənsi/",
       "meaning": "能力要求",
-      "example": "Please add the competency to today’s notes.",
-      "exampleZh": "请把能力要求写进今天的记录。",
+      "example": "Calling patients forward is a basic competency at this counter.",
+      "exampleZh": "把患者叫到柜台前，是这个岗位的一项基本能力要求。",
       "category": "office"
     },
     {
       "word": "skill matrix",
       "phonetic": "/skɪl ˈmeɪtrɪks/",
       "meaning": "技能矩阵",
-      "example": "Please add the skill matrix to today’s notes.",
-      "exampleZh": "请把技能矩阵写进今天的记录。",
+      "example": "The skill matrix shows who can run the night registration desk.",
+      "exampleZh": "技能矩阵上能看出谁可以值夜班挂号台。",
       "category": "office"
     },
     {
       "word": "job grade",
       "phonetic": "/dʒɒb ɡreɪd/",
       "meaning": "职级",
-      "example": "The job grade still needs a decision today.",
-      "exampleZh": "这个职级今天还得拍个板。",
+      "example": "Her job grade changes only if this promotion is approved.",
+      "exampleZh": "只有这次晋升获批，她的职级才会变动。",
       "category": "office"
     },
     {
       "word": "pay band",
       "phonetic": "/peɪ bænd/",
       "meaning": "薪级",
-      "example": "Please add the pay band to today’s notes.",
-      "exampleZh": "请把薪级写进今天的记录。",
+      "example": "That post sits in pay band four on the hospital pay scale.",
+      "exampleZh": "这个岗位在医院薪级表上属于第四级。",
       "category": "office"
     },
     {
       "word": "DoD wipe",
       "phonetic": "/ˌdiː əʊ ˈdiː waɪp/",
       "meaning": "国防部擦除",
-      "example": "The ward asked us to check the DoD wipe.",
-      "exampleZh": "病区让我们看一下这个国防部擦除。",
+      "example": "A DoD wipe takes longer, so reserve it for drives that stored patient identifiers.",
+      "exampleZh": "国防部擦除更花时间，留给存过患者标识的硬盘。",
       "category": "it"
     },
     {
       "word": "spare disk",
       "phonetic": "/speə dɪsk/",
       "meaning": "备用磁盘",
-      "example": "We will verify the spare disk after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个备用磁盘。",
+      "example": "Keep a spare disk of the same size on the shelf beside the imaging array.",
+      "exampleZh": "在影像阵列旁边的架子上留一块同样大小的备用磁盘。",
       "category": "it"
     },
     {
       "word": "hot spare",
       "phonetic": "/hɒt speə/",
       "meaning": "热备盘",
-      "example": "The vendor asked for a screenshot of the hot spare.",
-      "exampleZh": "厂商要一张这个热备盘的截图。",
+      "example": "The hot spare took over within a minute after disk three dropped out of the set.",
+      "exampleZh": "三号盘掉出阵列后，热备盘在一分钟内接上了。",
       "category": "it"
     },
     {
       "word": "cold spare",
       "phonetic": "/kəʊld speə/",
       "meaning": "冷备盘",
-      "example": "Please test the cold spare on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个冷备盘。",
+      "example": "The cold spare is on the shelf, so someone has to seat it before the rebuild starts.",
+      "exampleZh": "冷备盘在架子上，得有人把它装进去，重建才会开始。",
       "category": "it"
     },
     {
       "word": "rebuild time",
       "phonetic": "/ˌriːˈbɪld taɪm/",
       "meaning": "重建时间",
-      "example": "The vendor asked for a screenshot of the rebuild time.",
-      "exampleZh": "厂商要一张这个重建时间的截图。",
+      "example": "Rebuild time on this wide set is about a day, so leave the hot spare assigned.",
+      "exampleZh": "这么宽的一组盘，重建时间大约一天，热备盘先别拆。",
       "category": "it"
     }
   ]

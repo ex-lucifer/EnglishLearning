@@ -5,80 +5,80 @@
       "word": "letterhead",
       "phonetic": "/ˈletəhed/",
       "meaning": "公文抬头纸",
-      "example": "I put the letterhead on the shared drive.",
-      "exampleZh": "我把公文抬头纸放到了共享盘。",
+      "example": "Do not use letterhead for draft notes inside the department.",
+      "exampleZh": "科室内部的草稿便条不要用公文抬头纸。",
       "category": "office"
     },
     {
       "word": "stamp",
       "phonetic": "/stæmp/",
       "meaning": "公章",
-      "example": "Please bring the stamp to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个公章。",
+      "example": "The official stamp stays in the safe when the office is empty.",
+      "exampleZh": "办公室没人时，公章放在保险柜里。",
       "category": "office"
     },
     {
       "word": "seal",
       "phonetic": "/siːl/",
       "meaning": "印章",
-      "example": "We talked about the seal with the department head.",
-      "exampleZh": "我们和科主任谈了这个印章。",
+      "example": "The department seal goes on the certificate copy, beside the signature.",
+      "exampleZh": "证书副本要在签名旁边加盖部门印章。",
       "category": "office"
     },
     {
       "word": "watermark",
       "phonetic": "/ˈwɔːtəmɑːk/",
       "meaning": "水印",
-      "example": "The watermark still needs a decision today.",
-      "exampleZh": "这个水印今天还得拍个板。",
+      "example": "A watermark that says draft should be removed before the final copy.",
+      "exampleZh": "写着“草稿”的水印，要在终稿之前去掉。",
       "category": "office"
     },
     {
       "word": "binder",
       "phonetic": "/ˈbaɪndə/",
       "meaning": "文件夹",
-      "example": "Could you send the binder to the project group?",
-      "exampleZh": "你能把文件夹发到项目群吗？",
+      "example": "The red binder holds this year's signed policies.",
+      "exampleZh": "红色文件夹里是今年已签字的制度。",
       "category": "office"
     },
     {
       "word": "hotfix",
       "phonetic": "/ˈhɒtfɪks/",
       "meaning": "紧急修复",
-      "example": "Do not touch the hotfix during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个紧急修复。",
+      "example": "The hotfix for the duplicate allergy popup goes out at lunch.",
+      "exampleZh": "重复过敏弹窗的紧急修复中午发出。",
       "category": "it"
     },
     {
       "word": "bugfix",
       "phonetic": "/ˈbʌɡfɪks/",
       "meaning": "缺陷修复",
-      "example": "Do not touch the bugfix during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个缺陷修复。",
+      "example": "This bugfix stops the flowsheet from saving under the wrong patient.",
+      "exampleZh": "这个缺陷修复让护理记录单不再存到错误的患者名下。",
       "category": "it"
     },
     {
       "word": "release",
       "phonetic": "/rɪˈliːs/",
       "meaning": "版本发布",
-      "example": "I logged the release in today’s change ticket.",
-      "exampleZh": "我把这个版本发布记进了今天的变更单。",
+      "example": "The release tonight changes how nurses sign high-risk medications.",
+      "exampleZh": "今晚的版本发布，会改变护士签署高危药品的方式。",
       "category": "it"
     },
     {
       "word": "build",
       "phonetic": "/bɪld/",
       "meaning": "构建包",
-      "example": "We will verify the build after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个构建包。",
+      "example": "The build from this morning fails the allergy rule checks.",
+      "exampleZh": "今天早上打出来的构建包过不了过敏规则检查。",
       "category": "it"
     },
     {
       "word": "artifact",
       "phonetic": "/ˈɑːtɪfækt/",
       "meaning": "构建产物",
-      "example": "Please test the artifact on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个构建产物。",
+      "example": "The artifact from last night's pipeline is the package we should ship.",
+      "exampleZh": "昨晚流水线留下的构建产物，才是我们该发布的那个包。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "reference copy",
       "phonetic": "/ˈrefrəns ˈkɒpi/",
       "meaning": "查阅副本",
-      "example": "I put the reference copy on the shared drive.",
-      "exampleZh": "我把查阅副本放到了共享盘。",
+      "example": "A reference copy of the duty roster hangs on the staff board.",
+      "exampleZh": "值班表的查阅副本挂在员工公告栏上。",
       "category": "office"
     },
     {
       "word": "display copy",
       "phonetic": "/dɪˈspleɪ ˈkɒpi/",
       "meaning": "展示用副本",
-      "example": "The display copy still needs a decision today.",
-      "exampleZh": "这个展示用副本今天还得拍个板。",
+      "example": "The display copy at reception should be easy for families to read.",
+      "exampleZh": "接待处那份展示用副本应该让家属容易看懂。",
       "category": "office"
     },
     {
       "word": "archived copy",
       "phonetic": "/ˈɑːkaɪvd ˈkɒpi/",
       "meaning": "归档副本",
-      "example": "Who will own the archived copy this week?",
-      "exampleZh": "这周这个归档副本谁来负责？",
+      "example": "The archived copy of last year's minutes is in box twelve.",
+      "exampleZh": "去年纪要的归档副本在十二号箱里。",
       "category": "office"
     },
     {
       "word": "retention",
       "phonetic": "/rɪˈtenʃn/",
       "meaning": "保存期限",
-      "example": "The retention still needs a decision today.",
-      "exampleZh": "这个保存期限今天还得拍个板。",
+      "example": "The retention on visitor logs is two full years.",
+      "exampleZh": "访客登记的保存期限是整整两年。",
       "category": "office"
     },
     {
       "word": "destruction",
       "phonetic": "/dɪˈstrʌkʃn/",
       "meaning": "销毁",
-      "example": "The destruction still needs a decision today.",
-      "exampleZh": "这个销毁今天还得拍个板。",
+      "example": "Destruction of old files needs two clerks and a signed log.",
+      "exampleZh": "销毁旧档案需要两名文员，还要有一份签字记录。",
       "category": "office"
     },
     {
       "word": "autodiscover",
       "phonetic": "/ˌɔːtəʊdɪsˈkʌvə/",
       "meaning": "自动发现",
-      "example": "Please test the autodiscover on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个自动发现。",
+      "example": "Autodiscover filled in the server name when she set up her mail.",
+      "exampleZh": "她配置邮箱时，自动发现已经填好了服务器名。",
       "category": "it"
     },
     {
       "word": "Outlook profile",
       "phonetic": "/ˈaʊtlʊk ˈprəʊfaɪl/",
       "meaning": "邮件配置文件",
-      "example": "The ward asked us to check the Outlook profile.",
-      "exampleZh": "病区让我们看一下这个邮件配置文件。",
+      "example": "Her Outlook profile still points at the old ward mailbox.",
+      "exampleZh": "她的邮件配置文件还指着旧的病区邮箱。",
       "category": "it"
     },
     {
       "word": "OST",
       "phonetic": "/ˌəʊ es ˈtiː/",
       "meaning": "脱机数据文件（Offline Storage Table）",
-      "example": "Please file the OST (Offline Storage Table) before you close the ticket.",
-      "exampleZh": "关单前请把 OST（Offline Storage Table）归档。",
+      "example": "The OST (Offline Storage Table) lets her read mail when the ward network drops.",
+      "exampleZh": "病区断网时，OST（脱机数据文件）仍能让她读邮件。",
       "category": "it"
     },
     {
       "word": "PST",
       "phonetic": "/ˌpiː es ˈtiː/",
       "meaning": "个人存储文件（Personal Storage Table）",
-      "example": "The PST (Personal Storage Table) is missing on this chart.",
-      "exampleZh": "这份记录少了 PST（Personal Storage Table）。",
+      "example": "He saved the old director's mail into a PST (Personal Storage Table) file.",
+      "exampleZh": "他把前任主任的邮件存成了一个 PST（个人存储文件）。",
       "category": "it"
     },
     {
       "word": "cached mode",
       "phonetic": "/kæʃt məʊd/",
       "meaning": "缓存模式",
-      "example": "Please test the cached mode on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个缓存模式。",
+      "example": "Cached mode kept her mail available during the ward network drop.",
+      "exampleZh": "病区断网那段时间，缓存模式让她的邮件还能看。",
       "category": "it"
     }
   ]

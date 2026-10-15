@@ -5,80 +5,80 @@
       "word": "salary slip",
       "phonetic": "/ˈsæləri slɪp/",
       "meaning": "工资单",
-      "example": "We talked about the salary slip with the department head.",
-      "exampleZh": "我们和科主任谈了这个工资单。",
+      "example": "Your March salary slip is ready in the payroll portal.",
+      "exampleZh": "你三月的工资单已经可以在薪酬门户里查看。",
       "category": "office"
     },
     {
       "word": "pay day",
       "phonetic": "/peɪ deɪ/",
       "meaning": "发薪日",
-      "example": "The pay day still needs a decision today.",
-      "exampleZh": "这个发薪日今天还得拍个板。",
+      "example": "Pay day falls on the fifteenth unless that day is a holiday.",
+      "exampleZh": "发薪日是十五号，除非当天是假日。",
       "category": "office"
     },
     {
       "word": "allowance",
       "phonetic": "/əˈlaʊəns/",
       "meaning": "津贴",
-      "example": "I put the allowance on the shared drive.",
-      "exampleZh": "我把津贴放到了共享盘。",
+      "example": "This month's allowance includes meals and local bus fares.",
+      "exampleZh": "这个月的津贴包括餐补和市内公交费。",
       "category": "office"
     },
     {
       "word": "bonus",
       "phonetic": "/ˈbəʊnəs/",
       "meaning": "奖金",
-      "example": "The bonus still needs a decision today.",
-      "exampleZh": "这个奖金今天还得拍个板。",
+      "example": "The annual bonus is paid together with the December salary.",
+      "exampleZh": "年度奖金和十二月的工资一起发放。",
       "category": "office"
     },
     {
       "word": "overtime claim",
       "phonetic": "/ˈəʊvətaɪm kleɪm/",
       "meaning": "加班申报",
-      "example": "We talked about the overtime claim with the department head.",
-      "exampleZh": "我们和科主任谈了这个加班申报。",
+      "example": "Please file your overtime claim before noon on Thursday.",
+      "exampleZh": "请在周四中午之前提交加班申报。",
       "category": "office"
     },
     {
       "word": "AppLocker",
       "phonetic": "/ˈæplɒkə/",
       "meaning": "应用锁",
-      "example": "Do not touch the AppLocker during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个应用锁。",
+      "example": "AppLocker stopped the user from running a portable browser out of Downloads.",
+      "exampleZh": "应用锁阻止用户从下载目录运行便携版浏览器。",
       "category": "it"
     },
     {
       "word": "Software Restriction",
       "phonetic": "/ˈsɒftweə rɪˈstrɪkʃn/",
       "meaning": "软件限制策略",
-      "example": "We will verify the Software Restriction after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个软件限制策略。",
+      "example": "Software Restriction on the kiosk blocks executables that are not under Program Files.",
+      "exampleZh": "查询机上的软件限制策略会拦截不在 Program Files 里的可执行文件。",
       "category": "it"
     },
     {
       "word": "Device Guard",
       "phonetic": "/dɪˈvaɪs ɡɑːd/",
       "meaning": "设备防护",
-      "example": "The vendor asked for a screenshot of the Device Guard.",
-      "exampleZh": "厂商要一张这个设备防护的截图。",
+      "example": "Device Guard on the kiosk image refuses any kernel driver we have not signed.",
+      "exampleZh": "查询机镜像上的设备防护会拒绝我们没有签名的内核驱动。",
       "category": "it"
     },
     {
       "word": "Credential Guard",
       "phonetic": "/krəˈdenʃl ɡɑːd/",
       "meaning": "凭据防护",
-      "example": "I logged the Credential Guard in today’s change ticket.",
-      "exampleZh": "我把这个凭据防护记进了今天的变更单。",
+      "example": "Credential Guard kept the stolen process from reading hashes out of memory.",
+      "exampleZh": "凭据防护让那个被盗用的进程读不到内存里的哈希。",
       "category": "it"
     },
     {
       "word": "LSA protection",
       "phonetic": "/ˌel es ˈeɪ prəˈtekʃn/",
       "meaning": "认证进程保护",
-      "example": "We will verify the LSA protection after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个认证进程保护。",
+      "example": "LSA protection is enabled, so untrusted tools cannot read credentials from that process.",
+      "exampleZh": "认证进程保护已经打开，不受信任的工具读不到那个进程里的凭据。",
       "category": "it"
     }
   ]

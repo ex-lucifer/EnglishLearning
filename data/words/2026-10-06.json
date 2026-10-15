@@ -5,80 +5,80 @@
       "word": "onboard",
       "phonetic": "/ˌɒnˈbɔːd/",
       "meaning": "入职对接",
-      "example": "Please onboard the new clerk before Thursday.",
-      "exampleZh": "请在周四前完成新文员的入职对接。",
+      "example": "The buddy will onboard her at the lobby and walk her to the ward.",
+      "exampleZh": "带教搭档会在大厅做入职对接，再送她去病区。",
       "category": "office"
     },
     {
       "word": "offboard",
       "phonetic": "/ˌɒfˈbɔːd/",
       "meaning": "离职交接",
-      "example": "Offboard her system access on the last day.",
-      "exampleZh": "最后一天请收回她的系统权限。",
+      "example": "Remember to offboard him on Friday, including the badge and the locker.",
+      "exampleZh": "记得周五给他做离职交接，工牌和储物柜都要收回。",
       "category": "office"
     },
     {
       "word": "probation",
       "phonetic": "/prəˈbeɪʃn/",
       "meaning": "试用期",
-      "example": "Please add the probation to today’s notes.",
-      "exampleZh": "请把试用期写进今天的记录。",
+      "example": "During probation she will have a check-in every two weeks.",
+      "exampleZh": "试用期里她每两周有一次面谈。",
       "category": "office"
     },
     {
       "word": "appraisal",
       "phonetic": "/əˈpreɪzl/",
       "meaning": "绩效考核",
-      "example": "I put the appraisal on the shared drive.",
-      "exampleZh": "我把绩效考核放到了共享盘。",
+      "example": "Bring examples of your work to the appraisal on Thursday.",
+      "exampleZh": "周四绩效考核时，带上几件你做过的事。",
       "category": "office"
     },
     {
       "word": "overtime",
       "phonetic": "/ˈəʊvətaɪm/",
       "meaning": "加班",
-      "example": "Please bring the overtime to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个加班。",
+      "example": "Overtime after a full day shift should be agreed in advance.",
+      "exampleZh": "上完白班再加班，应当事先说好。",
       "category": "office"
     },
     {
       "word": "rate limit",
       "phonetic": "/reɪt ˈlɪmɪt/",
       "meaning": "速率限制",
-      "example": "Do not touch the rate limit during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个速率限制。",
+      "example": "Raise the rate limit before the morning lab rush hits.",
+      "exampleZh": "早间检验高峰到来之前，把速率限制调高。",
       "category": "it"
     },
     {
       "word": "circuit breaker",
       "phonetic": "/ˈsɜːkɪt ˈbreɪkə/",
       "meaning": "熔断器",
-      "example": "Who is on call for the circuit breaker this week?",
-      "exampleZh": "这周这个熔断器谁值班？",
+      "example": "The circuit breaker opened after pharmacy failed five calls in a row.",
+      "exampleZh": "药房连续失败五次之后，熔断器打开了。",
       "category": "it"
     },
     {
       "word": "health endpoint",
       "phonetic": "/helθ ˈendpɔɪnt/",
       "meaning": "健康检查接口",
-      "example": "Please test the health endpoint on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个健康检查接口。",
+      "example": "The health endpoint returned failure, so the load balancer pulled that node.",
+      "exampleZh": "健康检查接口返回失败，负载均衡就把那个节点摘掉了。",
       "category": "it"
     },
     {
       "word": "readiness probe",
       "phonetic": "/ˈredinəs prəʊb/",
       "meaning": "就绪探针",
-      "example": "I logged the readiness probe in today’s change ticket.",
-      "exampleZh": "我把这个就绪探针记进了今天的变更单。",
+      "example": "The readiness probe kept the new pod out until the database answered.",
+      "exampleZh": "数据库有响应之前，就绪探针一直不让新容器接流量。",
       "category": "it"
     },
     {
       "word": "liveness probe",
       "phonetic": "/ˈlaɪvnəs prəʊb/",
       "meaning": "存活探针",
-      "example": "We will verify the liveness probe after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个存活探针。",
+      "example": "The liveness probe restarted the order service after it stopped answering.",
+      "exampleZh": "医嘱服务不再响应后，存活探针把它重启了。",
       "category": "it"
     }
   ]

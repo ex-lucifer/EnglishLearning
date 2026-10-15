@@ -45,40 +45,40 @@
       "word": "postmortem",
       "phonetic": "/ˌpəʊstˈmɔːtəm/",
       "meaning": "事后分析",
-      "example": "Who is on call for the postmortem this week?",
-      "exampleZh": "这周这个事后分析谁值班？",
+      "example": "The postmortem for Friday's outage is due before the next change.",
+      "exampleZh": "周五那次停机的事后分析要在下一次变更之前交上来。",
       "category": "it"
     },
     {
       "word": "known error",
       "phonetic": "/nəʊn ˈerə/",
       "meaning": "已知错误",
-      "example": "The ward asked us to check the known error.",
-      "exampleZh": "病区让我们看一下这个已知错误。",
+      "example": "This known error returns whenever the lab feed exceeds five hundred messages.",
+      "exampleZh": "检验消息一超过五百条，这个已知错误就会再出现。",
       "category": "it"
     },
     {
       "word": "service catalog",
       "phonetic": "/ˈsɜːvɪs ˈkætəlɒɡ/",
       "meaning": "服务目录",
-      "example": "The ward asked us to check the service catalog.",
-      "exampleZh": "病区让我们看一下这个服务目录。",
+      "example": "The service catalog still lists a report we retired last year.",
+      "exampleZh": "服务目录里还列着我们去年已经下线的一张报表。",
       "category": "it"
     },
     {
       "word": "configuration item",
       "phonetic": "/kənˌfɪɡəˈreɪʃn ˈaɪtəm/",
       "meaning": "配置项",
-      "example": "The vendor asked for a screenshot of the configuration item.",
-      "exampleZh": "厂商要一张这个配置项的截图。",
+      "example": "The configuration item for this scanner still names the old address.",
+      "exampleZh": "这台扫描仪的配置项里还写着旧地址。",
       "category": "it"
     },
     {
       "word": "CMDB",
       "phonetic": "/ˌsiː em diː ˈbiː/",
       "meaning": "配置管理库（Configuration Management Database）",
-      "example": "The ward called because CMDB (Configuration Management Database) would not open.",
-      "exampleZh": "病区来电，说 CMDB（Configuration Management Database）打不开。",
+      "example": "CMDB (Configuration Management Database) has no record for the new CT scanner.",
+      "exampleZh": "CMDB（配置管理库）里没有这台新CT的记录。",
       "category": "it"
     }
   ]

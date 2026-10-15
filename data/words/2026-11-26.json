@@ -37,48 +37,48 @@
       "word": "bottom line",
       "phonetic": "/ˈbɒtəm laɪn/",
       "meaning": "关键结论",
-      "example": "Who will own the bottom line this week?",
-      "exampleZh": "这周这个关键结论谁来负责？",
+      "example": "The bottom line is that we need another clerk at Monday registration.",
+      "exampleZh": "关键结论是，周一挂号处还得再加一名文员。",
       "category": "office"
     },
     {
       "word": "SSO",
       "phonetic": "/ˌes es ˈəʊ/",
       "meaning": "单点登录（Single Sign-On）",
-      "example": "We tested SSO (Single Sign-On) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 SSO（Single Sign-On）。",
+      "example": "SSO (Single Sign-On) failed, so nurses had to type a password into every system.",
+      "exampleZh": "SSO（单点登录）失败了，护士只好在每个系统里手输密码。",
       "category": "it"
     },
     {
       "word": "LDAP",
       "phonetic": "/ˈeldæp/",
       "meaning": "目录访问协议（Lightweight Directory Access Protocol）",
-      "example": "Document LDAP (Lightweight Directory Access Protocol) in the interface spec.",
-      "exampleZh": "接口说明里请写上 LDAP（Lightweight Directory Access Protocol）。",
+      "example": "LDAP (Lightweight Directory Access Protocol) timed out when the clinic tried to sign in.",
+      "exampleZh": "门诊登录时，LDAP（目录访问协议）超时了。",
       "category": "it"
     },
     {
       "word": "Active Directory",
       "phonetic": "/ˈæktɪv dəˈrektəri/",
       "meaning": "活动目录",
-      "example": "The ward asked us to check the Active Directory.",
-      "exampleZh": "病区让我们看一下这个活动目录。",
+      "example": "Active Directory locked the shared pharmacy account after repeated failures.",
+      "exampleZh": "反复失败之后，活动目录锁住了药房的共用账号。",
       "category": "it"
     },
     {
       "word": "RBAC",
       "phonetic": "/ˈɑːbæk/",
       "meaning": "基于角色的权限（Role-Based Access Control）",
-      "example": "Follow the RBAC (Role-Based Access Control) policy.",
-      "exampleZh": "请按 RBAC（Role-Based Access Control）的规定做。",
+      "example": "RBAC (Role-Based Access Control) keeps interns from signing medication orders.",
+      "exampleZh": "RBAC（基于角色的权限）不让实习生签署用药医嘱。",
       "category": "it"
     },
     {
       "word": "ACL",
       "phonetic": "/ˌeɪ siː ˈel/",
       "meaning": "访问控制列表（Access Control List）",
-      "example": "Follow the ACL (Access Control List) policy.",
-      "exampleZh": "请按 ACL（Access Control List）的规定做。",
+      "example": "ACL (Access Control List) on the consent folder blocks the night clerks.",
+      "exampleZh": "知情同意文件夹上的ACL（访问控制列表）把夜班文员挡住了。",
       "category": "it"
     }
   ]

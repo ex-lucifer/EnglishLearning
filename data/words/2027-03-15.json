@@ -5,80 +5,80 @@
       "word": "exclude",
       "phonetic": "/ɪkˈskluːd/",
       "meaning": "排除",
-      "example": "Please exclude this before you leave.",
-      "exampleZh": "走之前请把这件事排除。",
+      "example": "Canceled visits should be easy to exclude from today's reception tally.",
+      "exampleZh": "已取消的来访，应该很容易从今天的接待统计里排除。",
       "category": "office"
     },
     {
       "word": "replace",
       "phonetic": "/rɪˈpleɪs/",
       "meaning": "替换",
-      "example": "We still need to replace this.",
-      "exampleZh": "这件事还得替换。",
+      "example": "Take down the old entrance map and replace it with the new one.",
+      "exampleZh": "把入口处的旧地图取下来，替换成新的。",
       "category": "office"
     },
     {
       "word": "combine",
       "phonetic": "/kəmˈbaɪn/",
       "meaning": "合并",
-      "example": "Can you combine it today?",
-      "exampleZh": "你今天能把它合并吗？",
+      "example": "These two notes say the same thing, so combine them onto one page.",
+      "exampleZh": "这两份说明内容相同，请把它们合并到一页上。",
       "category": "office"
     },
     {
       "word": "split",
       "phonetic": "/splɪt/",
       "meaning": "拆分",
-      "example": "Please split this before you leave.",
-      "exampleZh": "走之前请把这件事拆分。",
+      "example": "If the training day is too long, split it between morning and afternoon.",
+      "exampleZh": "如果培训日太长，就把它拆成上午和下午。",
       "category": "office"
     },
     {
       "word": "track",
       "phonetic": "/træk/",
       "meaning": "跟踪",
-      "example": "Can you track it today?",
-      "exampleZh": "你今天能把它跟踪吗？",
+      "example": "Someone at reception should track badges that visitors have not returned.",
+      "exampleZh": "接待处应该有人跟踪访客尚未归还的工牌。",
       "category": "office"
     },
     {
       "word": "access switch",
       "phonetic": "/ˈækses swɪtʃ/",
       "meaning": "接入交换机",
-      "example": "The ward asked us to check the access switch.",
-      "exampleZh": "病区让我们看一下这个接入交换机。",
+      "example": "Replace the access switch in treatment room four; half its ports are dead.",
+      "exampleZh": "换掉四号治疗室的接入交换机，它有一半端口已经不通了。",
       "category": "it"
     },
     {
       "word": "stack",
       "phonetic": "/stæk/",
       "meaning": "交换机堆叠",
-      "example": "We will verify the stack after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个交换机堆叠。",
+      "example": "The stack in pharmacy closet lost the master after a short power dip.",
+      "exampleZh": "药房弱电间的交换机堆叠在短暂停电后丢了主设备。",
       "category": "it"
     },
     {
       "word": "power supply",
       "phonetic": "/ˈpaʊə səˈplaɪ/",
       "meaning": "电源模块",
-      "example": "Please test the power supply on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个电源模块。",
+      "example": "One power supply in the core switch failed, and the spare is already online.",
+      "exampleZh": "核心交换机有一块电源模块坏了，备用的已经在线。",
       "category": "it"
     },
     {
       "word": "UPS",
       "phonetic": "/ˌjuː piː ˈes/",
       "meaning": "不间断电源（Uninterruptible Power Supply）",
-      "example": "Check the UPS (Uninterruptible Power Supply) in the computer room.",
-      "exampleZh": "请到机房检查 UPS（Uninterruptible Power Supply）。",
+      "example": "The UPS (Uninterruptible Power Supply) kept the core running through the ten-minute outage.",
+      "exampleZh": "UPS（不间断电源）让核心设备撑过了那十分钟停电。",
       "category": "it"
     },
     {
       "word": "PDU",
       "phonetic": "/ˌpiː diː ˈjuː/",
       "meaning": "电源分配单元（Power Distribution Unit）",
-      "example": "Do not move the PDU (Power Distribution Unit) during outpatient hours.",
-      "exampleZh": "门诊时段不要挪动 PDU（Power Distribution Unit）。",
+      "example": "PDU (Power Distribution Unit) B in rack twelve tripped and dropped two hosts.",
+      "exampleZh": "十二号机柜的 PDU（电源分配单元）B 跳闸，两台主机掉电了。",
       "category": "it"
     }
   ]

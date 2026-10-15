@@ -5,80 +5,80 @@
       "word": "tone",
       "phonetic": "/təʊn/",
       "meaning": "语气",
-      "example": "We talked about the tone with the department head.",
-      "exampleZh": "我们和科主任谈了这个语气。",
+      "example": "That reminder's tone is too harsh for what should be a polite note.",
+      "exampleZh": "那封提醒的语气太冲了，而这本该是一封客气的便函。",
       "category": "office"
     },
     {
       "word": "wording",
       "phonetic": "/ˈwɜːdɪŋ/",
       "meaning": "措辞",
-      "example": "We talked about the wording with the department head.",
-      "exampleZh": "我们和科主任谈了这个措辞。",
+      "example": "Soften the wording before anyone sends this note out to the wards.",
+      "exampleZh": "在把这份说明发给各病区之前，请先把措辞写得柔和些。",
       "category": "office"
     },
     {
       "word": "bullet point",
       "phonetic": "/ˈbʊlɪt pɔɪnt/",
       "meaning": "条目要点",
-      "example": "Please add the bullet point to today’s notes.",
-      "exampleZh": "请把条目要点写进今天的记录。",
+      "example": "Give every decision its own bullet point, one line each.",
+      "exampleZh": "每项决定单独写成一个条目要点，各占一行。",
       "category": "office"
     },
     {
       "word": "call to action",
       "phonetic": "/kɔːl tu ˈækʃn/",
       "meaning": "行动号召",
-      "example": "Could you send the call to action to the project group?",
-      "exampleZh": "你能把行动号召发到项目群吗？",
+      "example": "Close the notice with a single, clear call to action.",
+      "exampleZh": "通知的结尾要有一句明确的行动号召。",
       "category": "office"
     },
     {
       "word": "executive summary",
       "phonetic": "/ɪɡˈzekjətɪv ˈsʌməri/",
       "meaning": "高管摘要",
-      "example": "Please add the executive summary to today’s notes.",
-      "exampleZh": "请把高管摘要写进今天的记录。",
+      "example": "On a crowded morning the director may read only the executive summary.",
+      "exampleZh": "早上人多的时候，主任可能只看高管摘要。",
       "category": "office"
     },
     {
       "word": "default route",
       "phonetic": "/dɪˈfɔːlt ruːt/",
       "meaning": "默认路由",
-      "example": "Do not touch the default route during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个默认路由。",
+      "example": "The default route vanished, so the ward could reach local servers but not mail.",
+      "exampleZh": "默认路由没了，病区能访问本地服务器，但邮件不通。",
       "category": "it"
     },
     {
       "word": "routing table",
       "phonetic": "/ˈruːtɪŋ ˈteɪbl/",
       "meaning": "路由表",
-      "example": "The vendor asked for a screenshot of the routing table.",
-      "exampleZh": "厂商要一张这个路由表的截图。",
+      "example": "The routing table on the clinic router has no path back to the lab.",
+      "exampleZh": "门诊路由器的路由表里没有回检验网的路径。",
       "category": "it"
     },
     {
       "word": "ARP",
       "phonetic": "/ɑːp/",
       "meaning": "地址解析协议（Address Resolution Protocol）",
-      "example": "Document ARP (Address Resolution Protocol) in the interface spec.",
-      "exampleZh": "接口说明里请写上 ARP（Address Resolution Protocol）。",
+      "example": "ARP (Address Resolution Protocol) failed for the gateway, so every PC in the closet lost the network.",
+      "exampleZh": "网关的 ARP（地址解析协议）失败了，弱电间里每台电脑都断了网。",
       "category": "it"
     },
     {
       "word": "ICMP",
       "phonetic": "/ˌaɪ siː em ˈpiː/",
       "meaning": "网络控制消息（Internet Control Message Protocol）",
-      "example": "Enable ICMP (Internet Control Message Protocol) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 ICMP（Internet Control Message Protocol）。",
+      "example": "ICMP (Internet Control Message Protocol) is allowed to the gateway but blocked to the servers.",
+      "exampleZh": "ICMP（网络控制消息）允许到网关，到服务器则被拦住。",
       "category": "it"
     },
     {
       "word": "TCP",
       "phonetic": "/ˌtiː siː ˈpiː/",
       "meaning": "传输控制协议（Transmission Control Protocol）",
-      "example": "Enable TCP (Transmission Control Protocol) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 TCP（Transmission Control Protocol）。",
+      "example": "TCP (Transmission Control Protocol) port 1433 to the HIS database is open from the app tier only.",
+      "exampleZh": "只有应用层能访问 HIS 数据库的 TCP（传输控制协议）1433 端口。",
       "category": "it"
     }
   ]

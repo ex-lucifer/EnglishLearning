@@ -5,80 +5,80 @@
       "word": "appendix",
       "phonetic": "/əˈpendɪks/",
       "meaning": "附录",
-      "example": "Could you send the appendix to the project group?",
-      "exampleZh": "你能把附录发到项目群吗？",
+      "example": "The full roster sits in the appendix, after the short summary.",
+      "exampleZh": "完整排班表在摘要后面的附录里。",
       "category": "office"
     },
     {
       "word": "summary",
       "phonetic": "/ˈsʌməri/",
       "meaning": "摘要",
-      "example": "We talked about the summary with the department head.",
-      "exampleZh": "我们和科主任谈了这个摘要。",
+      "example": "The summary leaves out names and keeps only the themes.",
+      "exampleZh": "摘要不写姓名，只保留几类问题。",
       "category": "office"
     },
     {
       "word": "overview",
       "phonetic": "/ˈəʊvəvjuː/",
       "meaning": "概览",
-      "example": "The overview still needs a decision today.",
-      "exampleZh": "这个概览今天还得拍个板。",
+      "example": "This overview is for new clerks who have never worked a clinic desk.",
+      "exampleZh": "这份概览是写给没站过门诊台的新文员的。",
       "category": "office"
     },
     {
       "word": "outline",
       "phonetic": "/ˈaʊtlaɪn/",
       "meaning": "提纲",
-      "example": "Could you send the outline to the project group?",
-      "exampleZh": "你能把提纲发到项目群吗？",
+      "example": "The outline has three parts: purpose, steps, and exceptions.",
+      "exampleZh": "提纲分三块：目的、步骤和例外。",
       "category": "office"
     },
     {
       "word": "proposal",
       "phonetic": "/prəˈpəʊzl/",
       "meaning": "提案",
-      "example": "Who will own the proposal this week?",
-      "exampleZh": "这周这个提案谁来负责？",
+      "example": "Her proposal would add a clerk to the triage desk at peak time.",
+      "exampleZh": "她的提案是在高峰时段给分诊台加一名文员。",
       "category": "office"
     },
     {
       "word": "order message",
       "phonetic": "/ˈɔːdə ˈmesɪdʒ/",
       "meaning": "医嘱消息",
-      "example": "Please test the order message on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个医嘱消息。",
+      "example": "The order message never reached pharmacy, so the drug was not dispensed.",
+      "exampleZh": "医嘱消息没有到药房，所以药没有发出去。",
       "category": "it"
     },
     {
       "word": "result message",
       "phonetic": "/rɪˈzʌlt ˈmesɪdʒ/",
       "meaning": "结果消息",
-      "example": "The ward asked us to check the result message.",
-      "exampleZh": "病区让我们看一下这个结果消息。",
+      "example": "The result message arrived with the patient name left blank.",
+      "exampleZh": "结果消息到了，里面的患者姓名却是空的。",
       "category": "it"
     },
     {
       "word": "ORM",
       "phonetic": "/ˌəʊ ɑː ˈem/",
       "meaning": "医嘱消息类型（Order Message）",
-      "example": "Send the ORM (Order Message) to the ward.",
-      "exampleZh": "请把 ORM（Order Message）发给病区。",
+      "example": "ORM (Order Message) for the blood culture never left the lab queue.",
+      "exampleZh": "血培养那条ORM（医嘱消息类型）一直没有离开检验队列。",
       "category": "it"
     },
     {
       "word": "ORU",
       "phonetic": "/ˌəʊ ɑː ˈjuː/",
       "meaning": "结果消息类型（Observation Result）",
-      "example": "Send the ORU (Observation Result) to the ward.",
-      "exampleZh": "请把 ORU（Observation Result）发给病区。",
+      "example": "ORU (Observation Result) came back with the wrong units for glucose.",
+      "exampleZh": "ORU（结果消息类型）回来时，血糖的单位是错的。",
       "category": "it"
     },
     {
       "word": "ACK",
       "phonetic": "/æk/",
       "meaning": "确认应答（Acknowledgement）",
-      "example": "The ACK (Acknowledgement) is missing on this chart.",
-      "exampleZh": "这份记录少了 ACK（Acknowledgement）。",
+      "example": "ACK (Acknowledgement) came back, so the lab accepted the order.",
+      "exampleZh": "ACK（确认应答）回来了，说明检验科已收下这张医嘱。",
       "category": "it"
     }
   ]

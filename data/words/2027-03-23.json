@@ -5,80 +5,80 @@
       "word": "code of conduct",
       "phonetic": "/kəʊd əv ˈkɒndʌkt/",
       "meaning": "行为规范",
-      "example": "I put the code of conduct on the shared drive.",
-      "exampleZh": "我把行为规范放到了共享盘。",
+      "example": "On their first morning, new staff sit down and read the code of conduct.",
+      "exampleZh": "新员工第一个上午要坐下来阅读行为规范。",
       "category": "office"
     },
     {
       "word": "conflict of interest",
       "phonetic": "/ˈkɒnflɪkt əv ˈɪntrəst/",
       "meaning": "利益冲突",
-      "example": "Please add the conflict of interest to today’s notes.",
-      "exampleZh": "请把利益冲突写进今天的记录。",
+      "example": "Score no bids until each of you has declared any conflict of interest.",
+      "exampleZh": "在各位都申报了利益冲突之前，先不要给标书打分。",
       "category": "office"
     },
     {
       "word": "declaration",
       "phonetic": "/ˌdekləˈreɪʃn/",
       "meaning": "申报声明",
-      "example": "I put the declaration on the shared drive.",
-      "exampleZh": "我把申报声明放到了共享盘。",
+      "example": "Sign the declaration before you walk into the bid review meeting.",
+      "exampleZh": "进入评标会之前，请先签署申报声明。",
       "category": "office"
     },
     {
       "word": "confidentiality",
       "phonetic": "/ˌkɒnfɪˌdenʃiˈæləti/",
       "meaning": "保密义务",
-      "example": "The confidentiality still needs a decision today.",
-      "exampleZh": "这个保密义务今天还得拍个板。",
+      "example": "Leaving the department does not end your duty of confidentiality.",
+      "exampleZh": "离开本部门并不会终止你的保密义务。",
       "category": "office"
     },
     {
       "word": "non-disclosure",
       "phonetic": "/nɒn dɪsˈkləʊʒə/",
       "meaning": "保密约定",
-      "example": "I put the non-disclosure on the shared drive.",
-      "exampleZh": "我把保密约定放到了共享盘。",
+      "example": "They signed the non-disclosure and only then saw the system demo.",
+      "exampleZh": "他们先签了保密约定，然后才看了系统演示。",
       "category": "office"
     },
     {
       "word": "SCCM",
       "phonetic": "/ˌes siː siː ˈem/",
       "meaning": "系统中心配置管理（System Center Configuration Manager）",
-      "example": "Please write SCCM in full — System Center Configuration Manager — on the change form.",
-      "exampleZh": "变更单上请写全称：SCCM（System Center Configuration Manager）。",
+      "example": "SCCM (System Center Configuration Manager) is pushing the viewer to every reading room PC.",
+      "exampleZh": "SCCM（系统中心配置管理）正在把阅片软件推到每台读片室电脑。",
       "category": "it"
     },
     {
       "word": "Intune",
       "phonetic": "/ˈɪntjuːn/",
       "meaning": "云端设备管理",
-      "example": "We will verify the Intune after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个云端设备管理。",
+      "example": "Intune enrolled the new ward tablets and applied the hospital Wi-Fi profile.",
+      "exampleZh": "Intune 注册了新的病区平板，并套上了医院的 Wi-Fi 配置。",
       "category": "it"
     },
     {
       "word": "MDM",
       "phonetic": "/ˌem diː ˈem/",
       "meaning": "移动设备管理（Mobile Device Management）",
-      "example": "Please write MDM in full — Mobile Device Management — on the change form.",
-      "exampleZh": "变更单上请写全称：MDM（Mobile Device Management）。",
+      "example": "MDM (Mobile Device Management) can wipe a lost tablet without touching the SIM.",
+      "exampleZh": "MDM（移动设备管理）可以清空丢失的平板，不用动 SIM 卡。",
       "category": "it"
     },
     {
       "word": "BYOD",
       "phonetic": "/ˌbiː waɪ əʊ ˈdiː/",
       "meaning": "自带设备（Bring Your Own Device）",
-      "example": "This device is not BYOD (Bring Your Own Device) approved.",
-      "exampleZh": "这台设备不符合 BYOD（Bring Your Own Device）。",
+      "example": "BYOD (Bring Your Own Device) phones stay off the medical-record VLAN.",
+      "exampleZh": "BYOD（自带设备）的手机不能进入病历 VLAN。",
       "category": "it"
     },
     {
       "word": "mobile device",
       "phonetic": "/ˈməʊbaɪl dɪˈvaɪs/",
       "meaning": "移动设备",
-      "example": "Please test the mobile device on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个移动设备。",
+      "example": "Each mobile device on the ward must check in before it can open mail.",
+      "exampleZh": "病区每台移动设备都要先登记，才能打开邮件。",
       "category": "it"
     }
   ]

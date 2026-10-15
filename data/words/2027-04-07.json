@@ -13,72 +13,72 @@
       "word": "wet signature",
       "phonetic": "/wet ˈsɪɡnətʃə/",
       "meaning": "手写签名",
-      "example": "Who will own the wet signature this week?",
-      "exampleZh": "这周这个手写签名谁来负责？",
+      "example": "They will not accept the original without a wet signature.",
+      "exampleZh": "原件上没有手写签名，他们不会收。",
       "category": "office"
     },
     {
       "word": "e-signature",
       "phonetic": "/iː ˈsɪɡnətʃə/",
       "meaning": "电子签名",
-      "example": "I put the e-signature on the shared drive.",
-      "exampleZh": "我把电子签名放到了共享盘。",
+      "example": "For internal leave forms, an e-signature is all we need.",
+      "exampleZh": "内部请假表有电子签名就够了。",
       "category": "office"
     },
     {
       "word": "initials",
       "phonetic": "/ɪˈnɪʃlz/",
       "meaning": "姓名缩写签",
-      "example": "Who will own the initials this week?",
-      "exampleZh": "这周这个姓名缩写签谁来负责？",
+      "example": "Write your initials in the margin beside each change you make.",
+      "exampleZh": "请在你修改的每一处页边签上姓名缩写。",
       "category": "office"
     },
     {
       "word": "date stamp",
       "phonetic": "/deɪt stæmp/",
       "meaning": "日期章",
-      "example": "The date stamp still needs a decision today.",
-      "exampleZh": "这个日期章今天还得拍个板。",
+      "example": "As each form arrives, reception adds the date stamp.",
+      "exampleZh": "每份表格一到，接待处就盖上日期章。",
       "category": "office"
     },
     {
       "word": "SFTP",
       "phonetic": "/ˌes ef tiː ˈpiː/",
       "meaning": "安全文件传输（SSH File Transfer Protocol）",
-      "example": "Document SFTP (SSH File Transfer Protocol) in the interface spec.",
-      "exampleZh": "接口说明里请写上 SFTP（SSH File Transfer Protocol）。",
+      "example": "SFTP (SSH File Transfer Protocol) is how the reference lab drops results each hour.",
+      "exampleZh": "合作检验所每小时用 SFTP（安全文件传输）投递一次结果。",
       "category": "it"
     },
     {
       "word": "SMB",
       "phonetic": "/ˌes em ˈbiː/",
       "meaning": "文件共享协议（Server Message Block）",
-      "example": "Please confirm SMB (Server Message Block) is allowed through the firewall.",
-      "exampleZh": "请确认防火墙放行 SMB（Server Message Block）。",
+      "example": "SMB (Server Message Block) signing is required before the file server returns to the ward.",
+      "exampleZh": "文件服务器重新给病区用之前，必须打开 SMB（文件共享协议）签名。",
       "category": "it"
     },
     {
       "word": "NFS",
       "phonetic": "/ˌen ef ˈes/",
       "meaning": "网络文件系统（Network File System）",
-      "example": "Document NFS (Network File System) in the interface spec.",
-      "exampleZh": "接口说明里请写上 NFS（Network File System）。",
+      "example": "NFS (Network File System) exports on the imaging archive are mounted read-only by the viewers.",
+      "exampleZh": "影像归档上的 NFS（网络文件系统）导出，阅片端是只读挂载的。",
       "category": "it"
     },
     {
       "word": "CIFS",
       "phonetic": "/sɪfs/",
       "meaning": "通用互联网文件系统（Common Internet File System）",
-      "example": "Document CIFS (Common Internet File System) in the interface spec.",
-      "exampleZh": "接口说明里请写上 CIFS（Common Internet File System）。",
+      "example": "CIFS (Common Internet File System) shares from the old file server still feed two lab instruments.",
+      "exampleZh": "旧文件服务器上的 CIFS（通用互联网文件系统）共享还在给两台检验仪器送数据。",
       "category": "it"
     },
     {
       "word": "RDP",
       "phonetic": "/ˌɑːr diː ˈpiː/",
       "meaning": "远程桌面协议（Remote Desktop Protocol）",
-      "example": "We use RDP (Remote Desktop Protocol) for this integration.",
-      "exampleZh": "这条集成用的是 RDP（Remote Desktop Protocol）。",
+      "example": "RDP (Remote Desktop Protocol) to the jump host is the only path into the server VLAN.",
+      "exampleZh": "进服务器 VLAN 只能走跳板机上的 RDP（远程桌面协议）。",
       "category": "it"
     }
   ]

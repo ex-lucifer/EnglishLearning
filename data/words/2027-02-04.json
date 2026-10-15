@@ -5,80 +5,80 @@
       "word": "apology",
       "phonetic": "/əˈpɒlədʒi/",
       "meaning": "道歉",
-      "example": "Please add the apology to today’s notes.",
-      "exampleZh": "请把道歉写进今天的记录。",
+      "example": "An apology from the clinic lead calmed the family down.",
+      "exampleZh": "门诊负责人的道歉让家属平静了下来。",
       "category": "office"
     },
     {
       "word": "courtesy",
       "phonetic": "/ˈkɜːtəsi/",
       "meaning": "礼貌",
-      "example": "We talked about the courtesy with the department head.",
-      "exampleZh": "我们和科主任谈了这个礼貌。",
+      "example": "A little courtesy at the window can calm a long wait.",
+      "exampleZh": "窗口上一点礼貌，能让长时间等候好受些。",
       "category": "office"
     },
     {
       "word": "professionalism",
       "phonetic": "/prəˈfeʃənəlɪzəm/",
       "meaning": "职业素养",
-      "example": "Could you send the professionalism to the project group?",
-      "exampleZh": "你能把职业素养发到项目群吗？",
+      "example": "Professionalism means you do not discuss patients in the lift.",
+      "exampleZh": "职业素养包括不在电梯里谈论患者。",
       "category": "office"
     },
     {
       "word": "punctuality",
       "phonetic": "/ˌpʌŋktʃuˈæləti/",
       "meaning": "准时",
-      "example": "Could you send the punctuality to the project group?",
-      "exampleZh": "你能把准时发到项目群吗？",
+      "example": "Punctuality at the safety huddle keeps it to fifteen minutes.",
+      "exampleZh": "安全短会准时开始，才能控制在十五分钟。",
       "category": "office"
     },
     {
       "word": "courtesy copy",
       "phonetic": "/ˈkɜːtəsi ˈkɒpi/",
       "meaning": "礼节抄送",
-      "example": "Who will own the courtesy copy this week?",
-      "exampleZh": "这周这个礼节抄送谁来负责？",
+      "example": "I sent the absent chair a courtesy copy of the agenda.",
+      "exampleZh": "我给缺席的主持人发了一份议程的礼节抄送。",
       "category": "office"
     },
     {
       "word": "null value",
       "phonetic": "/nʌl ˈvæljuː/",
       "meaning": "空值",
-      "example": "I logged the null value in today’s change ticket.",
-      "exampleZh": "我把这个空值记进了今天的变更单。",
+      "example": "A null value in the patient name field broke the label print.",
+      "exampleZh": "患者姓名字段里的空值把标签打印弄坏了。",
       "category": "it"
     },
     {
       "word": "data type",
       "phonetic": "/ˈdeɪtə taɪp/",
       "meaning": "数据类型",
-      "example": "Who is on call for the data type this week?",
-      "exampleZh": "这周这个数据类型谁值班？",
+      "example": "The data type for the dose column is text, so the sort order looks wrong.",
+      "exampleZh": "剂量列的数据类型是文本，所以排序看起来不对。",
       "category": "it"
     },
     {
       "word": "character set",
       "phonetic": "/ˈkærəktə set/",
       "meaning": "字符集",
-      "example": "The vendor asked for a screenshot of the character set.",
-      "exampleZh": "厂商要一张这个字符集的截图。",
+      "example": "The character set on the lab database garbled this patient's Chinese name.",
+      "exampleZh": "检验库的字符集把这位患者的中文姓名弄乱了。",
       "category": "it"
     },
     {
       "word": "collation",
       "phonetic": "/kəˈleɪʃn/",
       "meaning": "排序规则",
-      "example": "The ward asked us to check the collation.",
-      "exampleZh": "病区让我们看一下这个排序规则。",
+      "example": "The collation treats those two drug names as different, so the match fails.",
+      "exampleZh": "排序规则把那两个药名当成不同的词，所以对不上。",
       "category": "it"
     },
     {
       "word": "transaction",
       "phonetic": "/trænˈzækʃn/",
       "meaning": "事务",
-      "example": "We will verify the transaction after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个事务。",
+      "example": "The transaction that posts the charge rolled back and left no bill.",
+      "exampleZh": "记账的那笔事务回滚了，账单没有留下。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "skip-level",
       "phonetic": "/skɪp ˈlevl/",
       "meaning": "越级沟通",
-      "example": "I put the skip-level on the shared drive.",
-      "exampleZh": "我把越级沟通放到了共享盘。",
+      "example": "The skip-level is a conversation, not a performance review.",
+      "exampleZh": "越级沟通是谈话，不是绩效面谈。",
       "category": "office"
     },
     {
       "word": "all-hands",
       "phonetic": "/ɔːl hændz/",
       "meaning": "全员会",
-      "example": "Who will own the all-hands this week?",
-      "exampleZh": "这周这个全员会谁来负责？",
+      "example": "The all-hands will be shortened because clinic runs late on Fridays.",
+      "exampleZh": "周五门诊结束得晚，全员会会缩短。",
       "category": "office"
     },
     {
       "word": "brown-bag",
       "phonetic": "/braʊn bæɡ/",
       "meaning": "午餐分享会",
-      "example": "We talked about the brown-bag with the department head.",
-      "exampleZh": "我们和科主任谈了这个午餐分享会。",
+      "example": "Bring your own lunch to the brown-bag on clearer writing.",
+      "exampleZh": "关于把公文写清楚的午餐分享会，请自带午饭。",
       "category": "office"
     },
     {
       "word": "icebreaker",
       "phonetic": "/ˈaɪsbreɪkə/",
       "meaning": "破冰环节",
-      "example": "I put the icebreaker on the shared drive.",
-      "exampleZh": "我把破冰环节放到了共享盘。",
+      "example": "The icebreaker was simply to say your ward and your role.",
+      "exampleZh": "破冰环节只是说一下自己的病区和岗位。",
       "category": "office"
     },
     {
       "word": "roundtable",
       "phonetic": "/ˈraʊndteɪbl/",
       "meaning": "圆桌讨论",
-      "example": "We talked about the roundtable with the department head.",
-      "exampleZh": "我们和科主任谈了这个圆桌讨论。",
+      "example": "At the roundtable, each ward had three minutes to speak.",
+      "exampleZh": "圆桌讨论上，每个病区有三分钟发言。",
       "category": "office"
     },
     {
       "word": "subnet mask",
       "phonetic": "/ˈsʌbnet mɑːsk/",
       "meaning": "子网掩码",
-      "example": "I logged the subnet mask in today’s change ticket.",
-      "exampleZh": "我把这个子网掩码记进了今天的变更单。",
+      "example": "The subnet mask on the bedside terminal is too narrow for this ward.",
+      "exampleZh": "这台床旁终端的子网掩码对这个病区来说太窄了。",
       "category": "it"
     },
     {
       "word": "DNS server",
       "phonetic": "/ˌdiː en ˈes ˈsɜːvə/",
       "meaning": "域名服务器",
-      "example": "The vendor asked for a screenshot of the DNS server.",
-      "exampleZh": "厂商要一张这个域名服务器的截图。",
+      "example": "The DNS server answered with the retired address for the lab host.",
+      "exampleZh": "域名服务器给检验主机返回了已经退役的地址。",
       "category": "it"
     },
     {
       "word": "DHCP lease",
       "phonetic": "/ˌdiː eɪtʃ siː ˈpiː liːs/",
       "meaning": "地址租约",
-      "example": "Do not touch the DHCP lease during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个地址租约。",
+      "example": "The DHCP lease for the scanner expired in the middle of a study.",
+      "exampleZh": "扫描仪的地址租约在一次检查进行到一半时过期了。",
       "category": "it"
     },
     {
       "word": "SSL certificate",
       "phonetic": "/ˌes es ˈel səˈtɪfɪkət/",
       "meaning": "安全证书",
-      "example": "Do not touch the SSL certificate during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个安全证书。",
+      "example": "The SSL certificate on the patient portal expires this Sunday.",
+      "exampleZh": "患者门户上的安全证书这个周日到期。",
       "category": "it"
     },
     {
       "word": "VPN tunnel",
       "phonetic": "/ˌviː piː ˈen ˈtʌnl/",
       "meaning": "虚拟专网隧道",
-      "example": "I logged the VPN tunnel in today’s change ticket.",
-      "exampleZh": "我把这个虚拟专网隧道记进了今天的变更单。",
+      "example": "The VPN tunnel from the east clinic dropped three times this morning.",
+      "exampleZh": "东院门诊的虚拟专网隧道今天早上断了三次。",
       "category": "it"
     }
   ]

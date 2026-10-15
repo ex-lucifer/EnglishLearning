@@ -5,80 +5,80 @@
       "word": "lesson learned",
       "phonetic": "/ˈlesn lɜːnd/",
       "meaning": "经验教训",
-      "example": "I put the lesson learned on the shared drive.",
-      "exampleZh": "我把经验教训放到了共享盘。",
+      "example": "The lesson learned is to check the room number on the invitation.",
+      "exampleZh": "经验教训是要核对邀请上的房间号。",
       "category": "office"
     },
     {
       "word": "best practice",
       "phonetic": "/best ˈpræktɪs/",
       "meaning": "最佳实践",
-      "example": "I put the best practice on the shared drive.",
-      "exampleZh": "我把最佳实践放到了共享盘。",
+      "example": "A best practice we copied is naming a deputy before every leave.",
+      "exampleZh": "我们学来的一条最佳实践是，每次休假前都指定代理人。",
       "category": "office"
     },
     {
       "word": "standard",
       "phonetic": "/ˈstændəd/",
       "meaning": "标准",
-      "example": "Who will own the standard this week?",
-      "exampleZh": "这周这个标准谁来负责？",
+      "example": "The standard calls for two identifiers before a blood sample.",
+      "exampleZh": "标准要求抽血前核对两种身份标识。",
       "category": "office"
     },
     {
       "word": "protocol",
       "phonetic": "/ˈprəʊtəkɒl/",
       "meaning": "规程",
-      "example": "We talked about the protocol with the department head.",
-      "exampleZh": "我们和科主任谈了这个规程。",
+      "example": "The protocol says a near miss must be written up the same day.",
+      "exampleZh": "规程规定，未遂事件必须在当天写成书面材料。",
       "category": "office"
     },
     {
       "word": "pathway",
       "phonetic": "/ˈpɑːθweɪ/",
       "meaning": "路径",
-      "example": "Please bring the pathway to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个路径。",
+      "example": "The new stroke pathway starts at the triage desk.",
+      "exampleZh": "新的卒中路径从分诊台开始。",
       "category": "office"
     },
     {
       "word": "L2 support",
       "phonetic": "/el tuː səˈpɔːt/",
       "meaning": "二线支持",
-      "example": "We will verify the L2 support after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个二线支持。",
+      "example": "L2 support traced the missing result to a bad field mapping.",
+      "exampleZh": "二线支持把丢失的结果追到了一处错误的字段对照。",
       "category": "it"
     },
     {
       "word": "L3 support",
       "phonetic": "/el θriː səˈpɔːt/",
       "meaning": "三线支持",
-      "example": "The ward asked us to check the L3 support.",
-      "exampleZh": "病区让我们看一下这个三线支持。",
+      "example": "L3 support is digging into the deadlock inside the billing tables.",
+      "exampleZh": "三线支持正在追查收费表里面的死锁。",
       "category": "it"
     },
     {
       "word": "on-site engineer",
       "phonetic": "/ɒn saɪt ˌendʒɪˈnɪə/",
       "meaning": "现场工程师",
-      "example": "Who is on call for the on-site engineer this week?",
-      "exampleZh": "这周这个现场工程师谁值班？",
+      "example": "The on-site engineer is already in the CT room replacing the failed disk.",
+      "exampleZh": "现场工程师已经在CT机房更换那块故障磁盘。",
       "category": "it"
     },
     {
       "word": "remote support",
       "phonetic": "/rɪˈməʊt səˈpɔːt/",
       "meaning": "远程支持",
-      "example": "Who is on call for the remote support this week?",
-      "exampleZh": "这周这个远程支持谁值班？",
+      "example": "Remote support fixed the scanner without a trip to the east clinic.",
+      "exampleZh": "远程支持把扫描仪修好了，不用再跑一趟东院门诊。",
       "category": "it"
     },
     {
       "word": "screen control",
       "phonetic": "/skriːn kənˈtrəʊl/",
       "meaning": "远程控屏",
-      "example": "The ward asked us to check the screen control.",
-      "exampleZh": "病区让我们看一下这个远程控屏。",
+      "example": "Screen control let us move past the stuck order on her PC.",
+      "exampleZh": "远程控屏让我们在她的电脑上把卡住的医嘱点过去了。",
       "category": "it"
     }
   ]

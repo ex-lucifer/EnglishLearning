@@ -5,80 +5,80 @@
       "word": "shred",
       "phonetic": "/ʃred/",
       "meaning": "粉碎销毁",
-      "example": "We still need to shred this.",
-      "exampleZh": "这件事还得粉碎销毁。",
+      "example": "Please shred the extra copies once the minutes have been signed.",
+      "exampleZh": "纪要签好之后，请把多余的副本粉碎销毁。",
       "category": "office"
     },
     {
       "word": "confidential bin",
       "phonetic": "/ˌkɒnfɪˈdenʃl bɪn/",
       "meaning": "保密回收桶",
-      "example": "I put the confidential bin on the shared drive.",
-      "exampleZh": "我把保密回收桶放到了共享盘。",
+      "example": "Drop the draft pay list into the confidential bin before you leave.",
+      "exampleZh": "离开之前，请把工资草稿放进保密回收桶。",
       "category": "office"
     },
     {
       "word": "locked cabinet",
       "phonetic": "/lɒkt ˈkæbɪnət/",
       "meaning": "上锁柜",
-      "example": "Who will own the locked cabinet this week?",
-      "exampleZh": "这周这个上锁柜谁来负责？",
+      "example": "Personnel files stay in the locked cabinet overnight.",
+      "exampleZh": "人事档案夜间放在上锁柜里。",
       "category": "office"
     },
     {
       "word": "key control",
       "phonetic": "/kiː kənˈtrəʊl/",
       "meaning": "钥匙管理",
-      "example": "The key control still needs a decision today.",
-      "exampleZh": "这个钥匙管理今天还得拍个板。",
+      "example": "Key control for the file room stays with the night supervisor.",
+      "exampleZh": "档案室的钥匙管理由夜班主管负责。",
       "category": "office"
     },
     {
       "word": "access log",
       "phonetic": "/ˈækses lɒɡ/",
       "meaning": "进出记录",
-      "example": "The access log still needs a decision today.",
-      "exampleZh": "这个进出记录今天还得拍个板。",
+      "example": "Please sign the access log each time you enter the file room.",
+      "exampleZh": "每次进入档案室，请在进出记录上签名。",
       "category": "office"
     },
     {
       "word": "online mode",
       "phonetic": "/ˈɒnlaɪn məʊd/",
       "meaning": "在线模式",
-      "example": "I logged the online mode in today’s change ticket.",
-      "exampleZh": "我把这个在线模式记进了今天的变更单。",
+      "example": "Online mode needs a live connection, which the basement clinic often lacks.",
+      "exampleZh": "在线模式必须实时连着，而地下门诊经常做不到。",
       "category": "it"
     },
     {
       "word": "mailbox move",
       "phonetic": "/ˈmeɪlbɒks muːv/",
       "meaning": "邮箱迁移",
-      "example": "We will verify the mailbox move after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个邮箱迁移。",
+      "example": "The mailbox move to the new server finishes after the evening report.",
+      "exampleZh": "迁到新服务器的邮箱迁移会在晚交班之后完成。",
       "category": "it"
     },
     {
       "word": "hybrid mail",
       "phonetic": "/ˈhaɪbrɪd meɪl/",
       "meaning": "混合邮件",
-      "example": "Please test the hybrid mail on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个混合邮件。",
+      "example": "Hybrid mail keeps some boxes on site and the rest in the cloud.",
+      "exampleZh": "混合邮件把一部分邮箱留在院内，其余放在云上。",
       "category": "it"
     },
     {
       "word": "exchange",
       "phonetic": "/ɪksˈtʃeɪndʒ/",
       "meaning": "邮件系统",
-      "example": "The ward asked us to check the exchange.",
-      "exampleZh": "病区让我们看一下这个邮件系统。",
+      "example": "Our exchange still delivers ward rosters every morning at six.",
+      "exampleZh": "我们的邮件系统仍会在每天早上六点送出病区排班表。",
       "category": "it"
     },
     {
       "word": "calendar free-busy",
       "phonetic": "/ˈkælɪndə friː ˈbɪzi/",
       "meaning": "忙闲状态",
-      "example": "I logged the calendar free-busy in today’s change ticket.",
-      "exampleZh": "我把这个忙闲状态记进了今天的变更单。",
+      "example": "Check her calendar free-busy before you propose a Thursday meeting.",
+      "exampleZh": "提议周四开会之前，先看一下她的忙闲状态。",
       "category": "it"
     }
   ]

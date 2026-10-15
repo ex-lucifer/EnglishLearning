@@ -5,80 +5,80 @@
       "word": "reception",
       "phonetic": "/rɪˈsepʃn/",
       "meaning": "接待",
-      "example": "Could you send the reception to the project group?",
-      "exampleZh": "你能把接待发到项目群吗？",
+      "example": "Reception greeted the accreditation visitors and checked their names.",
+      "exampleZh": "接待处迎接了评审来宾，并核对了姓名。",
       "category": "office"
     },
     {
       "word": "waiting list",
       "phonetic": "/ˈweɪtɪŋ lɪst/",
       "meaning": "等候名单",
-      "example": "I put the waiting list on the shared drive.",
-      "exampleZh": "我把等候名单放到了共享盘。",
+      "example": "He has been on the waiting list for an elective bed since March.",
+      "exampleZh": "他从三月起就在择期床位的等候名单上。",
       "category": "office"
     },
     {
       "word": "queue",
       "phonetic": "/kjuː/",
       "meaning": "排队",
-      "example": "We talked about the queue with the department head.",
-      "exampleZh": "我们和科主任谈了这个排队。",
+      "example": "The queue outside Registration stretched into the lobby.",
+      "exampleZh": "挂号处门外的队伍一直排到了大厅。",
       "category": "office"
     },
     {
       "word": "census",
       "phonetic": "/ˈsensəs/",
       "meaning": "在院人数",
-      "example": "We talked about the census with the department head.",
-      "exampleZh": "我们和科主任谈了这个在院人数。",
+      "example": "Tonight's census is one hundred and forty patients.",
+      "exampleZh": "今晚的在院人数是一百四十名患者。",
       "category": "office"
     },
     {
       "word": "occupancy",
       "phonetic": "/ˈɒkjəpənsi/",
       "meaning": "床位占用率",
-      "example": "Please bring the occupancy to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个床位占用率。",
+      "example": "Occupancy on the medical ward is high, so elective cases may wait.",
+      "exampleZh": "内科病区的床位占用率很高，择期病例可能还要再等。",
       "category": "office"
     },
     {
       "word": "heartbeat",
       "phonetic": "/ˈhɑːtbiːt/",
       "meaning": "心跳检测",
-      "example": "I logged the heartbeat in today’s change ticket.",
-      "exampleZh": "我把这个心跳检测记进了今天的变更单。",
+      "example": "Heartbeat between the two order nodes stopped for three minutes.",
+      "exampleZh": "两台医嘱节点之间的心跳检测停了三分钟。",
       "category": "it"
     },
     {
       "word": "quorum disk",
       "phonetic": "/ˈkwɔːrəm dɪsk/",
       "meaning": "仲裁磁盘",
-      "example": "We will verify the quorum disk after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个仲裁磁盘。",
+      "example": "The quorum disk went offline, and the cluster refused to start.",
+      "exampleZh": "仲裁磁盘离线之后，集群拒绝启动。",
       "category": "it"
     },
     {
       "word": "shared storage",
       "phonetic": "/ʃeəd ˈstɔːrɪdʒ/",
       "meaning": "共享存储",
-      "example": "Please test the shared storage on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个共享存储。",
+      "example": "Shared storage for the cluster reported a failed path at dawn.",
+      "exampleZh": "集群用的共享存储在黎明时报了一条失败的路径。",
       "category": "it"
     },
     {
       "word": "SAN",
       "phonetic": "/sæn/",
       "meaning": "存储区域网（Storage Area Network）",
-      "example": "SAN stands for Storage Area Network. Check it before the clinic opens.",
-      "exampleZh": "SAN 的全称是 Storage Area Network。开诊前请先检查。",
+      "example": "SAN (Storage Area Network) lost the path that PACS uses for new studies.",
+      "exampleZh": "SAN（存储区域网）丢了影像系统存放新检查用的那条路径。",
       "category": "it"
     },
     {
       "word": "NAS",
       "phonetic": "/næs/",
       "meaning": "网络附加存储（Network Attached Storage）",
-      "example": "Please write NAS in full — Network Attached Storage — on the change form.",
-      "exampleZh": "变更单上请写全称：NAS（Network Attached Storage）。",
+      "example": "NAS (Network Attached Storage) holding the scanned consents is almost full.",
+      "exampleZh": "存放扫描知情同意书的NAS（网络附加存储）快满了。",
       "category": "it"
     }
   ]

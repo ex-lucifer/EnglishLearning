@@ -5,80 +5,80 @@
       "word": "unsigned",
       "phonetic": "/ˌʌnˈsaɪnd/",
       "meaning": "未签字的",
-      "example": "Do not file an unsigned consent form.",
-      "exampleZh": "未签字的知情同意书不要归档。",
+      "example": "Return any unsigned leave form to the supervisor the same day.",
+      "exampleZh": "未签字的请假表，请在当天退回给主管。",
       "category": "office"
     },
     {
       "word": "unstamped",
       "phonetic": "/ˌʌnˈstæmpt/",
       "meaning": "未盖章的",
-      "example": "The letter is still unstamped.",
-      "exampleZh": "这封信还没盖章。",
+      "example": "An unstamped copy cannot stand in for a formal employment proof.",
+      "exampleZh": "未盖章的副本不能代替正式的在职证明。",
       "category": "office"
     },
     {
       "word": "outdated",
       "phonetic": "/ˌaʊtˈdeɪtɪd/",
       "meaning": "过时的",
-      "example": "That SOP is outdated; use the current version.",
-      "exampleZh": "那份作业程序过时了，请用当前版本。",
+      "example": "That lobby map is outdated and still shows the old pharmacy.",
+      "exampleZh": "大厅那张图已经过时了，上面还标着旧药房。",
       "category": "office"
     },
     {
       "word": "superseded",
       "phonetic": "/ˌsuːpəˈsiːdɪd/",
       "meaning": "已被替代的",
-      "example": "This form has been superseded.",
-      "exampleZh": "这张表已被替代。",
+      "example": "This duty roster is superseded, so use the copy dated Monday.",
+      "exampleZh": "这份值班表已经被替代了，请改用日期为周一的那份。",
       "category": "office"
     },
     {
       "word": "current version",
       "phonetic": "/ˈkʌrənt ˈvɜːʃn/",
       "meaning": "当前版本",
-      "example": "Could you send the current version to the project group?",
-      "exampleZh": "你能把当前版本发到项目群吗？",
+      "example": "The current version of the visitor rules is dated the first of May.",
+      "exampleZh": "访客规定的当前版本，日期是五月一日。",
       "category": "office"
     },
     {
       "word": "eDiscovery",
       "phonetic": "/iː dɪsˈkʌvəri/",
       "meaning": "电子取证",
-      "example": "The ward asked us to check the eDiscovery.",
-      "exampleZh": "病区让我们看一下这个电子取证。",
+      "example": "Legal asked eDiscovery to search the director's mail for the contract thread.",
+      "exampleZh": "法务请电子取证在主任邮箱里查找合同那串邮件。",
       "category": "it"
     },
     {
       "word": "journaling",
       "phonetic": "/ˈdʒɜːnəlɪŋ/",
       "meaning": "邮件日志",
-      "example": "The ward asked us to check the journaling.",
-      "exampleZh": "病区让我们看一下这个邮件日志。",
+      "example": "Journaling copies every outbound message into the compliance mailbox.",
+      "exampleZh": "邮件日志会把每封外发邮件复制进合规邮箱。",
       "category": "it"
     },
     {
       "word": "transport rule",
       "phonetic": "/ˈtrænspɔːt ruːl/",
       "meaning": "传输规则",
-      "example": "The ward asked us to check the transport rule.",
-      "exampleZh": "病区让我们看一下这个传输规则。",
+      "example": "A transport rule adds a confidentiality line to mail leaving the hospital.",
+      "exampleZh": "有一条传输规则会给离院邮件加上保密提示。",
       "category": "it"
     },
     {
       "word": "mail flow",
       "phonetic": "/meɪl fləʊ/",
       "meaning": "邮件流",
-      "example": "The vendor asked for a screenshot of the mail flow.",
-      "exampleZh": "厂商要一张这个邮件流的截图。",
+      "example": "Mail flow between the lab and the wards slowed down after noon.",
+      "exampleZh": "过了中午，检验科和病区之间的邮件流就变慢了。",
       "category": "it"
     },
     {
       "word": "connector",
       "phonetic": "/kəˈnektə/",
       "meaning": "连接器",
-      "example": "The ward asked us to check the connector.",
-      "exampleZh": "病区让我们看一下这个连接器。",
+      "example": "This connector carries mail between the hospital and the city health bureau.",
+      "exampleZh": "这个连接器负责本院和市卫健委之间的邮件往来。",
       "category": "it"
     }
   ]

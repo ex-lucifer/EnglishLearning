@@ -5,8 +5,8 @@
       "word": "late running",
       "phonetic": "/leɪt ˈrʌnɪŋ/",
       "meaning": "晚点延误",
-      "example": "Please add the late running to today’s notes.",
-      "exampleZh": "请把晚点延误写进今天的记录。",
+      "example": "The shuttle's late running may push the afternoon visit back.",
+      "exampleZh": "班车晚点延误，可能会把下午的走访往后推。",
       "category": "office"
     },
     {
@@ -37,48 +37,48 @@
       "word": "double-booked",
       "phonetic": "/ˈdʌbl bʊkt/",
       "meaning": "时间冲突",
-      "example": "The director is double-booked at ten.",
-      "exampleZh": "主任十点有时间冲突。",
+      "example": "She is double-booked from three, so offer the vendor another time.",
+      "exampleZh": "她从三点起就时间冲突了，请给供应商另约一个时间。",
       "category": "office"
     },
     {
       "word": "ID token",
       "phonetic": "/aɪ ˈdiː ˈtəʊkən/",
       "meaning": "身份令牌",
-      "example": "Please test the ID token on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个身份令牌。",
+      "example": "The ID token is missing the ward claim, so the app cannot tell which unit she works on.",
+      "exampleZh": "身份令牌里没有病区声明，应用分不清她在哪个科室。",
       "category": "it"
     },
     {
       "word": "JWT",
       "phonetic": "/ˌdʒeɪ ˈdʌbljuː ˈtiː/",
       "meaning": "JSON令牌（JSON Web Token）",
-      "example": "Can you map this item to JWT (JSON Web Token)?",
-      "exampleZh": "这条能否对照到 JWT（JSON Web Token）？",
+      "example": "The JWT (JSON Web Token) from the bedside app failed signature checks on the gateway.",
+      "exampleZh": "床旁应用发出的 JWT（JSON令牌）在网关上没通过签名校验。",
       "category": "it"
     },
     {
       "word": "bearer token",
       "phonetic": "/ˈbeərə ˈtəʊkən/",
       "meaning": "持有者令牌",
-      "example": "I logged the bearer token in today’s change ticket.",
-      "exampleZh": "我把这个持有者令牌记进了今天的变更单。",
+      "example": "Do not paste a bearer token into chat; anyone who copies it can call the API.",
+      "exampleZh": "不要把持有者令牌贴到聊天里，谁复制走都能调接口。",
       "category": "it"
     },
     {
       "word": "API gateway",
       "phonetic": "/ˌeɪ piː ˈaɪ ˈɡeɪtweɪ/",
       "meaning": "接口网关",
-      "example": "The vendor asked for a screenshot of the API gateway.",
-      "exampleZh": "厂商要一张这个接口网关的截图。",
+      "example": "The API gateway rejected the lab call because the client certificate was absent.",
+      "exampleZh": "接口网关拒绝了检验调用，因为请求里没有客户端证书。",
       "category": "it"
     },
     {
       "word": "rate limiting",
       "phonetic": "/reɪt ˈlɪmɪtɪŋ/",
       "meaning": "限流控制",
-      "example": "Please test the rate limiting on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个限流控制。",
+      "example": "Rate limiting slowed the results feed after the lab sent a burst of repeats.",
+      "exampleZh": "检验端突然大量重发之后，限流控制把结果推送拖慢了。",
       "category": "it"
     }
   ]

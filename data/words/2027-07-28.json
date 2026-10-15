@@ -5,80 +5,80 @@
       "word": "display board",
       "phonetic": "/dɪˈspleɪ bɔːd/",
       "meaning": "显示屏",
-      "example": "The display board still needs a decision today.",
-      "exampleZh": "这个显示屏今天还得拍个板。",
+      "example": "The display board in the lobby shows which number is being called.",
+      "exampleZh": "大厅的显示屏上能看到正在呼叫的号码。",
       "category": "office"
     },
     {
       "word": "wayfinding",
       "phonetic": "/ˈweɪfaɪndɪŋ/",
       "meaning": "导引标识",
-      "example": "The wayfinding still needs a decision today.",
-      "exampleZh": "这个导引标识今天还得拍个板。",
+      "example": "The wayfinding toward the file room still confuses many visitors.",
+      "exampleZh": "通往档案室的导引标识仍然让很多访客搞不清方向。",
       "category": "office"
     },
     {
       "word": "directory board",
       "phonetic": "/dəˈrektəri bɔːd/",
       "meaning": "楼层索引",
-      "example": "I put the directory board on the shared drive.",
-      "exampleZh": "我把楼层索引放到了共享盘。",
+      "example": "The directory board next to the lift lists every ward and clinic.",
+      "exampleZh": "电梯旁边的楼层索引列出了每个病区和门诊。",
       "category": "office"
     },
     {
       "word": "floor plan",
       "phonetic": "/flɔː plæn/",
       "meaning": "平面图",
-      "example": "Could you send the floor plan to the project group?",
-      "exampleZh": "你能把平面图发到项目群吗？",
+      "example": "A floor plan for this wing is posted right beside the stairs.",
+      "exampleZh": "这栋楼翼的平面图就贴在楼梯旁边。",
       "category": "office"
     },
     {
       "word": "room number",
       "phonetic": "/ruːm ˈnʌmbə/",
       "meaning": "房间号",
-      "example": "Who will own the room number this week?",
-      "exampleZh": "这周这个房间号谁来负责？",
+      "example": "The room number printed on her badge does not match her seat.",
+      "exampleZh": "她工牌上印的房间号和她的座位对不上。",
       "category": "office"
     },
     {
       "word": "snapshot chain",
       "phonetic": "/ˈsnæpʃɒt tʃeɪn/",
       "meaning": "快照链",
-      "example": "Please test the snapshot chain on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个快照链。",
+      "example": "The snapshot chain on the HIS VM is six levels deep and slowing every write.",
+      "exampleZh": "HIS 虚拟机的快照链已经六层，每次写入都变慢。",
       "category": "it"
     },
     {
       "word": "delta disk",
       "phonetic": "/ˈdeltə dɪsk/",
       "meaning": "增量盘",
-      "example": "I logged the delta disk in today’s change ticket.",
-      "exampleZh": "我把这个增量盘记进了今天的变更单。",
+      "example": "The delta disk from last week's snapshot is larger than the base disk now.",
+      "exampleZh": "上周快照留下的增量盘，现在比基础盘还大。",
       "category": "it"
     },
     {
       "word": "linked clone",
       "phonetic": "/lɪŋkt kləʊn/",
       "meaning": "链接克隆",
-      "example": "The vendor asked for a screenshot of the linked clone.",
-      "exampleZh": "厂商要一张这个链接克隆的截图。",
+      "example": "A linked clone of the training VM shares the base disk and only stores changes.",
+      "exampleZh": "培训虚拟机的链接克隆和基础盘共用空间，只另外存变更。",
       "category": "it"
     },
     {
       "word": "full clone",
       "phonetic": "/fʊl kləʊn/",
       "meaning": "完整克隆",
-      "example": "Please test the full clone on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个完整克隆。",
+      "example": "A full clone of the HIS VM copies every block and can move to another datastore.",
+      "exampleZh": "HIS 虚拟机的完整克隆会复制每一个块，也能迁到别的数据存储。",
       "category": "it"
     },
     {
       "word": "template VM",
       "phonetic": "/ˈtemplɪt ˌviː ˈem/",
       "meaning": "虚拟机模板",
-      "example": "I logged the template VM in today’s change ticket.",
-      "exampleZh": "我把这个虚拟机模板记进了今天的变更单。",
+      "example": "Deploy each clinic desktop from the template VM so every desk starts from the same build.",
+      "exampleZh": "每台门诊桌面都从虚拟机模板部署，每个工位的起点才是同一套构建。",
       "category": "it"
     }
   ]

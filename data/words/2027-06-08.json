@@ -5,80 +5,80 @@
       "word": "waiting area",
       "phonetic": "/ˈweɪtɪŋ ˈeəriə/",
       "meaning": "等候区",
-      "example": "Please bring the waiting area to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个等候区。",
+      "example": "Please show families to the waiting area on the left of the lobby.",
+      "exampleZh": "请把家属带到大厅左侧的等候区。",
       "category": "office"
     },
     {
       "word": "reception log",
       "phonetic": "/rɪˈsepʃn lɒɡ/",
       "meaning": "接待登记",
-      "example": "Please add the reception log to today’s notes.",
-      "exampleZh": "请把接待登记写进今天的记录。",
+      "example": "Each visitor has to sign the reception log before going upstairs.",
+      "exampleZh": "每位访客上楼之前，都必须在接待登记上签名。",
       "category": "office"
     },
     {
       "word": "visitor log",
       "phonetic": "/ˈvɪzɪtə lɒɡ/",
       "meaning": "访客登记",
-      "example": "Please bring the visitor log to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个访客登记。",
+      "example": "After six, the night guard is the one who keeps the visitor log.",
+      "exampleZh": "六点以后，访客登记由夜班警卫保管。",
       "category": "office"
     },
     {
       "word": "badge return",
       "phonetic": "/bædʒ rɪˈtɜːn/",
       "meaning": "工牌归还",
-      "example": "Who will own the badge return this week?",
-      "exampleZh": "这周这个工牌归还谁来负责？",
+      "example": "Badge return happens at the security desk by the main door.",
+      "exampleZh": "工牌归还在正门旁边的安保台办理。",
       "category": "office"
     },
     {
       "word": "key register",
       "phonetic": "/kiː ˈredʒɪstə/",
       "meaning": "钥匙登记",
-      "example": "We talked about the key register with the department head.",
-      "exampleZh": "我们和科主任谈了这个钥匙登记。",
+      "example": "Sign the key register before you take the storeroom key away.",
+      "exampleZh": "把库房钥匙拿走之前，请先在钥匙登记上签名。",
       "category": "office"
     },
     {
       "word": "cumulative update",
       "phonetic": "/ˈkjuːmjələtɪv ˌʌpˈdeɪt/",
       "meaning": "累积更新",
-      "example": "The ward asked us to check the cumulative update.",
-      "exampleZh": "病区让我们看一下这个累积更新。",
+      "example": "The cumulative update for May rebooted three clinic PCs that were left on.",
+      "exampleZh": "五月的累积更新把三台没关机的门诊电脑重启了。",
       "category": "it"
     },
     {
       "word": "security bulletin",
       "phonetic": "/sɪˈkjʊərəti ˈbʊlətɪn/",
       "meaning": "安全公告",
-      "example": "Who is on call for the security bulletin this week?",
-      "exampleZh": "这周这个安全公告谁值班？",
+      "example": "The security bulletin describes a spooler flaw that hits every ward print server.",
+      "exampleZh": "这份安全公告写的是一个影响每台病区打印服务器的打印后台漏洞。",
       "category": "it"
     },
     {
       "word": "KB number",
       "phonetic": "/keɪ ˈbiː ˈnʌmbə/",
       "meaning": "知识库编号",
-      "example": "I logged the KB number in today’s change ticket.",
-      "exampleZh": "我把这个知识库编号记进了今天的变更单。",
+      "example": "Quote the KB number when you ask the vendor why this patch broke printing.",
+      "exampleZh": "问厂商这个补丁为什么把打印弄坏时，把知识库编号一起报上。",
       "category": "it"
     },
     {
       "word": "reboot pending",
       "phonetic": "/ˌriːˈbuːt ˈpendɪŋ/",
       "meaning": "等待重启",
-      "example": "Do not touch the reboot pending during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个等待重启。",
+      "example": "Reboot pending has been set on the pharmacy PC since Tuesday's patch.",
+      "exampleZh": "从周二的补丁起，药房电脑就一直是等待重启。",
       "category": "it"
     },
     {
       "word": "pending reboot",
       "phonetic": "/ˈpendɪŋ ˌriːˈbuːt/",
       "meaning": "待重启",
-      "example": "Please test the pending reboot on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个待重启。",
+      "example": "A pending reboot is blocking further patches on the registration PCs.",
+      "exampleZh": "待重启状态挡住了挂号电脑上后面的补丁。",
       "category": "it"
     }
   ]

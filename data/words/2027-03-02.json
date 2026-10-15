@@ -5,80 +5,80 @@
       "word": "permit",
       "phonetic": "/pəˈmɪt/",
       "meaning": "允许",
-      "example": "Can you permit it today?",
-      "exampleZh": "你今天能把它允许吗？",
+      "example": "The file-room rules do not permit visitors at any time.",
+      "exampleZh": "档案室的规定在任何时候都不允许访客进入。",
       "category": "office"
     },
     {
       "word": "restrict",
       "phonetic": "/rɪˈstrɪkt/",
       "meaning": "限制",
-      "example": "We still need to restrict this.",
-      "exampleZh": "这件事还得限制。",
+      "example": "Evening access to the file room is something we should restrict.",
+      "exampleZh": "晚间进入档案室这件事，我们应该加以限制。",
       "category": "office"
     },
     {
       "word": "expand",
       "phonetic": "/ɪkˈspænd/",
       "meaning": "扩大",
-      "example": "Please expand this before you leave.",
-      "exampleZh": "走之前请把这件事扩大。",
+      "example": "They want to expand the enquiry desk while the morning queue is longest.",
+      "exampleZh": "早晨排队最长的时候，他们希望扩大咨询台。",
       "category": "office"
     },
     {
       "word": "reduce",
       "phonetic": "/rɪˈdjuːs/",
       "meaning": "减少",
-      "example": "Please reduce this before you leave.",
-      "exampleZh": "走之前请把这件事减少。",
+      "example": "Reduce the wait at the main counter if we can do it without new staff.",
+      "exampleZh": "如果不必加人，就尽量减少总柜台的等候时间。",
       "category": "office"
     },
     {
       "word": "maintain",
       "phonetic": "/meɪnˈteɪn/",
       "meaning": "维持",
-      "example": "Can you maintain it today?",
-      "exampleZh": "你今天能把它维持吗？",
+      "example": "While the clinics are running, maintain a calm and quiet lobby.",
+      "exampleZh": "门诊开诊期间，请维持大厅平静安静。",
       "category": "office"
     },
     {
       "word": "listen port",
       "phonetic": "/ˈlɪsn pɔːt/",
       "meaning": "监听端口",
-      "example": "Do not touch the listen port during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个监听端口。",
+      "example": "The HIS listen port on the app server stopped answering after the patch.",
+      "exampleZh": "补丁之后，应用服务器上的 HIS 监听端口不再应答了。",
       "category": "it"
     },
     {
       "word": "open port",
       "phonetic": "/ˈəʊpən pɔːt/",
       "meaning": "开放端口",
-      "example": "The vendor asked for a screenshot of the open port.",
-      "exampleZh": "厂商要一张这个开放端口的截图。",
+      "example": "An open port on the lab printer is accepting connections from the whole ward.",
+      "exampleZh": "实验室那台打印机上有一个开放端口，整间病区都能连上去。",
       "category": "it"
     },
     {
       "word": "closed port",
       "phonetic": "/kləʊzd pɔːt/",
       "meaning": "关闭端口",
-      "example": "Who is on call for the closed port this week?",
-      "exampleZh": "这周这个关闭端口谁值班？",
+      "example": "That closed port is why the pharmacy client cannot reach the billing host.",
+      "exampleZh": "那个端口是关着的，所以药房客户端连不上收费主机。",
       "category": "it"
     },
     {
       "word": "firewall rule",
       "phonetic": "/ˈfaɪəwɔːl ruːl/",
       "meaning": "防火墙规则",
-      "example": "The vendor asked for a screenshot of the firewall rule.",
-      "exampleZh": "厂商要一张这个防火墙规则的截图。",
+      "example": "This firewall rule lets only the clinic subnet reach the lab interface.",
+      "exampleZh": "这条防火墙规则只允许门诊子网访问检验接口。",
       "category": "it"
     },
     {
       "word": "NAT",
       "phonetic": "/næt/",
       "meaning": "网络地址转换（Network Address Translation）",
-      "example": "Test NAT (Network Address Translation) from the backup site first.",
-      "exampleZh": "请先从备站点测试 NAT（Network Address Translation）。",
+      "example": "NAT (Network Address Translation) hides every ward PC behind one public address.",
+      "exampleZh": "NAT（网络地址转换）把每台病区电脑都藏在同一个公网地址后面。",
       "category": "it"
     }
   ]

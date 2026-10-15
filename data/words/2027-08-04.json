@@ -5,80 +5,80 @@
       "word": "release of information",
       "phonetic": "/rɪˈliːs əv ˌɪnfəˈmeɪʃn/",
       "meaning": "信息调取",
-      "example": "The release of information still needs a decision today.",
-      "exampleZh": "这个信息调取今天还得拍个板。",
+      "example": "Release of information requires the patient's written permission first.",
+      "exampleZh": "办理信息调取，首先要有患者的书面许可。",
       "category": "office"
     },
     {
       "word": "authorization form",
       "phonetic": "/ˌɔːθəraɪˈzeɪʃn fɔːm/",
       "meaning": "授权书",
-      "example": "I put the authorization form on the shared drive.",
-      "exampleZh": "我把授权书放到了共享盘。",
+      "example": "The family must sign an authorization form before we copy the chart.",
+      "exampleZh": "我们复印病历之前，家属必须先签授权书。",
       "category": "office"
     },
     {
       "word": "identity check",
       "phonetic": "/aɪˈdentəti tʃek/",
       "meaning": "身份核验",
-      "example": "Could you send the identity check to the project group?",
-      "exampleZh": "你能把身份核验发到项目群吗？",
+      "example": "We do an identity check before any chart leaves this counter.",
+      "exampleZh": "任何病历离开这个柜台之前，我们都会做身份核验。",
       "category": "office"
     },
     {
       "word": "next of kin",
       "phonetic": "/nekst əv kɪn/",
       "meaning": "近亲属",
-      "example": "We talked about the next of kin with the department head.",
-      "exampleZh": "我们和科主任谈了这个近亲属。",
+      "example": "Please ask for the next of kin when the patient cannot sign.",
+      "exampleZh": "患者无法签字时，请询问近亲属。",
       "category": "office"
     },
     {
       "word": "emergency contact",
       "phonetic": "/ɪˈmɜːdʒənsi ˈkɒntækt/",
       "meaning": "紧急联系人",
-      "example": "Who will own the emergency contact this week?",
-      "exampleZh": "这周这个紧急联系人谁来负责？",
+      "example": "The emergency contact written on the form is an old number.",
+      "exampleZh": "表格上填的紧急联系人是一个旧号码。",
       "category": "office"
     },
     {
       "word": "NUMA",
       "phonetic": "/ˈnjuːmə/",
       "meaning": "内存亲和架构（Non-Uniform Memory Access）",
-      "example": "Document the NUMA (Non-Uniform Memory Access) change on the ticket.",
-      "exampleZh": "请把 NUMA（Non-Uniform Memory Access）变更写进工单。",
+      "example": "NUMA (Non-Uniform Memory Access) alignment matters on the wide HIS VM, or memory latency jumps.",
+      "exampleZh": "处理器很多的 HIS 虚拟机必须对齐 NUMA（内存亲和架构），否则内存延迟会跳上去。",
       "category": "it"
     },
     {
       "word": "vCPU",
       "phonetic": "/viː ˌsiː piː ˈjuː/",
       "meaning": "虚拟处理器",
-      "example": "We will verify the vCPU after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个虚拟处理器。",
+      "example": "The lab VM has eight vCPU and spends the morning waiting to be scheduled.",
+      "exampleZh": "实验室虚拟机有八个虚拟处理器，一上午都在等着被调度。",
       "category": "it"
     },
     {
       "word": "vRAM",
       "phonetic": "/ˈviːræm/",
       "meaning": "虚拟内存",
-      "example": "The vendor asked for a screenshot of the vRAM.",
-      "exampleZh": "厂商要一张这个虚拟内存的截图。",
+      "example": "Give the HIS VM more vRAM before month-end reporting or it will swap.",
+      "exampleZh": "月末出报表之前给 HIS 虚拟机加虚拟内存，否则它会开始交换。",
       "category": "it"
     },
     {
       "word": "guest OS",
       "phonetic": "/ɡest əʊ ˈes/",
       "meaning": "客户机系统",
-      "example": "Please test the guest OS on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个客户机系统。",
+      "example": "The guest OS on the lab VM is still the old build the vendor refuses to support.",
+      "exampleZh": "实验室虚拟机里的客户机系统还是厂商已经不支持的旧版本。",
       "category": "it"
     },
     {
       "word": "host OS",
       "phonetic": "/həʊst əʊ ˈes/",
       "meaning": "宿主机系统",
-      "example": "Please test the host OS on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个宿主机系统。",
+      "example": "Patch the host OS only after the HIS VM has moved to the other node.",
+      "exampleZh": "等 HIS 虚拟机迁到另一台节点，再给宿主机系统打补丁。",
       "category": "it"
     }
   ]

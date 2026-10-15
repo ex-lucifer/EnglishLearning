@@ -45,40 +45,40 @@
       "word": "CI pipeline",
       "phonetic": "/ˌsiː ˈaɪ ˈpaɪplaɪn/",
       "meaning": "持续集成流水线",
-      "example": "Who is on call for the CI pipeline this week?",
-      "exampleZh": "这周这个持续集成流水线谁值班？",
+      "example": "The CI pipeline failed on the allergy test before anyone could merge.",
+      "exampleZh": "持续集成流水线在过敏测试上失败了，谁都还没法合并。",
       "category": "it"
     },
     {
       "word": "CD pipeline",
       "phonetic": "/ˌsiː ˈdiː ˈpaɪplaɪn/",
       "meaning": "持续交付流水线",
-      "example": "Please test the CD pipeline on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个持续交付流水线。",
+      "example": "The CD pipeline waits for approval before it touches the live system.",
+      "exampleZh": "持续交付流水线在接触正式系统之前还等着审批。",
       "category": "it"
     },
     {
       "word": "git repository",
       "phonetic": "/ɡɪt rɪˈpɒzətri/",
       "meaning": "代码仓库",
-      "example": "Do not touch the git repository during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个代码仓库。",
+      "example": "The git repository for the interface code is missing last night's commit.",
+      "exampleZh": "接口用的代码仓库里没有昨晚那次提交。",
       "category": "it"
     },
     {
       "word": "merge conflict",
       "phonetic": "/mɜːdʒ ˈkɒnflɪkt/",
       "meaning": "合并冲突",
-      "example": "Do not touch the merge conflict during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个合并冲突。",
+      "example": "A merge conflict in the order form blocked this morning's build.",
+      "exampleZh": "医嘱表单里的合并冲突挡住了今天早上的构建。",
       "category": "it"
     },
     {
       "word": "pull request",
       "phonetic": "/pʊl rɪˈkwest/",
       "meaning": "合并请求",
-      "example": "Please test the pull request on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个合并请求。",
+      "example": "The pull request for the allergy fix has only one reviewer so far.",
+      "exampleZh": "过敏修复的合并请求到现在只有一位审阅人。",
       "category": "it"
     }
   ]

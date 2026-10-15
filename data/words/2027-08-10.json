@@ -45,40 +45,40 @@
       "word": "virtual switch",
       "phonetic": "/ˈvɜːtʃuəl swɪtʃ/",
       "meaning": "虚拟交换机",
-      "example": "Who is on call for the virtual switch this week?",
-      "exampleZh": "这周这个虚拟交换机谁值班？",
+      "example": "The virtual switch for the server VLAN lost its uplink when the physical NIC died.",
+      "exampleZh": "物理网卡一坏，服务器 VLAN 的虚拟交换机就失去了上联。",
       "category": "it"
     },
     {
       "word": "uplink NIC",
       "phonetic": "/ˈʌplɪŋk nɪk/",
       "meaning": "上联网卡",
-      "example": "The ward asked us to check the uplink NIC.",
-      "exampleZh": "病区让我们看一下这个上联网卡。",
+      "example": "The uplink NIC on host two is down, and every VM there lost the server VLAN.",
+      "exampleZh": "二号主机的上联网卡断了，上面每台虚拟机都掉出了服务器 VLAN。",
       "category": "it"
     },
     {
       "word": "NIC teaming",
       "phonetic": "/nɪk ˈtiːmɪŋ/",
       "meaning": "网卡绑定（Network Interface Card）",
-      "example": "Do not touch the NIC teaming during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个网卡绑定。",
+      "example": "NIC teaming kept the host online when one physical port on the rack switch died.",
+      "exampleZh": "机柜交换机有一个物理口坏了，网卡绑定仍让主机保持在线。",
       "category": "it"
     },
     {
       "word": "LACP",
       "phonetic": "/lækp/",
       "meaning": "链路聚合（Link Aggregation Control Protocol）",
-      "example": "We use LACP (Link Aggregation Control Protocol) for this integration.",
-      "exampleZh": "这条集成用的是 LACP（Link Aggregation Control Protocol）。",
+      "example": "LACP (Link Aggregation Control Protocol) on the host uplinks needs the matching channel on the switch.",
+      "exampleZh": "主机上联如果做了 LACP（链路聚合），交换机上必须有对应的通道。",
       "category": "it"
     },
     {
       "word": "load balance",
       "phonetic": "/ləʊd ˈbæləns/",
       "meaning": "负载分担",
-      "example": "The vendor asked for a screenshot of the load balance.",
-      "exampleZh": "厂商要一张这个负载分担的截图。",
+      "example": "The load balance across the two uplinks is uneven, and one port is near full.",
+      "exampleZh": "两条上联之间的负载分担不均，有一个口已经接近打满。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "hard copy",
       "phonetic": "/hɑːd ˈkɒpi/",
       "meaning": "纸质件",
-      "example": "Please add the hard copy to today’s notes.",
-      "exampleZh": "请把纸质件写进今天的记录。",
+      "example": "The bureau still insists on a hard copy with a live signature.",
+      "exampleZh": "卫健委仍然要求有亲笔签名的纸质件。",
       "category": "office"
     },
     {
       "word": "soft copy",
       "phonetic": "/sɒft ˈkɒpi/",
       "meaning": "电子件",
-      "example": "Could you send the soft copy to the project group?",
-      "exampleZh": "你能把电子件发到项目群吗？",
+      "example": "A soft copy of the policy is enough for the ward folders.",
+      "exampleZh": "病区文件夹里放这份制度的电子件就够了。",
       "category": "office"
     },
     {
       "word": "original",
       "phonetic": "/əˈrɪdʒənl/",
       "meaning": "原件",
-      "example": "Please bring the original to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个原件。",
+      "example": "Send the original to Legal and keep a photocopy locally.",
+      "exampleZh": "把原件送给法务，本地留一份复印件。",
       "category": "office"
     },
     {
       "word": "duplicate",
       "phonetic": "/ˈdjuːplɪkət/",
       "meaning": "副本",
-      "example": "Please add the duplicate to today’s notes.",
-      "exampleZh": "请把副本写进今天的记录。",
+      "example": "This duplicate is stamped and is acceptable for the personnel file.",
+      "exampleZh": "这份副本已盖章，可以放入人事档案。",
       "category": "office"
     },
     {
       "word": "photocopy",
       "phonetic": "/ˈfəʊtəʊkɒpi/",
       "meaning": "复印件",
-      "example": "Who will own the photocopy this week?",
-      "exampleZh": "这周这个复印件谁来负责？",
+      "example": "Make a photocopy of the license before you hand back the original.",
+      "exampleZh": "归还原件之前，先把执照复印一份。",
       "category": "office"
     },
     {
       "word": "commit log",
       "phonetic": "/kəˈmɪt lɒɡ/",
       "meaning": "提交日志",
-      "example": "Do not touch the commit log during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个提交日志。",
+      "example": "The commit log on the order database filled the last free disk.",
+      "exampleZh": "医嘱库的提交日志把最后一块空闲磁盘写满了。",
       "category": "it"
     },
     {
       "word": "rollback segment",
       "phonetic": "/ˈrəʊlbæk ˈseɡmənt/",
       "meaning": "回滚段",
-      "example": "Do not touch the rollback segment during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个回滚段。",
+      "example": "The rollback segment kept growing until that long report finally finished.",
+      "exampleZh": "那份长报表跑完之前，回滚段一直在涨。",
       "category": "it"
     },
     {
       "word": "tempdb",
       "phonetic": "/ˈtempdiːbiː/",
       "meaning": "临时库",
-      "example": "Do not touch the tempdb during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个临时库。",
+      "example": "Three census reports filled tempdb when they ran at the same time.",
+      "exampleZh": "三份在院统计同时跑的时候，把临时库写满了。",
       "category": "it"
     },
     {
       "word": "backup compression",
       "phonetic": "/ˈbækʌp kəmˈpreʃn/",
       "meaning": "备份压缩",
-      "example": "I logged the backup compression in today’s change ticket.",
-      "exampleZh": "我把这个备份压缩记进了今天的变更单。",
+      "example": "Backup compression cut the nightly database copy almost in half.",
+      "exampleZh": "备份压缩把夜间的数据库副本差不多缩小了一半。",
       "category": "it"
     },
     {
       "word": "restore test",
       "phonetic": "/rɪˈstɔː test/",
       "meaning": "恢复演练",
-      "example": "Who is on call for the restore test this week?",
-      "exampleZh": "这周这个恢复演练谁值班？",
+      "example": "The restore test last quarter showed we can bring orders back within an hour.",
+      "exampleZh": "上个季度的恢复演练表明，我们能在一小时内把医嘱救回来。",
       "category": "it"
     }
   ]

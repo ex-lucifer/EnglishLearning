@@ -5,80 +5,80 @@
       "word": "silent agreement",
       "phonetic": "/ˈsaɪlənt əˈɡriːmənt/",
       "meaning": "默许",
-      "example": "Please bring the silent agreement to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个默许。",
+      "example": "We treated the silence after that proposal as silent agreement.",
+      "exampleZh": "那项提案之后没人说话，我们把它当作默许。",
       "category": "office"
     },
     {
       "word": "spoken agreement",
       "phonetic": "/ˈspəʊkən əˈɡriːmənt/",
       "meaning": "口头约定",
-      "example": "I put the spoken agreement on the shared drive.",
-      "exampleZh": "我把口头约定放到了共享盘。",
+      "example": "So far we have only a spoken agreement about the handover date.",
+      "exampleZh": "到目前为止，交接日期只有口头约定。",
       "category": "office"
     },
     {
       "word": "written agreement",
       "phonetic": "/ˈrɪtn əˈɡriːmənt/",
       "meaning": "书面约定",
-      "example": "Please bring the written agreement to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个书面约定。",
+      "example": "Payroll will not change her grade without a written agreement.",
+      "exampleZh": "没有书面约定，薪酬处不会调整她的职级。",
       "category": "office"
     },
     {
       "word": "gentle reminder",
       "phonetic": "/ˈdʒentl rɪˈmaɪndə/",
       "meaning": "温和提醒",
-      "example": "Could you send the gentle reminder to the project group?",
-      "exampleZh": "你能把温和提醒发到项目群吗？",
+      "example": "I sent her a gentle reminder about the leave form she has not signed.",
+      "exampleZh": "我给她发了一封温和提醒，说请假表还没签字。",
       "category": "office"
     },
     {
       "word": "final reminder",
       "phonetic": "/ˈfaɪnl rɪˈmaɪndə/",
       "meaning": "最后提醒",
-      "example": "Please bring the final reminder to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个最后提醒。",
+      "example": "This is our final reminder, and the survey closes tonight.",
+      "exampleZh": "这是我们的最后提醒，调查今晚就关闭。",
       "category": "office"
     },
     {
       "word": "concurrent license",
       "phonetic": "/kənˈkʌrənt ˈlaɪsns/",
       "meaning": "并发授权",
-      "example": "Do not touch the concurrent license during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个并发授权。",
+      "example": "The concurrent license cap was hit at 09:10, and a fourth radiologist could not start.",
+      "exampleZh": "并发授权在 09:10 用满，第四位放射科医生开不了程序。",
       "category": "it"
     },
     {
       "word": "named user",
       "phonetic": "/neɪmd ˈjuːzə/",
       "meaning": "指定用户",
-      "example": "Who is on call for the named user this week?",
-      "exampleZh": "这周这个指定用户谁值班？",
+      "example": "Each named user on the dictation license is tied to one physician, not a shared PC.",
+      "exampleZh": "听写授权上的每个指定用户都绑一位医生，不是绑一台公用电脑。",
       "category": "it"
     },
     {
       "word": "floating license",
       "phonetic": "/ˈfləʊtɪŋ ˈlaɪsns/",
       "meaning": "浮动授权",
-      "example": "The ward asked us to check the floating license.",
-      "exampleZh": "病区让我们看一下这个浮动授权。",
+      "example": "A floating license returned to the pool when the radiologist closed the viewer.",
+      "exampleZh": "放射科医生关掉阅片程序后，浮动授权回到了授权池。",
       "category": "it"
     },
     {
       "word": "license compliance",
       "phonetic": "/ˈlaɪsns kəmˈplaɪəns/",
       "meaning": "授权合规",
-      "example": "Who is on call for the license compliance this week?",
-      "exampleZh": "这周这个授权合规谁值班？",
+      "example": "License compliance failed the audit because twelve viewers were installed past the count.",
+      "exampleZh": "授权合规没过审计，因为阅片程序比授权数多装了十二套。",
       "category": "it"
     },
     {
       "word": "true-up",
       "phonetic": "/truː ʌp/",
       "meaning": "授权对账",
-      "example": "We will verify the true-up after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个授权对账。",
+      "example": "The true-up in June will bill us for every viewer installed above the contract.",
+      "exampleZh": "六月的授权对账会按超出合同的每套阅片安装向我们收费。",
       "category": "it"
     }
   ]

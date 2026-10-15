@@ -5,80 +5,80 @@
       "word": "work order",
       "phonetic": "/wɜːk ˈɔːdə/",
       "meaning": "派工单",
-      "example": "I put the work order on the shared drive.",
-      "exampleZh": "我把派工单放到了共享盘。",
+      "example": "Facilities opened a work order this morning for the cracked display.",
+      "exampleZh": "总务今早为那块裂开的显示屏开了派工单。",
       "category": "office"
     },
     {
       "word": "priority",
       "phonetic": "/praɪˈɒrəti/",
       "meaning": "优先级",
-      "example": "Could you send the priority to the project group?",
-      "exampleZh": "你能把优先级发到项目群吗？",
+      "example": "How high a priority is the broken printer in the payroll office?",
+      "exampleZh": "薪酬办公室那台坏打印机，优先级该定多高？",
       "category": "office"
     },
     {
       "word": "severity",
       "phonetic": "/səˈverəti/",
       "meaning": "严重程度",
-      "example": "The severity still needs a decision today.",
-      "exampleZh": "这个严重程度今天还得拍个板。",
+      "example": "The severity is high because patients can no longer hear their numbers.",
+      "exampleZh": "严重程度很高，因为患者已经听不到自己的号码了。",
       "category": "office"
     },
     {
       "word": "impact",
       "phonetic": "/ˈɪmpækt/",
       "meaning": "影响",
-      "example": "The impact still needs a decision today.",
-      "exampleZh": "这个影响今天还得拍个板。",
+      "example": "Only the afternoon registration desks feel the impact of this delay.",
+      "exampleZh": "这次延误的影响，只有下午的挂号台感受得到。",
       "category": "office"
     },
     {
       "word": "urgency",
       "phonetic": "/ˈɜːdʒənsi/",
       "meaning": "紧急程度",
-      "example": "We talked about the urgency with the department head.",
-      "exampleZh": "我们和科主任谈了这个紧急程度。",
+      "example": "Because payroll locks the file at four, the urgency is high.",
+      "exampleZh": "薪酬处四点锁文件，所以紧急程度很高。",
       "category": "office"
     },
     {
       "word": "PBX",
       "phonetic": "/ˌpiː biː ˈeks/",
       "meaning": "程控交换机（Private Branch Exchange）",
-      "example": "We tested PBX (Private Branch Exchange) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 PBX（Private Branch Exchange）。",
+      "example": "The PBX (Private Branch Exchange) routes emergency calls out the analog trunks first.",
+      "exampleZh": "PBX（程控交换机）会先把急救电话从模拟中继送出去。",
       "category": "it"
     },
     {
       "word": "softphone",
       "phonetic": "/ˈsɒftfəʊn/",
       "meaning": "软电话",
-      "example": "I logged the softphone in today’s change ticket.",
-      "exampleZh": "我把这个软电话记进了今天的变更单。",
+      "example": "The softphone on her laptop drops when the clinic Wi-Fi changes access points.",
+      "exampleZh": "门诊 Wi-Fi 切换接入点时，她笔记本上的软电话会掉线。",
       "category": "it"
     },
     {
       "word": "call recording",
       "phonetic": "/kɔːl rɪˈkɔːdɪŋ/",
       "meaning": "通话录音",
-      "example": "Please test the call recording on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个通话录音。",
+      "example": "Call recording on the advice line failed after the disk hit ninety percent.",
+      "exampleZh": "磁盘用到百分之九十以后，咨询热线的通话录音就失败了。",
       "category": "it"
     },
     {
       "word": "IVR",
       "phonetic": "/ˌaɪ viː ˈɑː/",
       "meaning": "语音导航（Interactive Voice Response）",
-      "example": "We tested IVR (Interactive Voice Response) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 IVR（Interactive Voice Response）。",
+      "example": "IVR (Interactive Voice Response) still offers the old clinic hours from last winter.",
+      "exampleZh": "IVR（语音导航）还在报去年冬天的旧门诊时间。",
       "category": "it"
     },
     {
       "word": "ACD",
       "phonetic": "/ˌeɪ siː ˈdiː/",
       "meaning": "自动呼叫分配（Automatic Call Distribution）",
-      "example": "We tested ACD (Automatic Call Distribution) on the backup server first.",
-      "exampleZh": "我们先在备机上测了 ACD（Automatic Call Distribution）。",
+      "example": "ACD (Automatic Call Distribution) sent the surge of calls to the overflow nurses.",
+      "exampleZh": "ACD（自动呼叫分配）把突然增多的来电分给了溢出组护士。",
       "category": "it"
     }
   ]

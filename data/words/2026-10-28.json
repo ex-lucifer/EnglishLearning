@@ -5,80 +5,80 @@
       "word": "EOD",
       "phonetic": "/ˌiː əʊ ˈdiː/",
       "meaning": "下班前（End of Day）",
-      "example": "Please send the count by EOD (end of day).",
-      "exampleZh": "请在 EOD（下班前）把盘点数发出来。",
+      "example": "I need your edits on the circular by EOD (End of Day) Thursday.",
+      "exampleZh": "传阅文件的修改我需要在周四 EOD（下班前）收到。",
       "category": "office"
     },
     {
       "word": "ASAP",
       "phonetic": "/ˌeɪ es eɪ ˈpiː/",
       "meaning": "尽快",
-      "example": "Please send the list ASAP.",
-      "exampleZh": "请尽快把名单发来。",
+      "example": "I need the signed roster back ASAP so the night team can plan.",
+      "exampleZh": "签好的排班表请尽快还我，夜班才好安排。",
       "category": "office"
     },
     {
       "word": "reply-all",
       "phonetic": "/rɪˈplaɪ ɔːl/",
       "meaning": "全部回复",
-      "example": "Do not reply-all with the patient name.",
-      "exampleZh": "不要用全部回复带上患者姓名。",
+      "example": "Please do not reply-all on a thread that names a patient.",
+      "exampleZh": "邮件串里有患者姓名时，请不要全部回复。",
       "category": "office"
     },
     {
       "word": "forward",
       "phonetic": "/ˈfɔːwəd/",
       "meaning": "转发",
-      "example": "Who will forward this after the huddle?",
-      "exampleZh": "晨会后谁来转发？",
+      "example": "Forward the bureau reply to the liaison and to me.",
+      "exampleZh": "请把卫健委的回信转发给联络人和我。",
       "category": "office"
     },
     {
       "word": "signature",
       "phonetic": "/ˈsɪɡnətʃə/",
       "meaning": "签名档",
-      "example": "Please add the signature to today’s notes.",
-      "exampleZh": "请把签名档写进今天的记录。",
+      "example": "Add your job title and extension number to the signature.",
+      "exampleZh": "请在签名档里加上职务和分机号。",
       "category": "office"
     },
     {
       "word": "lab result",
       "phonetic": "/læb rɪˈzʌlt/",
       "meaning": "检验结果",
-      "example": "Who is on call for the lab result this week?",
-      "exampleZh": "这周这个检验结果谁值班？",
+      "example": "The lab result for potassium posted to the wrong encounter.",
+      "exampleZh": "血钾的检验结果写到了另一次就诊记录上。",
       "category": "it"
     },
     {
       "word": "critical result",
       "phonetic": "/ˈkrɪtɪkl rɪˈzʌlt/",
       "meaning": "危急值",
-      "example": "Do not touch the critical result during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个危急值。",
+      "example": "The critical result for hemoglobin has not been called to the ward yet.",
+      "exampleZh": "血红蛋白危急值到现在还没有电话通知病区。",
       "category": "it"
     },
     {
       "word": "panic value",
       "phonetic": "/ˈpænɪk ˈvæljuː/",
       "meaning": "危急值结果",
-      "example": "The ward asked us to check the panic value.",
-      "exampleZh": "病区让我们看一下这个危急值结果。",
+      "example": "This panic value for potassium needs a documented call to the doctor.",
+      "exampleZh": "这条血钾危急值结果需要留下已经通知医生的记录。",
       "category": "it"
     },
     {
       "word": "result acknowledgement",
       "phonetic": "/rɪˈzʌlt əkˈnɒlɪdʒmənt/",
       "meaning": "结果确认",
-      "example": "I logged the result acknowledgement in today’s change ticket.",
-      "exampleZh": "我把这个结果确认记进了今天的变更单。",
+      "example": "Result acknowledgement is still missing for the troponin called at dawn.",
+      "exampleZh": "黎明时报出的肌钙蛋白还没有结果确认。",
       "category": "it"
     },
     {
       "word": "specimen tracking",
       "phonetic": "/ˈspesɪmən ˈtrækɪŋ/",
       "meaning": "标本追踪",
-      "example": "I logged the specimen tracking in today’s change ticket.",
-      "exampleZh": "我把这个标本追踪记进了今天的变更单。",
+      "example": "Specimen tracking shows the tube left the ward but never reached the lab.",
+      "exampleZh": "标本追踪显示管子离开了病区，却没有到检验科。",
       "category": "it"
     }
   ]

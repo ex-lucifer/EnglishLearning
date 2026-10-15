@@ -5,80 +5,80 @@
       "word": "overrun",
       "phonetic": "/ˌəʊvəˈrʌn/",
       "meaning": "超时占用",
-      "example": "I put the overrun on the shared drive.",
-      "exampleZh": "我把超时占用放到了共享盘。",
+      "example": "The overrun from room B is pushing our three o'clock meeting back.",
+      "exampleZh": "B室超时占用，把我们三点的会往后挤了。",
       "category": "office"
     },
     {
       "word": "buffer time",
       "phonetic": "/ˈbʌfə taɪm/",
       "meaning": "缓冲时间",
-      "example": "Please add the buffer time to today’s notes.",
-      "exampleZh": "请把缓冲时间写进今天的记录。",
+      "example": "Leave a ten-minute buffer time between those two interviews.",
+      "exampleZh": "那两场面谈之间，请留出十分钟缓冲时间。",
       "category": "office"
     },
     {
       "word": "travel time",
       "phonetic": "/ˈtrævl taɪm/",
       "meaning": "路上时间",
-      "example": "Could you send the travel time to the project group?",
-      "exampleZh": "你能把路上时间发到项目群吗？",
+      "example": "Please allow twenty minutes of travel time between the two sites.",
+      "exampleZh": "两个院区之间，请留出二十分钟路上时间。",
       "category": "office"
     },
     {
       "word": "setup time",
       "phonetic": "/ˈsetʌp taɪm/",
       "meaning": "布置时间",
-      "example": "Could you send the setup time to the project group?",
-      "exampleZh": "你能把布置时间发到项目群吗？",
+      "example": "Build in fifteen minutes of setup time before the all-staff meeting.",
+      "exampleZh": "全员会开始前，请留出十五分钟布置时间。",
       "category": "office"
     },
     {
       "word": "cleanup",
       "phonetic": "/ˈkliːnʌp/",
       "meaning": "清理现场",
-      "example": "Please bring the cleanup to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个清理现场。",
+      "example": "Cleanup in the auditorium has to finish before the evening clinic.",
+      "exampleZh": "礼堂的现场清理必须在晚间门诊开始前做完。",
       "category": "office"
     },
     {
       "word": "metered network",
       "phonetic": "/ˈmiːtəd ˈnetwɜːk/",
       "meaning": "按流量网络",
-      "example": "Do not touch the metered network during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个按流量网络。",
+      "example": "The cellular failover is a metered network, so large updates wait until fiber returns.",
+      "exampleZh": "蜂窝备用线路是按流量计费的网络，大更新会等到光纤恢复再下。",
       "category": "it"
     },
     {
       "word": "delivery optimization",
       "phonetic": "/dɪˈlɪvəri ˌɒptɪmaɪˈzeɪʃn/",
       "meaning": "分发优化",
-      "example": "The vendor asked for a screenshot of the delivery optimization.",
-      "exampleZh": "厂商要一张这个分发优化的截图。",
+      "example": "Delivery optimization let nearby clinic PCs share the May update instead of each pulling it.",
+      "exampleZh": "分发优化让旁边的门诊电脑互相传五月的更新，不用各自去拉。",
       "category": "it"
     },
     {
       "word": "peer cache",
       "phonetic": "/pɪə kæʃ/",
       "meaning": "对等缓存",
-      "example": "I logged the peer cache in today’s change ticket.",
-      "exampleZh": "我把这个对等缓存记进了今天的变更单。",
+      "example": "Peer cache on the ward subnet served the viewer package to PCs that missed the push.",
+      "exampleZh": "病区子网的对等缓存把阅片安装包给了没接到推送的电脑。",
       "category": "it"
     },
     {
       "word": "branch cache",
       "phonetic": "/brɑːntʃ kæʃ/",
       "meaning": "分支缓存",
-      "example": "Do not touch the branch cache during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个分支缓存。",
+      "example": "Branch cache at the east campus kept the policy files local after the WAN blip.",
+      "exampleZh": "广域网抖了一下之后，东院区的分支缓存仍把策略文件留在本地。",
       "category": "it"
     },
     {
       "word": "content server",
       "phonetic": "/ˈkɒntent ˈsɜːvə/",
       "meaning": "内容服务器",
-      "example": "We will verify the content server after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个内容服务器。",
+      "example": "The content server in building C holds the viewer package for that campus.",
+      "exampleZh": "C 座的内容服务器放着这个院区的阅片安装包。",
       "category": "it"
     }
   ]

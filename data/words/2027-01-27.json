@@ -5,80 +5,80 @@
       "word": "asset",
       "phonetic": "/ˈæset/",
       "meaning": "资产",
-      "example": "Please bring the asset to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个资产。",
+      "example": "Each laptop in the training room is recorded as an asset.",
+      "exampleZh": "培训室里的每台笔记本电脑都登记为资产。",
       "category": "office"
     },
     {
       "word": "label",
       "phonetic": "/ˈleɪbl/",
       "meaning": "标签",
-      "example": "We talked about the label with the department head.",
-      "exampleZh": "我们和科主任谈了这个标签。",
+      "example": "The label on the archive box should show the year and the ward.",
+      "exampleZh": "档案箱上的标签应写明年份和病区。",
       "category": "office"
     },
     {
       "word": "serial number",
       "phonetic": "/ˈsɪəriəl ˈnʌmbə/",
       "meaning": "序列号",
-      "example": "Who will own the serial number this week?",
-      "exampleZh": "这周这个序列号谁来负责？",
+      "example": "Write the serial number in the log when you lend a laptop.",
+      "exampleZh": "借出笔记本电脑时，把序列号写进登记本。",
       "category": "office"
     },
     {
       "word": "asset tag",
       "phonetic": "/ˈæset tæɡ/",
       "meaning": "资产标签",
-      "example": "We talked about the asset tag with the department head.",
-      "exampleZh": "我们和科主任谈了这个资产标签。",
+      "example": "If the asset tag is missing, ask Finance for a replacement.",
+      "exampleZh": "资产标签如果掉了，请财务补一张。",
       "category": "office"
     },
     {
       "word": "depreciation",
       "phonetic": "/dɪˌpriːʃiˈeɪʃn/",
       "meaning": "折旧",
-      "example": "We talked about the depreciation with the department head.",
-      "exampleZh": "我们和科主任谈了这个折旧。",
+      "example": "Finance calculates depreciation on ward equipment once a year.",
+      "exampleZh": "财务每年计算一次病区设备的折旧。",
       "category": "office"
     },
     {
       "word": "uptime chart",
       "phonetic": "/ˈʌptaɪm tʃɑːt/",
       "meaning": "可用性图表",
-      "example": "The ward asked us to check the uptime chart.",
-      "exampleZh": "病区让我们看一下这个可用性图表。",
+      "example": "The uptime chart shows a dip every day during the backup hour.",
+      "exampleZh": "可用性图表在每天的备份时段都会出现一个凹口。",
       "category": "it"
     },
     {
       "word": "capacity plan",
       "phonetic": "/kəˈpæsəti plæn/",
       "meaning": "容量规划",
-      "example": "Do not touch the capacity plan during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个容量规划。",
+      "example": "The capacity plan says the PACS disks fill up before June.",
+      "exampleZh": "容量规划认为影像磁盘会在六月之前写满。",
       "category": "it"
     },
     {
       "word": "disk forecast",
       "phonetic": "/dɪsk ˈfɔːkɑːst/",
       "meaning": "磁盘预测",
-      "example": "Do not touch the disk forecast during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个磁盘预测。",
+      "example": "Disk forecast says the report server fills in about six weeks.",
+      "exampleZh": "磁盘预测认为报表服务器大约六周后会写满。",
       "category": "it"
     },
     {
       "word": "CPU spike",
       "phonetic": "/ˌsiː piː ˈjuː spaɪk/",
       "meaning": "处理器突增",
-      "example": "The vendor asked for a screenshot of the CPU spike.",
-      "exampleZh": "厂商要一张这个处理器突增的截图。",
+      "example": "The CPU spike at eight matches the moment wards refresh the census.",
+      "exampleZh": "八点那次处理器突增，时间和病区刷新在院统计对得上。",
       "category": "it"
     },
     {
       "word": "memory pressure",
       "phonetic": "/ˈmeməri ˈpreʃə/",
       "meaning": "内存压力",
-      "example": "We will verify the memory pressure after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个内存压力。",
+      "example": "Memory pressure on the report server began when three large reports ran together.",
+      "exampleZh": "三份大报表同时跑起来时，报表服务器开始出现内存压力。",
       "category": "it"
     }
   ]

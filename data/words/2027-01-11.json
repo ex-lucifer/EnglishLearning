@@ -5,80 +5,80 @@
       "word": "staff",
       "phonetic": "/stɑːf/",
       "meaning": "员工",
-      "example": "Could you send the staff to the project group?",
-      "exampleZh": "你能把员工发到项目群吗？",
+      "example": "Staff who finish after nine may request a taxi voucher.",
+      "exampleZh": "九点以后下班的员工可以申请出租车凭证。",
       "category": "office"
     },
     {
       "word": "workforce",
       "phonetic": "/ˈwɜːkfɔːs/",
       "meaning": "人力",
-      "example": "Who will own the workforce this week?",
-      "exampleZh": "这周这个人力谁来负责？",
+      "example": "The winter workforce plan adds cover for sick leave and holidays.",
+      "exampleZh": "冬季人力计划增加了病假和假期的顶班。",
       "category": "office"
     },
     {
       "word": "shift handover",
       "phonetic": "/ʃɪft ˈhændəʊvə/",
       "meaning": "交接班",
-      "example": "The shift handover still needs a decision today.",
-      "exampleZh": "这个交接班今天还得拍个板。",
+      "example": "Shift handover is at the nurse station, not in the corridor.",
+      "exampleZh": "交接班在护士站进行，不要在走廊里。",
       "category": "office"
     },
     {
       "word": "morning huddle",
       "phonetic": "/ˈmɔːnɪŋ ˈhʌdl/",
       "meaning": "晨会",
-      "example": "Who will own the morning huddle this week?",
-      "exampleZh": "这周这个晨会谁来负责？",
+      "example": "The morning huddle is standing only and lasts fifteen minutes.",
+      "exampleZh": "晨会全程站着，只开十五分钟。",
       "category": "office"
     },
     {
       "word": "evening report",
       "phonetic": "/ˈiːvnɪŋ rɪˈpɔːt/",
       "meaning": "晚交班",
-      "example": "Please add the evening report to today’s notes.",
-      "exampleZh": "请把晚交班写进今天的记录。",
+      "example": "Please stay for the evening report if your patient is unstable.",
+      "exampleZh": "如果你的患者病情不稳，请留下参加晚交班。",
       "category": "office"
     },
     {
       "word": "one-time password",
       "phonetic": "/wʌn taɪm ˈpɑːswɜːd/",
       "meaning": "一次性密码",
-      "example": "The ward asked us to check the one-time password.",
-      "exampleZh": "病区让我们看一下这个一次性密码。",
+      "example": "The one-time password expired before the nurse finished typing it.",
+      "exampleZh": "护士还没有输完，一次性密码就过期了。",
       "category": "it"
     },
     {
       "word": "OTP",
       "phonetic": "/ˌəʊ tiː ˈpiː/",
       "meaning": "一次性口令（One-Time Password）",
-      "example": "Can you map this item to OTP (One-Time Password)?",
-      "exampleZh": "这条能否对照到 OTP（One-Time Password）？",
+      "example": "OTP (One-Time Password) texts are delayed, so night staff cannot sign in.",
+      "exampleZh": "OTP（一次性口令）的短信延迟了，夜班人员登不进去。",
       "category": "it"
     },
     {
       "word": "smart card",
       "phonetic": "/smɑːt kɑːd/",
       "meaning": "智能卡（Self-Monitoring, Analysis and Reporting Technology）",
-      "example": "Do not touch the smart card during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个智能卡。",
+      "example": "The smart card for the night pharmacist was left in yesterday's reader.",
+      "exampleZh": "夜班药师的智能卡落在昨天那台读卡器里了。",
       "category": "it"
     },
     {
       "word": "badge reader",
       "phonetic": "/bædʒ ˈriːdə/",
       "meaning": "门禁读卡器",
-      "example": "The ward asked us to check the badge reader.",
-      "exampleZh": "病区让我们看一下这个门禁读卡器。",
+      "example": "The badge reader at the data-center door stopped accepting cards.",
+      "exampleZh": "机房门上的门禁读卡器不再认卡。",
       "category": "it"
     },
     {
       "word": "biometric",
       "phonetic": "/ˌbaɪəʊˈmetrɪk/",
       "meaning": "生物识别",
-      "example": "Do not touch the biometric during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个生物识别。",
+      "example": "Biometric login failed for the surgeon who was still wearing a mask.",
+      "exampleZh": "还戴着口罩的外科医生，生物识别登录失败了。",
       "category": "it"
     }
   ]

@@ -13,72 +13,72 @@
       "word": "no-pay day",
       "phonetic": "/nəʊ peɪ deɪ/",
       "meaning": "无薪缺勤日",
-      "example": "We talked about the no-pay day with the department head.",
-      "exampleZh": "我们和科主任谈了这个无薪缺勤日。",
+      "example": "An unexplained absence is entered as a no-pay day.",
+      "exampleZh": "没有说明原因的缺勤会被记成无薪缺勤日。",
       "category": "office"
     },
     {
       "word": "tardiness",
       "phonetic": "/ˈtɑːdinəs/",
       "meaning": "迟到记录",
-      "example": "Could you send the tardiness to the project group?",
-      "exampleZh": "你能把迟到记录发到项目群吗？",
+      "example": "Repeated tardiness will come up at the monthly staff review.",
+      "exampleZh": "反复的迟到记录会在月度员工考核时被提出来。",
       "category": "office"
     },
     {
       "word": "absenteeism",
       "phonetic": "/ˌæbsənˈtiːɪzəm/",
       "meaning": "缺勤",
-      "example": "Please bring the absenteeism to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个缺勤。",
+      "example": "Absenteeism on Mondays has gone up since the roster changed.",
+      "exampleZh": "排班调整之后，周一的缺勤上升了。",
       "category": "office"
     },
     {
       "word": "attendance record",
       "phonetic": "/əˈtendəns ˈrekɔːd/",
       "meaning": "出勤记录",
-      "example": "I put the attendance record on the shared drive.",
-      "exampleZh": "我把出勤记录放到了共享盘。",
+      "example": "Your attendance record is clear except for one late morning.",
+      "exampleZh": "除了一个迟到的上午，你的出勤记录是干净的。",
       "category": "office"
     },
     {
       "word": "write cache",
       "phonetic": "/raɪt kæʃ/",
       "meaning": "写缓存",
-      "example": "The ward asked us to check the write cache.",
-      "exampleZh": "病区让我们看一下这个写缓存。",
+      "example": "Write cache on the array is disabled until the battery holds a charge again.",
+      "exampleZh": "电池重新蓄上电之前，阵列的写缓存一直关着。",
       "category": "it"
     },
     {
       "word": "read cache",
       "phonetic": "/riːd kæʃ/",
       "meaning": "读缓存",
-      "example": "We will verify the read cache after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个读缓存。",
+      "example": "Read cache on the array is serving the same study films to several viewers.",
+      "exampleZh": "阵列的读缓存正在把同一份检查影像同时给好几台阅片端。",
       "category": "it"
     },
     {
       "word": "cache battery",
       "phonetic": "/kæʃ ˈbætri/",
       "meaning": "缓存电池",
-      "example": "The ward asked us to check the cache battery.",
-      "exampleZh": "病区让我们看一下这个缓存电池。",
+      "example": "The cache battery failed its test, and the array switched itself to write-through.",
+      "exampleZh": "缓存电池自检没过，阵列自己切到了直写。",
       "category": "it"
     },
     {
       "word": "write-through",
       "phonetic": "/raɪt θruː/",
       "meaning": "直写",
-      "example": "Please test the write-through on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个直写。",
+      "example": "Write-through is slower, but a power loss cannot strand data that was only in cache.",
+      "exampleZh": "直写更慢，但停电不会把只待在缓存里的数据弄丢。",
       "category": "it"
     },
     {
       "word": "write-back",
       "phonetic": "/raɪt bæk/",
       "meaning": "回写",
-      "example": "The vendor asked for a screenshot of the write-back.",
-      "exampleZh": "厂商要一张这个回写的截图。",
+      "example": "Write-back is safe again now that the cache battery holds a full charge.",
+      "exampleZh": "缓存电池已经充满，回写又安全了。",
       "category": "it"
     }
   ]

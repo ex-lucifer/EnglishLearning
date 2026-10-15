@@ -45,40 +45,40 @@
       "word": "AXFR",
       "phonetic": "/ˌeɪ eks ef ˈɑː/",
       "meaning": "全量区域传送（Authoritative Zone Transfer）",
-      "example": "Document AXFR (Authoritative Zone Transfer) in the interface spec.",
-      "exampleZh": "接口说明里请写上 AXFR（Authoritative Zone Transfer）。",
+      "example": "Last night's AXFR (Authoritative Zone Transfer) copied every record to the spare server.",
+      "exampleZh": "昨晚的 AXFR（全量区域传送）把全部记录复制到了备用服务器。",
       "category": "it"
     },
     {
       "word": "IXFR",
       "phonetic": "/ˌaɪ eks ef ˈɑː/",
       "meaning": "增量区域传送（Incremental Zone Transfer）",
-      "example": "Document IXFR (Incremental Zone Transfer) in the interface spec.",
-      "exampleZh": "接口说明里请写上 IXFR（Incremental Zone Transfer）。",
+      "example": "The IXFR (Incremental Zone Transfer) sent only the records changed since Tuesday.",
+      "exampleZh": "IXFR（增量区域传送）只发送了周二以来变更过的记录。",
       "category": "it"
     },
     {
       "word": "DNS notify",
       "phonetic": "/ˌdiː en ˈes ˈnəʊtɪfaɪ/",
       "meaning": "区域变更通知",
-      "example": "Please test the DNS notify on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个区域变更通知。",
+      "example": "DNS notify told the secondary server that the zone had changed.",
+      "exampleZh": "区域变更通知告诉辅助服务器，该区域已经变了。",
       "category": "it"
     },
     {
       "word": "TSIG",
       "phonetic": "/ˈtiːsɪɡ/",
       "meaning": "事务签名（Transaction Signature）",
-      "example": "Enable TSIG (Transaction Signature) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 TSIG（Transaction Signature）。",
+      "example": "TSIG (Transaction Signature) signs each transfer so a stranger cannot alter it.",
+      "exampleZh": "TSIG（事务签名）给每次传送签名，防止外人篡改。",
       "category": "it"
     },
     {
       "word": "DNSSEC",
       "phonetic": "/ˈdɪnsek/",
       "meaning": "域名安全扩展（Domain Name System Security Extensions）",
-      "example": "Please confirm DNSSEC (Domain Name System Security Extensions) is allowed through the firewall.",
-      "exampleZh": "请确认防火墙放行 DNSSEC（Domain Name System Security Extensions）。",
+      "example": "DNSSEC (Domain Name System Security Extensions) proves our hospital domain records are genuine.",
+      "exampleZh": "DNSSEC（域名安全扩展）用来证明本院域名记录是真实的。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "heads-up",
       "phonetic": "/hedz ʌp/",
       "meaning": "事先提醒",
-      "example": "Please bring the heads-up to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个事先提醒。",
+      "example": "Thanks for the heads-up about the surveyors arriving early.",
+      "exampleZh": "谢谢你事先提醒评审员会提早到。",
       "category": "office"
     },
     {
       "word": "green light",
       "phonetic": "/ɡriːn laɪt/",
       "meaning": "放行批准",
-      "example": "The green light still needs a decision today.",
-      "exampleZh": "这个放行批准今天还得拍个板。",
+      "example": "We have the green light to recruit the weekend clerk.",
+      "exampleZh": "周末文员的招聘已经拿到放行批准。",
       "category": "office"
     },
     {
       "word": "red flag",
       "phonetic": "/red flæɡ/",
       "meaning": "警示信号",
-      "example": "We talked about the red flag with the department head.",
-      "exampleZh": "我们和科主任谈了这个警示信号。",
+      "example": "An unsigned consent form is a red flag during any inspection.",
+      "exampleZh": "检查时，没签字的知情同意书就是一个警示信号。",
       "category": "office"
     },
     {
       "word": "gray area",
       "phonetic": "/ɡreɪ ˈeəriə/",
       "meaning": "模糊地带",
-      "example": "The gray area still needs a decision today.",
-      "exampleZh": "这个模糊地带今天还得拍个板。",
+      "example": "Whether a meal break counts as overtime is still a gray area.",
+      "exampleZh": "用餐休息算不算加班，仍是一片模糊地带。",
       "category": "office"
     },
     {
       "word": "chain of command",
       "phonetic": "/tʃeɪn əv kəˈmɑːnd/",
       "meaning": "汇报链条",
-      "example": "I put the chain of command on the shared drive.",
-      "exampleZh": "我把汇报链条放到了共享盘。",
+      "example": "Follow the chain of command before you write to the director directly.",
+      "exampleZh": "直接给主任写信之前，先走汇报链条。",
       "category": "office"
     },
     {
       "word": "least privilege",
       "phonetic": "/liːst ˈprɪvəlɪdʒ/",
       "meaning": "最小权限",
-      "example": "Please test the least privilege on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个最小权限。",
+      "example": "Least privilege means the kiosk account can print slips and nothing else.",
+      "exampleZh": "最小权限的意思是，自助终端账号只能打印凭条，别的都不行。",
       "category": "it"
     },
     {
       "word": "privileged access",
       "phonetic": "/ˈprɪvəlɪdʒd ˈækses/",
       "meaning": "特权访问",
-      "example": "The ward asked us to check the privileged access.",
-      "exampleZh": "病区让我们看一下这个特权访问。",
+      "example": "Privileged access to the blood bank is reviewed every Monday morning.",
+      "exampleZh": "血库系统的特权访问每个周一上午复核。",
       "category": "it"
     },
     {
       "word": "session timeout",
       "phonetic": "/ˈseʃn ˈtaɪmaʊt/",
       "meaning": "会话超时",
-      "example": "The ward asked us to check the session timeout.",
-      "exampleZh": "病区让我们看一下这个会话超时。",
+      "example": "Session timeout cut the doctor off while she was still writing the note.",
+      "exampleZh": "医生还在写病程时，会话超时把她断开了。",
       "category": "it"
     },
     {
       "word": "idle timeout",
       "phonetic": "/ˈaɪdl ˈtaɪmaʊt/",
       "meaning": "空闲超时",
-      "example": "Do not touch the idle timeout during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个空闲超时。",
+      "example": "Idle timeout is too short for radiologists who read long studies.",
+      "exampleZh": "对阅读长时间检查的放射医生来说，空闲超时太短了。",
       "category": "it"
     },
     {
       "word": "account expiry",
       "phonetic": "/əˈkaʊnt ɪkˈspaɪəri/",
       "meaning": "账号到期",
-      "example": "We will verify the account expiry after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个账号到期。",
+      "example": "Account expiry dropped the visiting surgeon from the on-call roster.",
+      "exampleZh": "账号到期后，这位进修外科医生从值班名单里消失了。",
       "category": "it"
     }
   ]

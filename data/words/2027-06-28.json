@@ -5,80 +5,80 @@
       "word": "clearance form",
       "phonetic": "/ˈklɪərəns fɔːm/",
       "meaning": "离职清算单",
-      "example": "I put the clearance form on the shared drive.",
-      "exampleZh": "我把离职清算单放到了共享盘。",
+      "example": "The clearance form still needs signatures from security and payroll.",
+      "exampleZh": "离职清算单还差安保和薪酬两处的签字。",
       "category": "office"
     },
     {
       "word": "last day",
       "phonetic": "/lɑːst deɪ/",
       "meaning": "最后工作日",
-      "example": "I put the last day on the shared drive.",
-      "exampleZh": "我把最后工作日放到了共享盘。",
+      "example": "Friday is her last day, so collect her badge before she goes.",
+      "exampleZh": "周五是她的最后工作日，走之前请把工牌收回来。",
       "category": "office"
     },
     {
       "word": "notice to leave",
       "phonetic": "/ˈnəʊtɪs tə liːv/",
       "meaning": "离职通知",
-      "example": "We talked about the notice to leave with the department head.",
-      "exampleZh": "我们和科主任谈了这个离职通知。",
+      "example": "His notice to leave came in by email early this morning.",
+      "exampleZh": "他的离职通知今天一大早就通过邮件到了。",
       "category": "office"
     },
     {
       "word": "reference letter",
       "phonetic": "/ˈrefrəns ˈletə/",
       "meaning": "推荐信",
-      "example": "We talked about the reference letter with the department head.",
-      "exampleZh": "我们和科主任谈了这个推荐信。",
+      "example": "She asked her supervisor to write a reference letter for her.",
+      "exampleZh": "她请主管给她写一封推荐信。",
       "category": "office"
     },
     {
       "word": "employment letter",
       "phonetic": "/ɪmˈplɔɪmənt ˈletə/",
       "meaning": "在职证明",
-      "example": "The employment letter still needs a decision today.",
-      "exampleZh": "这个在职证明今天还得拍个板。",
+      "example": "The bank wants an employment letter carrying the hospital seal.",
+      "exampleZh": "银行要一封盖有医院印章的在职证明。",
       "category": "office"
     },
     {
       "word": "exploit protection",
       "phonetic": "/ˈeksplɔɪt prəˈtekʃn/",
       "meaning": "漏洞利用防护",
-      "example": "Who is on call for the exploit protection this week?",
-      "exampleZh": "这周这个漏洞利用防护谁值班？",
+      "example": "Exploit protection on the billing PC blocked a memory exploit against the old reader.",
+      "exampleZh": "收费电脑上的漏洞利用防护拦住了一次针对旧读卡程序的内存利用。",
       "category": "it"
     },
     {
       "word": "DEP",
       "phonetic": "/dep/",
       "meaning": "数据执行保护（Data Execution Prevention）",
-      "example": "Confirm DEP (Data Execution Prevention) is in the change notes.",
-      "exampleZh": "请确认变更说明里写了 DEP（Data Execution Prevention）。",
+      "example": "DEP (Data Execution Prevention) stopped the old viewer when it tried to run a data page.",
+      "exampleZh": "旧阅片程序试图把数据页当代码跑的时候，DEP（数据执行保护）把它拦住了。",
       "category": "it"
     },
     {
       "word": "ASLR",
       "phonetic": "/ˌeɪ es el ˈɑː/",
       "meaning": "地址随机化（Address Space Layout Randomization）",
-      "example": "This device is not ASLR (Address Space Layout Randomization) approved.",
-      "exampleZh": "这台设备不符合 ASLR（Address Space Layout Randomization）。",
+      "example": "ASLR (Address Space Layout Randomization) is on, so the old exploit misses its target address.",
+      "exampleZh": "ASLR（地址随机化）开着，旧的利用代码打不中目标地址。",
       "category": "it"
     },
     {
       "word": "Control Flow Guard",
       "phonetic": "/kənˈtrəʊl fləʊ ɡɑːd/",
       "meaning": "控制流防护",
-      "example": "The vendor asked for a screenshot of the Control Flow Guard.",
-      "exampleZh": "厂商要一张这个控制流防护的截图。",
+      "example": "Control Flow Guard stopped the call into an unexpected address inside the viewer.",
+      "exampleZh": "控制流防护拦住了阅片程序里一次跳向意外地址的调用。",
       "category": "it"
     },
     {
       "word": "WDAC",
       "phonetic": "/ˈdʌbljuː dæk/",
       "meaning": "应用控制（Windows Defender Application Control）",
-      "example": "Confirm WDAC (Windows Defender Application Control) is in the change notes.",
-      "exampleZh": "请确认变更说明里写了 WDAC（Windows Defender Application Control）。",
+      "example": "WDAC (Windows Defender Application Control) allows only signed binaries on the kiosk image.",
+      "exampleZh": "WDAC（应用控制）只允许查询机镜像运行已签名程序。",
       "category": "it"
     }
   ]

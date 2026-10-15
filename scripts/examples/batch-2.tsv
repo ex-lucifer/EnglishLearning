@@ -1,0 +1,485 @@
+it	n	listen port	监听端口	
+it	n	open port	开放端口	
+it	n	closed port	关闭端口	
+it	n	firewall rule	防火墙规则	
+it	acr	NAT	网络地址转换	Network Address Translation
+it	n	port forward	端口转发	
+it	acr	DMZ	隔离区	Demilitarized Zone
+it	n	intranet	内网	
+it	n	extranet	外联网	
+it	n	internet breakout	上网出口	
+it	n	proxy bypass	绕过代理	
+it	n	PAC file	代理自动配置	
+it	n	DNS cache	域名缓存	
+it	v	flush DNS	刷新域名缓存	
+it	n	hosts file	主机映射文件	
+it	acr	CNAME	别名记录	Canonical Name
+it	n	A record	地址记录	
+it	n	MX record	邮件交换记录	
+it	acr	TTL	生存时间	Time To Live
+it	n	DHCP reservation	地址保留	
+it	n	static IP	静态地址	
+it	n	dynamic IP	动态地址	
+it	n	link down	链路断开	
+it	n	link up	链路恢复	
+it	n	duplex mismatch	双工不匹配	
+it	n	speed mismatch	速率不匹配	
+it	n	CRC error	校验错误	
+it	n	broadcast storm	广播风暴	
+it	n	loop	环路	
+it	n	spanning tree	生成树	
+it	n	trunk	中继链路	
+it	n	access port	接入端口	
+it	n	uplink	上联口	
+it	n	core switch	核心交换机	
+it	n	distribution switch	汇聚交换机	
+it	n	access switch	接入交换机	
+it	n	stack	交换机堆叠	
+it	n	power supply	电源模块	
+it	acr	UPS	不间断电源	Uninterruptible Power Supply
+it	acr	PDU	电源分配单元	Power Distribution Unit
+it	n	generator	发电机	
+it	n	cooling	机房制冷	
+it	acr	CRAC	机房空调	Computer Room Air Conditioner
+it	n	raised floor	架空地板	
+it	n	rack	机柜	
+it	n	U space	机柜高度单位	
+it	acr	KVM	键盘视频鼠标切换	Keyboard Video Mouse
+it	n	console cable	控制台线	
+it	n	serial console	串口控制台	
+it	acr	IPMI	服务器底板管理	Intelligent Platform Management Interface
+it	acr	iLO	远程管理口	Integrated Lights-Out
+it	acr	iDRAC	远程管理卡	Integrated Dell Remote Access Controller
+it	acr	BMC	基板管理控制器	Baseboard Management Controller
+it	n	firmware update	固件更新	
+it	n	BIOS update	主板固件更新	
+it	n	driver pack	驱动包	
+it	n	image	系统镜像	
+it	n	golden image	标准镜像	
+it	n	PXE boot	网络启动	
+it	acr	MDT	批量部署工具	Microsoft Deployment Toolkit
+it	acr	SCCM	系统中心配置管理	System Center Configuration Manager
+it	n	Intune	云端设备管理	
+it	acr	MDM	移动设备管理	Mobile Device Management
+it	acr	BYOD	自带设备	Bring Your Own Device
+it	n	mobile device	移动设备	
+it	n	tablet	平板	
+it	n	smartphone	智能手机	
+it	n	pager	传呼机	
+it	acr	VoIP	网络电话	Voice over Internet Protocol
+it	acr	SIP	会话启动协议	Session Initiation Protocol
+it	acr	PBX	程控交换机	Private Branch Exchange
+it	n	softphone	软电话	
+it	n	call recording	通话录音	
+it	acr	IVR	语音导航	Interactive Voice Response
+it	acr	ACD	自动呼叫分配	Automatic Call Distribution
+it	n	queue wait	排队等待	
+it	n	call drop	通话中断	
+it	n	codec	编解码	
+it	n	jitter buffer	抖动缓冲	
+it	acr	QoS	服务质量	Quality of Service
+it	acr	DSCP	差分服务标记	Differentiated Services Code Point
+it	n	traffic shaping	流量整形	
+it	n	bandwidth cap	带宽上限	
+it	acr	WAN	广域网	Wide Area Network
+it	acr	LAN	局域网	Local Area Network
+it	acr	MAN	城域网	Metropolitan Area Network
+it	acr	MPLS	多协议标签交换	Multiprotocol Label Switching
+it	acr	SD-WAN	软件定义广域网	Software-Defined Wide Area Network
+it	n	dark fiber	裸光纤	
+it	n	last mile	最后一公里	
+it	n	circuit ID	专线编号	
+it	n	carrier	运营商	
+it	acr	BGP	边界网关协议	Border Gateway Protocol
+it	acr	OSPF	开放最短路径优先	Open Shortest Path First
+it	n	static route	静态路由	
+it	n	default route	默认路由	
+it	n	routing table	路由表	
+it	acr	ARP	地址解析协议	Address Resolution Protocol
+it	acr	ICMP	网络控制消息	Internet Control Message Protocol
+it	acr	TCP	传输控制协议	Transmission Control Protocol
+it	acr	UDP	用户数据报协议	User Datagram Protocol
+it	acr	TLS	传输层安全	Transport Layer Security
+it	acr	HTTPS	加密网页协议	Hypertext Transfer Protocol Secure
+it	acr	HTTP	网页协议	Hypertext Transfer Protocol
+it	acr	FTP	文件传输协议	File Transfer Protocol
+it	acr	SFTP	安全文件传输	SSH File Transfer Protocol
+it	acr	SMB	文件共享协议	Server Message Block
+it	acr	NFS	网络文件系统	Network File System
+it	acr	CIFS	通用互联网文件系统	Common Internet File System
+it	acr	RDP	远程桌面协议	Remote Desktop Protocol
+it	acr	SSH	安全外壳协议	Secure Shell
+it	n	Telnet	远程终端协议	
+it	acr	SNMP	简单网络管理	Simple Network Management Protocol
+it	n	Syslog server	日志服务器	
+it	n	NTP server	时间服务器	
+it	n	time drift	时间漂移	
+it	n	clock skew	时钟偏差	
+it	n	Kerberos	票据认证	
+it	acr	NTLM	Windows认证	NT LAN Manager
+it	n	token cache	令牌缓存	
+it	n	ticket-granting	票据授予	
+it	n	service principal	服务主体	
+it	acr	SPN	服务主体名称	Service Principal Name
+it	acr	GPO	组策略对象	Group Policy Object
+it	acr	OU	组织单元	Organizational Unit
+it	n	security group	安全组	
+it	n	distribution group	通讯组	
+it	n	nested group	嵌套组	
+it	n	group membership	组成员关系	
+it	n	sid	安全标识	
+it	acr	GUID	全局唯一标识	Globally Unique Identifier
+it	acr	UPN	用户主体名称	User Principal Name
+it	n	sAMAccountName	登录名	
+it	n	password hash	密码哈希	
+it	n	salt	加盐	
+it	n	hash	哈希	
+it	n	encryption key	加密密钥	
+it	n	public key	公钥	
+it	n	private key	私钥	
+it	n	certificate chain	证书链	
+it	n	intermediate CA	中间证书机构	
+it	n	root CA	根证书机构	
+it	acr	CSR	证书申请	Certificate Signing Request
+it	n	SAN name	证书备用名	
+it	n	certificate store	证书存储	
+it	n	trusted root	受信任根	
+it	n	untrusted cert	不受信任证书	
+it	n	expired cert	过期证书	
+it	n	revoked cert	已吊销证书	
+it	n	OCSP staple	证书装订	
+it	acr	HSTS	强制加密传输	HTTP Strict Transport Security
+it	n	cipher suite	加密套件	
+it	n	deprecated TLS	过时加密	
+it	n	weak cipher	弱加密	
+it	n	perfect forward secrecy	前向保密	
+it	n	key exchange	密钥交换	
+it	n	session key	会话密钥	
+it	n	token expiry	令牌到期	
+it	n	refresh token	刷新令牌	
+it	n	access token	访问令牌	
+it	n	ID token	身份令牌	
+it	acr	JWT	JSON令牌	JSON Web Token
+it	n	bearer token	持有者令牌	
+it	n	API gateway	接口网关	
+it	n	rate limiting	限流控制	
+it	n	API quota	接口配额	
+it	n	API version	接口版本	
+it	n	breaking change	破坏性变更	
+it	adj	backward compatible	向后兼容	
+it	n	deprecation	即将废弃	
+it	n	sunset date	下线日期	
+it	n	feature toggle	功能开关	
+it	n	dark launch	暗发布	
+it	n	canary host	金丝雀主机	
+it	n	blue environment	蓝色环境	
+it	n	green environment	绿色环境	
+it	n	traffic shift	流量切换	
+it	n	weighted routing	加权路由	
+it	n	health probe	健康探测	
+it	n	unhealthy node	不健康节点	
+it	v	drain node	排空节点	
+it	v	cordon	封锁节点	
+it	n	pod	容器组	
+it	n	namespace	命名空间	
+it	n	ingress	入口路由	
+it	n	egress	出口流量	
+it	n	sidecar	边车容器	
+it	n	service mesh	服务网格	
+it	n	config map	配置映射	
+it	n	secret	密文对象	
+it	n	volume mount	卷挂载	
+it	n	persistent volume	持久卷	
+it	n	storage class	存储类	
+it	n	node pool	节点池	
+it	n	cluster	集群	
+it	n	control plane	控制平面	
+it	n	worker node	工作节点	
+it	n	etcd	集群键值库	
+it	n	scheduler	调度器	
+it	n	kubelet	节点代理	
+it	n	container runtime	容器运行时	
+it	n	image pull	拉取镜像	
+it	n	image registry	镜像仓库	
+it	n	image tag	镜像标签	
+it	n	digest	镜像摘要	
+it	n	vulnerability CVE	镜像漏洞编号	
+it	n	base image	基础镜像	
+it	n	distroless	精简镜像	
+it	adj	rootless	非特权运行	
+it	n	read-only root	只读根文件系统	
+it	n	seccomp	系统调用过滤	
+it	n	AppArmor	应用防护	
+it	n	SELinux	强制访问控制	
+it	n	capabilities	权限能力	
+it	n	sysctl	内核参数	
+it	n	kernel panic	内核崩溃	
+it	n	oops	内核异常	
+it	n	watchdog	看门狗	
+it	n	kdump	内核转储	
+it	n	core pattern	转储路径	
+it	n	ulimit	资源上限	
+it	n	nice value	进程优先级	
+it	n	process ID	进程号	
+it	n	parent process	父进程	
+it	n	zombie process	僵尸进程	
+it	n	orphan process	孤儿进程	
+it	n	daemon	守护进程	
+it	n	cron job	定时任务	
+it	n	scheduled task	计划任务	
+it	n	Windows service	Windows服务	
+it	n	service account lock	服务账号锁定	
+it	n	logon as service	作为服务登录	
+it	n	interactive logon	交互登录	
+it	n	network logon	网络登录	
+it	n	cached logon	缓存登录	
+it	n	smart-card logon	智能卡登录	
+it	n	failed logon	登录失败	
+it	n	lockout policy	锁定策略	
+it	n	account disabled	账号已禁用	
+it	n	account enabled	账号已启用	
+it	n	password expired	密码已过期	
+it	n	complex password	复杂密码	
+it	n	passphrase	密码短语	
+it	n	password manager	密码管理器	
+it	n	shared password	共享密码	
+it	n	default password	默认密码	
+it	n	hard-coded password	写死的密码	
+it	n	secrets in code	代码中的密钥	
+it	n	credential leak	凭据泄露	
+it	n	keylogger	键盘记录	
+it	n	screen capture	屏幕截取	
+it	n	clipboard	剪贴板	
+it	n	USB drop	U盘投放	
+it	n	shadow IT	影子信息化	
+it	n	unsanctioned app	未批准软件	
+it	n	software whitelist	软件白名单	
+it	n	software inventory	软件清单	
+it	n	license count	授权数量	
+it	n	license server	授权服务器	
+it	n	license key	授权密钥	
+it	n	trial license	试用授权	
+it	n	perpetual license	永久授权	
+it	n	subscription license	订阅授权	
+it	n	concurrent license	并发授权	
+it	n	named user	指定用户	
+it	n	floating license	浮动授权	
+it	n	license compliance	授权合规	
+it	n	true-up	授权对账	
+it	n	software audit	软件审计	
+it	n	unlicensed install	未授权安装	
+it	n	silent install	静默安装	
+it	n	push install	推送安装	
+it	v	uninstall	卸载	
+it	n	repair install	修复安装	
+it	n	msi package	安装包	
+it	n	exe installer	可执行安装程序	
+it	n	patch file	补丁文件	
+it	n	hotfix rollup	累积热修复	
+it	n	cumulative update	累积更新	
+it	n	security bulletin	安全公告	
+it	n	KB number	知识库编号	
+it	n	reboot pending	等待重启	
+it	n	pending reboot	待重启	
+it	n	WUAgent	更新代理	
+it	acr	WSUS	补丁分发服务器	Windows Server Update Services
+it	n	catalog file	目录文件	
+it	n	offline patch	离线补丁	
+it	n	online update	在线更新	
+it	n	metered network	按流量网络	
+it	n	delivery optimization	分发优化	
+it	n	peer cache	对等缓存	
+it	n	branch cache	分支缓存	
+it	n	content server	内容服务器	
+it	n	distribution point	分发点	
+it	n	management point	管理点	
+it	n	client agent	客户端代理	
+it	n	heartbeat interval	心跳间隔	
+it	n	policy refresh	策略刷新	
+it	v	gpupdate	刷新组策略	
+it	acr	rsop	策略结果集	Resultant Set of Policy
+it	n	event forwarding	事件转发	
+it	acr	WEF	Windows事件转发	Windows Event Forwarding
+it	n	collector	事件收集器	
+it	n	subscription	订阅	
+it	n	query filter	查询过滤	
+it	n	xpath	路径查询	
+it	n	event ID	事件编号	
+it	n	logon type	登录类型	
+it	n	privileged logon	特权登录	
+it	n	explicit creds	显式凭据	
+it	n	pass-the-hash	哈希传递	
+it	n	kerberoasting	票据攻击手法	
+it	n	lateral movement	横向移动	
+it	n	living off the land	利用系统自带工具	
+it	acr	IOC	失陷指标	Indicator of Compromise
+it	acr	IOA	攻击行为指标	Indicator of Attack
+it	n	threat intel	威胁情报	
+it	n	indicator	威胁指标	
+it	n	hash reputation	哈希信誉	
+it	n	file hash	文件哈希	
+it	acr	SHA-256	哈希算法	Secure Hash Algorithm 256
+it	acr	MD5	旧哈希算法	Message Digest 5
+it	v	quarantine	隔离	
+it	n	allow exception	放行例外	
+it	n	block hash	按哈希拦截	
+it	n	block path	按路径拦截	
+it	n	block publisher	按发布者拦截	
+it	n	code signing	代码签名	
+it	n	unsigned binary	未签名程序	
+it	n	trusted publisher	受信任发布者	
+it	n	SmartScreen	智能筛选	
+it	n	Defender	系统防护	
+it	acr	ASR	攻击面减少	Attack Surface Reduction
+it	n	exploit protection	漏洞利用防护	
+it	acr	DEP	数据执行保护	Data Execution Prevention
+it	acr	ASLR	地址随机化	Address Space Layout Randomization
+it	n	Control Flow Guard	控制流防护	
+it	acr	WDAC	应用控制	Windows Defender Application Control
+it	n	AppLocker	应用锁	
+it	n	Software Restriction	软件限制策略	
+it	n	Device Guard	设备防护	
+it	n	Credential Guard	凭据防护	
+it	n	LSA protection	认证进程保护	
+it	n	secure boot	安全启动	
+it	n	measured boot	度量启动	
+it	acr	TPM	可信平台模块	Trusted Platform Module
+it	acr	PCR	平台配置寄存器	Platform Configuration Register
+it	n	BitLocker recovery	磁盘恢复密钥	
+it	n	recovery key	恢复密钥	
+it	n	TPM owner	可信模块属主	
+it	n	escrow	密钥托管	
+it	acr	MBAM	磁盘加密管理	Microsoft BitLocker Administration and Monitoring
+it	n	disk unlock	磁盘解锁	
+it	n	pre-boot	开机前验证	
+it	n	BitLocker PIN	磁盘开机密码	
+it	n	startup key	启动密钥	
+it	n	USB key	U盘密钥	
+it	n	network unlock	网络解锁	
+it	n	protector	保护器	
+it	n	numerical password	数字恢复密码	
+it	acr	FIPS	联邦加密标准	Federal Information Processing Standards
+it	acr	HSM	硬件安全模块	Hardware Security Module
+it	acr	KMS	密钥管理服务	Key Management Service
+it	acr	CMK	客户主密钥	Customer Master Key
+it	n	envelope encryption	信封加密	
+it	n	data key	数据密钥	
+it	n	key alias	密钥别名	
+it	n	key policy	密钥策略	
+it	n	key deletion	密钥删除	
+it	n	key disable	密钥停用	
+it	n	key enable	密钥启用	
+it	n	cryptographic erase	加密擦除	
+it	n	secure wipe	安全擦除	
+it	n	disk wipe	磁盘擦除	
+it	v	degauss	消磁	
+it	n	physical destruction	物理销毁	
+it	n	media sanitization	介质净化	
+it	n	NIST wipe	标准擦除	
+it	n	DoD wipe	国防部擦除	
+it	n	spare disk	备用磁盘	
+it	n	hot spare	热备盘	
+it	n	cold spare	冷备盘	
+it	n	rebuild time	重建时间	
+it	n	degraded array	降级阵列	
+it	n	failed disk	故障磁盘	
+it	n	predictive failure	预警故障	
+it	acr	SMART	磁盘健康监测	Self-Monitoring, Analysis and Reporting Technology
+it	n	bad sector	坏扇区	
+it	n	uncorrectable error	不可纠正错误	
+it	n	reallocated sector	重映射扇区	
+it	n	spin-up	磁盘启动	
+it	n	head crash	磁头损坏	
+it	acr	SSD	固态硬盘	Solid State Drive
+it	acr	HDD	机械硬盘	Hard Disk Drive
+it	acr	NVMe	高速固态接口	Non-Volatile Memory Express
+it	acr	SATA	串口硬盘接口	Serial ATA
+it	acr	SAS	服务器硬盘接口	Serial Attached SCSI
+it	n	M.2	板载固态接口	
+it	n	hot swap	热插拔	
+it	n	caddy	硬盘托架	
+it	n	backplane	硬盘背板	
+it	n	RAID controller	阵列卡	
+it	n	battery backup unit	阵列电池	
+it	n	write cache	写缓存	
+it	n	read cache	读缓存	
+it	n	cache battery	缓存电池	
+it	n	write-through	直写	
+it	n	write-back	回写	
+it	n	stripe	条带	
+it	n	mirror	镜像盘	
+it	n	parity	校验	
+it	n	RAID 1	镜像阵列	
+it	n	RAID 5	校验阵列	
+it	n	RAID 6	双校验阵列	
+it	n	RAID 10	镜像条带	
+it	acr	JBOD	简单磁盘组合	Just a Bunch of Disks
+it	n	thin provision	精简配置	
+it	n	thick provision	厚配置	
+it	v	overcommit	超分	
+it	n	storage pool	存储池	
+it	n	datastore	数据存储	
+it	acr	VMDK	虚拟磁盘文件	Virtual Machine Disk
+it	acr	VHD	虚拟硬盘	Virtual Hard Disk
+it	n	snapshot chain	快照链	
+it	n	delta disk	增量盘	
+it	n	linked clone	链接克隆	
+it	n	full clone	完整克隆	
+it	n	template VM	虚拟机模板	
+it	n	instant clone	即时克隆	
+it	n	vMotion	在线迁移	
+it	n	storage vMotion	存储在线迁移	
+it	n	HA cluster	高可用集群	
+it	acr	DRS	动态资源调度	Distributed Resource Scheduler
+it	n	affinity	亲和性	
+it	n	anti-affinity	反亲和性	
+it	n	resource pool	资源池	
+it	n	reservation	资源预留	
+it	n	limit	资源上限	
+it	n	shares	资源份额	
+it	n	ballooning	内存回收	
+it	n	swap file	交换文件	
+it	n	CPU ready	处理器等待	
+it	n	co-stop	共同停顿	
+it	acr	NUMA	内存亲和架构	Non-Uniform Memory Access
+it	n	vCPU	虚拟处理器	
+it	n	vRAM	虚拟内存	
+it	n	guest OS	客户机系统	
+it	n	host OS	宿主机系统	
+it	n	tools agent	虚拟化工具代理	
+it	n	guest customization	客户机定制	
+it	n	sysprep	系统封装	
+it	n	SID duplication	安全标识重复	
+it	n	IP conflict	地址冲突	
+it	n	duplicate MAC	网卡地址重复	
+it	n	promiscuous mode	混杂模式	
+it	n	forged transmit	伪造发送	
+it	n	MAC change	网卡地址更改	
+it	n	port group	端口组	
+it	n	virtual switch	虚拟交换机	
+it	n	uplink NIC	上联网卡	
+it	n	NIC teaming	网卡绑定	
+it	acr	LACP	链路聚合	Link Aggregation Control Protocol
+it	n	load balance	负载分担	
+it	n	failover order	故障切换顺序	
+it	n	beacon probing	信标探测	
+it	n	network isolation	网络隔离	
+it	n	microsegmentation	微分段	
+it	n	distributed firewall	分布式防火墙	
+it	n	east-west traffic	东西向流量	
+it	n	north-south traffic	南北向流量	
+it	n	hairpin	回流转发	
+it	n	anycast	任播	
+it	n	unicast	单播	
+it	n	multicast	组播	
+it	n	broadcast	广播	
+it	acr	IGMP	组播管理协议	Internet Group Management Protocol
+it	n	protocol independent multicast	协议无关组播	
+it	acr	mDNS	组播域名	Multicast DNS
+it	acr	LLMNR	本地链路名称解析	Link-Local Multicast Name Resolution
+it	n	NetBIOS	网上基本输入输出	
+it	acr	WINS	Windows名称服务	Windows Internet Name Service
+it	n	name resolution	名称解析	
+it	n	split-brain DNS	脑裂域名	
+it	n	conditional forwarder	条件转发	
+it	n	stub zone	存根区域	

@@ -5,80 +5,80 @@
       "word": "itemize",
       "phonetic": "/ˈaɪtəmaɪz/",
       "meaning": "逐项列出",
-      "example": "Who will itemize this after the huddle?",
-      "exampleZh": "晨会后谁来逐项列出？",
+      "example": "On the claim, itemize each overtime hour instead of giving one total.",
+      "exampleZh": "在申报单上请逐项列出每一小时加班，不要只写一个总数。",
       "category": "office"
     },
     {
       "word": "compare",
       "phonetic": "/kəmˈpeə/",
       "meaning": "比较",
-      "example": "Who will compare this after the huddle?",
-      "exampleZh": "晨会后谁来比较？",
+      "example": "Compare visitor numbers for this month with the figures from last month.",
+      "exampleZh": "请把这个月的访客人数和上个月的数字比较一下。",
       "category": "office"
     },
     {
       "word": "analyze",
       "phonetic": "/ˈænəlaɪz/",
       "meaning": "分析",
-      "example": "We still need to analyze this.",
-      "exampleZh": "这件事还得分析。",
+      "example": "Please analyze why the May survey scores fell so far.",
+      "exampleZh": "请分析五月调查分数为何掉了这么多。",
       "category": "office"
     },
     {
       "word": "calculate",
       "phonetic": "/ˈkælkjuleɪt/",
       "meaning": "计算",
-      "example": "Please calculate this before you leave.",
-      "exampleZh": "走之前请把这件事计算。",
+      "example": "Payroll, can you calculate Sunday's hours before Friday noon?",
+      "exampleZh": "薪酬处，能在周五中午前把周日的工时计算出来吗？",
       "category": "office"
     },
     {
       "word": "plan",
       "phonetic": "/plæn/",
       "meaning": "规划",
-      "example": "Who will plan this after the huddle?",
-      "exampleZh": "晨会后谁来规划？",
+      "example": "Plan the training days before those new screens are switched on.",
+      "exampleZh": "在那些新显示屏启用之前，请先把培训日规划好。",
       "category": "office"
     },
     {
       "word": "static IP",
       "phonetic": "/ˈstætɪk aɪ ˈpiː/",
       "meaning": "静态地址",
-      "example": "I logged the static IP in today’s change ticket.",
-      "exampleZh": "我把这个静态地址记进了今天的变更单。",
+      "example": "Give the infusion pump gateway a static IP so nurses can always find it.",
+      "exampleZh": "给输液泵网关一个静态地址，护士才总能找到它。",
       "category": "it"
     },
     {
       "word": "dynamic IP",
       "phonetic": "/daɪˈnæmɪk aɪ ˈpiː/",
       "meaning": "动态地址",
-      "example": "The vendor asked for a screenshot of the dynamic IP.",
-      "exampleZh": "厂商要一张这个动态地址的截图。",
+      "example": "A dynamic IP on the label printer changed, and pharmacy lost the queue.",
+      "exampleZh": "标签打印机的动态地址变了，药房打印队列就断了。",
       "category": "it"
     },
     {
       "word": "link down",
       "phonetic": "/lɪŋk daʊn/",
       "meaning": "链路断开",
-      "example": "We will verify the link down after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个链路断开。",
+      "example": "Link down on the clinic closet switch cut off six registration PCs.",
+      "exampleZh": "门诊弱电间交换机链路断开，六台挂号电脑跟着断了。",
       "category": "it"
     },
     {
       "word": "link up",
       "phonetic": "/lɪŋk ʌp/",
       "meaning": "链路恢复",
-      "example": "Who is on call for the link up this week?",
-      "exampleZh": "这周这个链路恢复谁值班？",
+      "example": "Link up came back at 06:10, and the ward phones registered again.",
+      "exampleZh": "链路在 06:10 恢复，病区电话又重新注册上了。",
       "category": "it"
     },
     {
       "word": "duplex mismatch",
       "phonetic": "/ˈdjuːpleks ˈmɪsmætʃ/",
       "meaning": "双工不匹配",
-      "example": "The vendor asked for a screenshot of the duplex mismatch.",
-      "exampleZh": "厂商要一张这个双工不匹配的截图。",
+      "example": "A duplex mismatch on the radiology uplink is dropping large image transfers.",
+      "exampleZh": "放射上联口双工不匹配，大图像传输正在丢包。",
       "category": "it"
     }
   ]

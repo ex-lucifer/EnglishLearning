@@ -5,80 +5,80 @@
       "word": "raise",
       "phonetic": "/reɪz/",
       "meaning": "提出问题",
-      "example": "We still need to raise this.",
-      "exampleZh": "这件事还得提出问题。",
+      "example": "In the meeting, did you raise the problem of badges that never come back?",
+      "exampleZh": "会上你提出工牌一直不归还的问题了吗？",
       "category": "office"
     },
     {
       "word": "address",
       "phonetic": "/əˈdres/",
       "meaning": "处理回应",
-      "example": "We still need to address this.",
-      "exampleZh": "这件事还得处理回应。",
+      "example": "Save the overtime questions; the chair will address them after the break.",
+      "exampleZh": "加班的问题先放下，主持人会在休息后处理回应。",
       "category": "office"
     },
     {
       "word": "resolve",
       "phonetic": "/rɪˈzɒlv/",
       "meaning": "解决",
-      "example": "We still need to resolve this.",
-      "exampleZh": "这件事还得解决。",
+      "example": "We still need to resolve the clash over the meeting room before ten.",
+      "exampleZh": "我们仍需在十点前解决会议室的冲突。",
       "category": "office"
     },
     {
       "word": "settle",
       "phonetic": "/ˈsetl/",
       "meaning": "谈妥",
-      "example": "Can you settle it today?",
-      "exampleZh": "你今天能把它谈妥吗？",
+      "example": "Today is a good day to settle the handover date with her supervisor.",
+      "exampleZh": "今天适合和她的主管谈妥交接日期。",
       "category": "office"
     },
     {
       "word": "mediate",
       "phonetic": "/ˈmiːdieɪt/",
       "meaning": "调解",
-      "example": "Who will mediate this after the huddle?",
-      "exampleZh": "晨会后谁来调解？",
+      "example": "When the teams cannot agree on cover, ask HR to mediate.",
+      "exampleZh": "各班组在顶班上谈不拢时，请人力资源来调解。",
       "category": "office"
     },
     {
       "word": "connection leak",
       "phonetic": "/kəˈnekʃn liːk/",
       "meaning": "连接泄漏",
-      "example": "The ward asked us to check the connection leak.",
-      "exampleZh": "病区让我们看一下这个连接泄漏。",
+      "example": "The connection leak in the report service exhausted the pool by noon.",
+      "exampleZh": "报表服务的连接泄漏到中午把连接池耗尽了。",
       "category": "it"
     },
     {
       "word": "thread dump",
       "phonetic": "/θred dʌmp/",
       "meaning": "线程转储",
-      "example": "We will verify the thread dump after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个线程转储。",
+      "example": "The thread dump shows every worker waiting on the same database lock.",
+      "exampleZh": "线程转储显示，每个工作线程都在等同一把数据库锁。",
       "category": "it"
     },
     {
       "word": "heap dump",
       "phonetic": "/hiːp dʌmp/",
       "meaning": "堆转储",
-      "example": "Please test the heap dump on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个堆转储。",
+      "example": "The heap dump from the order service is full of cached patient charts.",
+      "exampleZh": "医嘱服务的堆转储里堆满了缓存下来的患者病历。",
       "category": "it"
     },
     {
       "word": "garbage collection",
       "phonetic": "/ˈɡɑːbɪdʒ kəˈlekʃn/",
       "meaning": "垃圾回收",
-      "example": "Please test the garbage collection on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个垃圾回收。",
+      "example": "Garbage collection paused the order service long enough for doctors to notice.",
+      "exampleZh": "垃圾回收把医嘱服务暂停到医生能感觉到。",
       "category": "it"
     },
     {
       "word": "out of memory",
       "phonetic": "/aʊt əv ˈmeməri/",
       "meaning": "内存耗尽",
-      "example": "The ward asked us to check the out of memory.",
-      "exampleZh": "病区让我们看一下这个内存耗尽。",
+      "example": "Out of memory killed the report service while the morning census was running.",
+      "exampleZh": "早晨在院统计还在跑时，内存耗尽把报表服务杀掉了。",
       "category": "it"
     }
   ]

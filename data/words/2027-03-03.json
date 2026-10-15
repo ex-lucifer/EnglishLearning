@@ -5,80 +5,80 @@
       "word": "improve",
       "phonetic": "/ɪmˈpruːv/",
       "meaning": "改进",
-      "example": "We still need to improve this.",
-      "exampleZh": "这件事还得改进。",
+      "example": "Improve the way numbers are called so people waiting can actually hear them.",
+      "exampleZh": "请改进叫号方式，让等候的人真的能听清。",
       "category": "office"
     },
     {
       "word": "streamline",
       "phonetic": "/ˈstriːmlaɪn/",
       "meaning": "精简",
-      "example": "We still need to streamline this.",
-      "exampleZh": "这件事还得精简。",
+      "example": "Streamline the sign-in steps so a family is not standing there for long.",
+      "exampleZh": "请精简签到步骤，别让家属在那里站太久。",
       "category": "office"
     },
     {
       "word": "simplify",
       "phonetic": "/ˈsɪmplɪfaɪ/",
       "meaning": "简化",
-      "example": "Who will simplify this after the huddle?",
-      "exampleZh": "晨会后谁来简化？",
+      "example": "Simplify the leave form; a clerk on day one should manage to finish it.",
+      "exampleZh": "请简化请假表，让入职第一天的文员也能填完。",
       "category": "office"
     },
     {
       "word": "standardize",
       "phonetic": "/ˈstændədaɪz/",
       "meaning": "标准化",
-      "example": "Can you standardize it today?",
-      "exampleZh": "你今天能把它标准化吗？",
+      "example": "Standardize the way we label filed copies so every folder matches.",
+      "exampleZh": "请把归档副本的标注方式标准化，让每个文件夹都一致。",
       "category": "office"
     },
     {
       "word": "customize",
       "phonetic": "/ˈkʌstəmaɪz/",
       "meaning": "定制",
-      "example": "Can you customize it today?",
-      "exampleZh": "你今天能把它定制吗？",
+      "example": "Ask whether the supplier can customize desk cards for that meeting room.",
+      "exampleZh": "问问供应商能否为那间会议室定制桌卡。",
       "category": "office"
     },
     {
       "word": "port forward",
       "phonetic": "/pɔːt ˈfɔːwəd/",
       "meaning": "端口转发",
-      "example": "The ward asked us to check the port forward.",
-      "exampleZh": "病区让我们看一下这个端口转发。",
+      "example": "The port forward sends vendor support straight to the PACS admin host.",
+      "exampleZh": "这条端口转发把厂商支持直接送到 PACS 管理主机。",
       "category": "it"
     },
     {
       "word": "DMZ",
       "phonetic": "/ˌdiː em ˈzed/",
       "meaning": "隔离区（Demilitarized Zone）",
-      "example": "Test DMZ (Demilitarized Zone) from the backup site first.",
-      "exampleZh": "请先从备站点测试 DMZ（Demilitarized Zone）。",
+      "example": "DMZ (Demilitarized Zone) holds the patient portal so the ward LAN stays separate.",
+      "exampleZh": "DMZ（隔离区）放着患者门户，病区局域网因此和它隔开。",
       "category": "it"
     },
     {
       "word": "intranet",
       "phonetic": "/ˈɪntrənet/",
       "meaning": "内网",
-      "example": "I logged the intranet in today’s change ticket.",
-      "exampleZh": "我把这个内网记进了今天的变更单。",
+      "example": "Staff open the intranet for policies, but patients never see that site.",
+      "exampleZh": "员工上内网查制度，患者看不到那个站点。",
       "category": "it"
     },
     {
       "word": "extranet",
       "phonetic": "/ˈekstrənet/",
       "meaning": "外联网",
-      "example": "Please test the extranet on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个外联网。",
+      "example": "The extranet lets partner labs upload results without entering our core network.",
+      "exampleZh": "外联网让合作检验所上传结果，而不进入我们的核心网。",
       "category": "it"
     },
     {
       "word": "internet breakout",
       "phonetic": "/ˈɪntənet ˈbreɪkaʊt/",
       "meaning": "上网出口",
-      "example": "The ward asked us to check the internet breakout.",
-      "exampleZh": "病区让我们看一下这个上网出口。",
+      "example": "All clinic browsing leaves through the east internet breakout during office hours.",
+      "exampleZh": "上班时间，门诊上网流量都从东侧上网出口出去。",
       "category": "it"
     }
   ]

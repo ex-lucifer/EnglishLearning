@@ -5,80 +5,80 @@
       "word": "acting",
       "phonetic": "/ˈæktɪŋ/",
       "meaning": "代理的",
-      "example": "She is the acting team lead this week.",
-      "exampleZh": "这周她是代理组长。",
+      "example": "The acting supervisor can approve leave requests until June.",
+      "exampleZh": "在六月之前，代理主管可以批准请假。",
       "category": "office"
     },
     {
       "word": "interim",
       "phonetic": "/ˈɪntərɪm/",
       "meaning": "临时的",
-      "example": "He is the interim clerk until Friday.",
-      "exampleZh": "周五前他是临时文员。",
+      "example": "An interim lead will run the desk while she is away on leave.",
+      "exampleZh": "她休假期间，由一位临时负责人来看这个柜台。",
       "category": "office"
     },
     {
       "word": "permanent",
       "phonetic": "/ˈpɜːmənənt/",
       "meaning": "正式的",
-      "example": "This is now a permanent post.",
-      "exampleZh": "这个岗位现在是正式编制。",
+      "example": "The permanent post will be advertised once probation decisions are done.",
+      "exampleZh": "试用期的决定做出之后，这个正式岗位就会对外公布。",
       "category": "office"
     },
     {
       "word": "temporary",
       "phonetic": "/ˈtemprəri/",
       "meaning": "临时的",
-      "example": "We hired temporary cover for night shift.",
-      "exampleZh": "我们招了临时人员顶夜班。",
+      "example": "We took on temporary clerks for the winter registration rush.",
+      "exampleZh": "我们为冬季挂号高峰招了临时文员。",
       "category": "office"
     },
     {
       "word": "full-time",
       "phonetic": "/fʊl taɪm/",
       "meaning": "全职的",
-      "example": "The vacancy is full-time.",
-      "exampleZh": "这个空缺是全职。",
+      "example": "The full-time opening at reception closes for applications on Friday.",
+      "exampleZh": "接待处这个全职空缺，周五停止接受申请。",
       "category": "office"
     },
     {
       "word": "uncorrectable error",
       "phonetic": "/ˌʌnkəˈrektəbl ˈerə/",
       "meaning": "不可纠正错误",
-      "example": "Who is on call for the uncorrectable error this week?",
-      "exampleZh": "这周这个不可纠正错误谁值班？",
+      "example": "An uncorrectable error on disk five means the array can no longer repair that block.",
+      "exampleZh": "五号盘出现不可纠正错误，阵列已经修不好那个块了。",
       "category": "it"
     },
     {
       "word": "reallocated sector",
       "phonetic": "/ˌriːˈæləkeɪtɪd ˈsektə/",
       "meaning": "重映射扇区",
-      "example": "Who is on call for the reallocated sector this week?",
-      "exampleZh": "这周这个重映射扇区谁值班？",
+      "example": "The reallocated sector count on disk five jumped overnight, so order a replacement.",
+      "exampleZh": "五号盘的重映射扇区计数夜里跳了一截，去订一块替换盘。",
       "category": "it"
     },
     {
       "word": "spin-up",
       "phonetic": "/spɪn ʌp/",
       "meaning": "磁盘启动",
-      "example": "Who is on call for the spin-up this week?",
-      "exampleZh": "这周这个磁盘启动谁值班？",
+      "example": "Spin-up of the archive shelves takes almost a minute after the nightly idle.",
+      "exampleZh": "夜间休眠之后，归档盘柜的磁盘启动差不多要一分钟。",
       "category": "it"
     },
     {
       "word": "head crash",
       "phonetic": "/hed kræʃ/",
       "meaning": "磁头损坏",
-      "example": "The ward asked us to check the head crash.",
-      "exampleZh": "病区让我们看一下这个磁头损坏。",
+      "example": "A head crash on that old shelf destroyed the only copy of the 2014 studies.",
+      "exampleZh": "那个旧盘柜磁头损坏，把 2014 年检查的唯一副本毁了。",
       "category": "it"
     },
     {
       "word": "SSD",
       "phonetic": "/ˌes es ˈdiː/",
       "meaning": "固态硬盘（Solid State Drive）",
-      "example": "Check the SSD (Solid State Drive) in the computer room.",
-      "exampleZh": "请到机房检查 SSD（Solid State Drive）。",
+      "example": "Put the database on SSD (Solid State Drive) and leave the bulk images on spinning disks.",
+      "exampleZh": "数据库放在 SSD（固态硬盘）上，大批影像仍放在机械盘上。",
       "category": "it"
     }
   ]

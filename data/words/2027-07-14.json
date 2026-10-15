@@ -5,80 +5,80 @@
       "word": "title",
       "phonetic": "/ˈtaɪtl/",
       "meaning": "职务名称",
-      "example": "Could you send the title to the project group?",
-      "exampleZh": "你能把职务名称发到项目群吗？",
+      "example": "The title on her desk card should say senior clerk.",
+      "exampleZh": "她桌牌上的职务名称应该写资深文员。",
       "category": "office"
     },
     {
       "word": "reporting line",
       "phonetic": "/rɪˈpɔːtɪŋ laɪn/",
       "meaning": "汇报关系",
-      "example": "We talked about the reporting line with the department head.",
-      "exampleZh": "我们和科主任谈了这个汇报关系。",
+      "example": "Her reporting line goes straight to the front-desk supervisor.",
+      "exampleZh": "她的汇报关系直接对到前台主管。",
       "category": "office"
     },
     {
       "word": "dotted line",
       "phonetic": "/ˈdɒtɪd laɪn/",
       "meaning": "虚线汇报",
-      "example": "Could you send the dotted line to the project group?",
-      "exampleZh": "你能把虚线汇报发到项目群吗？",
+      "example": "He also has a dotted line into the project office.",
+      "exampleZh": "他同时还向项目办做虚线汇报。",
       "category": "office"
     },
     {
       "word": "solid line",
       "phonetic": "/ˈsɒlɪd laɪn/",
       "meaning": "实线汇报",
-      "example": "I put the solid line on the shared drive.",
-      "exampleZh": "我把实线汇报放到了共享盘。",
+      "example": "Her solid line goes to the information-center director.",
+      "exampleZh": "她的实线汇报对象是信息中心主任。",
       "category": "office"
     },
     {
       "word": "span of control",
       "phonetic": "/spæn əv kənˈtrəʊl/",
       "meaning": "管理幅度",
-      "example": "We talked about the span of control with the department head.",
-      "exampleZh": "我们和科主任谈了这个管理幅度。",
+      "example": "His span of control now covers twelve clerks at registration.",
+      "exampleZh": "他现在的管理幅度覆盖挂号处的十二名文员。",
       "category": "office"
     },
     {
       "word": "degraded array",
       "phonetic": "/dɪˈɡreɪdɪd əˈreɪ/",
       "meaning": "降级阵列",
-      "example": "Who is on call for the degraded array this week?",
-      "exampleZh": "这周这个降级阵列谁值班？",
+      "example": "The degraded array is still serving images, but a second disk failure would stop it.",
+      "exampleZh": "降级阵列还在出图像，但再坏一块盘它就会停。",
       "category": "it"
     },
     {
       "word": "failed disk",
       "phonetic": "/feɪld dɪsk/",
       "meaning": "故障磁盘",
-      "example": "Do not touch the failed disk during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个故障磁盘。",
+      "example": "Pull the failed disk from slot four only after the hot spare has finished rebuilding.",
+      "exampleZh": "等热备盘重建完，再从四号槽拔出故障磁盘。",
       "category": "it"
     },
     {
       "word": "predictive failure",
       "phonetic": "/prɪˈdɪktɪv ˈfeɪljə/",
       "meaning": "预警故障",
-      "example": "We will verify the predictive failure after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个预警故障。",
+      "example": "Predictive failure on disk two means we should replace it before the array degrades.",
+      "exampleZh": "二号盘已经预警故障，应该在阵列降级之前把它换掉。",
       "category": "it"
     },
     {
       "word": "SMART",
       "phonetic": "/smɑːt/",
       "meaning": "磁盘健康监测（Self-Monitoring, Analysis and Reporting Technology）",
-      "example": "Do not move the SMART (Self-Monitoring, Analysis and Reporting Technology) during outpatient hours.",
-      "exampleZh": "门诊时段不要挪动 SMART（Self-Monitoring, Analysis and Reporting Technology）。",
+      "example": "SMART (Self-Monitoring, Analysis and Reporting Technology) flagged disk two a week before it failed.",
+      "exampleZh": "SMART（磁盘健康监测）在二号盘坏掉前一周就报了警。",
       "category": "it"
     },
     {
       "word": "bad sector",
       "phonetic": "/bæd ˈsektə/",
       "meaning": "坏扇区",
-      "example": "Do not touch the bad sector during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个坏扇区。",
+      "example": "A growing bad sector count on disk five is why that virtual disk feels slow.",
+      "exampleZh": "五号盘的坏扇区越来越多，那块虚拟磁盘因此变慢。",
       "category": "it"
     }
   ]

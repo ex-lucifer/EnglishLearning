@@ -5,80 +5,80 @@
       "word": "guideline",
       "phonetic": "/ˈɡaɪdlaɪn/",
       "meaning": "指引",
-      "example": "Could you send the guideline to the project group?",
-      "exampleZh": "你能把指引发到项目群吗？",
+      "example": "The guideline allows flex time as long as core hours are covered.",
+      "exampleZh": "指引允许弹性工时，只要核心工时有人在。",
       "category": "office"
     },
     {
       "word": "procedure",
       "phonetic": "/prəˈsiːdʒə/",
       "meaning": "流程步骤",
-      "example": "Please bring the procedure to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个流程步骤。",
+      "example": "The procedure for a sick call is on the first page of the roster.",
+      "exampleZh": "病假来电的流程步骤写在排班表的第一页。",
       "category": "office"
     },
     {
       "word": "workflow",
       "phonetic": "/ˈwɜːkfləʊ/",
       "meaning": "工作流程",
-      "example": "We talked about the workflow with the department head.",
-      "exampleZh": "我们和科主任谈了这个工作流程。",
+      "example": "The workflow now asks registration to phone the clinic, not the patient.",
+      "exampleZh": "工作流程现在要求挂号处打电话给门诊，而不是打给患者。",
       "category": "office"
     },
     {
       "word": "compliance",
       "phonetic": "/kəmˈplaɪəns/",
       "meaning": "合规",
-      "example": "Who will own the compliance this week?",
-      "exampleZh": "这周这个合规谁来负责？",
+      "example": "Compliance wants evidence that staff have read the privacy memo.",
+      "exampleZh": "合规部门要看到员工已经读过保密备忘的证据。",
       "category": "office"
     },
     {
       "word": "audit",
       "phonetic": "/ˈɔːdɪt/",
       "meaning": "审计",
-      "example": "Please add the audit to today’s notes.",
-      "exampleZh": "请把审计写进今天的记录。",
+      "example": "During the audit they may ask who holds the spare stamp.",
+      "exampleZh": "审计时他们可能会问备用公章在谁手里。",
       "category": "office"
     },
     {
       "word": "nurse-station PC",
       "phonetic": "/nɜːs ˈsteɪʃn piː siː/",
       "meaning": "护士站电脑",
-      "example": "The ward asked us to check the nurse-station PC.",
-      "exampleZh": "病区让我们看一下这个护士站电脑。",
+      "example": "The nurse-station PC froze while printing the morning medication list.",
+      "exampleZh": "打印早晨用药清单时，护士站电脑卡死了。",
       "category": "it"
     },
     {
       "word": "OR workstation",
       "phonetic": "/əʊ ɑː ˈwɜːksteɪʃn/",
       "meaning": "手术室工作站",
-      "example": "I logged the OR workstation in today’s change ticket.",
-      "exampleZh": "我把这个手术室工作站记进了今天的变更单。",
+      "example": "The OR workstation lost the schedule halfway through the first case.",
+      "exampleZh": "手术室工作站在第一台手术做到一半时把排班弄丢了。",
       "category": "it"
     },
     {
       "word": "radiology workstation",
       "phonetic": "/ˌreɪdiˈɒlədʒi ˈwɜːksteɪʃn/",
       "meaning": "放射工作站",
-      "example": "The ward asked us to check the radiology workstation.",
-      "exampleZh": "病区让我们看一下这个放射工作站。",
+      "example": "The radiology workstation cannot load yesterday's MR images.",
+      "exampleZh": "放射工作站加载不了昨天的磁共振图像。",
       "category": "it"
     },
     {
       "word": "PACS viewer",
       "phonetic": "/pæks ˈvjuːə/",
       "meaning": "影像浏览器（Picture Archiving and Communication System）",
-      "example": "I logged the PACS viewer in today’s change ticket.",
-      "exampleZh": "我把这个影像浏览器记进了今天的变更单。",
+      "example": "The PACS viewer shows the report but leaves the images blank.",
+      "exampleZh": "影像浏览器看得到报告，图像却是空的。",
       "category": "it"
     },
     {
       "word": "dictation",
       "phonetic": "/dɪkˈteɪʃn/",
       "meaning": "语音口述",
-      "example": "I logged the dictation in today’s change ticket.",
-      "exampleZh": "我把这个语音口述记进了今天的变更单。",
+      "example": "Dictation from the night radiologist never reached the report queue.",
+      "exampleZh": "夜班放射医生的语音口述没有进报告队列。",
       "category": "it"
     }
   ]

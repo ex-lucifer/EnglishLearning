@@ -5,80 +5,80 @@
       "word": "adapt",
       "phonetic": "/əˈdæpt/",
       "meaning": "调整适应",
-      "example": "Please adapt this before you leave.",
-      "exampleZh": "走之前请把这件事调整适应。",
+      "example": "Give the new clerks time to adapt before you judge how fast they work.",
+      "exampleZh": "在评价新文员干活快慢之前，先给他们时间调整适应。",
       "category": "office"
     },
     {
       "word": "adjust",
       "phonetic": "/əˈdʒʌst/",
       "meaning": "微调",
-      "example": "Can you adjust it today?",
-      "exampleZh": "你今天能把它微调吗？",
+      "example": "Adjust the seat list slightly so both interpreters sit side by side.",
+      "exampleZh": "请微调座位名单，让两位口译员并排就坐。",
       "category": "office"
     },
     {
       "word": "document",
       "phonetic": "/ˈdɒkjument/",
       "meaning": "形成书面记录",
-      "example": "Can you document it today?",
-      "exampleZh": "你今天能把它形成书面记录吗？",
+      "example": "Document the decisions in writing before the room empties.",
+      "exampleZh": "在人走光之前，请把各项决定形成书面记录。",
       "category": "office"
     },
     {
       "word": "record",
       "phonetic": "/rɪˈkɔːd/",
       "meaning": "记录",
-      "example": "Who will record this after the huddle?",
-      "exampleZh": "晨会后谁来记录？",
+      "example": "Record how the vote went before people start leaving the room.",
+      "exampleZh": "在大家开始离场之前，请记录表决的结果。",
       "category": "office"
     },
     {
       "word": "note",
       "phonetic": "/nəʊt/",
       "meaning": "记下",
-      "example": "Please note this before you leave.",
-      "exampleZh": "走之前请把这件事记下。",
+      "example": "Note the names of anyone who came in late on the paper list.",
+      "exampleZh": "请在纸质名单上记下所有迟到者的姓名。",
       "category": "office"
     },
     {
       "word": "proxy bypass",
       "phonetic": "/ˈprɒksi ˈbaɪpɑːs/",
       "meaning": "绕过代理",
-      "example": "The vendor asked for a screenshot of the proxy bypass.",
-      "exampleZh": "厂商要一张这个绕过代理的截图。",
+      "example": "A proxy bypass for the local PACS viewer keeps images from loading slowly.",
+      "exampleZh": "本地 PACS 阅片端绕过代理之后，图像才不会加载得很慢。",
       "category": "it"
     },
     {
       "word": "PAC file",
       "phonetic": "/pæk faɪl/",
       "meaning": "代理自动配置",
-      "example": "We will verify the PAC file after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个代理自动配置。",
+      "example": "The PAC file sends clinic browsers to the proxy and skips local servers.",
+      "exampleZh": "这份代理自动配置把门诊浏览器送到代理，并跳过本地服务器。",
       "category": "it"
     },
     {
       "word": "DNS cache",
       "phonetic": "/ˌdiː en ˈes kæʃ/",
       "meaning": "域名缓存",
-      "example": "Do not touch the DNS cache during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个域名缓存。",
+      "example": "The DNS cache on this PC still points HIS to the old address.",
+      "exampleZh": "这台电脑的域名缓存还把 HIS 指到旧地址。",
       "category": "it"
     },
     {
       "word": "flush DNS",
       "phonetic": "/flʌʃ ˌdiː en ˈes/",
       "meaning": "刷新域名缓存",
-      "example": "Flush DNS on the nurse station if the portal still points to the old IP.",
-      "exampleZh": "门户还指向旧地址的话，请在护士站刷新域名缓存。",
+      "example": "Flush DNS on the registration PC before you retry the new HIS name.",
+      "exampleZh": "在挂号电脑上先刷新域名缓存，再试新的 HIS 名称。",
       "category": "it"
     },
     {
       "word": "hosts file",
       "phonetic": "/həʊsts faɪl/",
       "meaning": "主机映射文件",
-      "example": "We will verify the hosts file after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个主机映射文件。",
+      "example": "Someone put a stale lab address in the hosts file on that counter PC.",
+      "exampleZh": "有人在那台窗口电脑的主机映射文件里写了一个过期的检验地址。",
       "category": "it"
     }
   ]

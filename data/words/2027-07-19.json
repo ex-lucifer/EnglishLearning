@@ -5,80 +5,80 @@
       "word": "part-time",
       "phonetic": "/pɑːt taɪm/",
       "meaning": "兼职的",
-      "example": "We only need part-time cover on weekends.",
-      "exampleZh": "周末只需要兼职顶班。",
+      "example": "A part-time clerk covers the enquiry desk on Saturday mornings.",
+      "exampleZh": "周六上午由一名兼职文员看咨询台。",
       "category": "office"
     },
     {
       "word": "contract staff",
       "phonetic": "/ˈkɒntrækt stɑːf/",
       "meaning": "合同制员工",
-      "example": "The contract staff still needs a decision today.",
-      "exampleZh": "这个合同制员工今天还得拍个板。",
+      "example": "Contract staff renew their contracts at the close of each year.",
+      "exampleZh": "合同制员工在每年年底续签合同。",
       "category": "office"
     },
     {
       "word": "agency staff",
       "phonetic": "/ˈeɪdʒənsi stɑːf/",
       "meaning": "派遣员工",
-      "example": "Please add the agency staff to today’s notes.",
-      "exampleZh": "请把派遣员工写进今天的记录。",
+      "example": "Agency staff need their sponsor's signature before the first shift.",
+      "exampleZh": "派遣员工第一次上班之前，需要担保人签字。",
       "category": "office"
     },
     {
       "word": "locum",
       "phonetic": "/ˈləʊkəm/",
       "meaning": "代班人员",
-      "example": "Could you send the locum to the project group?",
-      "exampleZh": "你能把代班人员发到项目群吗？",
+      "example": "A locum will cover the registration counter all of next week.",
+      "exampleZh": "下周挂号柜台全程由代班人员顶着。",
       "category": "office"
     },
     {
       "word": "floater",
       "phonetic": "/ˈfləʊtə/",
       "meaning": "机动人员",
-      "example": "Please add the floater to today’s notes.",
-      "exampleZh": "请把机动人员写进今天的记录。",
+      "example": "The floater moves between counters whenever one queue grows long.",
+      "exampleZh": "哪边队伍一变长，机动人员就调到哪个柜台。",
       "category": "office"
     },
     {
       "word": "HDD",
       "phonetic": "/ˌeɪtʃ diː ˈdiː/",
       "meaning": "机械硬盘（Hard Disk Drive）",
-      "example": "Check the HDD (Hard Disk Drive) in the computer room.",
-      "exampleZh": "请到机房检查 HDD（Hard Disk Drive）。",
+      "example": "The HDD (Hard Disk Drive) in the archive shelf is louder and slower than the new flash tier.",
+      "exampleZh": "归档柜里的 HDD（机械硬盘）比新的闪存层更吵，也更慢。",
       "category": "it"
     },
     {
       "word": "NVMe",
       "phonetic": "/ˌen viː em ˈiː/",
       "meaning": "高速固态接口（Non-Volatile Memory Express）",
-      "example": "Check the NVMe (Non-Volatile Memory Express) in the computer room.",
-      "exampleZh": "请到机房检查 NVMe（Non-Volatile Memory Express）。",
+      "example": "NVMe (Non-Volatile Memory Express) on the database host made log writes several times faster.",
+      "exampleZh": "数据库主机上的 NVMe（高速固态接口）让日志写入快了好几倍。",
       "category": "it"
     },
     {
       "word": "SATA",
       "phonetic": "/ˈsɑːtə/",
       "meaning": "串口硬盘接口（Serial ATA）",
-      "example": "Replace the SATA (Serial ATA) after hours.",
-      "exampleZh": "下班后再更换 SATA（Serial ATA）。",
+      "example": "The SATA (Serial ATA) bay in this old host is too slow for the database logs.",
+      "exampleZh": "这台旧主机上的 SATA（串口硬盘接口）盘位对数据库日志来说太慢。",
       "category": "it"
     },
     {
       "word": "SAS",
       "phonetic": "/sæs/",
       "meaning": "服务器硬盘接口（Serial Attached SCSI）",
-      "example": "Do not move the SAS (Serial Attached SCSI) during outpatient hours.",
-      "exampleZh": "门诊时段不要挪动 SAS（Serial Attached SCSI）。",
+      "example": "Use SAS (Serial Attached SCSI) disks in the array; the SATA bay is only for the boot device.",
+      "exampleZh": "阵列里用 SAS（服务器硬盘接口）盘，SATA 盘位只留给启动盘。",
       "category": "it"
     },
     {
       "word": "M.2",
       "phonetic": "/em tɔɪnt tuː/",
       "meaning": "板载固态接口",
-      "example": "Please test the M.2 on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个板载固态接口。",
+      "example": "The M.2 boot drive on this host is loose, and the server drops into setup.",
+      "exampleZh": "这台主机的 M.2 启动盘松了，服务器会掉进设置界面。",
       "category": "it"
     }
   ]

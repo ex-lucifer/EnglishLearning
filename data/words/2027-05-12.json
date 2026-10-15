@@ -5,80 +5,80 @@
       "word": "ETD",
       "phonetic": "/ˌiː tiː ˈdiː/",
       "meaning": "预计出发时间（Estimated Time of Departure）",
-      "example": "Confirm the ambulance ETD (estimated time of departure).",
-      "exampleZh": "请确认救护车的 ETD（预计出发时间）。",
+      "example": "The minibus ETD (Estimated Time of Departure) is half past four.",
+      "exampleZh": "小巴的预计出发时间是四点半。",
       "category": "office"
     },
     {
       "word": "TBA",
       "phonetic": "/ˌtiː biː ˈeɪ/",
       "meaning": "待公布（To Be Announced）",
-      "example": "The room is TBA (to be announced) on the invite.",
-      "exampleZh": "邀请上房间还是 TBA（待公布）。",
+      "example": "Friday's guest speaker is TBA (To Be Announced) until the bureau confirms.",
+      "exampleZh": "在局里确认之前，周五的嘉宾发言人仍待公布。",
       "category": "office"
     },
     {
       "word": "TBD",
       "phonetic": "/ˌtiː biː ˈdiː/",
       "meaning": "待确定（To Be Determined）",
-      "example": "The owner is still TBD (to be determined).",
-      "exampleZh": "负责人还是 TBD（待确定）。",
+      "example": "Which room we use for the hearing is TBD (To Be Determined).",
+      "exampleZh": "听证会用哪一间房，还待确定。",
       "category": "office"
     },
     {
       "word": "N/A",
       "phonetic": "/en ˈeɪ/",
       "meaning": "不适用（Not Applicable）",
-      "example": "Mark unused fields N/A (not applicable), do not leave them empty.",
-      "exampleZh": "用不到的栏位请填 N/A（不适用），不要空着。",
+      "example": "If there is no staff number, write N/A (Not Applicable) in that box.",
+      "exampleZh": "如果没有工号，请在那一栏填写不适用。",
       "category": "office"
     },
     {
       "word": "WIP",
       "phonetic": "/ˌdʌbljuː aɪ ˈpiː/",
       "meaning": "进行中工作（Work in Progress）",
-      "example": "This request is still WIP (work in progress).",
-      "exampleZh": "这个请求还是 WIP（进行中）。",
+      "example": "Leave the roster edit as WIP (Work in Progress) until payroll agrees.",
+      "exampleZh": "在薪酬处同意之前，这次排班修改先保持为进行中工作。",
       "category": "office"
     },
     {
       "word": "vulnerability CVE",
       "phonetic": "/ˌvʌlnərəˈbɪləti ˌsiː viː ˈiː/",
       "meaning": "镜像漏洞编号",
-      "example": "The vendor asked for a screenshot of the vulnerability CVE.",
-      "exampleZh": "厂商要一张这个镜像漏洞编号的截图。",
+      "example": "This vulnerability CVE in the base image is why we rebuilt the lab API today.",
+      "exampleZh": "基础镜像里的这个镜像漏洞编号，就是我们今天重建检验接口的原因。",
       "category": "it"
     },
     {
       "word": "base image",
       "phonetic": "/beɪs ˈɪmɪdʒ/",
       "meaning": "基础镜像",
-      "example": "Do not touch the base image during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个基础镜像。",
+      "example": "The base image we used last month now has a critical flaw in its library.",
+      "exampleZh": "我们上个月用的基础镜像，现在它的库里有一个严重缺陷。",
       "category": "it"
     },
     {
       "word": "distroless",
       "phonetic": "/ˈdɪstrəʊləs/",
       "meaning": "精简镜像",
-      "example": "Who is on call for the distroless this week?",
-      "exampleZh": "这周这个精简镜像谁值班？",
+      "example": "The distroless build dropped the shell, so we debug the lab API from the sidecar.",
+      "exampleZh": "精简镜像的构建去掉了 shell，我们只能从边车容器调试检验接口。",
       "category": "it"
     },
     {
       "word": "rootless",
       "phonetic": "/ˈruːtləs/",
       "meaning": "非特权运行",
-      "example": "Run the helper as a rootless service.",
-      "exampleZh": "这个助手请按非特权方式运行。",
+      "example": "Run the results container rootless so a break-in cannot own the worker.",
+      "exampleZh": "让结果容器以非特权方式运行，就算被突破也拿不下工作节点。",
       "category": "it"
     },
     {
       "word": "read-only root",
       "phonetic": "/riːd ˈəʊnli ruːt/",
       "meaning": "只读根文件系统",
-      "example": "The vendor asked for a screenshot of the read-only root.",
-      "exampleZh": "厂商要一张这个只读根文件系统的截图。",
+      "example": "A read-only root stopped the bad script from writing into the container filesystem.",
+      "exampleZh": "只读根文件系统拦住了那个坏脚本，它写不进容器的文件系统。",
       "category": "it"
     }
   ]

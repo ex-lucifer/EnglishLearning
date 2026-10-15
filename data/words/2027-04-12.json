@@ -5,80 +5,80 @@
       "word": "post-meeting note",
       "phonetic": "/pəʊst ˈmiːtɪŋ nəʊt/",
       "meaning": "会后说明",
-      "example": "Could you send the post-meeting note to the project group?",
-      "exampleZh": "你能把会后说明发到项目群吗？",
+      "example": "I can circulate the post-meeting note before I leave this evening.",
+      "exampleZh": "我今晚离开之前可以把会后说明传阅出去。",
       "category": "office"
     },
     {
       "word": "action log",
       "phonetic": "/ˈækʃn lɒɡ/",
       "meaning": "行动清单",
-      "example": "I put the action log on the shared drive.",
-      "exampleZh": "我把行动清单放到了共享盘。",
+      "example": "Put the due date and the responsible person on the action log.",
+      "exampleZh": "请在行动清单上写上到期日和负责人。",
       "category": "office"
     },
     {
       "word": "risk log",
       "phonetic": "/rɪsk lɒɡ/",
       "meaning": "风险台账",
-      "example": "Who will own the risk log this week?",
-      "exampleZh": "这周这个风险台账谁来负责？",
+      "example": "The printer shortage belongs on the risk log for go-live week.",
+      "exampleZh": "打印机不够这件事，应该记入上线那周的风险台账。",
       "category": "office"
     },
     {
       "word": "issue log",
       "phonetic": "/ˈɪʃuː lɒɡ/",
       "meaning": "问题台账",
-      "example": "Please bring the issue log to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个问题台账。",
+      "example": "Those missing badges have already been written on the issue log.",
+      "exampleZh": "那些不见的工牌已经写进问题台账了。",
       "category": "office"
     },
     {
       "word": "decision register",
       "phonetic": "/dɪˈsɪʒn ˈredʒɪstə/",
       "meaning": "决策台账",
-      "example": "Who will own the decision register this week?",
-      "exampleZh": "这周这个决策台账谁来负责？",
+      "example": "Before we adjourn, enter that decision in the decision register.",
+      "exampleZh": "散会前，请把那项决定记入决策台账。",
       "category": "office"
     },
     {
       "word": "time drift",
       "phonetic": "/taɪm drɪft/",
       "meaning": "时间漂移",
-      "example": "The vendor asked for a screenshot of the time drift.",
-      "exampleZh": "厂商要一张这个时间漂移的截图。",
+      "example": "Time drift on the lab PCs passed five minutes, and ticket logons began to fail.",
+      "exampleZh": "实验室电脑的时间漂移超过五分钟后，票据登录开始失败。",
       "category": "it"
     },
     {
       "word": "clock skew",
       "phonetic": "/klɒk skjuː/",
       "meaning": "时钟偏差",
-      "example": "The vendor asked for a screenshot of the clock skew.",
-      "exampleZh": "厂商要一张这个时钟偏差的截图。",
+      "example": "Clock skew between the two domain controllers broke logons in the east clinic.",
+      "exampleZh": "两台域控制器之间的时钟偏差，让东门诊登录失败了。",
       "category": "it"
     },
     {
       "word": "Kerberos",
       "phonetic": "/ˈkɜːbərəs/",
       "meaning": "票据认证",
-      "example": "We will verify the Kerberos after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个票据认证。",
+      "example": "Kerberos rejected the lab PCs because their clocks were six minutes fast.",
+      "exampleZh": "实验室电脑的时钟快了六分钟，Kerberos 把它们拒绝了。",
       "category": "it"
     },
     {
       "word": "NTLM",
       "phonetic": "/ˌen tiː el ˈem/",
       "meaning": "Windows认证（NT LAN Manager）",
-      "example": "Document NTLM (NT LAN Manager) in the interface spec.",
-      "exampleZh": "接口说明里请写上 NTLM（NT LAN Manager）。",
+      "example": "NTLM (NT LAN Manager) is still required by one old instrument in microbiology.",
+      "exampleZh": "微生物室有一台旧仪器还要求用 NTLM（Windows认证）。",
       "category": "it"
     },
     {
       "word": "token cache",
       "phonetic": "/ˈtəʊkən kæʃ/",
       "meaning": "令牌缓存",
-      "example": "Please test the token cache on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个令牌缓存。",
+      "example": "Clear the token cache on her PC if the new group rights still do not apply.",
+      "exampleZh": "如果新的组权限还没生效，就清掉她电脑上的令牌缓存。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "changing room",
       "phonetic": "/ˈtʃeɪndʒɪŋ ruːm/",
       "meaning": "更衣室",
-      "example": "The changing room still needs a decision today.",
-      "exampleZh": "这个更衣室今天还得拍个板。",
+      "example": "The changing room on this floor is for hospital staff only.",
+      "exampleZh": "这层楼的更衣室只供医院员工使用。",
       "category": "office"
     },
     {
       "word": "storage room",
       "phonetic": "/ˈstɔːrɪdʒ ruːm/",
       "meaning": "库房",
-      "example": "We talked about the storage room with the department head.",
-      "exampleZh": "我们和科主任谈了这个库房。",
+      "example": "Spare visitor badges are kept in the storage room behind reception.",
+      "exampleZh": "备用的访客工牌放在接待处后面的库房里。",
       "category": "office"
     },
     {
       "word": "records room",
       "phonetic": "/ˈrekɔːdz ruːm/",
       "meaning": "病案室",
-      "example": "I put the records room on the shared drive.",
-      "exampleZh": "我把病案室放到了共享盘。",
+      "example": "The records room closes fifteen minutes before the main counter.",
+      "exampleZh": "病案室比总柜台早十五分钟关门。",
       "category": "office"
     },
     {
       "word": "medical records",
       "phonetic": "/ˈmedɪkl ˈrekɔːdz/",
       "meaning": "病案",
-      "example": "Please bring the medical records to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个病案。",
+      "example": "Medical records can leave the room only with a signed request.",
+      "exampleZh": "病案只有凭签字申请才能拿出房间。",
       "category": "office"
     },
     {
       "word": "chart request",
       "phonetic": "/tʃɑːt rɪˈkwest/",
       "meaning": "调阅病历",
-      "example": "We talked about the chart request with the department head.",
-      "exampleZh": "我们和科主任谈了这个调阅病历。",
+      "example": "A chart request from the outpatient clinic is waiting on this counter.",
+      "exampleZh": "门诊提交的调阅病历申请正在这个柜台等着办。",
       "category": "office"
     },
     {
       "word": "shares",
       "phonetic": "/ʃeəz/",
       "meaning": "资源份额",
-      "example": "I logged the shares in today’s change ticket.",
-      "exampleZh": "我把这个资源份额记进了今天的变更单。",
+      "example": "Raise the CPU shares for the pharmacy VM during the morning dispensing peak.",
+      "exampleZh": "早晨发药高峰时，把药房虚拟机的处理器资源份额调高。",
       "category": "it"
     },
     {
       "word": "ballooning",
       "phonetic": "/bəˈluːnɪŋ/",
       "meaning": "内存回收",
-      "example": "Please test the ballooning on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个内存回收。",
+      "example": "Ballooning on host two started when the lab VMs grabbed the free memory.",
+      "exampleZh": "实验室虚拟机把空闲内存抢走之后，二号主机上的内存回收开始了。",
       "category": "it"
     },
     {
       "word": "swap file",
       "phonetic": "/swɒp faɪl/",
       "meaning": "交换文件",
-      "example": "We will verify the swap file after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个交换文件。",
+      "example": "The swap file for the HIS VM grew when the host ran out of physical memory.",
+      "exampleZh": "主机物理内存用尽时，HIS 虚拟机的交换文件变大了。",
       "category": "it"
     },
     {
       "word": "CPU ready",
       "phonetic": "/ˌsiː piː ˈjuː ˈredi/",
       "meaning": "处理器等待",
-      "example": "Do not touch the CPU ready during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个处理器等待。",
+      "example": "CPU ready on the HIS VM climbed at 09:00, and the clinic screens lagged.",
+      "exampleZh": "09:00 时 HIS 虚拟机的处理器等待升高，门诊界面开始卡。",
       "category": "it"
     },
     {
       "word": "co-stop",
       "phonetic": "/kəʊ stɒp/",
       "meaning": "共同停顿",
-      "example": "Do not touch the co-stop during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个共同停顿。",
+      "example": "Co-stop spiked because the wide HIS VM could not schedule all its processors together.",
+      "exampleZh": "共同停顿飙高了，因为那台处理器很多的 HIS 虚拟机没法同时排上全部处理器。",
       "category": "it"
     }
   ]

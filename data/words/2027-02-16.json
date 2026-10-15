@@ -5,80 +5,80 @@
       "word": "debrief",
       "phonetic": "/ˌdiːˈbriːf/",
       "meaning": "复盘",
-      "example": "Who will debrief this after the huddle?",
-      "exampleZh": "晨会后谁来复盘？",
+      "example": "We should debrief the spot check while the details are fresh.",
+      "exampleZh": "突击检查的细节还清楚时，我们就该复盘。",
       "category": "office"
     },
     {
       "word": "summarize",
       "phonetic": "/ˈsʌməraɪz/",
       "meaning": "总结",
-      "example": "Who will summarize this after the huddle?",
-      "exampleZh": "晨会后谁来总结？",
+      "example": "Could you summarize the board round for the director in five lines?",
+      "exampleZh": "你能用五行简短的话，给主任总结看板交班吗？",
       "category": "office"
     },
     {
       "word": "highlight",
       "phonetic": "/ˈhaɪlaɪt/",
       "meaning": "标出重点",
-      "example": "We still need to highlight this.",
-      "exampleZh": "这件事还得标出重点。",
+      "example": "Highlight the wards that are above ninety percent occupancy.",
+      "exampleZh": "请标出床位占用率超过百分之九十的病区。",
       "category": "office"
     },
     {
       "word": "emphasize",
       "phonetic": "/ˈemfəsaɪz/",
       "meaning": "强调",
-      "example": "Please emphasize this before you leave.",
-      "exampleZh": "走之前请把这件事强调。",
+      "example": "The chairperson will emphasize confidentiality before any case is discussed.",
+      "exampleZh": "讨论具体案例之前，主持人会先强调保密。",
       "category": "office"
     },
     {
       "word": "compile",
       "phonetic": "/kəmˈpaɪl/",
       "meaning": "汇总",
-      "example": "Can you compile it today?",
-      "exampleZh": "你今天能把它汇总吗？",
+      "example": "Please compile the sick leave figures for the quarterly review.",
+      "exampleZh": "请为季度回顾汇总病假数字。",
       "category": "office"
     },
     {
       "word": "kernel",
       "phonetic": "/ˈkɜːnl/",
       "meaning": "内核",
-      "example": "The vendor asked for a screenshot of the kernel.",
-      "exampleZh": "厂商要一张这个内核的截图。",
+      "example": "The kernel on the database host panicked once while the backup was running.",
+      "exampleZh": "备份运行期间，数据库主机的内核恐慌了一次。",
       "category": "it"
     },
     {
       "word": "patch Tuesday",
       "phonetic": "/pætʃ ˈtjuːzdeɪ/",
       "meaning": "补丁日",
-      "example": "The ward asked us to check the patch Tuesday.",
-      "exampleZh": "病区让我们看一下这个补丁日。",
+      "example": "Patch Tuesday updates for clinic PCs wait until Wednesday night.",
+      "exampleZh": "门诊电脑的补丁日更新会留到周三夜里再装。",
       "category": "it"
     },
     {
       "word": "reboot window",
       "phonetic": "/ˌriːˈbuːt ˈwɪndəʊ/",
       "meaning": "重启窗口",
-      "example": "Who is on call for the reboot window this week?",
-      "exampleZh": "这周这个重启窗口谁值班？",
+      "example": "The reboot window for ward PCs opens an hour after the night shift ends.",
+      "exampleZh": "病区电脑的重启窗口在夜班结束一小时后打开。",
       "category": "it"
     },
     {
       "word": "change advisory",
       "phonetic": "/tʃeɪndʒ ədˈvaɪzəri/",
       "meaning": "变更评审",
-      "example": "The ward asked us to check the change advisory.",
-      "exampleZh": "病区让我们看一下这个变更评审。",
+      "example": "Change advisory asked us to move the database cutover off Monday.",
+      "exampleZh": "变更评审要求我们把数据库切换从周一挪走。",
       "category": "it"
     },
     {
       "word": "CAB",
       "phonetic": "/kæb/",
       "meaning": "变更顾问委员会（Change Advisory Board）",
-      "example": "Escalate to the CAB (Change Advisory Board) if it is still stuck.",
-      "exampleZh": "还卡住的话，升级给 CAB（Change Advisory Board）。",
+      "example": "CAB (Change Advisory Board) approved the pharmacy cutover for Sunday night.",
+      "exampleZh": "CAB（变更顾问委员会）批准了周日夜间的药房切换。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "nonconformity",
       "phonetic": "/ˌnɒnkənˈfɔːməti/",
       "meaning": "不符合项",
-      "example": "Please bring the nonconformity to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个不符合项。",
+      "example": "That nonconformity must be closed before the surveyors return.",
+      "exampleZh": "评审员回来之前，那项不符合项必须关闭。",
       "category": "office"
     },
     {
       "word": "CAPA",
       "phonetic": "/ˈkæpə/",
       "meaning": "纠正预防措施（Corrective and Preventive Action）",
-      "example": "Please close this CAPA (corrective and preventive action) before the survey.",
-      "exampleZh": "请在迎检前把这项 CAPA（纠正预防措施）关掉。",
+      "example": "The CAPA (Corrective and Preventive Action) for the patient fall is due in May.",
+      "exampleZh": "这起患者跌倒的 CAPA（纠正预防措施）五月到期。",
       "category": "office"
     },
     {
       "word": "accreditation",
       "phonetic": "/əˌkredɪˈteɪʃn/",
       "meaning": "评审认证",
-      "example": "Who will own the accreditation this week?",
-      "exampleZh": "这周这个评审认证谁来负责？",
+      "example": "We are preparing documents for accreditation in the spring.",
+      "exampleZh": "我们正在为春天的评审认证准备材料。",
       "category": "office"
     },
     {
       "word": "survey",
       "phonetic": "/ˈsɜːveɪ/",
       "meaning": "现场评审",
-      "example": "Please bring the survey to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个现场评审。",
+      "example": "During the survey, reviewers will follow one patient through Radiology.",
+      "exampleZh": "现场评审期间，评审员会跟着一名患者走一遍放射科。",
       "category": "office"
     },
     {
       "word": "tracer",
       "phonetic": "/ˈtreɪsə/",
       "meaning": "追踪检查",
-      "example": "I put the tracer on the shared drive.",
-      "exampleZh": "我把追踪检查放到了共享盘。",
+      "example": "The tracer started at admission and ended at the pharmacy window.",
+      "exampleZh": "这次追踪检查从入院开始，到药房窗口结束。",
       "category": "office"
     },
     {
       "word": "ticket priority",
       "phonetic": "/ˈtɪkɪt praɪˈɒrəti/",
       "meaning": "工单优先级",
-      "example": "Please test the ticket priority on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个工单优先级。",
+      "example": "Ticket priority for a dead medication cart should outrank a lobby kiosk.",
+      "exampleZh": "发药车整机不工作的工单优先级，应该高于大厅自助终端。",
       "category": "it"
     },
     {
       "word": "ticket SLA",
       "phonetic": "/ˈtɪkɪt ˌes el ˈeɪ/",
       "meaning": "工单时限",
-      "example": "Who is on call for the ticket SLA this week?",
-      "exampleZh": "这周这个工单时限谁值班？",
+      "example": "Ticket SLA for a ward printer is four hours while clinic is open.",
+      "exampleZh": "门诊开诊期间，病区打印机的工单时限是四小时。",
       "category": "it"
     },
     {
       "word": "first-time fix",
       "phonetic": "/fɜːst taɪm fɪks/",
       "meaning": "一次解决",
-      "example": "We will verify the first-time fix after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个一次解决。",
+      "example": "First-time fix on password calls fell after the new portal went live.",
+      "exampleZh": "新门户上线之后，密码类来电的一次解决下降了。",
       "category": "it"
     },
     {
       "word": "reopen rate",
       "phonetic": "/ˌriːˈəʊpən reɪt/",
       "meaning": "重开工单率",
-      "example": "We will verify the reopen rate after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个重开工单率。",
+      "example": "Reopen rate on printer tickets rose after we closed them too early.",
+      "exampleZh": "打印机工单关得太早，重开工单率就上去了。",
       "category": "it"
     },
     {
       "word": "mean time to repair",
       "phonetic": "/miːn taɪm tə rɪˈpeə/",
       "meaning": "平均修复时间",
-      "example": "We will verify the mean time to repair after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个平均修复时间。",
+      "example": "Mean time to repair for scanner failures is still over two hours.",
+      "exampleZh": "扫描仪故障的平均修复时间仍然超过两个小时。",
       "category": "it"
     }
   ]

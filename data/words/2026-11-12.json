@@ -5,80 +5,80 @@
       "word": "parking-lot item",
       "phonetic": "/ˈpɑːkɪŋ lɒt ˈaɪtəm/",
       "meaning": "暂记事项",
-      "example": "Could you send the parking-lot item to the project group?",
-      "exampleZh": "你能把暂记事项发到项目群吗？",
+      "example": "The uniform question became a parking-lot item with no time left.",
+      "exampleZh": "时间不够，工装问题成了一条暂记事项。",
       "category": "office"
     },
     {
       "word": "decision log",
       "phonetic": "/dɪˈsɪʒn lɒɡ/",
       "meaning": "决策记录",
-      "example": "Please bring the decision log to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个决策记录。",
+      "example": "Write the agreed visiting hours into the decision log today.",
+      "exampleZh": "今天把商定的探视时间写进决策记录。",
       "category": "office"
     },
     {
       "word": "RACI",
       "phonetic": "/ˈreɪsi/",
       "meaning": "权责矩阵（Responsible, Accountable, Consulted, Informed）",
-      "example": "Please fill the RACI (responsible, accountable, consulted, informed) before kickoff.",
-      "exampleZh": "启动前请把 RACI（权责矩阵）填好。",
+      "example": "Update the RACI (Responsible, Accountable, Consulted, Informed) chart when roles change.",
+      "exampleZh": "岗位一变，就更新 RACI（权责矩阵）表。",
       "category": "office"
     },
     {
       "word": "responsible",
       "phonetic": "/rɪˈspɒnsəbl/",
       "meaning": "负责执行的",
-      "example": "Who is responsible for printing the minutes?",
-      "exampleZh": "会议纪要谁负责打印？",
+      "example": "The ward clerk is responsible for the accuracy of the census.",
+      "exampleZh": "在院人数是否准确，由病区文员负责核对。",
       "category": "office"
     },
     {
       "word": "accountable",
       "phonetic": "/əˈkaʊntəbl/",
       "meaning": "最终负责的",
-      "example": "The department head is accountable for the sign-off.",
-      "exampleZh": "签字由科主任最终负责。",
+      "example": "The team lead is accountable for the final holiday roster.",
+      "exampleZh": "最终的假期排班表由组长负总责。",
       "category": "office"
     },
     {
       "word": "proxy server",
       "phonetic": "/ˈprɒksi ˈsɜːvə/",
       "meaning": "代理服务器",
-      "example": "We will verify the proxy server after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个代理服务器。",
+      "example": "The proxy server blocked the vendor site we need for the scanner update.",
+      "exampleZh": "代理服务器拦住了扫描仪升级要用的厂商网站。",
       "category": "it"
     },
     {
       "word": "backup job",
       "phonetic": "/ˈbækʌp dʒɒb/",
       "meaning": "备份任务",
-      "example": "I logged the backup job in today’s change ticket.",
-      "exampleZh": "我把这个备份任务记进了今天的变更单。",
+      "example": "The backup job for PACS was still running at seven this morning.",
+      "exampleZh": "影像的备份任务今天早上七点还在跑。",
       "category": "it"
     },
     {
       "word": "restore point",
       "phonetic": "/rɪˈstɔː pɔɪnt/",
       "meaning": "还原点",
-      "example": "The vendor asked for a screenshot of the restore point.",
-      "exampleZh": "厂商要一张这个还原点的截图。",
+      "example": "This restore point was taken before the bad pharmacy update.",
+      "exampleZh": "这个还原点是在那次有问题的药房更新之前做的。",
       "category": "it"
     },
     {
       "word": "snapshot",
       "phonetic": "/ˈsnæpʃɒt/",
       "meaning": "快照",
-      "example": "The ward asked us to check the snapshot.",
-      "exampleZh": "病区让我们看一下这个快照。",
+      "example": "Take a snapshot of the order database before we apply the script.",
+      "exampleZh": "执行脚本之前，先给医嘱数据库做一份快照。",
       "category": "it"
     },
     {
       "word": "cold backup",
       "phonetic": "/kəʊld ˈbækʌp/",
       "meaning": "冷备份",
-      "example": "Who is on call for the cold backup this week?",
-      "exampleZh": "这周这个冷备份谁值班？",
+      "example": "The cold backup of billing runs only after the cashier windows close.",
+      "exampleZh": "收费的冷备份只在收费窗口关闭之后才跑。",
       "category": "it"
     }
   ]

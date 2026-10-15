@@ -5,80 +5,80 @@
       "word": "official seal",
       "phonetic": "/əˈfɪʃl siːl/",
       "meaning": "公章",
-      "example": "The official seal still needs a decision today.",
-      "exampleZh": "这个公章今天还得拍个板。",
+      "example": "Nothing leaves this office until the official seal is on the letter.",
+      "exampleZh": "信上盖了公章之后，才能拿出这个办公室。",
       "category": "office"
     },
     {
       "word": "letter of thanks",
       "phonetic": "/ˈletə əv θæŋks/",
       "meaning": "感谢信",
-      "example": "The letter of thanks still needs a decision today.",
-      "exampleZh": "这个感谢信今天还得拍个板。",
+      "example": "Yesterday we posted a letter of thanks to the volunteer office.",
+      "exampleZh": "昨天我们给志愿服务办公室寄出了一封感谢信。",
       "category": "office"
     },
     {
       "word": "letter of complaint",
       "phonetic": "/ˈletə əv kəmˈpleɪnt/",
       "meaning": "投诉信",
-      "example": "We talked about the letter of complaint with the department head.",
-      "exampleZh": "我们和科主任谈了这个投诉信。",
+      "example": "This morning we received a letter of complaint about the long queue.",
+      "exampleZh": "今早我们收到一封投诉信，说排队时间太长。",
       "category": "office"
     },
     {
       "word": "meeting pack",
       "phonetic": "/ˈmiːtɪŋ pæk/",
       "meaning": "会议材料包",
-      "example": "Please bring the meeting pack to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个会议材料包。",
+      "example": "One meeting pack should be waiting on the table at every seat.",
+      "exampleZh": "每个座位的桌上都应该放好一份会议材料包。",
       "category": "office"
     },
     {
       "word": "pre-read",
       "phonetic": "/priː riːd/",
       "meaning": "会前阅读材料",
-      "example": "Who will own the pre-read this week?",
-      "exampleZh": "这周这个会前阅读材料谁来负责？",
+      "example": "Please read the pre-read tonight; it is only four pages long.",
+      "exampleZh": "请今晚把会前阅读材料看完，一共只有四页。",
       "category": "office"
     },
     {
       "word": "SSH",
       "phonetic": "/ˌes es ˈeɪtʃ/",
       "meaning": "安全外壳协议（Secure Shell）",
-      "example": "Please confirm SSH (Secure Shell) is allowed through the firewall.",
-      "exampleZh": "请确认防火墙放行 SSH（Secure Shell）。",
+      "example": "SSH (Secure Shell) to the Linux archive works only from the admin jump host.",
+      "exampleZh": "只有从管理跳板机才能用 SSH（安全外壳协议）连上 Linux 归档。",
       "category": "it"
     },
     {
       "word": "Telnet",
       "phonetic": "/ˈtelnet/",
       "meaning": "远程终端协议",
-      "example": "Please test the Telnet on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个远程终端协议。",
+      "example": "Telnet is still enabled on that old lab switch, so turn it off today.",
+      "exampleZh": "那台旧检验交换机上还开着 Telnet，今天把它关掉。",
       "category": "it"
     },
     {
       "word": "SNMP",
       "phonetic": "/ˌes en em ˈpiː/",
       "meaning": "简单网络管理（Simple Network Management Protocol）",
-      "example": "We use SNMP (Simple Network Management Protocol) for this integration.",
-      "exampleZh": "这条集成用的是 SNMP（Simple Network Management Protocol）。",
+      "example": "SNMP (Simple Network Management Protocol) on the closet switches uses the new community string.",
+      "exampleZh": "弱电间交换机上的 SNMP（简单网络管理）已经改用新的团体名。",
       "category": "it"
     },
     {
       "word": "Syslog server",
       "phonetic": "/ˈsɪslɒɡ ˈsɜːvə/",
       "meaning": "日志服务器",
-      "example": "Do not touch the Syslog server during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个日志服务器。",
+      "example": "Point every closet switch at the Syslog server before the change window starts.",
+      "exampleZh": "变更窗口开始前，把每台弱电间交换机的日志指到日志服务器。",
       "category": "it"
     },
     {
       "word": "NTP server",
       "phonetic": "/ˌen tiː ˈpiː ˈsɜːvə/",
       "meaning": "时间服务器（Network Time Protocol）",
-      "example": "The ward asked us to check the NTP server.",
-      "exampleZh": "病区让我们看一下这个时间服务器。",
+      "example": "If the NTP server is unreachable, badge readers and Kerberos both start failing.",
+      "exampleZh": "时间服务器要是连不上，门禁读卡器和 Kerberos 都会开始失败。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "review",
       "phonetic": "/rɪˈvjuː/",
       "meaning": "审阅",
-      "example": "We still need to review this.",
-      "exampleZh": "这件事还得审阅。",
+      "example": "Would you review the circular before HR issues it tomorrow?",
+      "exampleZh": "人力资源部明天印发之前，你能审阅一下这份传阅文件吗？",
       "category": "office"
     },
     {
       "word": "approve",
       "phonetic": "/əˈpruːv/",
       "meaning": "批准",
-      "example": "Who will approve this after the huddle?",
-      "exampleZh": "晨会后谁来批准？",
+      "example": "The sponsor must approve the scope change before we continue.",
+      "exampleZh": "范围变更必须先由发起人批准，我们才能继续。",
       "category": "office"
     },
     {
       "word": "reject",
       "phonetic": "/rɪˈdʒekt/",
       "meaning": "驳回",
-      "example": "Can you reject it today?",
-      "exampleZh": "你今天能把它驳回吗？",
+      "example": "The panel may reject a bid that arrives after the deadline.",
+      "exampleZh": "过了截止日期才到的投标，评审小组可以驳回。",
       "category": "office"
     },
     {
       "word": "schedule",
       "phonetic": "/ˈʃedjuːl/",
       "meaning": "安排时间",
-      "example": "Can you schedule it today?",
-      "exampleZh": "你今天能把它安排时间吗？",
+      "example": "Can you schedule the induction for the Monday she starts?",
+      "exampleZh": "你能把入职培训安排在她入职的那个周一吗？",
       "category": "office"
     },
     {
       "word": "coordinate",
       "phonetic": "/kəʊˈɔːdɪneɪt/",
       "meaning": "协调",
-      "example": "We still need to coordinate this.",
-      "exampleZh": "这件事还得协调。",
+      "example": "Reception is free this afternoon, so can you coordinate the vendor visit?",
+      "exampleZh": "接待处今天下午有空，你能去协调供应商来访吗？",
       "category": "office"
     },
     {
       "word": "cutover",
       "phonetic": "/ˈkʌtəʊvə/",
       "meaning": "切换上线",
-      "example": "The vendor asked for a screenshot of the cutover.",
-      "exampleZh": "厂商要一张这个切换上线的截图。",
+      "example": "Cutover of the pharmacy system is planned for two on Sunday morning.",
+      "exampleZh": "药房系统的切换上线定在周日凌晨两点。",
       "category": "it"
     },
     {
       "word": "backout",
       "phonetic": "/ˈbækaʊt/",
       "meaning": "退出回退",
-      "example": "We will verify the backout after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个退出回退。",
+      "example": "Backout took eleven minutes after the new screen miscounted doses.",
+      "exampleZh": "新界面把剂量算错之后，退出回退用了十一分钟。",
       "category": "it"
     },
     {
       "word": "smoke after release",
       "phonetic": "/sməʊk ˈɑːftə rɪˈliːs/",
       "meaning": "发布后冒烟",
-      "example": "Do not touch the smoke after release during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个发布后冒烟。",
+      "example": "Smoke after release failed on medication signing, so we rolled the change back.",
+      "exampleZh": "发布后冒烟在用药签署上失败了，于是我们把这次变更退了回去。",
       "category": "it"
     },
     {
       "word": "health check job",
       "phonetic": "/helθ tʃek dʒɒb/",
       "meaning": "健康检查任务",
-      "example": "We will verify the health check job after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个健康检查任务。",
+      "example": "The health check job marks an order node bad when login takes too long.",
+      "exampleZh": "登录耗时过长时，健康检查任务会把医嘱节点标成异常。",
       "category": "it"
     },
     {
       "word": "synthetic monitor",
       "phonetic": "/sɪnˈθetɪk ˈmɒnɪtə/",
       "meaning": "模拟拨测",
-      "example": "The ward asked us to check the synthetic monitor.",
-      "exampleZh": "病区让我们看一下这个模拟拨测。",
+      "example": "The synthetic monitor signs in every minute and places one fake lab order.",
+      "exampleZh": "模拟拨测每分钟登录一次，并下一张模拟检验医嘱。",
       "category": "it"
     }
   ]

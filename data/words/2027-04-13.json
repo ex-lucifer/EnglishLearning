@@ -5,80 +5,80 @@
       "word": "lessons log",
       "phonetic": "/ˈlesnz lɒɡ/",
       "meaning": "经验台账",
-      "example": "The lessons log still needs a decision today.",
-      "exampleZh": "这个经验台账今天还得拍个板。",
+      "example": "Write the things that failed during the drill into the lessons log.",
+      "exampleZh": "请把演练中没做好的地方写入经验台账。",
       "category": "office"
     },
     {
       "word": "project charter",
       "phonetic": "/ˈprɒdʒekt ˈtʃɑːtə/",
       "meaning": "项目章程",
-      "example": "Who will own the project charter this week?",
-      "exampleZh": "这周这个项目章程谁来负责？",
+      "example": "Both the sponsor and the finish date are named in the project charter.",
+      "exampleZh": "项目章程里写明了发起人和完成日期。",
       "category": "office"
     },
     {
       "word": "business case",
       "phonetic": "/ˈbɪznəs keɪs/",
       "meaning": "立项论证",
-      "example": "Who will own the business case this week?",
-      "exampleZh": "这周这个立项论证谁来负责？",
+      "example": "Finance is still reading the business case for a second enquiry desk.",
+      "exampleZh": "财务还在看增设第二个咨询台的立项论证。",
       "category": "office"
     },
     {
       "word": "feasibility",
       "phonetic": "/ˌfiːzəˈbɪləti/",
       "meaning": "可行性",
-      "example": "Please bring the feasibility to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个可行性。",
+      "example": "We need a brief feasibility note before anyone orders those screens.",
+      "exampleZh": "订那些显示屏之前，我们需要一份简短的可行性说明。",
       "category": "office"
     },
     {
       "word": "go-live plan",
       "phonetic": "/ɡəʊ laɪv plæn/",
       "meaning": "上线计划",
-      "example": "We talked about the go-live plan with the department head.",
-      "exampleZh": "我们和科主任谈了这个上线计划。",
+      "example": "In the go-live plan, training sits in the week before we open.",
+      "exampleZh": "按照上线计划，培训安排在我们启用前的那一周。",
       "category": "office"
     },
     {
       "word": "ticket-granting",
       "phonetic": "/ˈtɪkɪt ˈɡrɑːntɪŋ/",
       "meaning": "票据授予",
-      "example": "We will verify the ticket-granting after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个票据授予。",
+      "example": "The ticket-granting service was down, so nobody in the clinic could get a new ticket.",
+      "exampleZh": "票据授予服务停了，门诊里没人能拿到新票据。",
       "category": "it"
     },
     {
       "word": "service principal",
       "phonetic": "/ˈsɜːvɪs ˈprɪnsəpl/",
       "meaning": "服务主体",
-      "example": "I logged the service principal in today’s change ticket.",
-      "exampleZh": "我把这个服务主体记进了今天的变更单。",
+      "example": "The service principal for the lab app is missing a secret, so sign-in fails.",
+      "exampleZh": "检验应用的服务主体少了一把密钥，登录因此失败。",
       "category": "it"
     },
     {
       "word": "SPN",
       "phonetic": "/ˌes piː ˈen/",
       "meaning": "服务主体名称（Service Principal Name）",
-      "example": "Please look up the SPN (Service Principal Name) on this ticket.",
-      "exampleZh": "请在这张工单上查一下 SPN（Service Principal Name）。",
+      "example": "The SPN (Service Principal Name) for the HIS database was registered on the wrong account.",
+      "exampleZh": "HIS 数据库的 SPN（服务主体名称）注册到了错误的账号上。",
       "category": "it"
     },
     {
       "word": "GPO",
       "phonetic": "/ˌdʒiː piː ˈəʊ/",
       "meaning": "组策略对象（Group Policy Object）",
-      "example": "Follow the GPO (Group Policy Object) policy.",
-      "exampleZh": "请按 GPO（Group Policy Object）的规定做。",
+      "example": "This GPO (Group Policy Object) turns on the screen lock after ten idle minutes.",
+      "exampleZh": "这条 GPO（组策略对象）会在空闲十分钟后锁定屏幕。",
       "category": "it"
     },
     {
       "word": "OU",
       "phonetic": "/ˌəʊ ˈjuː/",
       "meaning": "组织单元（Organizational Unit）",
-      "example": "Follow the OU (Organizational Unit) policy.",
-      "exampleZh": "请按 OU（Organizational Unit）的规定做。",
+      "example": "Move the new scanners into the clinic OU (Organizational Unit) before policy applies.",
+      "exampleZh": "策略套用前，把新扫描仪移进门诊 OU（组织单元）。",
       "category": "it"
     }
   ]

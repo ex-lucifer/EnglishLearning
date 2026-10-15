@@ -5,80 +5,80 @@
       "word": "travel claim",
       "phonetic": "/ˈtrævl kleɪm/",
       "meaning": "差旅报销",
-      "example": "Please add the travel claim to today’s notes.",
-      "exampleZh": "请把差旅报销写进今天的记录。",
+      "example": "The travel claim must list the hotel, the meals, and the train.",
+      "exampleZh": "差旅报销必须列明酒店、餐费和火车票。",
       "category": "office"
     },
     {
       "word": "per diem",
       "phonetic": "/pɜː ˈdiːem/",
       "meaning": "每日补贴",
-      "example": "We talked about the per diem with the department head.",
-      "exampleZh": "我们和科主任谈了这个每日补贴。",
+      "example": "The per diem covers meals, and it does not cover the hotel.",
+      "exampleZh": "每日补贴只含餐费，不含住宿。",
       "category": "office"
     },
     {
       "word": "accommodation",
       "phonetic": "/əˌkɒməˈdeɪʃn/",
       "meaning": "住宿",
-      "example": "Could you send the accommodation to the project group?",
-      "exampleZh": "你能把住宿发到项目群吗？",
+      "example": "Accommodation for the two-day course is opposite the station.",
+      "exampleZh": "两天课程的住宿在车站对面。",
       "category": "office"
     },
     {
       "word": "transport",
       "phonetic": "/ˈtrænspɔːt/",
       "meaning": "交通",
-      "example": "We talked about the transport with the department head.",
-      "exampleZh": "我们和科主任谈了这个交通。",
+      "example": "Public transport is fine, and the bureau is a short walk away.",
+      "exampleZh": "可以坐公共交通，卫健委步行一会儿就到。",
       "category": "office"
     },
     {
       "word": "taxi voucher",
       "phonetic": "/ˈtæksi ˈvaʊtʃə/",
       "meaning": "出租车凭证",
-      "example": "Who will own the taxi voucher this week?",
-      "exampleZh": "这周这个出租车凭证谁来负责？",
+      "example": "A taxi voucher is for late finishes, not for ordinary commuting.",
+      "exampleZh": "出租车凭证用于晚下班，不是日常通勤。",
       "category": "office"
     },
     {
       "word": "table lock",
       "phonetic": "/ˈteɪbl lɒk/",
       "meaning": "表锁",
-      "example": "Who is on call for the table lock this week?",
-      "exampleZh": "这周这个表锁谁值班？",
+      "example": "A table lock on the charge table stalled every cashier window.",
+      "exampleZh": "收费表上的表锁把每个收费窗口都卡住了。",
       "category": "it"
     },
     {
       "word": "row lock",
       "phonetic": "/rəʊ lɒk/",
       "meaning": "行锁",
-      "example": "Please test the row lock on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个行锁。",
+      "example": "A row lock on this patient's order blocked the nurse from signing.",
+      "exampleZh": "这位患者医嘱上的行锁让护士签不了名。",
       "category": "it"
     },
     {
       "word": "index scan",
       "phonetic": "/ˈɪndeks skæn/",
       "meaning": "索引扫描",
-      "example": "We will verify the index scan after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个索引扫描。",
+      "example": "An index scan on the visit table is slower than we expected today.",
+      "exampleZh": "今天就诊表上的索引扫描比我们预想的更慢。",
       "category": "it"
     },
     {
       "word": "full table scan",
       "phonetic": "/fʊl ˈteɪbl skæn/",
       "meaning": "全表扫描",
-      "example": "I logged the full table scan in today’s change ticket.",
-      "exampleZh": "我把这个全表扫描记进了今天的变更单。",
+      "example": "A full table scan of orders is why the morning census feels so slow.",
+      "exampleZh": "早晨在院统计这么慢，是因为医嘱走了全表扫描。",
       "category": "it"
     },
     {
       "word": "query plan",
       "phonetic": "/ˈkwɪəri plæn/",
       "meaning": "执行计划",
-      "example": "The vendor asked for a screenshot of the query plan.",
-      "exampleZh": "厂商要一张这个执行计划的截图。",
+      "example": "The query plan for the bed board changed after last night's statistics job.",
+      "exampleZh": "昨晚的统计任务跑完后，床位一览的执行计划变了。",
       "category": "it"
     }
   ]

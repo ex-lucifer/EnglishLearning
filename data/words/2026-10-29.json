@@ -5,80 +5,80 @@
       "word": "acknowledge",
       "phonetic": "/əkˈnɒlɪdʒ/",
       "meaning": "确认收到",
-      "example": "We still need to acknowledge this.",
-      "exampleZh": "这件事还得确认收到。",
+      "example": "Did you acknowledge the memo about the new visitor rules?",
+      "exampleZh": "关于新访客规定的备忘，你确认收到了吗？",
       "category": "office"
     },
     {
       "word": "align",
       "phonetic": "/əˈlaɪn/",
       "meaning": "对齐共识",
-      "example": "Who will align this after the huddle?",
-      "exampleZh": "晨会后谁来对齐共识？",
+      "example": "We should align with the wards before publishing the new pathway.",
+      "exampleZh": "新路径公布之前，我们要先和病区对齐共识。",
       "category": "office"
     },
     {
       "word": "sync",
       "phonetic": "/sɪŋk/",
       "meaning": "同步沟通",
-      "example": "Can you sync it today?",
-      "exampleZh": "你今天能把它同步沟通吗？",
+      "example": "Can we sync this afternoon about the holiday coverage?",
+      "exampleZh": "今天下午能同步沟通一下假期顶班吗？",
       "category": "office"
     },
     {
       "word": "catch-up",
       "phonetic": "/ˈkætʃ ʌp/",
       "meaning": "补会沟通",
-      "example": "Who will own the catch-up this week?",
-      "exampleZh": "这周这个补会沟通谁来负责？",
+      "example": "Our catch-up can be ten minutes after the board round.",
+      "exampleZh": "看板交班之后，我们的补会沟通有十分钟就行。",
       "category": "office"
     },
     {
       "word": "ping",
       "phonetic": "/pɪŋ/",
       "meaning": "快速提醒",
-      "example": "Ping the duty nurse if the room is still locked.",
-      "exampleZh": "房间还锁着的话，提醒一下值班护士。",
+      "example": "I will ping the secretary if the room is still unconfirmed at noon.",
+      "exampleZh": "如果中午会议室还没定，我会快速提醒秘书。",
       "category": "office"
     },
     {
       "word": "blood bank",
       "phonetic": "/blʌd bæŋk/",
       "meaning": "血库系统",
-      "example": "Who is on call for the blood bank this week?",
-      "exampleZh": "这周这个血库系统谁值班？",
+      "example": "Blood bank cannot see the new crossmatch request from the operating room.",
+      "exampleZh": "血库系统看不到手术室新提交的交叉配血申请。",
       "category": "it"
     },
     {
       "word": "blood product",
       "phonetic": "/blʌd ˈprɒdʌkt/",
       "meaning": "血液制品",
-      "example": "Who is on call for the blood product this week?",
-      "exampleZh": "这周这个血液制品谁值班？",
+      "example": "The blood product scanned at the bedside does not match this order.",
+      "exampleZh": "床旁扫到的血液制品和这张医嘱不一致。",
       "category": "it"
     },
     {
       "word": "pharmacy system",
       "phonetic": "/ˈfɑːməsi ˈsɪstəm/",
       "meaning": "药房系统",
-      "example": "Please test the pharmacy system on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个药房系统。",
+      "example": "The pharmacy system shows that antibiotic as out of stock.",
+      "exampleZh": "药房系统显示这种抗生素没有库存。",
       "category": "it"
     },
     {
       "word": "e-prescribing",
       "phonetic": "/iː prɪˈskraɪbɪŋ/",
       "meaning": "电子处方",
-      "example": "Who is on call for the e-prescribing this week?",
-      "exampleZh": "这周这个电子处方谁值班？",
+      "example": "E-prescribing failed when the clinic tried to send the prescription out.",
+      "exampleZh": "门诊往外发送处方时，电子处方失败了。",
       "category": "it"
     },
     {
       "word": "formulary",
       "phonetic": "/ˈfɔːmjələri/",
       "meaning": "药品目录",
-      "example": "We will verify the formulary after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个药品目录。",
+      "example": "That antibiotic is not on the formulary, so pharmacy substituted another drug.",
+      "exampleZh": "这种抗生素不在药品目录里，药房换成了另一种药。",
       "category": "it"
     }
   ]

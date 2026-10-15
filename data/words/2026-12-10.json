@@ -5,80 +5,80 @@
       "word": "refresher",
       "phonetic": "/rɪˈfreʃə/",
       "meaning": "复习培训",
-      "example": "Please add the refresher to today’s notes.",
-      "exampleZh": "请把复习培训写进今天的记录。",
+      "example": "A refresher on complaint handling is booked for the experienced clerks.",
+      "exampleZh": "给有经验的文员约了一场投诉处理的复习培训。",
       "category": "office"
     },
     {
       "word": "certificate",
       "phonetic": "/səˈtɪfɪkət/",
       "meaning": "证书",
-      "example": "I put the certificate on the shared drive.",
-      "exampleZh": "我把证书放到了共享盘。",
+      "example": "File a copy of the certificate and keep the original with the person.",
+      "exampleZh": "证书复印件归入档案，原件留给本人。",
       "category": "office"
     },
     {
       "word": "license",
       "phonetic": "/ˈlaɪsns/",
       "meaning": "执照",
-      "example": "I put the license on the shared drive.",
-      "exampleZh": "我把执照放到了共享盘。",
+      "example": "Check that the license is in date before the visiting doctor starts.",
+      "exampleZh": "客座医生上岗前，先核对照执照是否在有效期内。",
       "category": "office"
     },
     {
       "word": "credential",
       "phonetic": "/krəˈdenʃl/",
       "meaning": "资质证明",
-      "example": "Who will own the credential this week?",
-      "exampleZh": "这周这个资质证明谁来负责？",
+      "example": "The credential for the agency nurse arrived by email this morning.",
+      "exampleZh": "派遣护士的资质证明今天早上通过邮件到了。",
       "category": "office"
     },
     {
       "word": "badge",
       "phonetic": "/bædʒ/",
       "meaning": "工牌",
-      "example": "I put the badge on the shared drive.",
-      "exampleZh": "我把工牌放到了共享盘。",
+      "example": "Return your badge to security on your last working day.",
+      "exampleZh": "最后一个工作日请把工牌交还保卫科。",
       "category": "office"
     },
     {
       "word": "data lake",
       "phonetic": "/ˈdeɪtə leɪk/",
       "meaning": "数据湖",
-      "example": "Who is on call for the data lake this week?",
-      "exampleZh": "这周这个数据湖谁值班？",
+      "example": "The data lake received the images but not the matching reports.",
+      "exampleZh": "数据湖收到了影像，却没有收到配套的报告。",
       "category": "it"
     },
     {
       "word": "report server",
       "phonetic": "/rɪˈpɔːt ˈsɜːvə/",
       "meaning": "报表服务器",
-      "example": "Who is on call for the report server this week?",
-      "exampleZh": "这周这个报表服务器谁值班？",
+      "example": "The report server ran out of memory while building the daily census.",
+      "exampleZh": "生成每日在院统计时，报表服务器把内存用尽了。",
       "category": "it"
     },
     {
       "word": "SQL Server",
       "phonetic": "/ˌes kjuː ˈel ˈsɜːvə/",
       "meaning": "数据库服务器",
-      "example": "The ward asked us to check the SQL Server.",
-      "exampleZh": "病区让我们看一下这个数据库服务器。",
+      "example": "SQL Server hosting the order database used all of its memory.",
+      "exampleZh": "承载医嘱库的数据库服务器把内存用完了。",
       "category": "it"
     },
     {
       "word": "cache",
       "phonetic": "/kæʃ/",
       "meaning": "缓存",
-      "example": "I logged the cache in today’s change ticket.",
-      "exampleZh": "我把这个缓存记进了今天的变更单。",
+      "example": "The cache still serves yesterday's bed board to the nursing station.",
+      "exampleZh": "缓存还在给护士站显示昨天的床位一览。",
       "category": "it"
     },
     {
       "word": "message queue",
       "phonetic": "/ˈmesɪdʒ kjuː/",
       "meaning": "消息队列",
-      "example": "Please test the message queue on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个消息队列。",
+      "example": "The message queue for results grew past fifty thousand before dawn.",
+      "exampleZh": "黎明之前，结果用的消息队列涨过了五万条。",
       "category": "it"
     }
   ]

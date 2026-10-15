@@ -5,80 +5,80 @@
       "word": "stock",
       "phonetic": "/stɒk/",
       "meaning": "库存",
-      "example": "The stock still needs a decision today.",
-      "exampleZh": "这个库存今天还得拍个板。",
+      "example": "Check the stock of consent forms before the Monday clinics.",
+      "exampleZh": "周一门诊开始前，先看一下知情同意书的库存。",
       "category": "office"
     },
     {
       "word": "inventory",
       "phonetic": "/ˈɪnvəntri/",
       "meaning": "盘点库存",
-      "example": "I put the inventory on the shared drive.",
-      "exampleZh": "我把盘点库存放到了共享盘。",
+      "example": "The inventory of access cards is scheduled for the first Friday.",
+      "exampleZh": "门禁卡盘点库存安排在第一个周五。",
       "category": "office"
     },
     {
       "word": "shortage",
       "phonetic": "/ˈʃɔːtɪdʒ/",
       "meaning": "短缺",
-      "example": "The shortage still needs a decision today.",
-      "exampleZh": "这个短缺今天还得拍个板。",
+      "example": "A shortage of porters delayed two discharges this morning.",
+      "exampleZh": "运送人员短缺，今天上午耽误了两名患者出院。",
       "category": "office"
     },
     {
       "word": "surplus",
       "phonetic": "/ˈsɜːpləs/",
       "meaning": "多余",
-      "example": "Please add the surplus to today’s notes.",
-      "exampleZh": "请把多余写进今天的记录。",
+      "example": "The surplus binders from last year can supply the new clerks.",
+      "exampleZh": "去年多余的文件夹可以发给新来的文员。",
       "category": "office"
     },
     {
       "word": "consumable",
       "phonetic": "/kənˈsjuːməbl/",
       "meaning": "耗材",
-      "example": "We talked about the consumable with the department head.",
-      "exampleZh": "我们和科主任谈了这个耗材。",
+      "example": "Paper for the ward printers is ordered as a consumable.",
+      "exampleZh": "病区打印机的纸是按耗材来申领的。",
       "category": "office"
     },
     {
       "word": "alert threshold",
       "phonetic": "/əˈlɜːt ˈθreʃhəʊld/",
       "meaning": "告警阈值",
-      "example": "Do not touch the alert threshold during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个告警阈值。",
+      "example": "The alert threshold for disk space is still set at ninety-five percent.",
+      "exampleZh": "磁盘空间的告警阈值还设在百分之九十五。",
       "category": "it"
     },
     {
       "word": "alert storm",
       "phonetic": "/əˈlɜːt stɔːm/",
       "meaning": "告警风暴",
-      "example": "Who is on call for the alert storm this week?",
-      "exampleZh": "这周这个告警风暴谁值班？",
+      "example": "The alert storm from the lab interface buried the real pharmacy alert.",
+      "exampleZh": "检验接口掀起的告警风暴把真正的药房告警淹没了。",
       "category": "it"
     },
     {
       "word": "false positive",
       "phonetic": "/fɔːls ˈpɒzətɪv/",
       "meaning": "误报",
-      "example": "We will verify the false positive after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个误报。",
+      "example": "That false positive fired because a backup copy looked like malware.",
+      "exampleZh": "那次误报响了，是因为一份备份副本看起来像恶意软件。",
       "category": "it"
     },
     {
       "word": "false negative",
       "phonetic": "/fɔːls ˈneɡətɪv/",
       "meaning": "漏报",
-      "example": "We will verify the false negative after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个漏报。",
+      "example": "The false negative missed a real failed backup on Sunday night.",
+      "exampleZh": "那次漏报没有抓住周日夜里真正失败的那次备份。",
       "category": "it"
     },
     {
       "word": "dashboard widget",
       "phonetic": "/ˈdæʃbɔːd ˈwɪdʒɪt/",
       "meaning": "看板控件",
-      "example": "Who is on call for the dashboard widget this week?",
-      "exampleZh": "这周这个看板控件谁值班？",
+      "example": "The dashboard widget for bed counts still reads the old ward names.",
+      "exampleZh": "床位数那个看板控件还在读取旧的病区名称。",
       "category": "it"
     }
   ]

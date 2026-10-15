@@ -5,80 +5,80 @@
       "word": "handover note",
       "phonetic": "/ˈhændəʊvə nəʊt/",
       "meaning": "交接说明",
-      "example": "Could you send the handover note to the project group?",
-      "exampleZh": "你能把交接说明发到项目群吗？",
+      "example": "The handover note should say who is waiting for transport home.",
+      "exampleZh": "交接说明要写明谁还在等车回家。",
       "category": "office"
     },
     {
       "word": "duty log",
       "phonetic": "/ˈdjuːti lɒɡ/",
       "meaning": "值班日志",
-      "example": "The duty log still needs a decision today.",
-      "exampleZh": "这个值班日志今天还得拍个板。",
+      "example": "Record the power cut in the duty log with the time it started.",
+      "exampleZh": "请在值班日志里记下停电，并写上开始时间。",
       "category": "office"
     },
     {
       "word": "secondment",
       "phonetic": "/sɪˈkɒndmənt/",
       "meaning": "借调",
-      "example": "The secondment still needs a decision today.",
-      "exampleZh": "这个借调今天还得拍个板。",
+      "example": "Her secondment to Quality lasts until the end of the survey.",
+      "exampleZh": "她借调到质量部门，直到这次现场评审结束。",
       "category": "office"
     },
     {
       "word": "rotation",
       "phonetic": "/rəʊˈteɪʃn/",
       "meaning": "轮岗",
-      "example": "Please add the rotation to today’s notes.",
-      "exampleZh": "请把轮岗写进今天的记录。",
+      "example": "A rotation through reception helps new clerks learn the building.",
+      "exampleZh": "在接待处轮岗能帮新文员熟悉这栋楼。",
       "category": "office"
     },
     {
       "word": "intern",
       "phonetic": "/ˈɪntɜːn/",
       "meaning": "实习生",
-      "example": "Please bring the intern to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个实习生。",
+      "example": "The intern can draft the newsletter, but should not send it.",
+      "exampleZh": "实习生可以起草简讯，但不应自己发出去。",
       "category": "office"
     },
     {
       "word": "connection pool",
       "phonetic": "/kəˈnekʃn puːl/",
       "meaning": "连接池",
-      "example": "We will verify the connection pool after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个连接池。",
+      "example": "The connection pool for the order database was exhausted by noon.",
+      "exampleZh": "到了中午，医嘱库的连接池被用尽了。",
       "category": "it"
     },
     {
       "word": "deadlock",
       "phonetic": "/ˈdedlɒk/",
       "meaning": "死锁",
-      "example": "We will verify the deadlock after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个死锁。",
+      "example": "A deadlock in the billing tables stalled every cashier for a minute.",
+      "exampleZh": "收费表上的死锁让每位收费员都卡了一分钟。",
       "category": "it"
     },
     {
       "word": "query timeout",
       "phonetic": "/ˈkwɪəri ˈtaɪmaʊt/",
       "meaning": "查询超时",
-      "example": "We will verify the query timeout after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个查询超时。",
+      "example": "Query timeout hit the census report every time a ward refreshed it.",
+      "exampleZh": "病区每次刷新在院人数，都会撞上查询超时。",
       "category": "it"
     },
     {
       "word": "index rebuild",
       "phonetic": "/ˈɪndeks ˌriːˈbɪld/",
       "meaning": "索引重建",
-      "example": "The ward asked us to check the index rebuild.",
-      "exampleZh": "病区让我们看一下这个索引重建。",
+      "example": "The index rebuild on the order table ran into the morning clinic.",
+      "exampleZh": "医嘱表的索引重建一直跑进了早晨门诊。",
       "category": "it"
     },
     {
       "word": "replica lag",
       "phonetic": "/ˈreplɪkə læɡ/",
       "meaning": "副本延迟",
-      "example": "Please test the replica lag on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个副本延迟。",
+      "example": "Replica lag grew to five minutes, so the reports showed old bed counts.",
+      "exampleZh": "副本延迟涨到了五分钟，报表上的床位数还是旧的。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "dissent",
       "phonetic": "/dɪˈsent/",
       "meaning": "异议",
-      "example": "Please bring the dissent to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个异议。",
+      "example": "One person entered a dissent against closing the side counter.",
+      "exampleZh": "有一人对关闭侧边柜台提出了异议。",
       "category": "office"
     },
     {
       "word": "abstain",
       "phonetic": "/əbˈsteɪn/",
       "meaning": "弃权",
-      "example": "I will abstain if I was in the change window.",
-      "exampleZh": "如果我当时在变更窗口里，我会弃权。",
+      "example": "Two members will abstain if the question touches their own team.",
+      "exampleZh": "如果议题涉及自己的团队，有两位成员会弃权。",
       "category": "office"
     },
     {
       "word": "vote",
       "phonetic": "/vəʊt/",
       "meaning": "表决",
-      "example": "Please vote on the Thursday slot.",
-      "exampleZh": "请对周四这个时段表决。",
+      "example": "We vote on the holiday roster once that short discussion ends.",
+      "exampleZh": "那段简短讨论一结束，我们就表决假期排班。",
       "category": "office"
     },
     {
       "word": "ballot",
       "phonetic": "/ˈbælət/",
       "meaning": "无记名票",
-      "example": "Please add the ballot to today’s notes.",
-      "exampleZh": "请把无记名票写进今天的记录。",
+      "example": "Collect every ballot and mix them before anyone starts counting.",
+      "exampleZh": "开始计票之前，请把每一张无记名票收齐并混在一起。",
       "category": "office"
     },
     {
       "word": "show of hands",
       "phonetic": "/ʃəʊ əv hændz/",
       "meaning": "举手表决",
-      "example": "Who will own the show of hands this week?",
-      "exampleZh": "这周这个举手表决谁来负责？",
+      "example": "A quick show of hands is enough for this ordinary roster item.",
+      "exampleZh": "这个普通的排班事项，快速举手表决就够了。",
       "category": "office"
     },
     {
       "word": "license server",
       "phonetic": "/ˈlaɪsns ˈsɜːvə/",
       "meaning": "授权服务器",
-      "example": "The vendor asked for a screenshot of the license server.",
-      "exampleZh": "厂商要一张这个授权服务器的截图。",
+      "example": "The license server was unreachable, and the reading room viewers all dropped into grace mode.",
+      "exampleZh": "授权服务器连不上，读片室的阅片程序全部进了宽限模式。",
       "category": "it"
     },
     {
       "word": "license key",
       "phonetic": "/ˈlaɪsns kiː/",
       "meaning": "授权密钥",
-      "example": "I logged the license key in today’s change ticket.",
-      "exampleZh": "我把这个授权密钥记进了今天的变更单。",
+      "example": "The license key for the dictation software was issued to the old reading room.",
+      "exampleZh": "听写软件的授权密钥是签发给旧读片室的。",
       "category": "it"
     },
     {
       "word": "trial license",
       "phonetic": "/ˈtraɪəl ˈlaɪsns/",
       "meaning": "试用授权",
-      "example": "The ward asked us to check the trial license.",
-      "exampleZh": "病区让我们看一下这个试用授权。",
+      "example": "The trial license on the new viewer expires Friday, before purchasing finishes.",
+      "exampleZh": "新阅片程序的试用授权周五到期，采购还没走完。",
       "category": "it"
     },
     {
       "word": "perpetual license",
       "phonetic": "/pəˈpetʃuəl ˈlaɪsns/",
       "meaning": "永久授权",
-      "example": "Who is on call for the perpetual license this week?",
-      "exampleZh": "这周这个永久授权谁值班？",
+      "example": "The perpetual license for the old viewer stays valid even after we stop upgrades.",
+      "exampleZh": "就算我们停止升级，旧阅片程序的永久授权也仍然有效。",
       "category": "it"
     },
     {
       "word": "subscription license",
       "phonetic": "/səbˈskrɪpʃn ˈlaɪsns/",
       "meaning": "订阅授权",
-      "example": "Who is on call for the subscription license this week?",
-      "exampleZh": "这周这个订阅授权谁值班？",
+      "example": "The subscription license for dictation renews in March, or the microphones stop.",
+      "exampleZh": "听写的订阅授权三月要续，否则麦克风会停。",
       "category": "it"
     }
   ]

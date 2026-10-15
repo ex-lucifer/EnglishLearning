@@ -5,80 +5,80 @@
       "word": "screen share",
       "phonetic": "/skriːn ʃeə/",
       "meaning": "屏幕共享",
-      "example": "We talked about the screen share with the department head.",
-      "exampleZh": "我们和科主任谈了这个屏幕共享。",
+      "example": "Screen share is enough, and we can skip the printed slides.",
+      "exampleZh": "有屏幕共享就够了，幻灯片不用再印。",
       "category": "office"
     },
     {
       "word": "timeslot",
       "phonetic": "/ˈtaɪmslɒt/",
       "meaning": "时间段",
-      "example": "Who will own the timeslot this week?",
-      "exampleZh": "这周这个时间段谁来负责？",
+      "example": "Is there a timeslot on Tuesday that avoids the bed meeting?",
+      "exampleZh": "周二有没有一个错开床位会的时间段？",
       "category": "office"
     },
     {
       "word": "RSVP",
       "phonetic": "/ˌɑːr es viː ˈpiː/",
       "meaning": "回复出席（please reply）",
-      "example": "Please send your RSVP (please reply) before Friday.",
-      "exampleZh": "请在周五前回复出席（RSVP，please reply）。",
+      "example": "Please send your RSVP (please reply) for the town hall before Friday.",
+      "exampleZh": "请在周五前回复是否出席全员大会。",
       "category": "office"
     },
     {
       "word": "calendar",
       "phonetic": "/ˈkælɪndə/",
       "meaning": "日历",
-      "example": "I put the calendar on the shared drive.",
-      "exampleZh": "我把日历放到了共享盘。",
+      "example": "My calendar is clear after three, apart from a short catch-up.",
+      "exampleZh": "我的日历三点以后空着，只剩一个短的补会。",
       "category": "office"
     },
     {
       "word": "invitation",
       "phonetic": "/ˌɪnvɪˈteɪʃn/",
       "meaning": "邀请",
-      "example": "The invitation still needs a decision today.",
-      "exampleZh": "这个邀请今天还得拍个板。",
+      "example": "The invitation names the training room and asks people to arrive early.",
+      "exampleZh": "邀请上写了培训室，并请大家早点到。",
       "category": "office"
     },
     {
       "word": "interface engine",
       "phonetic": "/ˈɪntəfeɪs ˈendʒɪn/",
       "meaning": "接口引擎",
-      "example": "Who is on call for the interface engine this week?",
-      "exampleZh": "这周这个接口引擎谁值班？",
+      "example": "The interface engine queued lab results for almost an hour.",
+      "exampleZh": "接口引擎把检验结果压了将近一个小时。",
       "category": "it"
     },
     {
       "word": "middleware",
       "phonetic": "/ˈmɪdlweə/",
       "meaning": "中间件",
-      "example": "The ward asked us to check the middleware.",
-      "exampleZh": "病区让我们看一下这个中间件。",
+      "example": "Middleware between pharmacy and billing timed out at noon.",
+      "exampleZh": "药房和收费之间的中间件在中午超时了。",
       "category": "it"
     },
     {
       "word": "worklist",
       "phonetic": "/ˈwɜːklɪst/",
       "meaning": "工作列表",
-      "example": "Who is on call for the worklist this week?",
-      "exampleZh": "这周这个工作列表谁值班？",
+      "example": "The CT worklist still lists three patients from the night shift.",
+      "exampleZh": "CT工作列表里还挂着夜班留下的三个患者。",
       "category": "it"
     },
     {
       "word": "accession number",
       "phonetic": "/əkˈseʃn ˈnʌmbə/",
       "meaning": "检查号",
-      "example": "Who is on call for the accession number this week?",
-      "exampleZh": "这周这个检查号谁值班？",
+      "example": "The accession number on the film does not match the order.",
+      "exampleZh": "片子上的检查号和医嘱对不上。",
       "category": "it"
     },
     {
       "word": "study UID",
       "phonetic": "/ˈstʌdi juː aɪ ˈdiː/",
       "meaning": "检查唯一号",
-      "example": "We will verify the study UID after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个检查唯一号。",
+      "example": "This study UID points at the wrong patient's chest CT.",
+      "exampleZh": "这个检查唯一号指向了另一位患者的胸部CT。",
       "category": "it"
     }
   ]

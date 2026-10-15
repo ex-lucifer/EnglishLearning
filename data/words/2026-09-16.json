@@ -5,80 +5,80 @@
       "word": "attendee",
       "phonetic": "/əˌtenˈdiː/",
       "meaning": "参会人",
-      "example": "Please add the attendee to today’s notes.",
-      "exampleZh": "请把参会人写进今天的记录。",
+      "example": "One attendee from each ward is enough for this briefing.",
+      "exampleZh": "这次简报每个病区来一位参会人就够了。",
       "category": "office"
     },
     {
       "word": "quorum",
       "phonetic": "/ˈkwɔːrəm/",
       "meaning": "法定人数",
-      "example": "I put the quorum on the shared drive.",
-      "exampleZh": "我把法定人数放到了共享盘。",
+      "example": "We had a quorum once Pharmacy and Nursing both sat down.",
+      "exampleZh": "药剂科和护理部都坐下之后，法定人数就够了。",
       "category": "office"
     },
     {
       "word": "adjourn",
       "phonetic": "/əˈdʒɜːn/",
       "meaning": "休会",
-      "example": "The chair adjourned the meeting at 10:30.",
-      "exampleZh": "主持人十点半宣布休会。",
+      "example": "The chairperson may adjourn early if we lose the quorum.",
+      "exampleZh": "如果不够法定人数，主持人可以提前休会。",
       "category": "office"
     },
     {
       "word": "chairperson",
       "phonetic": "/ˈtʃeəpɜːsn/",
       "meaning": "主持人",
-      "example": "Please bring the chairperson to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个主持人。",
+      "example": "Ask the chairperson before you add a late item to the agenda.",
+      "exampleZh": "想在议程里临时加一项，先问过主持人。",
       "category": "office"
     },
     {
       "word": "facilitator",
       "phonetic": "/fəˈsɪlɪteɪtə/",
       "meaning": "引导人",
-      "example": "We talked about the facilitator with the department head.",
-      "exampleZh": "我们和科主任谈了这个引导人。",
+      "example": "The facilitator stopped the side argument and returned to the agenda.",
+      "exampleZh": "引导人打断了岔开的争论，把大家拉回议程。",
       "category": "office"
     },
     {
       "word": "PACS",
       "phonetic": "/pæks/",
       "meaning": "医学影像系统（Picture Archiving and Communication System）",
-      "example": "PACS stands for Picture Archiving and Communication System. Check it before the clinic opens.",
-      "exampleZh": "PACS 的全称是 Picture Archiving and Communication System。开诊前请先检查。",
+      "example": "PACS (Picture Archiving and Communication System) delayed the chest films for radiology.",
+      "exampleZh": "PACS（医学影像系统）把胸片推迟给了放射科。",
       "category": "it"
     },
     {
       "word": "LIS",
       "phonetic": "/ˌel aɪ ˈes/",
       "meaning": "检验信息系统（Laboratory Information System）",
-      "example": "Please write LIS in full — Laboratory Information System — on the change form.",
-      "exampleZh": "变更单上请写全称：LIS（Laboratory Information System）。",
+      "example": "LIS (Laboratory Information System) stopped sending chemistry results at noon.",
+      "exampleZh": "LIS（检验信息系统）从中午起不再发送生化结果。",
       "category": "it"
     },
     {
       "word": "RIS",
       "phonetic": "/ˌɑːr aɪ ˈes/",
       "meaning": "放射信息系统（Radiology Information System）",
-      "example": "Please write RIS in full — Radiology Information System — on the change form.",
-      "exampleZh": "变更单上请写全称：RIS（Radiology Information System）。",
+      "example": "RIS (Radiology Information System) still shows yesterday's unfinished CT list.",
+      "exampleZh": "RIS（放射信息系统）还挂着昨天没做完的CT列表。",
       "category": "it"
     },
     {
       "word": "CIS",
       "phonetic": "/ˌsiː aɪ ˈes/",
       "meaning": "临床信息系统（Clinical Information System）",
-      "example": "The ward called because CIS (Clinical Information System) would not open.",
-      "exampleZh": "病区来电，说 CIS（Clinical Information System）打不开。",
+      "example": "CIS (Clinical Information System) hid the new care notes from the ward.",
+      "exampleZh": "CIS（临床信息系统）没有把新的护理记录显示给病区。",
       "category": "it"
     },
     {
       "word": "NIS",
       "phonetic": "/ˌen aɪ ˈes/",
       "meaning": "护理信息系统（Nursing Information System）",
-      "example": "Please write NIS in full — Nursing Information System — on the change form.",
-      "exampleZh": "变更单上请写全称：NIS（Nursing Information System）。",
+      "example": "NIS (Nursing Information System) could not save the night vital signs.",
+      "exampleZh": "NIS（护理信息系统）存不下夜间的生命体征。",
       "category": "it"
     }
   ]

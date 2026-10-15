@@ -5,80 +5,80 @@
       "word": "building",
       "phonetic": "/ˈbɪldɪŋ/",
       "meaning": "楼宇",
-      "example": "Could you send the building to the project group?",
-      "exampleZh": "你能把楼宇发到项目群吗？",
+      "example": "The hearing will be held in the building opposite the main lobby.",
+      "exampleZh": "听证会在主大厅对面的那栋楼宇里举行。",
       "category": "office"
     },
     {
       "word": "wing",
       "phonetic": "/wɪŋ/",
       "meaning": "楼翼",
-      "example": "Could you send the wing to the project group?",
-      "exampleZh": "你能把楼翼发到项目群吗？",
+      "example": "Registration moved into the east wing while this side is renovated.",
+      "exampleZh": "这边装修期间，挂号搬到了东侧楼翼。",
       "category": "office"
     },
     {
       "word": "ward",
       "phonetic": "/wɔːd/",
       "meaning": "病区",
-      "example": "We talked about the ward with the department head.",
-      "exampleZh": "我们和科主任谈了这个病区。",
+      "example": "Visitors heading to the ward sign in at the nurses' station first.",
+      "exampleZh": "要去病区的探视者，请先到护士站登记。",
       "category": "office"
     },
     {
       "word": "unit",
       "phonetic": "/ˈjuːnɪt/",
       "meaning": "单元",
-      "example": "I put the unit on the shared drive.",
-      "exampleZh": "我把单元放到了共享盘。",
+      "example": "The day surgery unit closes its counter at five on weekdays.",
+      "exampleZh": "日间手术单元的柜台在工作日五点关闭。",
       "category": "office"
     },
     {
       "word": "bay",
       "phonetic": "/beɪ/",
       "meaning": "床位区",
-      "example": "Who will own the bay this week?",
-      "exampleZh": "这周这个床位区谁来负责？",
+      "example": "Families should wait outside bay three while the doctors are rounding.",
+      "exampleZh": "医生查房的时候，家属请在三号床位区外面等候。",
       "category": "office"
     },
     {
       "word": "instant clone",
       "phonetic": "/ˈɪnstənt kləʊn/",
       "meaning": "即时克隆",
-      "example": "We will verify the instant clone after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个即时克隆。",
+      "example": "An instant clone of the training desktop was ready before the class sat down.",
+      "exampleZh": "上课入座之前，培训桌面的即时克隆就已经好了。",
       "category": "it"
     },
     {
       "word": "vMotion",
       "phonetic": "/viː ˈməʊʃn/",
       "meaning": "在线迁移",
-      "example": "Do not touch the vMotion during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个在线迁移。",
+      "example": "vMotion moved the HIS VM off the failing host without dropping the clinic sessions.",
+      "exampleZh": "在线迁移把 HIS 虚拟机挪离了那台故障主机，门诊会话没有断。",
       "category": "it"
     },
     {
       "word": "storage vMotion",
       "phonetic": "/ˈstɔːrɪdʒ viː ˈməʊʃn/",
       "meaning": "存储在线迁移",
-      "example": "Who is on call for the storage vMotion this week?",
-      "exampleZh": "这周这个存储在线迁移谁值班？",
+      "example": "Storage vMotion is moving the HIS disks onto the new array while users stay connected.",
+      "exampleZh": "存储在线迁移正在把 HIS 磁盘迁到新阵列，用户保持连接。",
       "category": "it"
     },
     {
       "word": "HA cluster",
       "phonetic": "/eɪtʃ eɪ ˈklʌstə/",
       "meaning": "高可用集群",
-      "example": "The ward asked us to check the HA cluster.",
-      "exampleZh": "病区让我们看一下这个高可用集群。",
+      "example": "The HA cluster restarted the HIS VM on another host after host two died.",
+      "exampleZh": "二号主机宕了之后，高可用集群在另一台主机上把 HIS 虚拟机拉了起来。",
       "category": "it"
     },
     {
       "word": "DRS",
       "phonetic": "/ˌdiː ɑːr ˈes/",
       "meaning": "动态资源调度（Distributed Resource Scheduler）",
-      "example": "Check the DRS (Distributed Resource Scheduler) on the test host first.",
-      "exampleZh": "请先在测试主机上检查 DRS（Distributed Resource Scheduler）。",
+      "example": "DRS (Distributed Resource Scheduler) moved a noisy lab VM off the host that runs HIS.",
+      "exampleZh": "DRS（动态资源调度）把一台抢资源的检验虚拟机挪离了跑 HIS 的主机。",
       "category": "it"
     }
   ]

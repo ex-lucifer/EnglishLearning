@@ -45,40 +45,40 @@
       "word": "release notes",
       "phonetic": "/rɪˈliːs nəʊts/",
       "meaning": "发布说明",
-      "example": "The ward asked us to check the release notes.",
-      "exampleZh": "病区让我们看一下这个发布说明。",
+      "example": "The release notes omit the new sepsis order set.",
+      "exampleZh": "发布说明没有提到新的脓毒症医嘱套餐。",
       "category": "it"
     },
     {
       "word": "change window",
       "phonetic": "/tʃeɪndʒ ˈwɪndəʊ/",
       "meaning": "变更窗口",
-      "example": "Do not touch the change window during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个变更窗口。",
+      "example": "Our change window for the database move is Sunday from two to five.",
+      "exampleZh": "数据库搬迁的变更窗口是周日两点到五点。",
       "category": "it"
     },
     {
       "word": "maintenance freeze",
       "phonetic": "/ˈmeɪntənəns friːz/",
       "meaning": "维护冻结",
-      "example": "Please test the maintenance freeze on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个维护冻结。",
+      "example": "The maintenance freeze covers the week before the Spring Festival holiday.",
+      "exampleZh": "维护冻结覆盖春节假期前的那一周。",
       "category": "it"
     },
     {
       "word": "incident severity",
       "phonetic": "/ˈɪnsɪdənt səˈverəti/",
       "meaning": "事件级别",
-      "example": "Please test the incident severity on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个事件级别。",
+      "example": "Incident severity for the lab outage should be one, not three.",
+      "exampleZh": "这次检验停机的事件级别应该是一级，不是三级。",
       "category": "it"
     },
     {
       "word": "root-cause analysis",
       "phonetic": "/ruːt kɔːz əˈnæləsɪs/",
       "meaning": "根因分析",
-      "example": "I logged the root-cause analysis in today’s change ticket.",
-      "exampleZh": "我把这个根因分析记进了今天的变更单。",
+      "example": "The root-cause analysis blamed a full disk on the interface node.",
+      "exampleZh": "根因分析认为问题出在接口节点的磁盘满了。",
       "category": "it"
     }
   ]

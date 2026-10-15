@@ -5,80 +5,80 @@
       "word": "mentor",
       "phonetic": "/ˈmentɔː/",
       "meaning": "导师",
-      "example": "Who will own the mentor this week?",
-      "exampleZh": "这周这个导师谁来负责？",
+      "example": "Your mentor will introduce you at the first team meeting.",
+      "exampleZh": "导师会在第一次小组会上介绍你。",
       "category": "office"
     },
     {
       "word": "buddy",
       "phonetic": "/ˈbʌdi/",
       "meaning": "带教搭档",
-      "example": "Could you send the buddy to the project group?",
-      "exampleZh": "你能把带教搭档发到项目群吗？",
+      "example": "Sit with your buddy for the first morning before you take the desk.",
+      "exampleZh": "独立上岗前，第一个上午先坐在带教搭档旁边。",
       "category": "office"
     },
     {
       "word": "orientation",
       "phonetic": "/ˌɔːriənˈteɪʃn/",
       "meaning": "入职介绍",
-      "example": "Could you send the orientation to the project group?",
-      "exampleZh": "你能把入职介绍发到项目群吗？",
+      "example": "Orientation on day one includes a tour and the fire exits.",
+      "exampleZh": "第一天的入职介绍包括走一圈和消防出口。",
       "category": "office"
     },
     {
       "word": "induction",
       "phonetic": "/ɪnˈdʌkʃn/",
       "meaning": "入职培训",
-      "example": "Please bring the induction to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个入职培训。",
+      "example": "Induction covers privacy, the roster, and how to call security.",
+      "exampleZh": "入职培训包括保密、排班表，以及怎么叫保卫。",
       "category": "office"
     },
     {
       "word": "training plan",
       "phonetic": "/ˈtreɪnɪŋ plæn/",
       "meaning": "培训计划",
-      "example": "Please add the training plan to today’s notes.",
-      "exampleZh": "请把培训计划写进今天的记录。",
+      "example": "The training plan for new clerks spreads induction over two weeks.",
+      "exampleZh": "新文员的培训计划把入职培训摊在两周里。",
       "category": "office"
     },
     {
       "word": "primary database",
       "phonetic": "/ˈpraɪməri ˈdeɪtəbeɪs/",
       "meaning": "主库",
-      "example": "I logged the primary database in today’s change ticket.",
-      "exampleZh": "我把这个主库记进了今天的变更单。",
+      "example": "The primary database for orders stopped accepting writes at three.",
+      "exampleZh": "医嘱主库在三点停止接受写入。",
       "category": "it"
     },
     {
       "word": "read replica",
       "phonetic": "/riːd ˈreplɪkə/",
       "meaning": "只读副本",
-      "example": "Who is on call for the read replica this week?",
-      "exampleZh": "这周这个只读副本谁值班？",
+      "example": "The read replica that serves ward reports is a full hour behind.",
+      "exampleZh": "给病区报表用的只读副本整整慢了一个小时。",
       "category": "it"
     },
     {
       "word": "stored procedure",
       "phonetic": "/stɔːd prəˈsiːdʒə/",
       "meaning": "存储过程",
-      "example": "We will verify the stored procedure after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个存储过程。",
+      "example": "The stored procedure that posts charges skipped every weekend order.",
+      "exampleZh": "负责记账的存储过程把所有周末医嘱都跳过了。",
       "category": "it"
     },
     {
       "word": "ETL job",
       "phonetic": "/ˌiː tiː ˈel dʒɒb/",
       "meaning": "数据抽取任务",
-      "example": "Please test the ETL job on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个数据抽取任务。",
+      "example": "The ETL job that feeds the warehouse failed on yesterday's discharges.",
+      "exampleZh": "往数据仓库供数的数据抽取任务，在昨天的出院数据上失败了。",
       "category": "it"
     },
     {
       "word": "data warehouse",
       "phonetic": "/ˈdeɪtə ˈweəhaʊs/",
       "meaning": "数据仓库",
-      "example": "Please test the data warehouse on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个数据仓库。",
+      "example": "The data warehouse still shows last month's occupancy for this ward.",
+      "exampleZh": "数据仓库里这个病区的占用率还是上个月的数字。",
       "category": "it"
     }
   ]

@@ -51,6 +51,39 @@ test('abbreviation meaning includes English expansion', () => {
   assert.equal(looksTemplated(his.example), false);
 });
 
+test('today’s office and IT examples match the word, not a stock frame', () => {
+  const bandwidth = enrichEntry({
+    word: 'bandwidth',
+    phonetic: '/ˈbændwɪdθ/',
+    meaning: '可用精力',
+    example: '',
+    exampleZh: '',
+    category: 'office'
+  }, 'n');
+  const capacity = enrichEntry({
+    word: 'capacity',
+    phonetic: '/kəˈpæsəti/',
+    meaning: '承载能力',
+    example: '',
+    exampleZh: '',
+    category: 'office'
+  }, 'n');
+  const dlp = enrichEntry({
+    word: 'DLP',
+    phonetic: '/ˌdiː el ˈpiː/',
+    meaning: '数据防泄漏',
+    example: '',
+    exampleZh: '',
+    category: 'it'
+  }, 'acr');
+  assert.match(bandwidth.example, /bandwidth/i);
+  assert.doesNotMatch(bandwidth.example, /today’s notes|shared drive/i);
+  assert.match(capacity.example, /capacity/i);
+  assert.doesNotMatch(capacity.example, /who will own/i);
+  assert.match(dlp.example, /Data Loss Prevention/);
+  assert.doesNotMatch(dlp.example, /clinic opens|backup server/i);
+});
+
 test('office RSVP uses please-reply, not a server test', () => {
   const row = enrichEntry({
     word: 'RSVP',

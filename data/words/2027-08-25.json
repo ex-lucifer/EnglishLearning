@@ -5,8 +5,8 @@
       "word": "last item",
       "phonetic": "/lɑːst ˈaɪtəm/",
       "meaning": "最后一项",
-      "example": "I put the last item on the shared drive.",
-      "exampleZh": "我把最后一项放到了共享盘。",
+      "example": "The last item on today's list is the holiday duty roster.",
+      "exampleZh": "今天清单上的最后一项是假期值班表。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "recursion",
       "phonetic": "/rɪˈkɜːʃn/",
       "meaning": "递归查询",
-      "example": "We will verify the recursion after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个递归查询。",
+      "example": "Recursion lets our DNS server chase the answer for the user.",
+      "exampleZh": "递归查询让 DNS 服务器替用户把答案查到底。",
       "category": "it"
     },
     {
       "word": "iterative query",
       "phonetic": "/ˈɪtərətɪv ˈkwɪəri/",
       "meaning": "迭代查询",
-      "example": "Please test the iterative query on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个迭代查询。",
+      "example": "An iterative query returns the next server, not the final address.",
+      "exampleZh": "迭代查询返回的是下一台服务器，不是最终地址。",
       "category": "it"
     },
     {
       "word": "cache poisoning",
       "phonetic": "/kæʃ ˈpɔɪznɪŋ/",
       "meaning": "缓存投毒",
-      "example": "Who is on call for the cache poisoning this week?",
-      "exampleZh": "这周这个缓存投毒谁值班？",
+      "example": "Cache poisoning placed a fake pharmacy address into our DNS cache.",
+      "exampleZh": "缓存投毒把一个假的药房地址写进了我们的 DNS 缓存。",
       "category": "it"
     },
     {
       "word": "DNS tunneling",
       "phonetic": "/ˌdiː en ˈes ˈtʌnlɪŋ/",
       "meaning": "域名隧道",
-      "example": "Please test the DNS tunneling on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个域名隧道。",
+      "example": "DNS tunneling can smuggle data out inside ordinary name lookups.",
+      "exampleZh": "域名隧道能把数据藏在普通的域名查询里传出去。",
       "category": "it"
     },
     {
       "word": "DoH",
       "phonetic": "/dɒ/",
       "meaning": "加密域名查询（DNS over HTTPS）",
-      "example": "Enable DoH (DNS over HTTPS) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 DoH（DNS over HTTPS）。",
+      "example": "DoH (DNS over HTTPS) sends name lookups through the same path as web pages.",
+      "exampleZh": "DoH（加密域名查询）走和网页相同的路径发送域名查询。",
       "category": "it"
     }
   ]

@@ -5,16 +5,16 @@
       "word": "reachable",
       "phonetic": "/ˈriːtʃəbl/",
       "meaning": "能联系到的",
-      "example": "Keep a reachable number on the duty log.",
-      "exampleZh": "值班日志上请留一个能打通的号码。",
+      "example": "Is the duty supervisor reachable by phone after six this evening?",
+      "exampleZh": "今晚六点之后，能打电话联系到值班主管吗？",
       "category": "office"
     },
     {
       "word": "unreachable",
       "phonetic": "/ʌnˈriːtʃəbl/",
       "meaning": "联系不上的",
-      "example": "The vendor was unreachable after five.",
-      "exampleZh": "五点后厂商联系不上。",
+      "example": "For most of yesterday afternoon the vendor was unreachable.",
+      "exampleZh": "昨天下午的大部分时间都联系不上供应商。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "sunset date",
       "phonetic": "/ˈsʌnset deɪt/",
       "meaning": "下线日期",
-      "example": "The vendor asked for a screenshot of the sunset date.",
-      "exampleZh": "厂商要一张这个下线日期的截图。",
+      "example": "The sunset date for the old lab feed is 30 June, printed in the interface header.",
+      "exampleZh": "旧检验推送的下线日期是 6 月 30 日，写在接口头里。",
       "category": "it"
     },
     {
       "word": "feature toggle",
       "phonetic": "/ˈfiːtʃə ˈtɒɡl/",
       "meaning": "功能开关",
-      "example": "Do not touch the feature toggle during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个功能开关。",
+      "example": "The feature toggle for bedside meds is on for one ward and off everywhere else.",
+      "exampleZh": "床旁用药的功能开关只对一个病区打开，别处都关着。",
       "category": "it"
     },
     {
       "word": "dark launch",
       "phonetic": "/dɑːk lɔːntʃ/",
       "meaning": "暗发布",
-      "example": "We will verify the dark launch after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个暗发布。",
+      "example": "The dark launch sent real orders to the new service but hid the answers from users.",
+      "exampleZh": "这次暗发布把真实医嘱送到了新服务，但没有把结果给用户看。",
       "category": "it"
     },
     {
       "word": "canary host",
       "phonetic": "/ˈkænəri həʊst/",
       "meaning": "金丝雀主机",
-      "example": "Do not touch the canary host during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个金丝雀主机。",
+      "example": "The canary host took five percent of portal traffic and showed no new errors.",
+      "exampleZh": "金丝雀主机接了百分之五的门户流量，没有出现新报错。",
       "category": "it"
     },
     {
       "word": "blue environment",
       "phonetic": "/bluː ɪnˈvaɪrənmənt/",
       "meaning": "蓝色环境",
-      "example": "The vendor asked for a screenshot of the blue environment.",
-      "exampleZh": "厂商要一张这个蓝色环境的截图。",
+      "example": "The blue environment still serves the clinic while we finish checks on green.",
+      "exampleZh": "绿色环境还在做检查，蓝色环境继续给门诊提供服务。",
       "category": "it"
     }
   ]

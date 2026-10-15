@@ -5,80 +5,80 @@
       "word": "risk",
       "phonetic": "/rɪsk/",
       "meaning": "风险",
-      "example": "I put the risk on the shared drive.",
-      "exampleZh": "我把风险放到了共享盘。",
+      "example": "The risk we discussed is a full waiting list over the holiday.",
+      "exampleZh": "我们说的风险是假期里等候名单会排满。",
       "category": "office"
     },
     {
       "word": "mitigation",
       "phonetic": "/ˌmɪtɪˈɡeɪʃn/",
       "meaning": "缓解措施",
-      "example": "Who will own the mitigation this week?",
-      "exampleZh": "这周这个缓解措施谁来负责？",
+      "example": "Our mitigation is a second clerk at registration from eight to ten.",
+      "exampleZh": "我们的缓解措施是八点到十点在挂号处再加一名文员。",
       "category": "office"
     },
     {
       "word": "contingency",
       "phonetic": "/kənˈtɪndʒənsi/",
       "meaning": "应急预案",
-      "example": "The contingency still needs a decision today.",
-      "exampleZh": "这个应急预案今天还得拍个板。",
+      "example": "The contingency is to hold clinic in the training room.",
+      "exampleZh": "应急预案是把门诊改到培训室。",
       "category": "office"
     },
     {
       "word": "escalate",
       "phonetic": "/ˈeskəleɪt/",
       "meaning": "升级上报",
-      "example": "Escalate to the vendor if the PACS archive is still full.",
-      "exampleZh": "影像归档还是满的话，就升级给厂商。",
+      "example": "Escalate the lost-property complaint if it is still open tomorrow.",
+      "exampleZh": "失物投诉如果明天还没了结，就升级上报。",
       "category": "office"
     },
     {
       "word": "bottleneck",
       "phonetic": "/ˈbɒtlnek/",
       "meaning": "瓶颈",
-      "example": "Who will own the bottleneck this week?",
-      "exampleZh": "这周这个瓶颈谁来负责？",
+      "example": "Signing letters by hand has become a bottleneck for the secretary.",
+      "exampleZh": "信要手签，已经成了秘书这边的瓶颈。",
       "category": "office"
     },
     {
       "word": "DDoS",
       "phonetic": "/ˈdiːdɒs/",
       "meaning": "分布式拒绝服务（Distributed Denial of Service）",
-      "example": "Investigate the DDoS (Distributed Denial of Service) on the edge router.",
-      "exampleZh": "请在边缘路由器上排查 DDoS（Distributed Denial of Service）。",
+      "example": "DDoS (Distributed Denial of Service) flooded the appointment site during the morning.",
+      "exampleZh": "DDoS（分布式拒绝服务）在上午把预约网站冲垮了。",
       "category": "it"
     },
     {
       "word": "zero-day",
       "phonetic": "/ˈzɪərəʊ deɪ/",
       "meaning": "零日漏洞",
-      "example": "We will verify the zero-day after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个零日漏洞。",
+      "example": "This zero-day is still open on the old radiology browsers.",
+      "exampleZh": "这个零日漏洞在旧的放射科浏览器上还没有补。",
       "category": "it"
     },
     {
       "word": "CVE",
       "phonetic": "/ˌsiː viː ˈiː/",
       "meaning": "公开漏洞编号（Common Vulnerabilities and Exposures）",
-      "example": "Record the CVE (Common Vulnerabilities and Exposures) before you close the change.",
-      "exampleZh": "关变更前请记下 CVE（Common Vulnerabilities and Exposures）。",
+      "example": "CVE (Common Vulnerabilities and Exposures) listed here matches the browser on ward PCs.",
+      "exampleZh": "这里列出的CVE（公开漏洞编号）对得上病区电脑的浏览器。",
       "category": "it"
     },
     {
       "word": "patch management",
       "phonetic": "/pætʃ ˈmænɪdʒmənt/",
       "meaning": "补丁管理",
-      "example": "I logged the patch management in today’s change ticket.",
-      "exampleZh": "我把这个补丁管理记进了今天的变更单。",
+      "example": "Patch management skipped the operating-room PCs during clinic hours.",
+      "exampleZh": "补丁管理在开诊时间跳过了手术室的电脑。",
       "category": "it"
     },
     {
       "word": "endpoint protection",
       "phonetic": "/ˈendpɔɪnt prəˈtekʃn/",
       "meaning": "终端防护",
-      "example": "We will verify the endpoint protection after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个终端防护。",
+      "example": "Endpoint protection is off on the new registration laptops.",
+      "exampleZh": "新的挂号笔记本上，终端防护是关着的。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "cooling-off",
       "phonetic": "/ˈkuːlɪŋ ɒf/",
       "meaning": "冷静期",
-      "example": "Please add the cooling-off to today’s notes.",
-      "exampleZh": "请把冷静期写进今天的记录。",
+      "example": "The cooling-off lasts five working days after you sign.",
+      "exampleZh": "你签字之后，冷静期有五个工作日。",
       "category": "office"
     },
     {
       "word": "blackout period",
       "phonetic": "/ˈblækaʊt ˈpɪəriəd/",
       "meaning": "冻结期",
-      "example": "Who will own the blackout period this week?",
-      "exampleZh": "这周这个冻结期谁来负责？",
+      "example": "Roster changes stop completely during the blackout period.",
+      "exampleZh": "冻结期内，排班一律不再改动。",
       "category": "office"
     },
     {
       "word": "peak hours",
       "phonetic": "/piːk ˈaʊəz/",
       "meaning": "高峰时段",
-      "example": "The peak hours still needs a decision today.",
-      "exampleZh": "这个高峰时段今天还得拍个板。",
+      "example": "Keep both registration counters open throughout peak hours.",
+      "exampleZh": "高峰时段请让两个挂号柜台都开着。",
       "category": "office"
     },
     {
       "word": "off-peak",
       "phonetic": "/ɒf piːk/",
       "meaning": "低峰时段",
-      "example": "Please bring the off-peak to the morning huddle.",
-      "exampleZh": "早碰头时请带上这个低峰时段。",
+      "example": "Schedule badge photos in the off-peak, sometime after two o'clock.",
+      "exampleZh": "请把拍工牌安排在低峰时段，两点以后即可。",
       "category": "office"
     },
     {
       "word": "rush hour",
       "phonetic": "/rʌʃ ˈaʊə/",
       "meaning": "高峰时间",
-      "example": "The rush hour still needs a decision today.",
-      "exampleZh": "这个高峰时间今天还得拍个板。",
+      "example": "Registration rush hour usually runs from seven until nine.",
+      "exampleZh": "挂号的高峰时间通常从七点持续到九点。",
       "category": "office"
     },
     {
       "word": "key exchange",
       "phonetic": "/kiː ɪksˈtʃeɪndʒ/",
       "meaning": "密钥交换",
-      "example": "The ward asked us to check the key exchange.",
-      "exampleZh": "病区让我们看一下这个密钥交换。",
+      "example": "The key exchange failed because the scanner and the gateway share no common group.",
+      "exampleZh": "密钥交换失败了，扫描枪和网关没有共同的算法组。",
       "category": "it"
     },
     {
       "word": "session key",
       "phonetic": "/ˈseʃn kiː/",
       "meaning": "会话密钥",
-      "example": "I logged the session key in today’s change ticket.",
-      "exampleZh": "我把这个会话密钥记进了今天的变更单。",
+      "example": "Each session key is thrown away when the portal connection closes.",
+      "exampleZh": "门户连接一关，会话密钥就会被丢掉。",
       "category": "it"
     },
     {
       "word": "token expiry",
       "phonetic": "/ˈtəʊkən ɪkˈspaɪəri/",
       "meaning": "令牌到期",
-      "example": "I logged the token expiry in today’s change ticket.",
-      "exampleZh": "我把这个令牌到期记进了今天的变更单。",
+      "example": "Token expiry hit halfway through her charting, and the app asked her to sign in again.",
+      "exampleZh": "她写到一半时令牌到期，应用要求重新登录。",
       "category": "it"
     },
     {
       "word": "refresh token",
       "phonetic": "/rɪˈfreʃ ˈtəʊkən/",
       "meaning": "刷新令牌",
-      "example": "The vendor asked for a screenshot of the refresh token.",
-      "exampleZh": "厂商要一张这个刷新令牌的截图。",
+      "example": "Her refresh token was revoked, so the bedside app cannot renew the session quietly.",
+      "exampleZh": "她的刷新令牌被吊销了，床旁应用没法悄悄把会话续上。",
       "category": "it"
     },
     {
       "word": "access token",
       "phonetic": "/ˈækses ˈtəʊkən/",
       "meaning": "访问令牌",
-      "example": "We will verify the access token after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个访问令牌。",
+      "example": "The access token in that request expired, and the API returned 401.",
+      "exampleZh": "那个请求里的访问令牌过期了，接口返回了 401。",
       "category": "it"
     }
   ]

@@ -45,40 +45,40 @@
       "word": "multicast",
       "phonetic": "/ˈmʌltikɑːst/",
       "meaning": "组播",
-      "example": "We will verify the multicast after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个组播。",
+      "example": "Multicast carries the nurse-call alerts, so a missing querier silenced a whole floor.",
+      "exampleZh": "护士呼叫告警走组播，查询器一缺，整层楼就没了声音。",
       "category": "it"
     },
     {
       "word": "broadcast",
       "phonetic": "/ˈbrɔːdkɑːst/",
       "meaning": "广播",
-      "example": "Do not touch the broadcast during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个广播。",
+      "example": "A broadcast from the bad printer NIC filled the clinic VLAN within a minute.",
+      "exampleZh": "那块坏掉的打印机网卡发出的广播，一分钟内灌满了门诊 VLAN。",
       "category": "it"
     },
     {
       "word": "IGMP",
       "phonetic": "/ˌaɪ dʒiː em ˈpiː/",
       "meaning": "组播管理协议（Internet Group Management Protocol）",
-      "example": "Enable IGMP (Internet Group Management Protocol) on the test link first.",
-      "exampleZh": "请先在测试链路上启用 IGMP（Internet Group Management Protocol）。",
+      "example": "IGMP (Internet Group Management Protocol) snooping stopped the nurse-call flood from reaching every port.",
+      "exampleZh": "IGMP（组播管理协议）侦听拦住了护士呼叫的泛洪，没有让它冲到每个端口。",
       "category": "it"
     },
     {
       "word": "protocol independent multicast",
       "phonetic": "/ˈprəʊtəkɒl ˌɪndɪˈpendənt ˈmʌltikɑːst/",
       "meaning": "协议无关组播",
-      "example": "I logged the protocol independent multicast in today’s change ticket.",
-      "exampleZh": "我把这个协议无关组播记进了今天的变更单。",
+      "example": "Protocol independent multicast builds the tree that carries nurse-call video between closets.",
+      "exampleZh": "协议无关组播建好了树，护士呼叫的视频才在各个弱电间之间传送。",
       "category": "it"
     },
     {
       "word": "mDNS",
       "phonetic": "/ˌem diː en ˈes/",
       "meaning": "组播域名（Multicast DNS）",
-      "example": "Please confirm mDNS (Multicast DNS) is allowed through the firewall.",
-      "exampleZh": "请确认防火墙放行 mDNS（Multicast DNS）。",
+      "example": "mDNS (Multicast DNS) from a personal printer answered names that belong to the hospital.",
+      "exampleZh": "一台个人打印机发出的 mDNS（组播域名）应答了本属于医院的名称。",
       "category": "it"
     }
   ]

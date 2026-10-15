@@ -5,80 +5,80 @@
       "word": "facilitate",
       "phonetic": "/fəˈsɪlɪteɪt/",
       "meaning": "促成",
-      "example": "We still need to facilitate this.",
-      "exampleZh": "这件事还得促成。",
+      "example": "Monday's session for new hires still needs someone to facilitate it.",
+      "exampleZh": "周一的新员工说明会还需要有人来促成。",
       "category": "office"
     },
     {
       "word": "prepare",
       "phonetic": "/prɪˈpeə/",
       "meaning": "准备",
-      "example": "Can you prepare it today?",
-      "exampleZh": "你今天能把它准备吗？",
+      "example": "Visitor badges take time, so prepare them before nine o'clock.",
+      "exampleZh": "访客工牌要花时间，请在九点前准备好。",
       "category": "office"
     },
     {
       "word": "arrange",
       "phonetic": "/əˈreɪndʒ/",
       "meaning": "安排",
-      "example": "Who will own the arrange this week?",
-      "exampleZh": "这周这个安排谁来负责？",
+      "example": "Please arrange the chairs before the vendor arrives.",
+      "exampleZh": "厂商到之前请把椅子安排好。",
       "category": "office"
     },
     {
       "word": "organize",
       "phonetic": "/ˈɔːɡənaɪz/",
       "meaning": "组织",
-      "example": "Can you organize it today?",
-      "exampleZh": "你今天能把它组织吗？",
+      "example": "Someone needs to organize tea and cups for the all-staff meeting.",
+      "exampleZh": "需要有人来组织全员大会的茶水和杯子。",
       "category": "office"
     },
     {
       "word": "book",
       "phonetic": "/bʊk/",
       "meaning": "预订",
-      "example": "Who will book this after the huddle?",
-      "exampleZh": "晨会后谁来预订？",
+      "example": "Thursday's leaving conversation needs a room, and I will book one.",
+      "exampleZh": "周四的离职谈话需要一间房，我来预订。",
       "category": "office"
     },
     {
       "word": "real-user monitor",
       "phonetic": "/rɪəl ˈjuːzə ˈmɒnɪtə/",
       "meaning": "真实用户监测",
-      "example": "We will verify the real-user monitor after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个真实用户监测。",
+      "example": "Real-user monitor shows doctors waiting eight seconds to open a chart.",
+      "exampleZh": "真实用户监测显示，医生打开一份病历要等八秒。",
       "category": "it"
     },
     {
       "word": "APM",
       "phonetic": "/ˌeɪ piː ˈem/",
       "meaning": "应用性能监控（Application Performance Monitoring）",
-      "example": "APM stands for Application Performance Monitoring. Check it before the clinic opens.",
-      "exampleZh": "APM 的全称是 Application Performance Monitoring。开诊前请先检查。",
+      "example": "APM (Application Performance Monitoring) traces the slow save on the order screen.",
+      "exampleZh": "APM（应用性能监控）跟踪到医嘱界面上的保存变慢了。",
       "category": "it"
     },
     {
       "word": "trace ID",
       "phonetic": "/treɪs aɪ ˈdiː/",
       "meaning": "追踪编号",
-      "example": "Do not touch the trace ID during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个追踪编号。",
+      "example": "Pass me the trace ID from the failed save and I can follow that call.",
+      "exampleZh": "把保存失败的追踪编号发我，我可以顺着那次调用查下去。",
       "category": "it"
     },
     {
       "word": "span",
       "phonetic": "/spæn/",
       "meaning": "调用片段",
-      "example": "Do not touch the span during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个调用片段。",
+      "example": "This span shows the pharmacy call taking most of the save time.",
+      "exampleZh": "这个调用片段显示，药房调用占了保存时间的大头。",
       "category": "it"
     },
     {
       "word": "correlation ID",
       "phonetic": "/ˌkɒrəˈleɪʃn aɪ ˈdiː/",
       "meaning": "关联编号",
-      "example": "Who is on call for the correlation ID this week?",
-      "exampleZh": "这周这个关联编号谁值班？",
+      "example": "The correlation ID ties the portal error to the same order in our log.",
+      "exampleZh": "关联编号把门户上的报错和我们日志里的同一张医嘱对上了。",
       "category": "it"
     }
   ]

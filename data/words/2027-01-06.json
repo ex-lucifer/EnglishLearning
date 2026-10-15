@@ -5,80 +5,80 @@
       "word": "director",
       "phonetic": "/dəˈrektə/",
       "meaning": "主任",
-      "example": "Could you send the director to the project group?",
-      "exampleZh": "你能把主任发到项目群吗？",
+      "example": "The director drops by the information desk once a week unannounced.",
+      "exampleZh": "主任每周会不打招呼地到问询台看看。",
       "category": "office"
     },
     {
       "word": "secretary",
       "phonetic": "/ˈsekrəteri/",
       "meaning": "秘书",
-      "example": "The secretary still needs a decision today.",
-      "exampleZh": "这个秘书今天还得拍个板。",
+      "example": "The secretary keeps the director's calendar and the spare stamp.",
+      "exampleZh": "秘书保管主任的日历和备用公章。",
       "category": "office"
     },
     {
       "word": "clerk",
       "phonetic": "/klɑːk/",
       "meaning": "文员",
-      "example": "The clerk still needs a decision today.",
-      "exampleZh": "这个文员今天还得拍个板。",
+      "example": "A clerk from the night desk will help with the morning queue.",
+      "exampleZh": "夜班台的一位文员会来帮忙疏导早高峰排队。",
       "category": "office"
     },
     {
       "word": "coordinator",
       "phonetic": "/kəʊˈɔːdɪneɪtə/",
       "meaning": "协调员",
-      "example": "The coordinator still needs a decision today.",
-      "exampleZh": "这个协调员今天还得拍个板。",
+      "example": "The coordinator moved two elective cases to balance the wards.",
+      "exampleZh": "协调员调整了两台择期手术，好让各病区床位均衡。",
       "category": "office"
     },
     {
       "word": "liaison",
       "phonetic": "/liˈeɪzn/",
       "meaning": "联络人",
-      "example": "Who will own the liaison this week?",
-      "exampleZh": "这周这个联络人谁来负责？",
+      "example": "Our liaison will meet the bureau visitors at the main door.",
+      "exampleZh": "我们的联络人会在大门迎接卫健委来宾。",
       "category": "office"
     },
     {
       "word": "PoE",
       "phonetic": "/ˌpiː əʊ ˈiː/",
       "meaning": "以太网供电（Power over Ethernet）",
-      "example": "Check PoE (Power over Ethernet) connectivity from the ward.",
-      "exampleZh": "请从病区检查 PoE（Power over Ethernet）连通性。",
+      "example": "PoE (Power over Ethernet) on that closet port cannot power the new phone.",
+      "exampleZh": "弱电间那个端口的PoE（以太网供电）带不动这部新电话。",
       "category": "it"
     },
     {
       "word": "access point",
       "phonetic": "/ˈækses pɔɪnt/",
       "meaning": "无线接入点",
-      "example": "We will verify the access point after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个无线接入点。",
+      "example": "The access point outside ICU rebooted and dropped every cart.",
+      "exampleZh": "重症监护门外的无线接入点一重启，所有推车都掉线了。",
       "category": "it"
     },
     {
       "word": "SSID",
       "phonetic": "/ˌes es aɪ ˈdiː/",
       "meaning": "无线网络名（Service Set Identifier）",
-      "example": "Can you map this item to SSID (Service Set Identifier)?",
-      "exampleZh": "这条能否对照到 SSID（Service Set Identifier）？",
+      "example": "SSID (Service Set Identifier) for the clinical network disappeared from the carts.",
+      "exampleZh": "推车上已经看不到临床网络的SSID（无线网络名）。",
       "category": "it"
     },
     {
       "word": "Wi-Fi",
       "phonetic": "/ˈwaɪ faɪ/",
       "meaning": "无线网",
-      "example": "We will verify the Wi-Fi after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个无线网。",
+      "example": "Wi-Fi in the east clinic drops whenever the pantry microwave runs.",
+      "exampleZh": "茶水间的微波炉一开，东院门诊的无线网就掉。",
       "category": "it"
     },
     {
       "word": "5G",
       "phonetic": "/faɪv dʒiː/",
       "meaning": "第五代移动网",
-      "example": "Please test the 5G on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个第五代移动网。",
+      "example": "5G on the backup tablets is too weak inside the radiology rooms.",
+      "exampleZh": "备用平板上的第五代移动网在放射机房里信号太弱。",
       "category": "it"
     }
   ]

@@ -5,80 +5,80 @@
       "word": "archive folder",
       "phonetic": "/ˈɑːkaɪv ˈfəʊldə/",
       "meaning": "归档文件夹",
-      "example": "The archive folder still needs a decision today.",
-      "exampleZh": "这个归档文件夹今天还得拍个板。",
+      "example": "This week, shift last year's minutes across into the archive folder.",
+      "exampleZh": "本周请把去年的会议纪要移到归档文件夹。",
       "category": "office"
     },
     {
       "word": "shared mailbox",
       "phonetic": "/ʃeəd ˈmeɪlbɒks/",
       "meaning": "共享邮箱",
-      "example": "Please add the shared mailbox to today’s notes.",
-      "exampleZh": "请把共享邮箱写进今天的记录。",
+      "example": "Ask families to reply to the shared mailbox rather than to one person.",
+      "exampleZh": "请家属回复共享邮箱，不要回复某一个人。",
       "category": "office"
     },
     {
       "word": "group email",
       "phonetic": "/ɡruːp ˈiːmeɪl/",
       "meaning": "组邮箱",
-      "example": "Please add the group email to today’s notes.",
-      "exampleZh": "请把组邮箱写进今天的记录。",
+      "example": "Use the group email for the holiday roster instead of separate messages.",
+      "exampleZh": "假期排班请发到组邮箱，不要一封封分开写。",
       "category": "office"
     },
     {
       "word": "email etiquette",
       "phonetic": "/ˈiːmeɪl ˈetɪket/",
       "meaning": "邮件礼仪",
-      "example": "We talked about the email etiquette with the department head.",
-      "exampleZh": "我们和科主任谈了这个邮件礼仪。",
+      "example": "A clear subject line and a polite greeting are basic email etiquette.",
+      "exampleZh": "主题清楚、问候得体，这是基本的邮件礼仪。",
       "category": "office"
     },
     {
       "word": "plain language",
       "phonetic": "/pleɪn ˈlæŋɡwɪdʒ/",
       "meaning": "通俗表达",
-      "example": "We talked about the plain language with the department head.",
-      "exampleZh": "我们和科主任谈了这个通俗表达。",
+      "example": "Families will understand the notice better if we use plain language.",
+      "exampleZh": "如果我们用通俗表达来写，家属会更容易看懂这份通知。",
       "category": "office"
     },
     {
       "word": "circuit ID",
       "phonetic": "/ˈsɜːkɪt aɪ ˈdiː/",
       "meaning": "专线编号",
-      "example": "Do not touch the circuit ID during outpatient hours.",
-      "exampleZh": "门诊时段不要动这个专线编号。",
+      "example": "Quote the circuit ID when you call the carrier about the east campus outage.",
+      "exampleZh": "给运营商报东院区中断时，把专线编号一起报上。",
       "category": "it"
     },
     {
       "word": "carrier",
       "phonetic": "/ˈkæriə/",
       "meaning": "运营商",
-      "example": "The ward asked us to check the carrier.",
-      "exampleZh": "病区让我们看一下这个运营商。",
+      "example": "The carrier swapped the failed fiber pair at the east campus handoff.",
+      "exampleZh": "运营商在东院区的交接点换掉了那对故障光纤。",
       "category": "it"
     },
     {
       "word": "BGP",
       "phonetic": "/ˌbiː dʒiː ˈpiː/",
       "meaning": "边界网关协议（Border Gateway Protocol）",
-      "example": "Document BGP (Border Gateway Protocol) in the interface spec.",
-      "exampleZh": "接口说明里请写上 BGP（Border Gateway Protocol）。",
+      "example": "BGP (Border Gateway Protocol) dropped the east campus prefix for twelve minutes.",
+      "exampleZh": "BGP（边界网关协议）把东院区前缀撤掉了十二分钟。",
       "category": "it"
     },
     {
       "word": "OSPF",
       "phonetic": "/ˌəʊ es piː ˈef/",
       "meaning": "开放最短路径优先（Open Shortest Path First）",
-      "example": "We use OSPF (Open Shortest Path First) for this integration.",
-      "exampleZh": "这条集成用的是 OSPF（Open Shortest Path First）。",
+      "example": "OSPF (Open Shortest Path First) reconverged after the core link came back.",
+      "exampleZh": "核心链路恢复后，OSPF（开放最短路径优先）重新收敛了。",
       "category": "it"
     },
     {
       "word": "static route",
       "phonetic": "/ˈstætɪk ruːt/",
       "meaning": "静态路由",
-      "example": "We will verify the static route after the night batch.",
-      "exampleZh": "夜批结束后我们再核对这个静态路由。",
+      "example": "A static route on the lab firewall still points at the retired gateway.",
+      "exampleZh": "实验室防火墙上有一条静态路由还指向已退役的网关。",
       "category": "it"
     }
   ]

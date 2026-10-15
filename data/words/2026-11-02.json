@@ -5,16 +5,16 @@
       "word": "nudge",
       "phonetic": "/nʌdʒ/",
       "meaning": "催一下",
-      "example": "Nudge finance if the invoice is still pending.",
-      "exampleZh": "发票还没处理的话，催一下财务。",
+      "example": "Could you nudge the vendor about the missing quotation?",
+      "exampleZh": "报价还没到，你能催一下供应商吗？",
       "category": "office"
     },
     {
       "word": "circulate",
       "phonetic": "/ˈsɜːkjəleɪt/",
       "meaning": "传阅",
-      "example": "We still need to circulate this.",
-      "exampleZh": "这件事还得传阅。",
+      "example": "Circulate the holiday notice today so people can plan leave.",
+      "exampleZh": "今天就把假期通知传阅出去，大家才好安排休假。",
       "category": "office"
     },
     {
@@ -45,40 +45,40 @@
       "word": "automated dispensing",
       "phonetic": "/ˈɔːtəmeɪtɪd dɪˈspensɪŋ/",
       "meaning": "自动发药柜",
-      "example": "The vendor asked for a screenshot of the automated dispensing.",
-      "exampleZh": "厂商要一张这个自动发药柜的截图。",
+      "example": "Automated dispensing on ward six kept this dose locked in the cabinet.",
+      "exampleZh": "六病区的自动发药柜把这一剂锁在柜子里，没有发出去。",
       "category": "it"
     },
     {
       "word": "ADC",
       "phonetic": "/ˌeɪ diː ˈsiː/",
       "meaning": "自动发药柜（Automated Dispensing Cabinet）",
-      "example": "Check the ADC (Automated Dispensing Cabinet) in the computer room.",
-      "exampleZh": "请到机房检查 ADC（Automated Dispensing Cabinet）。",
+      "example": "ADC (Automated Dispensing Cabinet) on ward six is missing the night narcotic count.",
+      "exampleZh": "六病区的ADC（自动发药柜）缺了夜间麻醉药品盘点。",
       "category": "it"
     },
     {
       "word": "infusion library",
       "phonetic": "/ɪnˈfjuːʒn ˈlaɪbrəri/",
       "meaning": "输液泵药库",
-      "example": "Please test the infusion library on the backup environment first.",
-      "exampleZh": "请先在备用环境测试这个输液泵药库。",
+      "example": "Update the infusion library before the new heparin protocol goes live.",
+      "exampleZh": "新的肝素方案上线之前，先更新输液泵药库。",
       "category": "it"
     },
     {
       "word": "device integration",
       "phonetic": "/dɪˈvaɪs ˌɪntɪˈɡreɪʃn/",
       "meaning": "设备集成",
-      "example": "The vendor asked for a screenshot of the device integration.",
-      "exampleZh": "厂商要一张这个设备集成的截图。",
+      "example": "Device integration stopped pulling heart rates from the ICU monitors.",
+      "exampleZh": "设备集成不再从重症监护仪上取心率。",
       "category": "it"
     },
     {
       "word": "NTP",
       "phonetic": "/ˌen tiː ˈpiː/",
       "meaning": "网络时间协议（Network Time Protocol）",
-      "example": "We use NTP (Network Time Protocol) for this integration.",
-      "exampleZh": "这条集成用的是 NTP（Network Time Protocol）。",
+      "example": "NTP (Network Time Protocol) drifted, so medication times no longer match the monitors.",
+      "exampleZh": "NTP（网络时间协议）发生了漂移，用药时间和监护仪对不上了。",
       "category": "it"
     }
   ]
